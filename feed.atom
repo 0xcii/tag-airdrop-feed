@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-21T08:14:42.595Z</id>
+    <id>urn:2022-12-21T09:10:57.171Z</id>
     <title>web3::cave</title>
-    <updated>2022-12-21T08:14:42.595Z</updated>
+    <updated>2022-12-21T09:10:57.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -22,6 +22,30 @@
         <id>https://www.producthunt.com/posts/albus-2</id>
         <link href="https://www.producthunt.com/posts/albus-2"/>
         <updated>2022-12-21T08:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TwitterGPT Chrome Extension]]></title>
+        <id>https://www.producthunt.com/posts/twittergpt-chrome-extension</id>
+        <link href="https://www.producthunt.com/posts/twittergpt-chrome-extension"/>
+        <updated>2022-12-21T07:55:19.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas Hub]]></title>
+        <id>https://www.producthunt.com/posts/christmas-hub</id>
+        <link href="https://www.producthunt.com/posts/christmas-hub"/>
+        <updated>2022-12-21T07:46:01.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -102,10 +126,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beluga]]></title>
+        <id>https://www.producthunt.com/posts/beluga-2</id>
+        <link href="https://www.producthunt.com/posts/beluga-2"/>
+        <updated>2022-12-20T21:21:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[downtime]]></title>
         <id>https://www.producthunt.com/posts/downtime</id>
         <link href="https://www.producthunt.com/posts/downtime"/>
         <updated>2022-12-20T21:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knack]]></title>
+        <id>https://www.producthunt.com/posts/knack-7</id>
+        <link href="https://www.producthunt.com/posts/knack-7"/>
+        <updated>2022-12-20T20:52:15.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -281,10 +329,10 @@ Go to airdrop:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Obsidian Canvas]]></title>
-        <id>https://www.producthunt.com/posts/obsidian-canvas</id>
-        <link href="https://www.producthunt.com/posts/obsidian-canvas"/>
-        <updated>2022-12-20T06:21:30.000Z</updated>
+        <title type="html"><![CDATA[Ellie]]></title>
+        <id>https://www.producthunt.com/posts/ellie-6</id>
+        <link href="https://www.producthunt.com/posts/ellie-6"/>
+        <updated>2022-12-20T06:48:48.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -329,18 +377,6 @@ Go to airdrop:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HeroPack]]></title>
-        <id>https://www.producthunt.com/posts/heropack</id>
-        <link href="https://www.producthunt.com/posts/heropack"/>
-        <updated>2022-12-19T22:10:23.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Material Tailwind PRO]]></title>
         <id>https://www.producthunt.com/posts/material-tailwind-pro-2</id>
         <link href="https://www.producthunt.com/posts/material-tailwind-pro-2"/>
@@ -353,21 +389,9 @@ Go to airdrop:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Verety]]></title>
-        <id>https://www.producthunt.com/posts/verety</id>
-        <link href="https://www.producthunt.com/posts/verety"/>
-        <updated>2022-12-19T21:04:46.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metriport - Health Devices API]]></title>
-        <id>https://www.producthunt.com/posts/metriport-health-devices-api</id>
-        <link href="https://www.producthunt.com/posts/metriport-health-devices-api"/>
+        <title type="html"><![CDATA[Metriport]]></title>
+        <id>https://www.producthunt.com/posts/metriport-2</id>
+        <link href="https://www.producthunt.com/posts/metriport-2"/>
         <updated>2022-12-19T19:34:15.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -419,18 +443,6 @@ Go to giveaway:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fresh Startup/SaaS Ideas]]></title>
-        <id>https://www.producthunt.com/posts/fresh-startup-saas-ideas-2</id>
-        <link href="https://www.producthunt.com/posts/fresh-startup-saas-ideas-2"/>
-        <updated>2022-12-19T02:27:22.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elf Help]]></title>
         <id>https://www.producthunt.com/posts/elf-help</id>
         <link href="https://www.producthunt.com/posts/elf-help"/>
@@ -467,9 +479,9 @@ Go to giveaway:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bytebeam's ESP Cloud Backend]]></title>
-        <id>https://www.producthunt.com/posts/bytebeam-s-esp-cloud-backend</id>
-        <link href="https://www.producthunt.com/posts/bytebeam-s-esp-cloud-backend"/>
+        <title type="html"><![CDATA[Bytebeam]]></title>
+        <id>https://www.producthunt.com/posts/bytebeam</id>
+        <link href="https://www.producthunt.com/posts/bytebeam"/>
         <updated>2022-12-17T13:03:23.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -495,18 +507,6 @@ Go to giveaway:
         <id>https://www.producthunt.com/posts/drakkle-2</id>
         <link href="https://www.producthunt.com/posts/drakkle-2"/>
         <updated>2022-12-16T20:37:28.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdviseThem]]></title>
-        <id>https://www.producthunt.com/posts/advisethem</id>
-        <link href="https://www.producthunt.com/posts/advisethem"/>
-        <updated>2022-12-16T19:10:52.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -597,10 +597,10 @@ Go to airdrop:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevTranslate]]></title>
-        <id>https://www.producthunt.com/posts/devtranslate</id>
-        <link href="https://www.producthunt.com/posts/devtranslate"/>
-        <updated>2022-12-15T13:25:14.000Z</updated>
+        <title type="html"><![CDATA[OpenMat • Make it Meaningful]]></title>
+        <id>https://www.producthunt.com/posts/openmat-make-it-meaningful</id>
+        <link href="https://www.producthunt.com/posts/openmat-make-it-meaningful"/>
+        <updated>2022-12-14T15:23:37.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
