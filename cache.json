@@ -49,12 +49,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/flooz",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/flooz",
+          "publishedOn": "2022-12-29T14:50:22.000Z",
+          "wordCount": 550,
+          "title": "Flooz",
+          "imageUrl": "https://ph-files.imgix.net/3771a3c5-ce43-4507-bd74-2b120d44ca15.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/linkeview",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/linkeview",
           "publishedOn": "2022-12-29T07:47:54.000Z",
-          "wordCount": 276,
+          "wordCount": 350,
           "title": "Linkeview",
           "imageUrl": "https://ph-files.imgix.net/ed60942d-75d2-42f4-ba43-997c42464b12.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tamagui",
           "publishedOn": "2022-12-29T07:19:42.000Z",
-          "wordCount": 495,
+          "wordCount": 423,
           "title": "Tamagui",
           "imageUrl": "https://ph-files.imgix.net/edff2ea3-25c1-4541-8f46-4e627639c628.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -74,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gratitude-4",
           "publishedOn": "2022-12-29T06:41:45.000Z",
-          "wordCount": 462,
+          "wordCount": 534,
           "title": "Gratitude",
           "imageUrl": "https://ph-files.imgix.net/8ca29c05-65e9-4647-81a6-7bdfebaa2cde.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -164,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/essaybar",
           "publishedOn": "2022-12-28T15:21:53.000Z",
-          "wordCount": 461,
+          "wordCount": 389,
           "title": "EssayBar",
           "imageUrl": "https://ph-files.imgix.net/5f963121-8e05-447a-8f17-843613400e37.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -194,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatbcg-generative-ai-for-slides",
           "publishedOn": "2022-12-28T09:29:51.000Z",
-          "wordCount": 481,
+          "wordCount": 488,
           "title": "ChatBCG Generative AI for Slides",
           "imageUrl": "https://ph-files.imgix.net/043b319d-127e-424c-8123-85f0b0e53f1c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -304,7 +314,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/slicetube",
           "publishedOn": "2022-12-27T23:23:41.000Z",
-          "wordCount": 512,
+          "wordCount": 440,
           "title": "SliceTube",
           "imageUrl": "https://ph-files.imgix.net/a999a3ac-c895-4dda-8394-4398144bffc6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -374,7 +384,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/there-s-an-ai-for-that",
           "publishedOn": "2022-12-27T15:08:34.000Z",
-          "wordCount": 575,
+          "wordCount": 475,
           "title": "There's An AI For That",
           "imageUrl": "https://ph-files.imgix.net/337b4cd7-116c-4ebc-ae18-b960f441ec2c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -419,16 +429,6 @@
           "imageUrl": "https://ph-files.imgix.net/89b1c4e1-ae7c-463e-b699-922b0d108515.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/social-holders",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/social-holders",
-          "publishedOn": "2022-12-27T10:35:01.000Z",
-          "wordCount": 513,
-          "title": "Social Holders",
-          "imageUrl": "https://ph-files.imgix.net/b885cbba-7a17-4fef-93f0-c14334d106f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/redgorillas-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -469,16 +469,6 @@
           "imageUrl": "https://ph-files.imgix.net/3bafb1c5-5eef-4a2e-b40e-1aa8d66f5131.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/embolden",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/embolden",
-          "publishedOn": "2022-12-26T14:45:52.000Z",
-          "wordCount": 443,
-          "title": "Embolden",
-          "imageUrl": "https://ph-files.imgix.net/6f9840f2-706b-440c-9a88-f99d99d219fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/patternedai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -494,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/discord-tl-dr-by-wordcab",
           "publishedOn": "2022-12-23T17:21:26.000Z",
-          "wordCount": 569,
+          "wordCount": 576,
           "title": "Discord TL;DR by Wordcab",
           "imageUrl": "https://ph-files.imgix.net/97b4e2c4-a91e-4110-a06e-336a29875f4c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -527,6 +517,16 @@
           "wordCount": 407,
           "title": "Smashboard",
           "imageUrl": "https://ph-files.imgix.net/fe6e4aff-209b-4a69-9847-0bd06ec63770.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/intentio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/intentio",
+          "publishedOn": "2022-12-03T11:49:32.000Z",
+          "wordCount": 409,
+          "title": "Intentio",
+          "imageUrl": "https://ph-files.imgix.net/d372d062-932c-48fa-a989-65b0830e451b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
@@ -535,6 +535,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://twitter.com/Airdropalert",
       "articles": [
+        {
+          "id": "https://twitter.com/AirdropAlert/status/1608466025061679111",
+          "author": "Airdrop Alert",
+          "description": "⏰ POTENTIAL BEBOP AIRDROP ⏰\n🔹 Decentralized Trading Platform\n🔹 Could launch an own token in the future\n🔹 May do an airdrop to early users who've traded\n💰 More details: https://airdrops.io/bebop/",
+          "link": "https://twitter.com/AirdropAlert/status/1608466025061679111",
+          "publishedOn": "2022-12-29T14:12:38.000Z",
+          "wordCount": 470,
+          "title": "⏰ POTENTIAL BEBOP AIRDROP ⏰ 🔹 Decentralized Trading Platform 🔹 Could launch an own token in the future 🔹 May do an airdrop to early users w...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/AirdropAlert/status/1607741247598329858",
           "author": "Airdrop Alert",
