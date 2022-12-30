@@ -39,6 +39,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/nostr",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/nostr",
+          "publishedOn": "2022-12-30T08:14:15.000Z",
+          "wordCount": 383,
+          "title": "nostr",
+          "imageUrl": "https://ph-files.imgix.net/aef9b320-af4f-4258-9f82-32b9470a5f3c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/gamification-os",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -74,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dry-january-challenge",
           "publishedOn": "2022-12-30T01:45:35.000Z",
-          "wordCount": 546,
+          "wordCount": 572,
           "title": "Dry January Challenge",
           "imageUrl": "https://ph-files.imgix.net/c337fd4d-eec7-4a77-beb9-860ca504470e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +94,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/postgres-playground",
           "publishedOn": "2022-12-30T00:38:54.000Z",
-          "wordCount": 465,
+          "wordCount": 439,
           "title": "Postgres Playground",
           "imageUrl": "https://ph-files.imgix.net/85eaa1f5-bc5c-42a7-91f4-bb123ac6945c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -174,7 +184,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sonar-9",
           "publishedOn": "2022-12-29T15:38:20.000Z",
-          "wordCount": 499,
+          "wordCount": 497,
           "title": "SONAR",
           "imageUrl": "https://ph-files.imgix.net/704158ed-f01a-47ab-a2e0-d239df45f424.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -204,7 +214,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flooz",
           "publishedOn": "2022-12-29T14:50:22.000Z",
-          "wordCount": 351,
+          "wordCount": 423,
           "title": "Flooz",
           "imageUrl": "https://ph-files.imgix.net/3771a3c5-ce43-4507-bd74-2b120d44ca15.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -214,7 +224,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pole-clock",
           "publishedOn": "2022-12-29T14:13:16.000Z",
-          "wordCount": 519,
+          "wordCount": 548,
           "title": "Pole Clock",
           "imageUrl": "https://ph-files.imgix.net/f5fd7d0d-9532-4371-b977-16ee68496df8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -264,7 +274,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/baby-wize",
           "publishedOn": "2022-12-29T08:23:13.000Z",
-          "wordCount": 369,
+          "wordCount": 441,
           "title": "Baby Wize",
           "imageUrl": "https://ph-files.imgix.net/5c56fb3e-8781-4f16-b597-08b9c57cf811.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -359,16 +369,6 @@
           "imageUrl": "https://ph-files.imgix.net/d79ecc45-c264-42bb-8379-c60992e35eb1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/optioncharts-io",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/optioncharts-io",
-          "publishedOn": "2022-12-28T16:06:50.000Z",
-          "wordCount": 384,
-          "title": "OptionCharts.io",
-          "imageUrl": "https://ph-files.imgix.net/afe77360-bf68-43e3-abe1-a13f41bb8d3c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/zenith-calendar-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -424,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatter-react-together",
           "publishedOn": "2022-12-27T23:18:41.000Z",
-          "wordCount": 549,
+          "wordCount": 523,
           "title": "Chatter - React Together",
           "imageUrl": "https://ph-files.imgix.net/2a1b3424-6804-4ff1-a8f2-1d3720b6b718.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/100-ai-startup-ideas",
           "publishedOn": "2022-12-27T23:08:10.000Z",
-          "wordCount": 459,
+          "wordCount": 462,
           "title": "100+ AI Startup Ideas",
           "imageUrl": "https://ph-files.imgix.net/d4455ef4-46bf-4a17-ba59-505972d6bc31.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -504,7 +504,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/find-2",
           "publishedOn": "2022-12-27T05:38:00.000Z",
-          "wordCount": 408,
+          "wordCount": 480,
           "title": "Find",
           "imageUrl": "https://ph-files.imgix.net/e168e716-5ebb-457b-ae9e-8baea22ec27c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -514,7 +514,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-holiday-cards",
           "publishedOn": "2022-12-26T19:37:26.000Z",
-          "wordCount": 543,
+          "wordCount": 559,
           "title": "AI Holiday Cards",
           "imageUrl": "https://ph-files.imgix.net/e5d81cb0-da14-4543-b96e-6c70bffb232a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
