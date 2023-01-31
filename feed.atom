@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-31T12:21:18.091Z</id>
+    <id>urn:2023-01-31T13:22:15.100Z</id>
     <title>web3::cave</title>
-    <updated>2023-01-31T12:21:18.091Z</updated>
+    <updated>2023-01-31T13:22:15.100Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Daily Subset]]></title>
+        <id>https://www.producthunt.com/posts/the-daily-subset</id>
+        <link href="https://www.producthunt.com/posts/the-daily-subset"/>
+        <updated>2023-01-31T12:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fancy Macbook Apps]]></title>
         <id>https://www.producthunt.com/posts/fancy-macbook-apps</id>
@@ -347,18 +359,6 @@
         <id>https://www.producthunt.com/posts/pricewell-bubble-plugin-for-stripe</id>
         <link href="https://www.producthunt.com/posts/pricewell-bubble-plugin-for-stripe"/>
         <updated>2023-01-29T21:19:41.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Product Does Not Exist]]></title>
-        <id>https://www.producthunt.com/posts/this-product-does-not-exist-1</id>
-        <link href="https://www.producthunt.com/posts/this-product-does-not-exist-1"/>
-        <updated>2023-01-29T20:14:45.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
