@@ -60,6 +60,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/favbox",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/favbox",
+          "publishedOn": "2023-02-09T16:06:34.000Z",
+          "wordCount": 341,
+          "title": "FavBox",
+          "imageUrl": "https://ph-files.imgix.net/f38aa1ea-0c5f-4d9b-9d4c-dd883410ccd1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/atlantic-money-android-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -105,7 +115,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/donate-for-turkiye-widget",
           "publishedOn": "2023-02-09T08:00:53.000Z",
-          "wordCount": 546,
+          "wordCount": 549,
           "title": "Donate for Türkiye widget",
           "imageUrl": "https://ph-files.imgix.net/1c403b5c-233a-4eae-948b-c2ff725afd58.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -135,7 +145,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/parabola-tables",
           "publishedOn": "2023-02-09T07:17:34.000Z",
-          "wordCount": 571,
+          "wordCount": 545,
           "title": "Parabola Tables",
           "imageUrl": "https://ph-files.imgix.net/f23dcbd8-8ba3-47c4-9ede-d4e3a5110d3b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -200,6 +210,16 @@
           "imageUrl": "https://ph-files.imgix.net/78a66f27-02aa-4f5b-92c5-0f9d84fb7473.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/dropvoice",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dropvoice",
+          "publishedOn": "2023-02-09T04:22:40.000Z",
+          "wordCount": 618,
+          "title": "DropVoice",
+          "imageUrl": "https://ph-files.imgix.net/6beebf30-7033-4c2b-b13f-bc622486fa3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/neuron-for-notion",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -245,19 +265,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/stylebit-alpha",
           "publishedOn": "2023-02-08T23:41:12.000Z",
-          "wordCount": 521,
+          "wordCount": 426,
           "title": "Stylebit Alpha",
           "imageUrl": "https://ph-files.imgix.net/394039ef-3732-43d0-a7b4-a29c37d56eac.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/ai-assisted-prompt-builder",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ai-assisted-prompt-builder",
-          "publishedOn": "2023-02-08T21:22:37.000Z",
-          "wordCount": 520,
-          "title": "AI-assisted prompt builder",
-          "imageUrl": "https://ph-files.imgix.net/20182024-2ca7-4469-9788-a2c6dc7ffcb0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/stagewave",
@@ -275,7 +285,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/support-earthquake-victims-with-crypto",
           "publishedOn": "2023-02-08T21:00:00.000Z",
-          "wordCount": 438,
+          "wordCount": 540,
           "title": "Support Earthquake Victims with Crypto",
           "imageUrl": "https://ph-files.imgix.net/838b195f-dbb7-4b82-803c-56265c371f65.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -298,16 +308,6 @@
           "wordCount": 493,
           "title": "K8R",
           "imageUrl": "https://ph-files.imgix.net/7f41d063-4792-4c83-b206-7e668f7adc56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/statsig-free-feature-management-platform",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/statsig-free-feature-management-platform",
-          "publishedOn": "2023-02-08T20:20:59.000Z",
-          "wordCount": 562,
-          "title": "Statsig Free Feature Management Platform",
-          "imageUrl": "https://ph-files.imgix.net/d58ffc20-469b-4c0c-926c-b4949ce2c494.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/easyembed-net",
@@ -395,7 +395,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jitter-1-0",
           "publishedOn": "2023-02-08T04:48:09.000Z",
-          "wordCount": 610,
+          "wordCount": 603,
           "title": "Jitter 1.0",
           "imageUrl": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -515,7 +515,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bluelearn",
           "publishedOn": "2023-01-30T14:13:43.000Z",
-          "wordCount": 576,
+          "wordCount": 481,
           "title": "Bluelearn",
           "imageUrl": "https://ph-files.imgix.net/4b54063a-9113-4ea2-b962-5ae397590243.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -555,7 +555,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatbot-design-studio-by-tiledesk",
           "publishedOn": "2023-01-16T11:13:08.000Z",
-          "wordCount": 542,
+          "wordCount": 618,
           "title": "Chatbot Design Studio by Tiledesk",
           "imageUrl": "https://ph-files.imgix.net/94f50a61-3b18-41fb-ab57-7ebc30c51c78.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
