@@ -70,12 +70,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/huddu-drive",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/huddu-drive",
+          "publishedOn": "2023-02-12T13:53:17.000Z",
+          "wordCount": 498,
+          "title": "Huddu Drive",
+          "imageUrl": "https://ph-files.imgix.net/b4157a40-86a4-4b94-9b7c-d929963b08cb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/attendify-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/attendify-2",
           "publishedOn": "2023-02-12T11:27:57.000Z",
-          "wordCount": 549,
+          "wordCount": 552,
           "title": "Attendify",
           "imageUrl": "https://ph-files.imgix.net/464b9dbd-5921-4764-8bdc-8a017a277bb2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -95,7 +105,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lazyweb-1",
           "publishedOn": "2023-02-12T07:34:33.000Z",
-          "wordCount": 578,
+          "wordCount": 504,
           "title": "LazyWeb",
           "imageUrl": "https://ph-files.imgix.net/66a7010d-c4b1-42bd-a26d-bb04b14097f2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -175,7 +185,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-image-variations-generator",
           "publishedOn": "2023-02-11T19:30:55.000Z",
-          "wordCount": 532,
+          "wordCount": 529,
           "title": "AI Image Variations Generator",
           "imageUrl": "https://ph-files.imgix.net/1de77f61-c722-4f7f-986c-16b4d0c827ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -185,7 +195,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/billsplit",
           "publishedOn": "2023-02-11T17:25:05.000Z",
-          "wordCount": 566,
+          "wordCount": 492,
           "title": "BillSplit",
           "imageUrl": "https://ph-files.imgix.net/b9fd27fa-19d7-409a-aa37-d6743944798c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -255,7 +265,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dailycoin",
           "publishedOn": "2023-02-11T12:03:02.000Z",
-          "wordCount": 442,
+          "wordCount": 368,
           "title": "DailyCoin",
           "imageUrl": "https://ph-files.imgix.net/950aae95-5728-43ee-9ebe-05ac257ed6f1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -400,16 +410,6 @@
           "imageUrl": "https://ph-files.imgix.net/cbedd650-38ef-497f-aa24-617d6a4712c6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/hosting-by-webapp-io",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/hosting-by-webapp-io",
-          "publishedOn": "2023-02-10T16:55:12.000Z",
-          "wordCount": 555,
-          "title": "Hosting by webapp.io",
-          "imageUrl": "https://ph-files.imgix.net/af0851c7-a599-4a72-86d9-d1ab2fc013d2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/performance90",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -525,7 +525,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sellesta-ai",
           "publishedOn": "2023-02-09T08:12:08.000Z",
-          "wordCount": 509,
+          "wordCount": 414,
           "title": "Sellesta.ai",
           "imageUrl": "https://ph-files.imgix.net/2c413684-b4d5-4c2e-a1d5-f32af5d1f783.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
