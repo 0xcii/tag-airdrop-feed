@@ -80,12 +80,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/fiberplane-providers",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fiberplane-providers",
+          "publishedOn": "2023-02-16T09:16:52.000Z",
+          "wordCount": 520,
+          "title": "Fiberplane Providers",
+          "imageUrl": "https://ph-files.imgix.net/97e6237b-a960-4dc7-817c-9248c1594f6d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/flickonic-2-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flickonic-2-0",
           "publishedOn": "2023-02-16T08:03:53.000Z",
-          "wordCount": 555,
+          "wordCount": 538,
           "title": "Flickonic 2.0",
           "imageUrl": "https://ph-files.imgix.net/703af75f-352c-4840-98d0-6a1adde78f34.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -95,7 +105,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hear-it-fresh",
           "publishedOn": "2023-02-16T08:01:08.000Z",
-          "wordCount": 668,
+          "wordCount": 675,
           "title": "Hear It Fresh",
           "imageUrl": "https://ph-files.imgix.net/2416083f-d95d-4582-a542-1a9612ed3b6b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -115,18 +125,18 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/the-hybrid-hacker",
           "publishedOn": "2023-02-16T07:45:43.000Z",
-          "wordCount": 581,
+          "wordCount": 578,
           "title": "The Hybrid Hacker",
           "imageUrl": "https://ph-files.imgix.net/0036300b-0677-4044-b028-d5f7b6a8371b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/mojoauth-3-0-ai-powered-drop-in-solution",
+          "id": "https://www.producthunt.com/posts/mojoauth-3-0-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/mojoauth-3-0-ai-powered-drop-in-solution",
+          "link": "https://www.producthunt.com/posts/mojoauth-3-0-ai",
           "publishedOn": "2023-02-16T07:35:52.000Z",
-          "wordCount": 584,
-          "title": "MojoAuth 3.0 AI Powered Drop-in Solution",
+          "wordCount": 559,
+          "title": "MojoAuth 3.0 AI",
           "imageUrl": "https://ph-files.imgix.net/e0efad57-e703-4fd5-91d8-f9607b9a4247.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -135,7 +145,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dime-2-0",
           "publishedOn": "2023-02-16T07:00:28.000Z",
-          "wordCount": 524,
+          "wordCount": 527,
           "title": "Dime 2.0",
           "imageUrl": "https://ph-files.imgix.net/31a31f01-04f7-49db-942d-b8b50d586849.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -145,7 +155,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/network-by-tags",
           "publishedOn": "2023-02-15T23:32:03.000Z",
-          "wordCount": 549,
+          "wordCount": 552,
           "title": "Network by TAGS",
           "imageUrl": "https://ph-files.imgix.net/1a01034e-df9a-4f72-923c-4faf21f673c0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -165,7 +175,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/videocloak",
           "publishedOn": "2023-02-15T22:30:48.000Z",
-          "wordCount": 630,
+          "wordCount": 635,
           "title": "Videocloak",
           "imageUrl": "https://ph-files.imgix.net/d54893a1-b2c3-4117-bbc8-8882a7e0d0dc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -175,7 +185,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/movydick-and-the-oscar-goes-to",
           "publishedOn": "2023-02-15T21:44:02.000Z",
-          "wordCount": 520,
+          "wordCount": 523,
           "title": "Movydick: And The Oscar Goes To...",
           "imageUrl": "https://ph-files.imgix.net/def31f31-cb55-4341-9cf1-dcfee2a3c9e0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -215,7 +225,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ultrix-teams",
           "publishedOn": "2023-02-15T20:31:24.000Z",
-          "wordCount": 595,
+          "wordCount": 592,
           "title": "Ultrix Teams",
           "imageUrl": "https://ph-files.imgix.net/156d4861-714b-4b23-a253-9677d8e5bdcb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -255,7 +265,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/10web-ai-assistant-for-wordpress",
           "publishedOn": "2023-02-15T17:46:08.000Z",
-          "wordCount": 360,
+          "wordCount": 455,
           "title": "10Web AI Assistant for WordPress",
           "imageUrl": "https://ph-files.imgix.net/3791d63a-b873-4360-b3e7-98ecb4b8f043.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -325,7 +335,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/insure-az",
           "publishedOn": "2023-02-15T13:09:09.000Z",
-          "wordCount": 546,
+          "wordCount": 543,
           "title": "insure.az",
           "imageUrl": "https://ph-files.imgix.net/248cc854-4483-4585-a335-e89a75f77111.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -355,7 +365,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/aso-by-2stable-3-0-0",
           "publishedOn": "2023-02-15T11:06:24.000Z",
-          "wordCount": 484,
+          "wordCount": 510,
           "title": "ASO by 2Stable 3.0.0",
           "imageUrl": "https://ph-files.imgix.net/8b94fe26-ef21-4419-8a64-21d7e2c6fc01.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -375,7 +385,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gmail-export-by-mailmeteor",
           "publishedOn": "2023-02-15T10:45:15.000Z",
-          "wordCount": 611,
+          "wordCount": 582,
           "title": "Gmail Export by Mailmeteor",
           "imageUrl": "https://ph-files.imgix.net/302c9cec-263b-4607-ac0b-575ac976a928.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -418,16 +428,6 @@
           "wordCount": 552,
           "title": "Job Description Generator",
           "imageUrl": "https://ph-files.imgix.net/1ea00a31-05fb-44c4-9677-6b8951c674f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/disaster-help-widget",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/disaster-help-widget",
-          "publishedOn": "2023-02-14T23:45:37.000Z",
-          "wordCount": 575,
-          "title": "Disaster Help Widget",
-          "imageUrl": "https://ph-files.imgix.net/6e8f0add-d30e-47f9-adac-80bb522afe98.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/leadiq-scribe",
@@ -525,7 +525,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bugprove",
           "publishedOn": "2023-02-08T13:28:04.000Z",
-          "wordCount": 660,
+          "wordCount": 663,
           "title": "BugProve",
           "imageUrl": "https://ph-files.imgix.net/a37cc456-4481-4857-953d-e4b31d058b51.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
