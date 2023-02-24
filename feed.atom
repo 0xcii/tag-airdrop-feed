@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-24T06:15:41.476Z</id>
+    <id>urn:2023-02-24T07:10:57.236Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-24T06:15:41.476Z</updated>
+    <updated>2023-02-24T07:10:57.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -128,6 +128,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The New Uber]]></title>
+        <id>https://www.producthunt.com/posts/the-new-uber</id>
+        <link href="https://www.producthunt.com/posts/the-new-uber"/>
+        <updated>2023-02-23T06:43:33.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Smartlnks]]></title>
         <id>https://www.producthunt.com/posts/smartlnks</id>
         <link href="https://www.producthunt.com/posts/smartlnks"/>
@@ -240,18 +252,6 @@
         <id>https://www.producthunt.com/posts/ai-jd-by-pangea-app</id>
         <link href="https://www.producthunt.com/posts/ai-jd-by-pangea-app"/>
         <updated>2023-02-22T23:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roots]]></title>
-        <id>https://www.producthunt.com/posts/roots-3</id>
-        <link href="https://www.producthunt.com/posts/roots-3"/>
-        <updated>2023-02-22T20:29:55.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -468,18 +468,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Humans of PLG]]></title>
-        <id>https://www.producthunt.com/posts/humans-of-plg</id>
-        <link href="https://www.producthunt.com/posts/humans-of-plg"/>
-        <updated>2023-02-22T14:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FGenEds]]></title>
         <id>https://www.producthunt.com/posts/fgeneds</id>
         <link href="https://www.producthunt.com/posts/fgeneds"/>
@@ -516,18 +504,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Move]]></title>
-        <id>https://www.producthunt.com/posts/move-9</id>
-        <link href="https://www.producthunt.com/posts/move-9"/>
-        <updated>2023-02-22T12:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hubble Contextual In-Product Surveys]]></title>
         <id>https://www.producthunt.com/posts/hubble-contextual-in-product-surveys</id>
         <link href="https://www.producthunt.com/posts/hubble-contextual-in-product-surveys"/>
@@ -552,6 +528,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Group Flight Estimator]]></title>
+        <id>https://www.producthunt.com/posts/group-flight-estimator</id>
+        <link href="https://www.producthunt.com/posts/group-flight-estimator"/>
+        <updated>2023-02-22T01:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Clickable Creatives]]></title>
         <id>https://www.producthunt.com/posts/clickable-creatives</id>
         <link href="https://www.producthunt.com/posts/clickable-creatives"/>
@@ -568,6 +556,18 @@
         <id>https://www.producthunt.com/posts/cookthis</id>
         <link href="https://www.producthunt.com/posts/cookthis"/>
         <updated>2023-02-21T16:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frank]]></title>
+        <id>https://www.producthunt.com/posts/frank-6</id>
+        <link href="https://www.producthunt.com/posts/frank-6"/>
+        <updated>2023-02-21T09:29:48.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -619,6 +619,7 @@
         <id>https://medium.com/p/7d5f2bc6c8cf</id>
         <link href="https://medium.com/alpha/zkx-protocol-a-revolution-in-permissionless-swaps-on-starknet-7d5f2bc6c8cf?source=rss-722c3df56b66------2"/>
         <updated>2023-02-18T17:55:40.000Z</updated>
+        <summary type="html"><![CDATA[ZKX Protocol is a new permissionless derivatives protocol built on StarkNet, a Layer 2 scaling solution for Ethereum. ZKX aims to provide a…]]></summary>
         <author>
             <name>Aramz</name>
         </author>
@@ -847,6 +848,7 @@ Go to airdrop: https://airdrops.io/optimism/
         <id>https://medium.com/p/493bad51e378</id>
         <link href="https://medium.com/@CalendarDefi/new-defi-projects-pendulum-493bad51e378?source=rss-4949be3a0c7a------2"/>
         <updated>2023-02-09T21:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Overview]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
@@ -951,6 +953,7 @@ Go to airdrop: https://airdrops.io/fungiball/
         <id>https://medium.com/p/206aa857b1be</id>
         <link href="https://aramzz.medium.com/zklink-an-overview-206aa857b1be?source=rss-722c3df56b66------2"/>
         <updated>2023-02-03T15:21:38.000Z</updated>
+        <summary type="html"><![CDATA[zkLink is a multi-chain L2 network designed for trading purposes. It is secured by ZK-Rollups and is a new solution for connecting various…]]></summary>
         <author>
             <name>Aramz</name>
         </author>
@@ -960,6 +963,7 @@ Go to airdrop: https://airdrops.io/fungiball/
         <id>https://medium.com/p/88c5d8192375</id>
         <link href="https://aramzz.medium.com/5irechain-overview-a-sustainable-blockchain-for-the-future-88c5d8192375?source=rss-722c3df56b66------2"/>
         <updated>2023-02-03T14:29:59.000Z</updated>
+        <summary type="html"><![CDATA[The world is moving towards a more sustainable future, and 5ireChain is playing its part by offering a blockchain ecosystem that is built…]]></summary>
         <author>
             <name>Aramz</name>
         </author>
