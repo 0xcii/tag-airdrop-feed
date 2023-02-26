@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-26T17:09:51.489Z</id>
+    <id>urn:2023-02-26T18:13:27.862Z</id>
     <title>web3::cave</title>
-    <updated>2023-02-26T17:09:51.489Z</updated>
+    <updated>2023-02-26T18:13:27.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -246,18 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LLaMA]]></title>
-        <id>https://www.producthunt.com/posts/llama-6</id>
-        <link href="https://www.producthunt.com/posts/llama-6"/>
-        <updated>2023-02-24T23:24:42.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AInventory]]></title>
         <id>https://www.producthunt.com/posts/ainventory</id>
         <link href="https://www.producthunt.com/posts/ainventory"/>
@@ -274,6 +262,18 @@
         <id>https://www.producthunt.com/posts/salepager-2</id>
         <link href="https://www.producthunt.com/posts/salepager-2"/>
         <updated>2023-02-24T20:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Optimizer for Chrome]]></title>
+        <id>https://www.producthunt.com/posts/chatgpt-optimizer-for-chrome</id>
+        <link href="https://www.producthunt.com/posts/chatgpt-optimizer-for-chrome"/>
+        <updated>2023-02-24T19:37:33.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
