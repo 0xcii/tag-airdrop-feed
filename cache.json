@@ -80,12 +80,32 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/codera",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/codera",
+          "publishedOn": "2023-03-03T17:27:02.000Z",
+          "wordCount": 642,
+          "title": "Codera",
+          "imageUrl": "https://ph-files.imgix.net/f70bf827-6c0e-4dba-b321-50447b130efc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ai-author",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-author",
+          "publishedOn": "2023-03-03T15:23:40.000Z",
+          "wordCount": 514,
+          "title": "AI Author",
+          "imageUrl": "https://ph-files.imgix.net/44366a44-6f94-4a66-a39a-ce85362b91a0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/myessaygrader-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/myessaygrader-ai",
           "publishedOn": "2023-03-03T13:57:48.000Z",
-          "wordCount": 474,
+          "wordCount": 455,
           "title": "MyEssayGrader.ai",
           "imageUrl": "https://ph-files.imgix.net/f98491fc-0183-4074-955d-9fce0e09fb59.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -135,7 +155,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/docmod",
           "publishedOn": "2023-03-03T07:57:48.000Z",
-          "wordCount": 444,
+          "wordCount": 523,
           "title": "Docmod",
           "imageUrl": "https://ph-files.imgix.net/e53abf4a-e0c0-45cb-a236-3bd8d0b47caa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -165,7 +185,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dynamic-2",
           "publishedOn": "2023-03-03T07:42:23.000Z",
-          "wordCount": 399,
+          "wordCount": 478,
           "title": "Dynamic",
           "imageUrl": "https://ph-files.imgix.net/39f0cf6f-5c62-46af-98f7-688adda9bf14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -195,7 +215,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatgpt-tailwind-components",
           "publishedOn": "2023-03-03T06:30:35.000Z",
-          "wordCount": 410,
+          "wordCount": 329,
           "title": "ChatGPT Tailwind Components",
           "imageUrl": "https://ph-files.imgix.net/ae9f8604-2124-4711-9650-b593703ca4f2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -215,7 +235,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wget",
           "publishedOn": "2023-03-03T05:00:36.000Z",
-          "wordCount": 537,
+          "wordCount": 539,
           "title": "//wget",
           "imageUrl": "https://ph-files.imgix.net/2fc04e63-8263-4eb2-bf85-0eefeb857888.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -235,7 +255,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cargoship",
           "publishedOn": "2023-03-02T21:16:46.000Z",
-          "wordCount": 490,
+          "wordCount": 569,
           "title": "Cargoship",
           "imageUrl": "https://ph-files.imgix.net/b32f810f-b36c-4d1d-b185-946ebc8cc76a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -255,7 +275,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pinmy-reviews",
           "publishedOn": "2023-03-02T20:29:25.000Z",
-          "wordCount": 589,
+          "wordCount": 586,
           "title": "pinMy.reviews",
           "imageUrl": "https://ph-files.imgix.net/56f063d9-d532-43dc-b692-c8444c82ac75.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -285,7 +305,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/juky",
           "publishedOn": "2023-03-02T19:15:32.000Z",
-          "wordCount": 552,
+          "wordCount": 634,
           "title": "Juky",
           "imageUrl": "https://ph-files.imgix.net/c403a669-3b9b-44af-b686-316fb984fe9c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -410,26 +430,6 @@
           "imageUrl": "https://ph-files.imgix.net/1485de5f-47c3-4468-ad62-82aeb40588d3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/core-web-vitals-history",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/core-web-vitals-history",
-          "publishedOn": "2023-03-02T15:13:15.000Z",
-          "wordCount": 655,
-          "title": "Core Web Vitals History",
-          "imageUrl": "https://ph-files.imgix.net/3420ae68-1127-49f9-aa96-a1ff71a6da6f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/jojogpt",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/jojogpt",
-          "publishedOn": "2023-03-02T14:58:06.000Z",
-          "wordCount": 639,
-          "title": "JojoGPT",
-          "imageUrl": "https://ph-files.imgix.net/0e6b04fa-bab6-4bca-9913-ac35c535d791.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/unbogify",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -485,7 +485,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/great-books-homeschool-3",
           "publishedOn": "2023-03-01T22:38:34.000Z",
-          "wordCount": 463,
+          "wordCount": 451,
           "title": "Great Books Homeschool",
           "imageUrl": "https://ph-files.imgix.net/48de4c3e-9982-483b-ab4b-e3e600aa6ff5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -535,7 +535,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/attio-2",
           "publishedOn": "2023-02-26T15:57:00.000Z",
-          "wordCount": 479,
+          "wordCount": 584,
           "title": "Attio",
           "imageUrl": "https://ph-files.imgix.net/84a0f7a8-342b-4385-bcc8-698dfc78cc5a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -592,7 +592,7 @@
           "description": "⏰ VELA EXCHANGE AIRDROP ⏰\n🔹 Decentralized Exchange on Arbitrum\n🔹 Free VELA to beta testers\n🔹 Already listed on CoinGecko\nGo to airdrop: https://airdrops.io/vela-exchange/\n💰 Estimated Value: n/a",
           "link": "https://twitter.com/AirdropAlert/status/1624109102765834240",
           "publishedOn": "2023-02-10T18:12:39.000Z",
-          "wordCount": 496,
+          "wordCount": 492,
           "title": "⏰ VELA EXCHANGE AIRDROP ⏰ 🔹 Decentralized Exchange on Arbitrum 🔹 Free VELA to beta testers 🔹 Already listed on CoinGecko Go to airdrop: htt...",
           "imageUrl": null
         },
@@ -602,7 +602,7 @@
           "description": "⏰ OPTIMISM AIRDROP ⏰\n🔹 Layer 2 Scaling Solution For Ethereum\n🔹 Free OP airdrop to early Optimism users as predicted\n🔹 19% of the total supply to be airdropped!\nGo to airdrop: https://airdrops.io/optimism/\n💰 Estimated Value: n/a",
           "link": "https://twitter.com/AirdropAlert/status/1624043699314257924",
           "publishedOn": "2023-02-10T13:52:45.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "⏰ OPTIMISM AIRDROP ⏰ 🔹 Layer 2 Scaling Solution For Ethereum 🔹 Free OP airdrop to early Optimism users as predicted 🔹 19% of the total supp...",
           "imageUrl": null
         },
@@ -612,7 +612,7 @@
           "description": "⏰ RAX WORLD GIVEAWAY ⏰\n🔹 Action Sports & Street Culture Based Meta Destination\n🔹 Chance to win up to $300 UMAD\n🔹 For 3 lucky participants\nGo to giveaway: https://airdrops.io/rax-world/\n💰 Estimated Value: n/a",
           "link": "https://twitter.com/AirdropAlert/status/1623671221056405504",
           "publishedOn": "2023-02-09T13:12:40.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "⏰ RAX WORLD GIVEAWAY ⏰ 🔹 Action Sports & Street Culture Based Meta Destination 🔹 Chance to win up to $300 UMAD 🔹 For 3 lucky participants G...",
           "imageUrl": null
         },
@@ -622,7 +622,7 @@
           "description": "⏰ POTENTIAL ENCHANTER FINANCE AIRDROP ⏰\n🔹 First Social Trading AMM DEX\n🔹 Confirmed to launch an own token\n🔹 May do an airdrop to early users who've done testnet actions\n💰 More details: https://airdrops.io/enchanter-finance/",
           "link": "https://twitter.com/AirdropAlert/status/1623020863057498119",
           "publishedOn": "2023-02-07T18:08:22.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "⏰ POTENTIAL ENCHANTER FINANCE AIRDROP ⏰ 🔹 First Social Trading AMM DEX 🔹 Confirmed to launch an own token 🔹 May do an airdrop to early user...",
           "imageUrl": null
         },
@@ -632,7 +632,7 @@
           "description": "⏰ FUNGIBALL AIRDROP ⏰\n🔹 Play-To-Earn Game\n🔹 Free Fungiball X Edouard Roger Vasselin NFT\n🔹 To top 10 participants\nGo to airdrop: https://airdrops.io/fungiball/\n💰 Estimated Value: n/a",
           "link": "https://twitter.com/AirdropAlert/status/1622916231312408578",
           "publishedOn": "2023-02-07T11:12:36.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "⏰ FUNGIBALL AIRDROP ⏰ 🔹 Play-To-Earn Game 🔹 Free Fungiball X Edouard Roger Vasselin NFT 🔹 To top 10 participants Go to airdrop: https://air...",
           "imageUrl": null
         },
@@ -642,7 +642,7 @@
           "description": "⏰ POTENTIAL MAYAN AIRDROP ⏰\n🔹 Cross-chain Swap Auction Protocol\n🔹 Could launch an own token in the future\n🔹 May do an airdrop to early users who've swapped\n💰 More details: https://airdrops.io/mayan/",
           "link": "https://twitter.com/AirdropAlert/status/1621119401482141696",
           "publishedOn": "2023-02-02T12:12:38.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "⏰ POTENTIAL MAYAN AIRDROP ⏰ 🔹 Cross-chain Swap Auction Protocol 🔹 Could launch an own token in the future 🔹 May do an airdrop to early user...",
           "imageUrl": null
         }
@@ -659,7 +659,7 @@
           "description": "💧 New event on http://DropsEarn.com\n@ThalaLabs Testnet\nThala has announced that Thala’s testnet is now live. \n➡️ https://dropsearn.com/events/thala-testnet\n#DropsEarn #Crypto #Testnet https://t.co/zXMsGM1tPF",
           "link": "https://twitter.com/DropsEarn/status/1631268640140959744",
           "publishedOn": "2023-03-02T12:22:05.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 New event on http://DropsEarn.com @ThalaLabs Testnet Thala has announced that Thala’s testnet is now live. ➡️ https://dropsearn.com/events/tha...",
           "imageUrl": null
         },
@@ -669,7 +669,7 @@
           "description": "💧 New event on http://DropsEarn.com\nDeri Protocol 2nd Anniversary Carnival\n@DeriProtocol is celebrating its 2nd year anniversary with a carnival, and you’re invited to win a share of $150,000 in prizes.\n➡️ https://dropsearn.com/events/Deri-2nd-anniversary-carnival/\n#Dropsearn #Crypto #Airdrop https://t.co/3edJa0Pikm",
           "link": "https://twitter.com/DropsEarn/status/1630943347106889728",
           "publishedOn": "2023-03-01T14:49:30.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 New event on http://DropsEarn.com Deri Protocol 2nd Anniversary Carnival @DeriProtocol is celebrating its 2nd year anniversary with a carnival, a...",
           "imageUrl": null
         },
@@ -679,7 +679,7 @@
           "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops\n#Airdrop #DropsEarn #Crypto https://t.co/e6zuUeT5k5",
           "link": "https://twitter.com/DropsEarn/status/1630275643119157250",
           "publishedOn": "2023-02-27T18:36:17.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com ➡️ https://dropsearn.com/air...",
           "imageUrl": null
         },
@@ -689,7 +689,7 @@
           "description": "💧 New event on http://DropsEarn.com\n@fusionistio Ambassador Program\n➡️ https://dropsearn.com/events/fusionist-ambassador-program\n#DropsEarn #Crypto #Ambassadorprogram https://t.co/GeRBYJdpSr",
           "link": "https://twitter.com/DropsEarn/status/1630246374313738243",
           "publishedOn": "2023-02-27T16:39:58.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 New event on http://DropsEarn.com @fusionistio Ambassador Program ➡️ https://dropsearn.com/events/fusionist-ambassador-program #DropsEarn #Cryp...",
           "imageUrl": null
         },
@@ -699,7 +699,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops\n#Airdrop #DropsEarn #Crypto https://t.co/Vrrnw82TEk",
           "link": "https://twitter.com/DropsEarn/status/1629065504223535105",
           "publishedOn": "2023-02-24T10:27:37.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -709,7 +709,7 @@
           "description": "💧Our new daily update: new airdrops have been added!\n 💰http://Dropsearn.com keeps tracking the best airdrops for you\n ➡️ http://dropsearn.com/airdrops\n#Airdrop #DropsEarn #Crypto https://t.co/mmXLmRvVch",
           "link": "https://twitter.com/DropsEarn/status/1628803410039390208",
           "publishedOn": "2023-02-23T17:06:09.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧Our new daily update: new airdrops have been added! 💰http://Dropsearn.com keeps tracking the best airdrops for you ➡️ http://dropsearn.com/ai...",
           "imageUrl": null
         },
@@ -719,7 +719,7 @@
           "description": "💧 New event on http://DropsEarn.com\n@DeGateDex Influencer YouTube Video Contest\n➡️ https://dropsearn.com/events/degate-influencer-youtube-video-contest\n#DropsEarn #Crypto #Contest https://t.co/3Z9byrgLNx",
           "link": "https://twitter.com/DropsEarn/status/1628803014310887424",
           "publishedOn": "2023-02-23T17:04:34.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 New event on http://DropsEarn.com @DeGateDex Influencer YouTube Video Contest ➡️ https://dropsearn.com/events/degate-influencer-youtube-video-c...",
           "imageUrl": null
         },
@@ -729,7 +729,7 @@
           "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops\n#Airdrop #DropsEarn #Crypto https://t.co/3yL9ceVSJh",
           "link": "https://twitter.com/DropsEarn/status/1628479192802238464",
           "publishedOn": "2023-02-22T19:37:49.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com ➡️ https://dropsearn.com/air...",
           "imageUrl": null
         },
@@ -739,7 +739,7 @@
           "description": "💧New events on http://DropsEarn.com\n✔️ @Youdonate1  Testnet\n✔️ @CryptoRubic Rangers Ambassador Program\n✔️ @MultiversX x @binance Learn & Trade Competition Campaign\n➡️ http://dropsearn.com\n#DropsEarn #Crypto #Testnet #Ambassador https://t.co/OXt3nhIdcf",
           "link": "https://twitter.com/DropsEarn/status/1628406291948355588",
           "publishedOn": "2023-02-22T14:48:08.000Z",
-          "wordCount": 496,
+          "wordCount": 492,
           "title": "💧New events on http://DropsEarn.com ✔️ @Youdonate1 Testnet ✔️ @CryptoRubic Rangers Ambassador Program ✔️ @MultiversX x @binance Learn & Trade...",
           "imageUrl": null
         },
@@ -749,7 +749,7 @@
           "description": "💧New event on http://DropsEarn.com\n@PancakeSwap Ambassador Program\n➡️ https://dropsearn.com/events/pancakeswap-ambassadors-program\n#Dropsearn #Crypto #Ambassador https://t.co/bHOr6vva4J",
           "link": "https://twitter.com/DropsEarn/status/1627625383699836929",
           "publishedOn": "2023-02-20T11:05:05.000Z",
-          "wordCount": 496,
+          "wordCount": 492,
           "title": "💧New event on http://DropsEarn.com @PancakeSwap Ambassador Program ➡️ https://dropsearn.com/events/pancakeswap-ambassadors-program #Dropsearn #Cr...",
           "imageUrl": null
         },
@@ -759,7 +759,7 @@
           "description": "💧New event on http://DropsEarn.com\n@NibiruChain Ambassador Program\n@NibiruChain has announced the start of its Ambassador Program.\n➡️ https://dropsearn.com/events/nibiru-chain-ambassador-program\n#Dropsearn #Crypto #Ambassador https://t.co/8hsjpey4F7",
           "link": "https://twitter.com/DropsEarn/status/1627608537529520128",
           "publishedOn": "2023-02-20T09:58:09.000Z",
-          "wordCount": 496,
+          "wordCount": 492,
           "title": "💧New event on http://DropsEarn.com @NibiruChain Ambassador Program @NibiruChain has announced the start of its Ambassador Program. ➡️ https://dro...",
           "imageUrl": null
         },
@@ -769,7 +769,7 @@
           "description": "💧New event on http://DropsEarn.com\n@Aptos_Network Ambassador Program\nThe Aptos Collective will be open to the most engaged and involved members of the community, to support the growth of the Aptos community.\n➡️ https://dropsearn.com/events/aptos-ambassador-program\n#DropsEarn #Ambassador #Crypto https://t.co/M7IRiIYk2r",
           "link": "https://twitter.com/DropsEarn/status/1626544939290050560",
           "publishedOn": "2023-02-17T11:31:47.000Z",
-          "wordCount": 496,
+          "wordCount": 492,
           "title": "💧New event on http://DropsEarn.com @Aptos_Network Ambassador Program The Aptos Collective will be open to the most engaged and involved members of ...",
           "imageUrl": null
         },
@@ -779,7 +779,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops\n#Airdrops #Crypto #DropsEarn https://t.co/TFQv0SnfMs",
           "link": "https://twitter.com/DropsEarn/status/1626273739452084224",
           "publishedOn": "2023-02-16T17:34:08.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -789,7 +789,7 @@
           "description": "💧New event on http://DropsEarn.com\n@StrongBuyCrypto Ambassador Program\nXBanking is looking for Ambassadors in the communities of all countries. \n➡️ https://dropsearn.com/events/xbanking-ambassador-program https://t.co/M51nLkcknh",
           "link": "https://twitter.com/DropsEarn/status/1626175544826990594",
           "publishedOn": "2023-02-16T11:03:57.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧New event on http://DropsEarn.com @StrongBuyCrypto Ambassador Program XBanking is looking for Ambassadors in the communities of all countries. ➡...",
           "imageUrl": null
         },
@@ -799,7 +799,7 @@
           "description": "💧New event on http://DropsEarn.com\n@zkxprotocol Yakuza Community Incentives Program\nThe idea of the Contributors Incentive Program is to elevate the community’s experience while contributing to the growth of the protocol.\n➡️ https://dropsearn.com/events/zkx-yakuza-community-incentives-program\n#DropsEarn #Crypto https://t.co/9s1rViedRg",
           "link": "https://twitter.com/DropsEarn/status/1626133510544142336",
           "publishedOn": "2023-02-16T08:16:55.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧New event on http://DropsEarn.com @zkxprotocol Yakuza Community Incentives Program The idea of the Contributors Incentive Program is to elevate th...",
           "imageUrl": null
         },
@@ -809,7 +809,7 @@
           "description": "💧New event on http://DropsEarn.com\n@Galxe Contributor Program\n➡️ http://dropsearn.com/events/veax-po…\n#DropsEarn #Crypto https://t.co/n0joqhPf79",
           "link": "https://twitter.com/DropsEarn/status/1625790762393735170",
           "publishedOn": "2023-02-15T09:34:58.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧New event on http://DropsEarn.com @Galxe Contributor Program ➡️ http://dropsearn.com/events/veax-po… #DropsEarn #Crypto https://t.co/n0joqhPf79",
           "imageUrl": null
         },
@@ -819,7 +819,7 @@
           "description": "💧New event on http://DropsEarn.com\n@veaxlabs Points Program\n➡️ https://dropsearn.com/events/veax-points-program\n#DropsEarn #Crypto https://t.co/tUtjmu1rhz",
           "link": "https://twitter.com/DropsEarn/status/1625491461176463360",
           "publishedOn": "2023-02-14T13:45:39.000Z",
-          "wordCount": 492,
+          "wordCount": 529,
           "title": "💧New event on http://DropsEarn.com @veaxlabs Points Program ➡️ https://dropsearn.com/events/veax-points-program #DropsEarn #Crypto https://t.co/t...",
           "imageUrl": null
         },
@@ -829,7 +829,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops\n#Airdrops #Crypto #DropsEarn https://t.co/oqHgKqWaZo",
           "link": "https://twitter.com/DropsEarn/status/1625183523802955789",
           "publishedOn": "2023-02-13T17:22:01.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -839,7 +839,7 @@
           "description": "💧New event on http://DropsEarn.com\n@BNBCHAIN & @CyberConnectHQ Connected 2023 Social Hackathon\n➡️ https://dropsearn.com/events/connected-2023-hackathon\n#DropsEarn #Hackathon #Crypto https://t.co/sVdNcs6lGz",
           "link": "https://twitter.com/DropsEarn/status/1624319442636222464",
           "publishedOn": "2023-02-11T08:08:28.000Z",
-          "wordCount": 496,
+          "wordCount": 529,
           "title": "💧New event on http://DropsEarn.com @BNBCHAIN & @CyberConnectHQ Connected 2023 Social Hackathon ➡️ https://dropsearn.com/events/connected-2023-hac...",
           "imageUrl": null
         },
