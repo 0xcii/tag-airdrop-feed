@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-03T22:11:18.933Z</id>
+    <id>urn:2023-03-03T23:12:05.482Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-03T22:11:18.933Z</updated>
+    <updated>2023-03-03T23:12:05.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[fakerandomtest]]></title>
-        <id>https://www.producthunt.com/posts/fakerandomtest</id>
-        <link href="https://www.producthunt.com/posts/fakerandomtest"/>
-        <updated>2023-03-03T19:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Codera]]></title>
         <id>https://www.producthunt.com/posts/codera</id>
@@ -346,6 +334,18 @@
         <id>https://www.producthunt.com/posts/brave-search-summarizer</id>
         <link href="https://www.producthunt.com/posts/brave-search-summarizer"/>
         <updated>2023-03-02T17:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BingBangAI]]></title>
+        <id>https://www.producthunt.com/posts/bingbangai</id>
+        <link href="https://www.producthunt.com/posts/bingbangai"/>
+        <updated>2023-03-02T17:14:33.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
