@@ -60,6 +60,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/userbase-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/userbase-2",
+          "publishedOn": "2023-03-08T14:22:04.000Z",
+          "wordCount": 508,
+          "title": "Userbase",
+          "imageUrl": "https://ph-files.imgix.net/689058ec-e121-4e9e-a490-3e4524249cab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ramadan-planner",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -165,18 +175,18 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/newsletter-navigator",
           "publishedOn": "2023-03-08T04:19:01.000Z",
-          "wordCount": 511,
+          "wordCount": 504,
           "title": "Newsletter Navigator",
           "imageUrl": "https://ph-files.imgix.net/af04c0f1-7d5f-4751-ba87-0ad0bfd9f93b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/myroomdesigner",
+          "id": "https://www.producthunt.com/posts/myroomdesigner-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/myroomdesigner",
+          "link": "https://www.producthunt.com/posts/myroomdesigner-ai",
           "publishedOn": "2023-03-08T03:20:40.000Z",
           "wordCount": 605,
-          "title": "MyRoomDesigner",
+          "title": "MyRoomDesigner.ai",
           "imageUrl": "https://ph-files.imgix.net/244999b0-17b5-4fa8-82b9-769abccaf0ee.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -185,7 +195,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/faith-forward",
           "publishedOn": "2023-03-08T02:49:49.000Z",
-          "wordCount": 610,
+          "wordCount": 602,
           "title": "Faith Forward",
           "imageUrl": "https://ph-files.imgix.net/eccb39fc-6f65-4c8b-9788-6e1710ab8e7e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -205,7 +215,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/awaken-tax",
           "publishedOn": "2023-03-08T01:36:51.000Z",
-          "wordCount": 544,
+          "wordCount": 537,
           "title": "Awaken Tax",
           "imageUrl": "https://ph-files.imgix.net/17296e17-05ba-4e39-8401-40aac1cca3ac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -275,7 +285,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/c4-model-sticky-notes",
           "publishedOn": "2023-03-07T19:01:56.000Z",
-          "wordCount": 617,
+          "wordCount": 624,
           "title": "C4 model sticky notes",
           "imageUrl": "https://ph-files.imgix.net/f4c6da86-7f06-41c8-be1d-5816d2570fbd.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -325,19 +335,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/poemly",
           "publishedOn": "2023-03-07T12:49:16.000Z",
-          "wordCount": 510,
+          "wordCount": 503,
           "title": "Poemly",
           "imageUrl": "https://ph-files.imgix.net/dac5f014-25e0-48a1-b64d-49cc37267862.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/github-repository-explorer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/github-repository-explorer",
-          "publishedOn": "2023-03-07T11:38:36.000Z",
-          "wordCount": 628,
-          "title": "GitHub Repository Explorer",
-          "imageUrl": "https://ph-files.imgix.net/789cd4f3-9ea9-4611-ac59-cc46a0ee55f8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/minodor",
@@ -368,6 +368,16 @@
           "wordCount": 547,
           "title": "Swift Board",
           "imageUrl": "https://ph-files.imgix.net/68ac4036-162f-46bf-a4d5-399a978dd63f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/infisical-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/infisical-2",
+          "publishedOn": "2023-03-06T16:46:51.000Z",
+          "wordCount": 528,
+          "title": "Infisical",
+          "imageUrl": "https://ph-files.imgix.net/002590a8-b72c-435e-b566-52d64949382a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/chat-d-id",
@@ -415,19 +425,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chat-by-copy-ai",
           "publishedOn": "2023-03-05T19:05:44.000Z",
-          "wordCount": 564,
+          "wordCount": 583,
           "title": "Chat by Copy.ai",
           "imageUrl": "https://ph-files.imgix.net/61da746b-0ff7-4fa9-97e0-ac778dd16921.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/b12-free-websites",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/b12-free-websites",
-          "publishedOn": "2023-03-03T15:27:31.000Z",
-          "wordCount": 618,
-          "title": "B12 Free Websites",
-          "imageUrl": "https://ph-files.imgix.net/a04c30d5-42a5-4db1-aabf-69b45d17014f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/big-ai-list",
@@ -495,7 +495,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/culturama",
           "publishedOn": "2023-02-25T21:08:06.000Z",
-          "wordCount": 525,
+          "wordCount": 518,
           "title": "Culturama",
           "imageUrl": "https://ph-files.imgix.net/9a20601c-8dd5-40b6-9622-c5dc763f0e39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -525,7 +525,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/plato-5",
           "publishedOn": "2023-02-21T23:24:30.000Z",
-          "wordCount": 541,
+          "wordCount": 548,
           "title": "Plato",
           "imageUrl": "https://ph-files.imgix.net/6a804401-2db3-4aed-84bc-fbfd58436d6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -552,7 +552,7 @@
           "description": "⏰ OPTIMISM AIRDROP ⏰\n🔹 Layer 2 Scaling Solution For Ethereum\n🔹 Free OP airdrop to early Optimism users as predicted\n🔹 19% of the total supply to be airdropped!\nGo to airdrop: https://airdrops.io/optimism/\n💰 Estimated Value: n/a",
           "link": "https://twitter.com/AirdropAlert/status/1624043699314257924",
           "publishedOn": "2023-02-10T13:52:45.000Z",
-          "wordCount": 529,
+          "wordCount": 492,
           "title": "⏰ OPTIMISM AIRDROP ⏰ 🔹 Layer 2 Scaling Solution For Ethereum 🔹 Free OP airdrop to early Optimism users as predicted 🔹 19% of the total supp...",
           "imageUrl": null
         },
