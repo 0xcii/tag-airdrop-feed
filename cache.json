@@ -40,12 +40,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/fin-by-intercom",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fin-by-intercom",
+          "publishedOn": "2023-03-14T17:21:01.000Z",
+          "wordCount": 556,
+          "title": "Fin by Intercom",
+          "imageUrl": "https://ph-files.imgix.net/e4fc77ca-924b-4f2b-b6b0-451e2eaade90.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/gpt-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gpt-4",
           "publishedOn": "2023-03-14T17:16:42.000Z",
-          "wordCount": 408,
+          "wordCount": 521,
           "title": "GPT-4",
           "imageUrl": "https://ph-files.imgix.net/af4af1ab-0d8a-464c-bc8d-bfe732c5b6ad.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -55,7 +65,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/palm-api",
           "publishedOn": "2023-03-14T13:46:41.000Z",
-          "wordCount": 411,
+          "wordCount": 437,
           "title": "PaLM API",
           "imageUrl": "https://ph-files.imgix.net/8180d880-9f58-4c46-b503-57db4a2e631c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -65,7 +75,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/productpress-2",
           "publishedOn": "2023-03-14T11:08:21.000Z",
-          "wordCount": 477,
+          "wordCount": 503,
           "title": "ProductPress",
           "imageUrl": "https://ph-files.imgix.net/959302d4-617a-4d45-a375-e9c60408cf38.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -155,7 +165,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/relume-ipsum",
           "publishedOn": "2023-03-14T06:33:04.000Z",
-          "wordCount": 617,
+          "wordCount": 624,
           "title": "Relume Ipsum",
           "imageUrl": "https://ph-files.imgix.net/11973d89-df59-498a-87f0-6c92e0f475b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -305,7 +315,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/interactive-presentations-by-miro",
           "publishedOn": "2023-03-13T13:20:32.000Z",
-          "wordCount": 526,
+          "wordCount": 420,
           "title": "Interactive Presentations by Miro",
           "imageUrl": "https://ph-files.imgix.net/0577b608-9310-400a-97d1-d29b917e1133.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -315,7 +325,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/eagle-eye-2",
           "publishedOn": "2023-03-13T13:05:56.000Z",
-          "wordCount": 622,
+          "wordCount": 615,
           "title": "Eagle Eye",
           "imageUrl": "https://ph-files.imgix.net/6d6406ba-243d-43b2-8640-79be1aa6eb72.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -485,7 +495,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/replai-29992194-fe7f-4de0-9e15-41a3cc2c934f",
           "publishedOn": "2023-03-07T07:20:00.000Z",
-          "wordCount": 686,
+          "wordCount": 680,
           "title": "Replai",
           "imageUrl": "https://ph-files.imgix.net/30f21927-f680-471b-bf48-1a7ea719d5e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -495,7 +505,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/berriai",
           "publishedOn": "2023-03-07T00:45:09.000Z",
-          "wordCount": 566,
+          "wordCount": 547,
           "title": "BerriAI",
           "imageUrl": "https://ph-files.imgix.net/42d3b787-b212-4b05-9ab0-fb002b02b571.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -515,7 +525,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/practical-ui",
           "publishedOn": "2023-03-03T10:35:24.000Z",
-          "wordCount": 461,
+          "wordCount": 454,
           "title": "Practical UI",
           "imageUrl": "https://ph-files.imgix.net/126fcd9c-503e-4ee4-8d15-72fa83feecc7.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -528,16 +538,6 @@
           "wordCount": 654,
           "title": "venturefy AI",
           "imageUrl": "https://ph-files.imgix.net/c5119f2d-1fee-42db-8978-8910c55f6feb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/narrate-now",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/narrate-now",
-          "publishedOn": "2023-02-15T01:04:00.000Z",
-          "wordCount": 599,
-          "title": "Narrate Now",
-          "imageUrl": "https://ph-files.imgix.net/31d03840-10d3-40ca-a263-d3f8045476c6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
