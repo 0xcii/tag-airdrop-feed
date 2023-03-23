@@ -50,12 +50,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/fitness-stats",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fitness-stats",
+          "publishedOn": "2023-03-23T17:28:19.000Z",
+          "wordCount": 415,
+          "title": "Fitness Stats",
+          "imageUrl": "https://ph-files.imgix.net/162fe394-4b0a-40f1-952e-918ae1084686.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/sym",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sym",
           "publishedOn": "2023-03-23T13:59:11.000Z",
-          "wordCount": 446,
+          "wordCount": 530,
           "title": "Sym",
           "imageUrl": "https://ph-files.imgix.net/8a8735dd-5e8c-45ea-bc1e-5059e2595030.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -75,7 +85,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/economic-downturn-product-strategies",
           "publishedOn": "2023-03-23T07:41:24.000Z",
-          "wordCount": 528,
+          "wordCount": 525,
           "title": "Economic Downturn & Product Strategies",
           "imageUrl": "https://ph-files.imgix.net/d901e18c-665e-4966-a3e5-66f7498b5b3c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -85,7 +95,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/debugcode-ai",
           "publishedOn": "2023-03-23T07:38:54.000Z",
-          "wordCount": 624,
+          "wordCount": 627,
           "title": "debugcode.ai",
           "imageUrl": "https://ph-files.imgix.net/9671e53c-4f2c-47b6-b154-313edf1bc457.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -250,16 +260,6 @@
           "imageUrl": "https://ph-files.imgix.net/a65729bf-e865-4c29-afb6-be3d6fac7307.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/github-copilot-x",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/github-copilot-x",
-          "publishedOn": "2023-03-22T16:21:38.000Z",
-          "wordCount": 424,
-          "title": "GitHub Copilot X",
-          "imageUrl": "https://ph-files.imgix.net/96565398-8388-4207-8923-7ac2ff99b172.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/gut-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -305,7 +305,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/anygpt",
           "publishedOn": "2023-03-22T14:46:00.000Z",
-          "wordCount": 531,
+          "wordCount": 519,
           "title": "AnyGPT",
           "imageUrl": "https://ph-files.imgix.net/71f689d0-4c49-4f45-a642-3c4c87d210c7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -425,7 +425,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-5",
           "publishedOn": "2023-03-19T12:10:59.000Z",
-          "wordCount": 362,
+          "wordCount": 446,
           "title": "/ai",
           "imageUrl": "https://ph-files.imgix.net/ccdb350c-a648-44ff-b4f9-fae0e1aee7be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -485,7 +485,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pixelbin-generative-background-creator",
           "publishedOn": "2023-03-14T04:55:30.000Z",
-          "wordCount": 603,
+          "wordCount": 511,
           "title": "PixelBin Generative Background Creator",
           "imageUrl": "https://ph-files.imgix.net/b3370335-2f7b-4f01-8fbc-afb1f3aed94a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -495,7 +495,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/codiumai",
           "publishedOn": "2023-03-14T00:37:15.000Z",
-          "wordCount": 676,
+          "wordCount": 695,
           "title": "CodiumAI",
           "imageUrl": "https://ph-files.imgix.net/2c779f61-1ec5-4766-aa81-f5df4fc91344.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -545,7 +545,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sphereone",
           "publishedOn": "2023-02-23T20:45:21.000Z",
-          "wordCount": 577,
+          "wordCount": 558,
           "title": "SphereOne",
           "imageUrl": "https://ph-files.imgix.net/a0e7ea77-9519-465f-985d-c22786f141e2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -562,6 +562,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://twitter.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1638944873830301696",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\n@taikoxyz Alpha-2 Testnet\nTaiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfellsjökull, a2 continues the trend of Icelandic volcanos and is called Askja.\n➡️ https://dropsearn.com/events/taiko-alpha-2-testnet\n#DropsEarn #Crypto https://t.co/JAJn3iV8OD",
+          "link": "https://twitter.com/DropsEarn/status/1638944873830301696",
+          "publishedOn": "2023-03-23T16:44:42.000Z",
+          "wordCount": 509,
+          "title": "💧 New event on http://DropsEarn.com @taikoxyz Alpha-2 Testnet Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfellsjöku...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1638592302808539165",
           "author": "Drops Earn",
@@ -750,16 +760,6 @@
           "publishedOn": "2023-02-27T16:39:58.000Z",
           "wordCount": 509,
           "title": "💧 New event on http://DropsEarn.com @fusionistio Ambassador Program ➡️ https://dropsearn.com/events/fusionist-ambassador-program #DropsEarn #Cryp...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1629065504223535105",
-          "author": "Drops Earn",
-          "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops\n#Airdrop #DropsEarn #Crypto https://t.co/Vrrnw82TEk",
-          "link": "https://twitter.com/DropsEarn/status/1629065504223535105",
-          "publishedOn": "2023-02-24T10:27:37.000Z",
-          "wordCount": 509,
-          "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         }
       ]
