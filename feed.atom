@@ -1,14 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-24T08:12:34.879Z</id>
+    <id>urn:2023-03-24T09:11:08.883Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-24T08:12:34.879Z</updated>
+    <updated>2023-03-24T09:11:08.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Use for OpenAI]]></title>
-        <id>https://www.producthunt.com/posts/use-for-openai</id>
-        <link href="https://www.producthunt.com/posts/use-for-openai"/>
+        <title type="html"><![CDATA[BraveGPT]]></title>
+        <id>https://www.producthunt.com/posts/bravegpt</id>
+        <link href="https://www.producthunt.com/posts/bravegpt"/>
+        <updated>2023-03-24T07:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cradl AI]]></title>
+        <id>https://www.producthunt.com/posts/cradl-ai</id>
+        <link href="https://www.producthunt.com/posts/cradl-ai"/>
+        <updated>2023-03-24T07:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hookle]]></title>
+        <id>https://www.producthunt.com/posts/hookle-2</id>
+        <link href="https://www.producthunt.com/posts/hookle-2"/>
+        <updated>2023-03-24T07:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Float UI]]></title>
+        <id>https://www.producthunt.com/posts/float-ui</id>
+        <link href="https://www.producthunt.com/posts/float-ui"/>
+        <updated>2023-03-24T07:02:18.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI for Desktop]]></title>
+        <id>https://www.producthunt.com/posts/openai-for-desktop</id>
+        <link href="https://www.producthunt.com/posts/openai-for-desktop"/>
         <updated>2023-03-24T07:00:11.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -198,42 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[React Native Expo Read sms]]></title>
-        <id>https://www.producthunt.com/posts/react-native-expo-read-sms</id>
-        <link href="https://www.producthunt.com/posts/react-native-expo-read-sms"/>
-        <updated>2023-03-23T18:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Plugins]]></title>
-        <id>https://www.producthunt.com/posts/chatgpt-plugins</id>
-        <link href="https://www.producthunt.com/posts/chatgpt-plugins"/>
-        <updated>2023-03-23T17:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitness Stats]]></title>
-        <id>https://www.producthunt.com/posts/fitness-stats</id>
-        <link href="https://www.producthunt.com/posts/fitness-stats"/>
-        <updated>2023-03-23T17:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💧 New event on http://DropsEarn.com @taikoxyz Alpha-2 Testnet Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfellsjöku...]]></title>
         <id>https://twitter.com/DropsEarn/status/1638944873830301696</id>
         <link href="https://twitter.com/DropsEarn/status/1638944873830301696"/>
@@ -368,6 +380,18 @@ Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfells
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI-Powered Canvas by TurnUs]]></title>
+        <id>https://www.producthunt.com/posts/ai-powered-canvas-by-turnus</id>
+        <link href="https://www.producthunt.com/posts/ai-powered-canvas-by-turnus"/>
+        <updated>2023-03-23T13:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ideasmarketplace]]></title>
         <id>https://www.producthunt.com/posts/ideasmarketplace</id>
         <link href="https://www.producthunt.com/posts/ideasmarketplace"/>
@@ -384,18 +408,6 @@ Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfells
         <id>https://www.producthunt.com/posts/rewritewise</id>
         <link href="https://www.producthunt.com/posts/rewritewise"/>
         <updated>2023-03-23T12:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gradientspace]]></title>
-        <id>https://www.producthunt.com/posts/gradientspace</id>
-        <link href="https://www.producthunt.com/posts/gradientspace"/>
-        <updated>2023-03-23T12:15:30.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -428,18 +440,6 @@ Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfells
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Loop]]></title>
-        <id>https://www.producthunt.com/posts/microsoft-loop-3</id>
-        <link href="https://www.producthunt.com/posts/microsoft-loop-3"/>
-        <updated>2023-03-23T11:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DirectoryHQ]]></title>
         <id>https://www.producthunt.com/posts/directoryhq</id>
         <link href="https://www.producthunt.com/posts/directoryhq"/>
@@ -456,18 +456,6 @@ Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfells
         <id>https://www.producthunt.com/posts/quack</id>
         <link href="https://www.producthunt.com/posts/quack"/>
         <updated>2023-03-23T10:29:22.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NoNext for YouTube]]></title>
-        <id>https://www.producthunt.com/posts/nonext-for-youtube</id>
-        <link href="https://www.producthunt.com/posts/nonext-for-youtube"/>
-        <updated>2023-03-23T09:19:00.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -703,6 +691,18 @@ Talent Protocol Ambassador Program
 #Dropsearn #Crypto #Airdrop https://t.co/QLI88nMrGN]]></summary>
         <author>
             <name>Drops Earn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spotlight]]></title>
+        <id>https://www.producthunt.com/posts/spotlight-11</id>
+        <link href="https://www.producthunt.com/posts/spotlight-11"/>
+        <updated>2023-03-12T20:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
