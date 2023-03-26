@@ -50,12 +50,32 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/quickfolio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/quickfolio",
+          "publishedOn": "2023-03-26T14:38:31.000Z",
+          "wordCount": 557,
+          "title": "Quickfolio.",
+          "imageUrl": "https://ph-files.imgix.net/13912ea9-953f-487e-8db0-0f7b3e8bae42.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/air-quality-index-aqi",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/air-quality-index-aqi",
+          "publishedOn": "2023-03-26T14:30:20.000Z",
+          "wordCount": 550,
+          "title": "Air Quality Index - AQI",
+          "imageUrl": "https://ph-files.imgix.net/d097b38a-3347-496b-a025-cccd195139f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/nikki",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nikki",
           "publishedOn": "2023-03-26T13:36:47.000Z",
-          "wordCount": 493,
+          "wordCount": 474,
           "title": "Nikki",
           "imageUrl": "https://ph-files.imgix.net/dd0d8258-16cc-43bc-b2b9-de93e69d3a56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -65,7 +85,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bees-keys",
           "publishedOn": "2023-03-26T13:30:57.000Z",
-          "wordCount": 605,
+          "wordCount": 586,
           "title": "Bees Keys",
           "imageUrl": "https://ph-files.imgix.net/790441ae-6bdf-4ac1-a8b6-b559608a891c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -75,9 +95,59 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/setlist-predictor",
           "publishedOn": "2023-03-26T13:13:13.000Z",
-          "wordCount": 565,
+          "wordCount": 546,
           "title": "Setlist Predictor",
           "imageUrl": "https://ph-files.imgix.net/a15977b7-63c2-4da6-bda8-729c1adce893.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/riter-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/riter-app",
+          "publishedOn": "2023-03-26T12:00:17.000Z",
+          "wordCount": 490,
+          "title": "Riter.app",
+          "imageUrl": "https://ph-files.imgix.net/e1743bef-ba3e-4b8c-b9e1-801de69b789d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/seemetrics",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/seemetrics",
+          "publishedOn": "2023-03-26T09:50:31.000Z",
+          "wordCount": 470,
+          "title": "SeeMetrics",
+          "imageUrl": "https://ph-files.imgix.net/325aa217-b053-4f76-917c-1720024a68a6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/chaplin-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/chaplin-2",
+          "publishedOn": "2023-03-26T09:06:19.000Z",
+          "wordCount": 495,
+          "title": "Chaplin",
+          "imageUrl": "https://ph-files.imgix.net/9360a0eb-fa2c-4f03-9241-919ca5089024.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/floo-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/floo-app",
+          "publishedOn": "2023-03-26T09:04:20.000Z",
+          "wordCount": 520,
+          "title": "floo.app",
+          "imageUrl": "https://ph-files.imgix.net/e3d52ccf-ea84-420d-85d6-85a31c2f500d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/chat2stats",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/chat2stats",
+          "publishedOn": "2023-03-26T07:57:16.000Z",
+          "wordCount": 433,
+          "title": "Chat2Stats",
+          "imageUrl": "https://ph-files.imgix.net/d404919c-45f1-4d0f-9e1a-0d20bb3b9edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/coinwink-v2",
@@ -85,7 +155,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/coinwink-v2",
           "publishedOn": "2023-03-26T07:02:22.000Z",
-          "wordCount": 471,
+          "wordCount": 452,
           "title": "Coinwink V2",
           "imageUrl": "https://ph-files.imgix.net/ba3a51d1-dced-4b19-ad74-d336c2347d17.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -205,7 +275,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/shipmunk-aso-keywords",
           "publishedOn": "2023-03-25T14:03:58.000Z",
-          "wordCount": 691,
+          "wordCount": 679,
           "title": "Shipmunk - ASO Keywords",
           "imageUrl": "https://ph-files.imgix.net/1b7436df-e335-499c-bca2-787ab2aaeaab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -215,7 +285,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nameverse-ai",
           "publishedOn": "2023-03-25T13:36:29.000Z",
-          "wordCount": 428,
+          "wordCount": 432,
           "title": "Nameverse AI",
           "imageUrl": "https://ph-files.imgix.net/7efdfa05-ef6b-4007-91fb-435f4b7ac47b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -235,7 +305,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kitty-tweet",
           "publishedOn": "2023-03-25T13:18:37.000Z",
-          "wordCount": 554,
+          "wordCount": 548,
           "title": "Kitty Tweet",
           "imageUrl": "https://ph-files.imgix.net/477f0ad3-c324-470e-9fca-47da91f8ed05.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -275,7 +345,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/student-pack",
           "publishedOn": "2023-03-25T11:12:01.000Z",
-          "wordCount": 395,
+          "wordCount": 376,
           "title": "Student Pack",
           "imageUrl": "https://ph-files.imgix.net/94cb2e29-84f0-4489-80e1-280f70cd581e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -295,7 +365,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/reach-io",
           "publishedOn": "2023-03-25T08:09:57.000Z",
-          "wordCount": 482,
+          "wordCount": 486,
           "title": "Reach-io",
           "imageUrl": "https://ph-files.imgix.net/4e6555f2-e155-46b7-a22e-6650100c8317.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -305,7 +375,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sidekick-by-jigso",
           "publishedOn": "2023-03-25T08:08:31.000Z",
-          "wordCount": 555,
+          "wordCount": 475,
           "title": "Sidekick (by Jigso)",
           "imageUrl": "https://ph-files.imgix.net/bc0afffa-66ad-455c-911a-e8f29f9bda25.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -315,7 +385,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/habitz-kids",
           "publishedOn": "2023-03-25T07:06:07.000Z",
-          "wordCount": 617,
+          "wordCount": 618,
           "title": "Habitz Kids",
           "imageUrl": "https://ph-files.imgix.net/c1b59028-4e8e-4dee-ad35-c7861225741b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -370,36 +440,6 @@
           "imageUrl": "https://ph-files.imgix.net/08cf9d23-d63a-45b2-8122-8970de1befa4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/quittit",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/quittit",
-          "publishedOn": "2023-03-24T17:50:00.000Z",
-          "wordCount": 464,
-          "title": "Quittit",
-          "imageUrl": "https://ph-files.imgix.net/f90565b9-9599-43d0-8677-f64b44421daf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/qwip",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/qwip",
-          "publishedOn": "2023-03-24T17:40:36.000Z",
-          "wordCount": 448,
-          "title": "QWIP",
-          "imageUrl": "https://ph-files.imgix.net/f390c38c-c64e-4b20-875c-d770276ec4b5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/prism-3e3f5d31-db9d-49e3-94bd-14550e233bb3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/prism-3e3f5d31-db9d-49e3-94bd-14550e233bb3",
-          "publishedOn": "2023-03-24T16:36:40.000Z",
-          "wordCount": 492,
-          "title": "Prism",
-          "imageUrl": "https://ph-files.imgix.net/bca2ad07-e5c0-460c-a445-28eee8051936.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/fundraising-os",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -408,36 +448,6 @@
           "wordCount": 540,
           "title": "Fundraising OS",
           "imageUrl": "https://ph-files.imgix.net/00a88f1f-ffda-4fcc-8a02-8b512de55d6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/piano-moon",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/piano-moon",
-          "publishedOn": "2023-03-24T15:44:57.000Z",
-          "wordCount": 569,
-          "title": "Piano Moon",
-          "imageUrl": "https://ph-files.imgix.net/18434ff3-1ca9-4c58-b6a0-4ca554895201.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/brick-ranker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/brick-ranker",
-          "publishedOn": "2023-03-24T13:21:06.000Z",
-          "wordCount": 488,
-          "title": "Brick Ranker",
-          "imageUrl": "https://ph-files.imgix.net/70173fd1-9812-4fe2-84ee-425a94c5a24d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/kerbo-charge",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/kerbo-charge",
-          "publishedOn": "2023-03-24T12:40:56.000Z",
-          "wordCount": 402,
-          "title": "Kerbo Charge",
-          "imageUrl": "https://ph-files.imgix.net/6b9cdc60-bcb4-435a-8012-234043b099d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/notion-travel-dashboard",
@@ -455,7 +465,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tellmeaboutyourself",
           "publishedOn": "2023-03-24T07:10:08.000Z",
-          "wordCount": 545,
+          "wordCount": 549,
           "title": "tellmeaboutyourself",
           "imageUrl": "https://ph-files.imgix.net/a33fa379-fae4-4d13-b5a2-86052cdc4e89.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -465,7 +475,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/startup-genie-ultimate-statup-assistant",
           "publishedOn": "2023-03-24T04:51:17.000Z",
-          "wordCount": 662,
+          "wordCount": 666,
           "title": "Startup Genie: Ultimate Statup Assistant",
           "imageUrl": "https://ph-files.imgix.net/e4a418fb-4697-416c-bcaa-579b80cbdcdb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -518,16 +528,6 @@
           "wordCount": 537,
           "title": "Mozart Game SDK",
           "imageUrl": "https://ph-files.imgix.net/58487771-0788-4c6e-8210-88201c7177bc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/blogs-grader-a-bloggers-best-friend-1",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/blogs-grader-a-bloggers-best-friend-1",
-          "publishedOn": "2023-03-16T21:38:34.000Z",
-          "wordCount": 612,
-          "title": "Blogs grader - A bloggers best friend",
-          "imageUrl": "https://ph-files.imgix.net/79101e88-6d70-49cd-9b54-6462be7c39ee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/streamdocs-online",
