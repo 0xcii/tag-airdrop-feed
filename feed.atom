@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-28T21:09:37.828Z</id>
+    <id>urn:2023-03-28T22:10:09.491Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-28T21:09:37.828Z</updated>
+    <updated>2023-03-28T22:10:09.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mainnet Guide — zkSync Era]]></title>
+        <id>https://medium.com/p/712f3f0af065</id>
+        <link href="https://medium.com/@CalendarDefi/mainnet-guide-zksync-era-712f3f0af065?source=rss-4949be3a0c7a------2"/>
+        <updated>2023-03-28T22:00:11.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: zkSync Era Mainnet, Potential Airdrop]]></summary>
+        <author>
+            <name>DefiCalendar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[_]]></title>
         <id>https://www.producthunt.com/posts/_-2</id>
@@ -246,18 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hampton]]></title>
-        <id>https://www.producthunt.com/posts/hampton</id>
-        <link href="https://www.producthunt.com/posts/hampton"/>
-        <updated>2023-03-27T19:23:02.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prompt Jobs]]></title>
         <id>https://www.producthunt.com/posts/prompt-jobs</id>
         <link href="https://www.producthunt.com/posts/prompt-jobs"/>
@@ -299,6 +297,18 @@
         <id>https://www.producthunt.com/posts/enhover</id>
         <link href="https://www.producthunt.com/posts/enhover"/>
         <updated>2023-03-27T17:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Shake]]></title>
+        <id>https://www.producthunt.com/posts/the-shake</id>
+        <link href="https://www.producthunt.com/posts/the-shake"/>
+        <updated>2023-03-27T17:20:19.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
