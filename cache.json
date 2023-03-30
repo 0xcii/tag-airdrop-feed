@@ -60,6 +60,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/capshot",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/capshot",
+          "publishedOn": "2023-03-29T16:03:12.000Z",
+          "wordCount": 480,
+          "title": "CapShot",
+          "imageUrl": "https://ph-files.imgix.net/36b70358-cc5d-455b-94fa-a92cd59076a2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/lighthouse-internet-guardian",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -85,7 +95,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/moonphase-info",
           "publishedOn": "2023-03-29T10:22:22.000Z",
-          "wordCount": 351,
+          "wordCount": 365,
           "title": "Moonphase.info",
           "imageUrl": "https://ph-files.imgix.net/6dd2d67a-c38d-4c3a-b390-877d2ca99d30.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -135,7 +145,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatgpt-for-zoom-and-google-meet-calls",
           "publishedOn": "2023-03-29T07:33:05.000Z",
-          "wordCount": 487,
+          "wordCount": 501,
           "title": "ChatGPT for Zoom and Google Meet calls",
           "imageUrl": "https://ph-files.imgix.net/97bb5fa4-460a-44ef-8597-3c479f662a84.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -205,7 +215,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/captr-2",
           "publishedOn": "2023-03-29T02:38:50.000Z",
-          "wordCount": 447,
+          "wordCount": 433,
           "title": "Captr",
           "imageUrl": "https://ph-files.imgix.net/11b487ce-2df0-41cd-8c07-37f33094d143.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -245,7 +255,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/spazio-bianco",
           "publishedOn": "2023-03-28T22:26:42.000Z",
-          "wordCount": 454,
+          "wordCount": 487,
           "title": "Spazio Bianco",
           "imageUrl": "https://ph-files.imgix.net/4130023e-2058-4203-814c-f80a8956fae9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -295,7 +305,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/crescent-3",
           "publishedOn": "2023-03-28T21:08:06.000Z",
-          "wordCount": 623,
+          "wordCount": 560,
           "title": "Crescent",
           "imageUrl": "https://ph-files.imgix.net/4f5aed11-97f2-471c-b42e-a06307ce7525.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -350,24 +360,14 @@
           "imageUrl": "https://ph-files.imgix.net/36f2b884-98b2-4b87-973b-fedd075f48da.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/convoy-4",
+          "id": "https://www.producthunt.com/posts/perplexity-for-iphone",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/convoy-4",
-          "publishedOn": "2023-03-28T17:52:56.000Z",
-          "wordCount": 416,
-          "title": "Convoy",
-          "imageUrl": "https://ph-files.imgix.net/e1f1aeee-92f1-4e57-a0b3-fb064143c3f5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/ai-content-detector-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ai-content-detector-2",
-          "publishedOn": "2023-03-28T15:53:36.000Z",
-          "wordCount": 404,
-          "title": "AI Content Detector",
-          "imageUrl": "https://ph-files.imgix.net/275d464d-a91d-4d91-ad54-9afcfaa63f04.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/perplexity-for-iphone",
+          "publishedOn": "2023-03-28T15:44:10.000Z",
+          "wordCount": 415,
+          "title": "Perplexity for iPhone",
+          "imageUrl": "https://ph-files.imgix.net/76604a6b-eaf5-43b2-8dc4-2a2ef9dc413a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/taskade-ai",
@@ -375,7 +375,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/taskade-ai",
           "publishedOn": "2023-03-28T15:41:50.000Z",
-          "wordCount": 679,
+          "wordCount": 602,
           "title": "Taskade AI",
           "imageUrl": "https://ph-files.imgix.net/2d00f34c-ab99-4b78-8f22-78540fadb4f1.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -390,14 +390,14 @@
           "imageUrl": "https://ph-files.imgix.net/a6df1e64-80fc-4e9a-a67d-df713f442c61.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/million-js-v2-0-0",
+          "id": "https://www.producthunt.com/posts/swipenote",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/million-js-v2-0-0",
-          "publishedOn": "2023-03-28T12:54:48.000Z",
-          "wordCount": 551,
-          "title": "Million.js v2.0.0",
-          "imageUrl": "https://ph-files.imgix.net/a37a5ded-7def-495d-84f4-723eda0f6cca.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/swipenote",
+          "publishedOn": "2023-03-28T12:37:49.000Z",
+          "wordCount": 505,
+          "title": "SwipeNote",
+          "imageUrl": "https://ph-files.imgix.net/5f512bfc-b6c3-4af8-a356-a87a26def9cb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/quewoo",
@@ -425,7 +425,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/doubleslash-ai",
           "publishedOn": "2023-03-28T05:29:17.000Z",
-          "wordCount": 431,
+          "wordCount": 445,
           "title": "DoubleSlash-AI",
           "imageUrl": "https://ph-files.imgix.net/d2e221d1-a546-432b-911c-a3bbd5bc800f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -435,19 +435,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/read-highlights",
           "publishedOn": "2023-03-27T22:30:12.000Z",
-          "wordCount": 412,
+          "wordCount": 398,
           "title": "Read Highlights",
           "imageUrl": "https://ph-files.imgix.net/42a9d8de-4716-49cc-b814-bc34d71ed29f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/chatgpt-linkedin-email-generator",
+          "id": "https://www.producthunt.com/posts/asksumo",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/chatgpt-linkedin-email-generator",
-          "publishedOn": "2023-03-27T17:35:06.000Z",
-          "wordCount": 496,
-          "title": "ChatGPT LinkedIn Email Generator",
-          "imageUrl": "https://ph-files.imgix.net/ba9515f5-a2a0-4e61-a1a3-7724a36d324f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/asksumo",
+          "publishedOn": "2023-03-27T20:29:55.000Z",
+          "wordCount": 413,
+          "title": "AskSumo",
+          "imageUrl": "https://ph-files.imgix.net/4cd304db-cf9d-49a3-b4dc-15f88e1954be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/subtledev-co",
@@ -465,7 +465,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rundit",
           "publishedOn": "2023-03-27T07:55:19.000Z",
-          "wordCount": 546,
+          "wordCount": 483,
           "title": "Rundit",
           "imageUrl": "https://ph-files.imgix.net/35527020-2178-4c79-9515-93783a7db349.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -485,7 +485,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/checklist-for-pre-seed-pitch-decks",
           "publishedOn": "2023-03-25T20:33:17.000Z",
-          "wordCount": 588,
+          "wordCount": 574,
           "title": "Checklist for Pre-Seed Pitch Decks",
           "imageUrl": "https://ph-files.imgix.net/ba517046-d4bc-4ed7-a7e7-4bfe6ab54fec.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -545,7 +545,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/knowledgehunt-1",
           "publishedOn": "2023-03-10T17:22:57.000Z",
-          "wordCount": 510,
+          "wordCount": 573,
           "title": "Knowledgehunt",
           "imageUrl": "https://ph-files.imgix.net/e121c388-4cf1-4873-8689-c96be8b22ded.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
