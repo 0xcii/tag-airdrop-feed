@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-31T09:10:43.964Z</id>
+    <id>urn:2023-03-31T10:11:39.265Z</id>
     <title>web3::cave</title>
-    <updated>2023-03-31T09:10:43.964Z</updated>
+    <updated>2023-03-31T10:11:39.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -34,18 +34,6 @@
         <id>https://www.producthunt.com/posts/lobby-code</id>
         <link href="https://www.producthunt.com/posts/lobby-code"/>
         <updated>2023-03-31T06:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Findly.ai]]></title>
-        <id>https://www.producthunt.com/posts/findly-ai</id>
-        <link href="https://www.producthunt.com/posts/findly-ai"/>
-        <updated>2023-03-31T05:42:21.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -463,6 +451,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ToobSquid.ai]]></title>
+        <id>https://www.producthunt.com/posts/toobsquid-ai</id>
+        <link href="https://www.producthunt.com/posts/toobsquid-ai"/>
+        <updated>2023-03-30T08:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Diffusion Art]]></title>
         <id>https://www.producthunt.com/posts/diffusion-art</id>
         <link href="https://www.producthunt.com/posts/diffusion-art"/>
@@ -596,9 +596,9 @@ Fuel announced the launch of the beta-3 testnet, adding P2P networking on Fuel.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT Plugins]]></title>
-        <id>https://www.producthunt.com/posts/chatgpt-plugins-5</id>
-        <link href="https://www.producthunt.com/posts/chatgpt-plugins-5"/>
+        <title type="html"><![CDATA[ChatGPT Plugins by SamurAI]]></title>
+        <id>https://www.producthunt.com/posts/chatgpt-plugins-by-samurai</id>
+        <link href="https://www.producthunt.com/posts/chatgpt-plugins-by-samurai"/>
         <updated>2023-03-27T06:58:19.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
