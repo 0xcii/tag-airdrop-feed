@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-08T07:08:45.239Z</id>
+    <id>urn:2023-04-08T08:12:00.235Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-08T07:08:45.239Z</updated>
+    <updated>2023-04-08T08:12:00.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Streamfling]]></title>
+        <id>https://www.producthunt.com/posts/streamfling</id>
+        <link href="https://www.producthunt.com/posts/streamfling"/>
+        <updated>2023-04-08T04:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Houck's Newsletter]]></title>
         <id>https://www.producthunt.com/posts/houck-s-newsletter</id>
@@ -90,9 +102,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feather Magazine WordPress Theme]]></title>
-        <id>https://www.producthunt.com/posts/feather-magazine-wordpress-theme</id>
-        <link href="https://www.producthunt.com/posts/feather-magazine-wordpress-theme"/>
+        <title type="html"><![CDATA[Feather Magazine]]></title>
+        <id>https://www.producthunt.com/posts/feather-magazine</id>
+        <link href="https://www.producthunt.com/posts/feather-magazine"/>
         <updated>2023-04-07T18:44:43.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -106,6 +118,18 @@
         <id>https://www.producthunt.com/posts/brandwise</id>
         <link href="https://www.producthunt.com/posts/brandwise"/>
         <updated>2023-04-07T16:53:34.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixar Style Faces 3D Avatars]]></title>
+        <id>https://www.producthunt.com/posts/pixar-style-faces-3d-avatars</id>
+        <link href="https://www.producthunt.com/posts/pixar-style-faces-3d-avatars"/>
+        <updated>2023-04-07T13:24:19.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -130,6 +154,18 @@
         <id>https://www.producthunt.com/posts/gpt-stylist</id>
         <link href="https://www.producthunt.com/posts/gpt-stylist"/>
         <updated>2023-04-07T11:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notion CRM Tracker]]></title>
+        <id>https://www.producthunt.com/posts/notion-crm-tracker</id>
+        <link href="https://www.producthunt.com/posts/notion-crm-tracker"/>
+        <updated>2023-04-07T11:04:16.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -306,18 +342,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CreatePay]]></title>
-        <id>https://www.producthunt.com/posts/createpay</id>
-        <link href="https://www.producthunt.com/posts/createpay"/>
-        <updated>2023-04-07T02:53:15.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Idea Bubble]]></title>
         <id>https://www.producthunt.com/posts/idea-bubble</id>
         <link href="https://www.producthunt.com/posts/idea-bubble"/>
@@ -451,18 +475,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlgoBlocks]]></title>
-        <id>https://www.producthunt.com/posts/algoblocks</id>
-        <link href="https://www.producthunt.com/posts/algoblocks"/>
-        <updated>2023-04-05T09:46:37.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Edit Videos Online]]></title>
         <id>https://www.producthunt.com/posts/edit-videos-online</id>
         <link href="https://www.producthunt.com/posts/edit-videos-online"/>
@@ -479,18 +491,6 @@
         <id>https://www.producthunt.com/posts/sendsecurely-io</id>
         <link href="https://www.producthunt.com/posts/sendsecurely-io"/>
         <updated>2023-04-04T21:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fax! Fact-or-Fake]]></title>
-        <id>https://www.producthunt.com/posts/fax-fact-or-fake</id>
-        <link href="https://www.producthunt.com/posts/fax-fact-or-fake"/>
-        <updated>2023-04-04T07:01:05.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -523,10 +523,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SwiftSole]]></title>
-        <id>https://www.producthunt.com/posts/swiftsole</id>
-        <link href="https://www.producthunt.com/posts/swiftsole"/>
-        <updated>2023-04-03T16:39:15.000Z</updated>
+        <title type="html"><![CDATA[AI Starter | An AI "Biz-in-a-Box"]]></title>
+        <id>https://www.producthunt.com/posts/ai-starter-an-ai-biz-in-a-box</id>
+        <link href="https://www.producthunt.com/posts/ai-starter-an-ai-biz-in-a-box"/>
+        <updated>2023-04-03T08:21:31.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -594,18 +594,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seazn]]></title>
-        <id>https://www.producthunt.com/posts/seazn</id>
-        <link href="https://www.producthunt.com/posts/seazn"/>
-        <updated>2023-03-30T22:32:05.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[💧 New event on http://DropsEarn.com @UFORIKA_ Elpha Ambassador Program ➡️ https://dropsearn.com/events/uforika-elpha-ambassador-program #DropsEar...]]></title>
         <id>https://twitter.com/DropsEarn/status/1641519328192331778</id>
         <link href="https://twitter.com/DropsEarn/status/1641519328192331778"/>
@@ -652,6 +640,18 @@ Fuel announced the launch of the beta-3 testnet, adding P2P networking on Fuel.
         <summary type="html"><![CDATA[TLDR: zkSync Era Mainnet, Potential Airdrop]]></summary>
         <author>
             <name>DefiCalendar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReWrit]]></title>
+        <id>https://www.producthunt.com/posts/rewrit</id>
+        <link href="https://www.producthunt.com/posts/rewrit"/>
+        <updated>2023-03-28T13:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -873,19 +873,6 @@ Talent Protocol Ambassador Program
 @BwareLabs has launched its new Ambassador Program 
 ➡️ https://dropsearn.com/event/bware-labs-ambassador-program
 #DropsEarn #Crypto #Ambassadorprogram https://t.co/qOV5b7KYLn]]></summary>
-        <author>
-            <name>Drops Earn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💧 New event on http://DropsEarn.com @HookedProtocol Ambassador Program ➡️ https://dropsearn.com/event/hooked-protocol-ambassador-program #DropsEa...]]></title>
-        <id>https://twitter.com/DropsEarn/status/1633911286583926784</id>
-        <link href="https://twitter.com/DropsEarn/status/1633911286583926784"/>
-        <updated>2023-03-09T19:23:01.000Z</updated>
-        <summary type="html"><![CDATA[💧 New event on http://DropsEarn.com
-@HookedProtocol Ambassador Program
-➡️ https://dropsearn.com/event/hooked-protocol-ambassador-program
-#DropsEarn #Crypto #Ambassadorprogram https://t.co/6eOYx4jA2D]]></summary>
         <author>
             <name>Drops Earn</name>
         </author>
