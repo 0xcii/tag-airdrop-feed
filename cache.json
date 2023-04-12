@@ -80,6 +80,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/auto-gpt",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/auto-gpt",
+          "publishedOn": "2023-04-12T17:02:51.000Z",
+          "wordCount": 426,
+          "title": "Auto-GPT",
+          "imageUrl": "https://ph-files.imgix.net/9c79433e-431a-4e69-ae51-5e10e4938b5b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/babyagi",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -135,7 +145,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatgpt-for-gmail",
           "publishedOn": "2023-04-12T11:24:10.000Z",
-          "wordCount": 686,
+          "wordCount": 603,
           "title": "ChatGPT For Gmail",
           "imageUrl": "https://ph-files.imgix.net/946c21e9-b5fd-4c90-8a78-4ff1a442f320.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -185,7 +195,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/serializd",
           "publishedOn": "2023-04-12T07:27:32.000Z",
-          "wordCount": 620,
+          "wordCount": 605,
           "title": "Serializd",
           "imageUrl": "https://ph-files.imgix.net/2cf5b4dd-8a24-4014-8806-145919b81872.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -205,7 +215,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tetrisly-lite",
           "publishedOn": "2023-04-12T07:01:10.000Z",
-          "wordCount": 497,
+          "wordCount": 588,
           "title": "Tetrisly Lite",
           "imageUrl": "https://ph-files.imgix.net/0a777b52-c290-468f-bc44-9a2eae2fee16.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -245,7 +255,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/1000-chatgpt-prompts",
           "publishedOn": "2023-04-12T04:44:50.000Z",
-          "wordCount": 535,
+          "wordCount": 539,
           "title": "1000+ ChatGPT Prompts",
           "imageUrl": "https://ph-files.imgix.net/19f92b6f-f66d-4343-9ecb-663520f5748a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -275,7 +285,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pneumatic-workflow",
           "publishedOn": "2023-04-12T03:24:13.000Z",
-          "wordCount": 531,
+          "wordCount": 620,
           "title": "Pneumatic Workflow",
           "imageUrl": "https://ph-files.imgix.net/d7218d54-f19c-4be3-b997-54d6bc5ff7f3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -320,16 +330,6 @@
           "imageUrl": "https://ph-files.imgix.net/b81149d7-9697-4f3a-9d14-baf951a00e5b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/spoiler-bot",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/spoiler-bot",
-          "publishedOn": "2023-04-11T20:57:10.000Z",
-          "wordCount": 592,
-          "title": "Spoiler Bot",
-          "imageUrl": "https://ph-files.imgix.net/38f9742a-3112-4085-837d-fa99bf6185ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/theraview",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -355,7 +355,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/missedtitles",
           "publishedOn": "2023-04-11T20:01:27.000Z",
-          "wordCount": 431,
+          "wordCount": 427,
           "title": "missedtitles",
           "imageUrl": "https://ph-files.imgix.net/0ab59e80-9dd0-4814-83b4-161ebef83143.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -375,7 +375,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/handbook-for-marketplaces",
           "publishedOn": "2023-04-11T19:02:35.000Z",
-          "wordCount": 597,
+          "wordCount": 594,
           "title": "Handbook for Marketplaces",
           "imageUrl": "https://ph-files.imgix.net/92f0ff75-9ad0-4a36-914d-c498460cd733.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -485,7 +485,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ensoview",
           "publishedOn": "2023-04-09T19:41:17.000Z",
-          "wordCount": 593,
+          "wordCount": 597,
           "title": "EnsoView",
           "imageUrl": "https://ph-files.imgix.net/270b3686-93cb-4384-81ca-e174c918d3e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -495,7 +495,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatgpt-for-google-sheets",
           "publishedOn": "2023-04-09T13:46:02.000Z",
-          "wordCount": 665,
+          "wordCount": 682,
           "title": "ChatGPT for Google Sheets",
           "imageUrl": "https://ph-files.imgix.net/d2b884fc-0f29-4710-825e-48416ad247df.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
