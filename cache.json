@@ -1,10 +1,94 @@
 {
   "sources": [
     {
+      "title": "Stories by DefiCalendar on Medium",
+      "feedUrl": "https://medium.com/feed/@CalendarDefi",
+      "siteUrl": "https://medium.com/@CalendarDefi?source=rss-4949be3a0c7a------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/d678e9b4e102",
+          "author": "DefiCalendar",
+          "description": "Mainnet, Potential Airdrop",
+          "link": "https://medium.com/@CalendarDefi/mainnet-guide-layerzero-d678e9b4e102?source=rss-4949be3a0c7a------2",
+          "publishedOn": "2023-04-10T21:38:14.000Z",
+          "wordCount": 1310,
+          "title": "Mainnet Guide — LayerZero",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*QP0Hf8N9oiBnwo-j.png"
+        },
+        {
+          "id": "https://medium.com/p/f098faf38144",
+          "author": "DefiCalendar",
+          "description": "TLDR: Testnet, Confirmed Airdrop",
+          "link": "https://medium.com/@CalendarDefi/testnet-guide-zkx-f098faf38144?source=rss-4949be3a0c7a------2",
+          "publishedOn": "2023-04-02T20:47:10.000Z",
+          "wordCount": 1338,
+          "title": "Testnet Guide — ZKX",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*0wXOrY1QJ-9beM0_"
+        },
+        {
+          "id": "https://medium.com/p/712f3f0af065",
+          "author": "DefiCalendar",
+          "description": "TLDR: zkSync Era Mainnet, Potential Airdrop",
+          "link": "https://medium.com/@CalendarDefi/mainnet-guide-zksync-era-712f3f0af065?source=rss-4949be3a0c7a------2",
+          "publishedOn": "2023-03-28T22:00:11.000Z",
+          "wordCount": 1451,
+          "title": "Mainnet Guide — zkSync Era",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*OCuaO0-lefYI35Uj.jpeg"
+        },
+        {
+          "id": "https://medium.com/p/c7935106a863",
+          "author": "DefiCalendar",
+          "description": "Our new profile page: https://link3.to/deficalendar",
+          "link": "https://medium.com/@CalendarDefi/mainnet-guide-starknet-c7935106a863?source=rss-4949be3a0c7a------2",
+          "publishedOn": "2023-03-19T21:04:28.000Z",
+          "wordCount": 1256,
+          "title": "Mainnet Guide — Starknet",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*8KIKyywmRr1bLhc0.png"
+        }
+      ]
+    },
+    {
+      "title": "Stories by Aramz on Medium",
+      "feedUrl": "https://medium.com/feed/@aramzz",
+      "siteUrl": "https://medium.com/@aramzz?source=rss-722c3df56b66------2",
+      "articles": [
+        {
+          "id": "https://medium.com/p/1bcc4b07358d",
+          "author": "Aramz",
+          "description": "Space ID just announced updates about the airdrop allocation and launched the second round of Voyage. I already tweeted about the airdrop…",
+          "link": "https://aramzz.medium.com/space-id-airdrop-and-claim-voyage-season-2-boxes-1bcc4b07358d?source=rss-722c3df56b66------2",
+          "publishedOn": "2023-03-19T16:09:53.000Z",
+          "wordCount": 1114,
+          "title": "Space ID Airdrop and Claim Voyage Season 2 Boxes",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:680/0*KksvcDKRVk2NgU9z"
+        },
+        {
+          "id": "https://medium.com/p/1b219988852a",
+          "author": "Aramz",
+          "description": "Stablecoins have become essential to the cryptocurrency ecosystem, providing a stable and reliable means of transferring value between…",
+          "link": "https://aramzz.medium.com/uno-stablecoin-introduction-1b219988852a?source=rss-722c3df56b66------2",
+          "publishedOn": "2023-03-18T11:38:02.000Z",
+          "wordCount": 2101,
+          "title": "UNO Stablecoin: Introduction",
+          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*Y4nGbUaZMSCkzO9t"
+        }
+      ]
+    },
+    {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
       "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/speech-to-text-api-by-deepgram-nova",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/speech-to-text-api-by-deepgram-nova",
+          "publishedOn": "2023-04-14T17:45:21.000Z",
+          "wordCount": 543,
+          "title": "Speech-to-Text API by Deepgram Nova",
+          "imageUrl": "https://ph-files.imgix.net/9aae786d-aa3c-43f5-a097-54bae66eac60.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/ditto-social",
           "author": null,
@@ -131,7 +215,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/foundr-ai",
           "publishedOn": "2023-04-14T06:44:34.000Z",
-          "wordCount": 619,
+          "wordCount": 600,
           "title": "Foundr AI",
           "imageUrl": "https://ph-files.imgix.net/7ed4deab-4cc5-4730-b177-4239146f6fc1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -256,16 +340,6 @@
           "imageUrl": "https://ph-files.imgix.net/9573dbaf-1ebe-4d72-98d1-f1ae1066812f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tattooschedule",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tattooschedule",
-          "publishedOn": "2023-04-13T14:45:33.000Z",
-          "wordCount": 378,
-          "title": "TattooSchedule",
-          "imageUrl": "https://ph-files.imgix.net/a5ed0dc9-3571-4276-a2c3-cbb002b69c61.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/bird-hunter",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -294,6 +368,16 @@
           "wordCount": 493,
           "title": "Notion Ultimate Second Brain",
           "imageUrl": "https://ph-files.imgix.net/cb22f5ac-6393-4e82-bde8-60544eee66e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/superpoll",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/superpoll",
+          "publishedOn": "2023-04-13T14:05:57.000Z",
+          "wordCount": 428,
+          "title": "Superpoll",
+          "imageUrl": "https://ph-files.imgix.net/bc917fe6-ff34-4bcb-8084-f195503df8af.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/flow-machine",
