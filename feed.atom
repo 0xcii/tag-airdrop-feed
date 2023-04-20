@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-20T11:08:56.244Z</id>
+    <id>urn:2023-04-20T12:20:01.238Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-20T11:08:56.244Z</updated>
+    <updated>2023-04-20T12:20:01.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -186,18 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ply (beta)]]></title>
-        <id>https://www.producthunt.com/posts/ply-beta</id>
-        <link href="https://www.producthunt.com/posts/ply-beta"/>
-        <updated>2023-04-19T17:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Restore Photo]]></title>
         <id>https://www.producthunt.com/posts/restore-photo</id>
         <link href="https://www.producthunt.com/posts/restore-photo"/>
@@ -238,6 +226,18 @@
         <id>https://www.producthunt.com/posts/demoleap-mastermind</id>
         <link href="https://www.producthunt.com/posts/demoleap-mastermind"/>
         <updated>2023-04-19T14:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OwlyWriter AI by Hootsuite]]></title>
+        <id>https://www.producthunt.com/posts/owlywriter-ai-by-hootsuite</id>
+        <link href="https://www.producthunt.com/posts/owlywriter-ai-by-hootsuite"/>
+        <updated>2023-04-19T14:01:48.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -768,9 +768,9 @@ Taiko has announced Alpha-2 testnet. Following its first testnet (a1), Snæfells
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conversa - Videos That Talk Back]]></title>
-        <id>https://www.producthunt.com/posts/conversa-videos-that-talk-back</id>
-        <link href="https://www.producthunt.com/posts/conversa-videos-that-talk-back"/>
+        <title type="html"><![CDATA[Conversa]]></title>
+        <id>https://www.producthunt.com/posts/conversa</id>
+        <link href="https://www.producthunt.com/posts/conversa"/>
         <updated>2023-03-22T22:03:10.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
