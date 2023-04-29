@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-29T17:08:34.788Z</id>
+    <id>urn:2023-04-29T18:11:42.833Z</id>
     <title>web3::cave</title>
-    <updated>2023-04-29T17:08:34.789Z</updated>
+    <updated>2023-04-29T18:11:42.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -22,6 +22,18 @@
         <id>https://www.producthunt.com/posts/the-new-endel-for-mac</id>
         <link href="https://www.producthunt.com/posts/the-new-endel-for-mac"/>
         <updated>2023-04-29T04:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FileGPT]]></title>
+        <id>https://www.producthunt.com/posts/filegpt</id>
+        <link href="https://www.producthunt.com/posts/filegpt"/>
+        <updated>2023-04-29T04:07:31.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -214,18 +226,6 @@
         <id>https://www.producthunt.com/posts/workhard-fitness</id>
         <link href="https://www.producthunt.com/posts/workhard-fitness"/>
         <updated>2023-04-27T20:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Chef!?]]></title>
-        <id>https://www.producthunt.com/posts/what-the-chef</id>
-        <link href="https://www.producthunt.com/posts/what-the-chef"/>
-        <updated>2023-04-27T20:12:17.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -520,9 +520,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DaisyUI]]></title>
-        <id>https://www.producthunt.com/posts/daisyui-2</id>
-        <link href="https://www.producthunt.com/posts/daisyui-2"/>
+        <title type="html"><![CDATA[DopeUI]]></title>
+        <id>https://www.producthunt.com/posts/dopeui-2</id>
+        <link href="https://www.producthunt.com/posts/dopeui-2"/>
         <updated>2023-04-21T19:57:58.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
