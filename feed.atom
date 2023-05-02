@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T08:13:13.664Z</id>
+    <id>urn:2023-05-02T09:10:25.662Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-02T08:13:13.664Z</updated>
+    <updated>2023-05-02T09:10:25.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AI-powered user onboarding by Userpilot]]></title>
+        <id>https://www.producthunt.com/posts/ai-powered-user-onboarding-by-userpilot</id>
+        <link href="https://www.producthunt.com/posts/ai-powered-user-onboarding-by-userpilot"/>
+        <updated>2023-05-02T07:54:41.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HelloDeco]]></title>
         <id>https://www.producthunt.com/posts/hellodeco</id>
@@ -186,18 +198,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JamGPT]]></title>
-        <id>https://www.producthunt.com/posts/jamgpt</id>
-        <link href="https://www.producthunt.com/posts/jamgpt"/>
-        <updated>2023-05-01T20:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adventure Stories]]></title>
         <id>https://www.producthunt.com/posts/adventure-stories</id>
         <link href="https://www.producthunt.com/posts/adventure-stories"/>
@@ -238,18 +238,6 @@
         <id>https://www.producthunt.com/posts/unispend</id>
         <link href="https://www.producthunt.com/posts/unispend"/>
         <updated>2023-05-01T19:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spryngtime]]></title>
-        <id>https://www.producthunt.com/posts/spryngtime</id>
-        <link href="https://www.producthunt.com/posts/spryngtime"/>
-        <updated>2023-05-01T19:16:34.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -307,18 +295,6 @@ This incentivized testnet will be a multi-year program with multiple rounds, wit
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calendar.com Scheduling Chrome Extension]]></title>
-        <id>https://www.producthunt.com/posts/calendar-com-scheduling-chrome-extension</id>
-        <link href="https://www.producthunt.com/posts/calendar-com-scheduling-chrome-extension"/>
-        <updated>2023-05-01T15:59:45.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AlternativesGPT]]></title>
         <id>https://www.producthunt.com/posts/alternativesgpt</id>
         <link href="https://www.producthunt.com/posts/alternativesgpt"/>
@@ -359,18 +335,6 @@ This incentivized testnet will be a multi-year program with multiple rounds, wit
         <id>https://www.producthunt.com/posts/safescan</id>
         <link href="https://www.producthunt.com/posts/safescan"/>
         <updated>2023-04-30T07:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product-Led Growth Guide by Amplitude]]></title>
-        <id>https://www.producthunt.com/posts/product-led-growth-guide-by-amplitude</id>
-        <link href="https://www.producthunt.com/posts/product-led-growth-guide-by-amplitude"/>
-        <updated>2023-04-29T01:03:09.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -439,6 +403,18 @@ This incentivized testnet will be a multi-year program with multiple rounds, wit
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DeepBrain AI Interview]]></title>
+        <id>https://www.producthunt.com/posts/deepbrain-ai-interview</id>
+        <link href="https://www.producthunt.com/posts/deepbrain-ai-interview"/>
+        <updated>2023-04-27T06:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Auto Subtitles]]></title>
         <id>https://www.producthunt.com/posts/auto-subtitles-1</id>
         <link href="https://www.producthunt.com/posts/auto-subtitles-1"/>
@@ -451,9 +427,9 @@ This incentivized testnet will be a multi-year program with multiple rounds, wit
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Augie, AI Assisted Video Editing]]></title>
-        <id>https://www.producthunt.com/posts/augie-ai-assisted-video-editing</id>
-        <link href="https://www.producthunt.com/posts/augie-ai-assisted-video-editing"/>
+        <title type="html"><![CDATA[Augie]]></title>
+        <id>https://www.producthunt.com/posts/augie</id>
+        <link href="https://www.producthunt.com/posts/augie"/>
         <updated>2023-04-26T18:24:04.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -581,6 +557,18 @@ This incentivized testnet will be a multi-year program with multiple rounds, wit
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Discut]]></title>
+        <id>https://www.producthunt.com/posts/discut</id>
+        <link href="https://www.producthunt.com/posts/discut"/>
+        <updated>2023-04-23T17:39:14.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marketing Machines]]></title>
         <id>https://www.producthunt.com/posts/marketing-machines</id>
         <link href="https://www.producthunt.com/posts/marketing-machines"/>
@@ -667,7 +655,7 @@ The Azuro Advocates Program is designed for passionate individuals who want to h
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No-code Chrome web scraper]]></title>
+        <title type="html"><![CDATA[No-code Chrome Web Scraper]]></title>
         <id>https://www.producthunt.com/posts/no-code-chrome-web-scraper</id>
         <link href="https://www.producthunt.com/posts/no-code-chrome-web-scraper"/>
         <updated>2023-04-14T14:31:19.000Z</updated>
@@ -752,13 +740,15 @@ The Azuro Advocates Program is designed for passionate individuals who want to h
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Testnet Guide — ZKX]]></title>
-        <id>https://medium.com/p/f098faf38144</id>
-        <link href="https://medium.com/@CalendarDefi/testnet-guide-zkx-f098faf38144?source=rss-4949be3a0c7a------2"/>
-        <updated>2023-04-02T20:47:10.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: Testnet, Confirmed Airdrop]]></summary>
+        <title type="html"><![CDATA[Journey Genie]]></title>
+        <id>https://www.producthunt.com/posts/journey-genie</id>
+        <link href="https://www.producthunt.com/posts/journey-genie"/>
+        <updated>2023-04-03T10:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
         <author>
-            <name>DefiCalendar</name>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
 </feed>
