@@ -49,22 +49,12 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
-          "id": "https://www.producthunt.com/posts/pomodori",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pomodori",
-          "publishedOn": "2023-05-15T20:13:09.000Z",
-          "wordCount": 478,
-          "title": "Pomodori",
-          "imageUrl": "https://ph-files.imgix.net/a1099751-90b6-4541-afcc-7fdc81ccc79f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tasksboard-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tasksboard-2",
           "publishedOn": "2023-05-15T13:17:27.000Z",
-          "wordCount": 457,
+          "wordCount": 387,
           "title": "TasksBoard",
           "imageUrl": "https://ph-files.imgix.net/3515f7e0-6a13-4684-8905-b85b4c9a5a90.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -74,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ampy-4",
           "publishedOn": "2023-05-15T11:01:06.000Z",
-          "wordCount": 518,
+          "wordCount": 537,
           "title": "Ampy",
           "imageUrl": "https://ph-files.imgix.net/473544f9-6553-48e5-80f5-8ea1ebb8368b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/college-tools",
           "publishedOn": "2023-05-15T09:33:14.000Z",
-          "wordCount": 559,
+          "wordCount": 578,
           "title": "College Tools",
           "imageUrl": "https://ph-files.imgix.net/6005629d-b14f-45a4-a324-e3f528f191e1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -124,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kaikul",
           "publishedOn": "2023-05-15T09:23:01.000Z",
-          "wordCount": 520,
+          "wordCount": 539,
           "title": "KaiKul",
           "imageUrl": "https://ph-files.imgix.net/a07151f2-5c0e-4cd1-98ab-fbb6d789d180.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -144,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/i-doubt-news",
           "publishedOn": "2023-05-15T07:37:19.000Z",
-          "wordCount": 533,
+          "wordCount": 552,
           "title": "I Doubt News",
           "imageUrl": "https://ph-files.imgix.net/6b93f85e-175b-4080-bec2-7aee6ede1c02.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -177,6 +167,16 @@
           "wordCount": 531,
           "title": "GpTea",
           "imageUrl": "https://ph-files.imgix.net/9ceabdce-e4d7-450f-b2f8-ffd44c95b926.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/moderator-mayhem",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/moderator-mayhem",
+          "publishedOn": "2023-05-15T06:31:05.000Z",
+          "wordCount": 467,
+          "title": "Moderator Mayhem",
+          "imageUrl": "https://ph-files.imgix.net/b7276b3b-7ee4-4035-aee6-107249637848.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/flights-for-flaneurs",
@@ -234,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flywheel-3",
           "publishedOn": "2023-05-15T02:29:06.000Z",
-          "wordCount": 377,
+          "wordCount": 374,
           "title": "flywheel",
           "imageUrl": "https://ph-files.imgix.net/5debc209-0fda-4c30-bde9-877149be85fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -274,7 +274,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chirp-blue",
           "publishedOn": "2023-05-14T19:02:46.000Z",
-          "wordCount": 605,
+          "wordCount": 586,
           "title": "Chirp.blue",
           "imageUrl": "https://ph-files.imgix.net/6fcaa615-9914-4167-96fe-2159eb55e0b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -404,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/quazel-3",
           "publishedOn": "2023-05-12T22:57:36.000Z",
-          "wordCount": 430,
+          "wordCount": 433,
           "title": "Quazel",
           "imageUrl": "https://ph-files.imgix.net/c7f98ad7-333b-4466-8f78-3f9e6dc1c937.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -484,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/indie-design-kit",
           "publishedOn": "2023-05-09T11:21:19.000Z",
-          "wordCount": 609,
+          "wordCount": 525,
           "title": "Indie Design Kit",
           "imageUrl": "https://ph-files.imgix.net/4ea894ab-dd51-4403-b201-8f6324032344.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -494,7 +494,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai2page-com",
           "publishedOn": "2023-05-08T16:27:37.000Z",
-          "wordCount": 518,
+          "wordCount": 435,
           "title": "ai2page.com",
           "imageUrl": "https://ph-files.imgix.net/95819464-0894-4a75-93e4-35d4119f609d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
