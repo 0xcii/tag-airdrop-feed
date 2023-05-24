@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-24T07:09:34.700Z</id>
+    <id>urn:2023-05-24T08:13:46.136Z</id>
     <title>web3::cave</title>
-    <updated>2023-05-24T07:09:34.700Z</updated>
+    <updated>2023-05-24T08:13:46.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Moncelo]]></title>
+        <id>https://www.producthunt.com/posts/moncelo</id>
+        <link href="https://www.producthunt.com/posts/moncelo"/>
+        <updated>2023-05-24T07:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ossjobs.dev]]></title>
         <id>https://www.producthunt.com/posts/ossjobs-dev</id>
@@ -126,42 +138,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PresentationGPT]]></title>
-        <id>https://www.producthunt.com/posts/presentationgpt</id>
-        <link href="https://www.producthunt.com/posts/presentationgpt"/>
-        <updated>2023-05-23T18:58:48.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FantasyBall NBA Optimizer]]></title>
-        <id>https://www.producthunt.com/posts/fantasyball-nba-optimizer</id>
-        <link href="https://www.producthunt.com/posts/fantasyball-nba-optimizer"/>
-        <updated>2023-05-23T18:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web In Motion]]></title>
-        <id>https://www.producthunt.com/posts/web-in-motion</id>
-        <link href="https://www.producthunt.com/posts/web-in-motion"/>
-        <updated>2023-05-23T17:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DingDoong]]></title>
         <id>https://www.producthunt.com/posts/dingdoong</id>
         <link href="https://www.producthunt.com/posts/dingdoong"/>
@@ -260,18 +236,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Audio Diary]]></title>
-        <id>https://www.producthunt.com/posts/audio-diary</id>
-        <link href="https://www.producthunt.com/posts/audio-diary"/>
-        <updated>2023-05-23T13:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DreamStory]]></title>
         <id>https://www.producthunt.com/posts/dreamstory</id>
         <link href="https://www.producthunt.com/posts/dreamstory"/>
@@ -284,10 +248,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tweetbank]]></title>
-        <id>https://www.producthunt.com/posts/tweetbank</id>
-        <link href="https://www.producthunt.com/posts/tweetbank"/>
-        <updated>2023-05-23T13:24:19.000Z</updated>
+        <title type="html"><![CDATA[nokori]]></title>
+        <id>https://www.producthunt.com/posts/nokori</id>
+        <link href="https://www.producthunt.com/posts/nokori"/>
+        <updated>2023-05-23T12:52:16.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -296,10 +260,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[nokori]]></title>
-        <id>https://www.producthunt.com/posts/nokori</id>
-        <link href="https://www.producthunt.com/posts/nokori"/>
-        <updated>2023-05-23T12:52:16.000Z</updated>
+        <title type="html"><![CDATA[[Embedditor]]]></title>
+        <id>https://www.producthunt.com/posts/embedditor</id>
+        <link href="https://www.producthunt.com/posts/embedditor"/>
+        <updated>2023-05-23T12:27:44.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -384,6 +348,18 @@
         <id>https://www.producthunt.com/posts/helphub-ai-by-commandbar</id>
         <link href="https://www.producthunt.com/posts/helphub-ai-by-commandbar"/>
         <updated>2023-05-23T05:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grai]]></title>
+        <id>https://www.producthunt.com/posts/grai</id>
+        <link href="https://www.producthunt.com/posts/grai"/>
+        <updated>2023-05-22T22:50:08.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -529,6 +505,18 @@ FusionX Finance has announced Incentivized Testnet to thank its community.
         <id>https://www.producthunt.com/posts/editby</id>
         <link href="https://www.producthunt.com/posts/editby"/>
         <updated>2023-05-21T18:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polymer]]></title>
+        <id>https://www.producthunt.com/posts/polymer-5</id>
+        <link href="https://www.producthunt.com/posts/polymer-5"/>
+        <updated>2023-05-19T17:15:16.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -717,6 +705,18 @@ FusionX Finance has announced Incentivized Testnet to thank its community.
 #Dropsearn #Crypto #Airdrop https://t.co/vHCRO3myXj]]></summary>
         <author>
             <name>Drops Earn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plug & Play Data Templates]]></title>
+        <id>https://www.producthunt.com/posts/plug-play-data-templates</id>
+        <link href="https://www.producthunt.com/posts/plug-play-data-templates"/>
+        <updated>2023-05-09T12:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
