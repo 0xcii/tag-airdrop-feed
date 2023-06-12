@@ -29,6 +29,36 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/mems-ai-photo-enhancer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mems-ai-photo-enhancer",
+          "publishedOn": "2023-06-12T18:29:44.000Z",
+          "wordCount": 629,
+          "title": "Mems AI Photo Enhancer",
+          "imageUrl": "https://ph-files.imgix.net/373156b5-1f78-4792-8238-343f5d2a5d7e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/emaillist-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/emaillist-app",
+          "publishedOn": "2023-06-12T14:50:41.000Z",
+          "wordCount": 492,
+          "title": "emaillist.app",
+          "imageUrl": "https://ph-files.imgix.net/abf9d4a3-6ffa-46ae-914c-1625a008df05.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tarotoo-interactive-tarot-reading",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tarotoo-interactive-tarot-reading",
+          "publishedOn": "2023-06-12T14:50:40.000Z",
+          "wordCount": 466,
+          "title": "Tarotoo | Interactive Tarot Reading",
+          "imageUrl": "https://ph-files.imgix.net/bdf27453-b0fe-402e-bf27-a9fcd7952786.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/buzzcutt",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -84,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/heygen-s-chatgpt-plugin",
           "publishedOn": "2023-06-12T05:17:56.000Z",
-          "wordCount": 508,
+          "wordCount": 504,
           "title": "HeyGen's ChatGPT Plugin",
           "imageUrl": "https://ph-files.imgix.net/95f75588-540e-4b92-b0a1-79b459984d54.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -134,7 +164,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/webthat-list-your-project",
           "publishedOn": "2023-06-11T21:59:26.000Z",
-          "wordCount": 560,
+          "wordCount": 556,
           "title": "Webthat - List Your Project",
           "imageUrl": "https://ph-files.imgix.net/09d8f0b9-2e94-4ac8-beaf-96a1ade83219.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -144,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/devtools-6",
           "publishedOn": "2023-06-11T19:34:31.000Z",
-          "wordCount": 537,
+          "wordCount": 533,
           "title": "DevTools",
           "imageUrl": "https://ph-files.imgix.net/ee20aa81-f92b-45b9-af2e-bbe3b0d74a64.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -154,7 +184,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bootstrap-intellisense",
           "publishedOn": "2023-06-11T18:55:40.000Z",
-          "wordCount": 515,
+          "wordCount": 511,
           "title": "Bootstrap IntelliSense",
           "imageUrl": "https://ph-files.imgix.net/2bb6629d-5e44-46c8-8aa3-199778b7ba47.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -174,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/intellyverse",
           "publishedOn": "2023-06-11T17:41:08.000Z",
-          "wordCount": 650,
+          "wordCount": 646,
           "title": "Intellyverse",
           "imageUrl": "https://ph-files.imgix.net/7e9bf822-bcc0-4877-86b7-d070dd69376e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -204,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/screenright",
           "publishedOn": "2023-06-11T14:56:36.000Z",
-          "wordCount": 501,
+          "wordCount": 497,
           "title": "ScreenRight",
           "imageUrl": "https://ph-files.imgix.net/7b2a1a76-7046-4543-9631-e8bdbbd94fa2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -214,7 +244,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/multi-find",
           "publishedOn": "2023-06-11T14:34:07.000Z",
-          "wordCount": 519,
+          "wordCount": 515,
           "title": "Multi Find",
           "imageUrl": "https://ph-files.imgix.net/1223f444-cdb5-426c-87c5-6dbdba451cbe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -234,29 +264,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/desi-avatars",
           "publishedOn": "2023-06-11T11:41:59.000Z",
-          "wordCount": 553,
+          "wordCount": 549,
           "title": "Desi Avatars",
           "imageUrl": "https://ph-files.imgix.net/97cda351-22e0-4e02-96e2-1df5a1e0d696.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/syft-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/syft-3",
-          "publishedOn": "2023-06-11T06:52:31.000Z",
-          "wordCount": 448,
-          "title": "Syft",
-          "imageUrl": "https://ph-files.imgix.net/742860fe-c6a0-4b74-be98-c742f45ea1c0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/nichefind-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/nichefind-ai",
-          "publishedOn": "2023-06-11T06:26:50.000Z",
-          "wordCount": 613,
-          "title": "NicheFind AI",
-          "imageUrl": "https://ph-files.imgix.net/7c65e360-7510-469b-b574-25c547c27eff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/secret-gpt",
@@ -264,7 +274,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/secret-gpt",
           "publishedOn": "2023-06-11T04:57:54.000Z",
-          "wordCount": 563,
+          "wordCount": 559,
           "title": "Secret-GPT",
           "imageUrl": "https://ph-files.imgix.net/c12bb655-def9-4cb8-a540-8a5cdb03ae2e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -294,7 +304,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/moonka-space",
           "publishedOn": "2023-06-10T15:31:12.000Z",
-          "wordCount": 444,
+          "wordCount": 440,
           "title": "Moonka.space",
           "imageUrl": "https://ph-files.imgix.net/76b54324-6572-432b-84ad-255d217d364f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -314,7 +324,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/findur",
           "publishedOn": "2023-06-10T12:33:50.000Z",
-          "wordCount": 550,
+          "wordCount": 546,
           "title": "Findur",
           "imageUrl": "https://ph-files.imgix.net/0c434cb8-1ddc-405c-8176-0782d926b4f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -334,7 +344,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ceeya-booking",
           "publishedOn": "2023-06-09T17:18:30.000Z",
-          "wordCount": 577,
+          "wordCount": 573,
           "title": "Ceeya Booking",
           "imageUrl": "https://ph-files.imgix.net/16b886a3-6589-42ba-bc04-d053295e8c64.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -344,7 +354,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hippo-ai",
           "publishedOn": "2023-06-09T16:45:11.000Z",
-          "wordCount": 520,
+          "wordCount": 578,
           "title": "Hippo AI",
           "imageUrl": "https://ph-files.imgix.net/9b34e5c9-5b29-4e67-8aa1-256473ae320d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cimon-by-cycode",
           "publishedOn": "2023-06-06T13:05:09.000Z",
-          "wordCount": 463,
+          "wordCount": 459,
           "title": "Cimon by Cycode",
           "imageUrl": "https://ph-files.imgix.net/99deac28-5240-402f-8214-de17af39e6d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -474,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/credal-ai",
           "publishedOn": "2023-06-05T23:17:02.000Z",
-          "wordCount": 526,
+          "wordCount": 523,
           "title": "Credal.ai",
           "imageUrl": "https://ph-files.imgix.net/e90746ea-4144-403d-8dd8-532006c48091.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -489,22 +499,12 @@
           "imageUrl": "https://ph-files.imgix.net/46e6b620-3446-4f0c-893d-6ebcb5e6500a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/founders-compensation-calculator",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/founders-compensation-calculator",
-          "publishedOn": "2023-06-01T16:16:14.000Z",
-          "wordCount": 571,
-          "title": "Founders Compensation Calculator",
-          "imageUrl": "https://ph-files.imgix.net/ff1d1f0a-67ef-4872-92d1-69c2bed99355.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/jmp-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jmp-2",
           "publishedOn": "2023-05-23T18:39:49.000Z",
-          "wordCount": 610,
+          "wordCount": 587,
           "title": "JMP",
           "imageUrl": "https://ph-files.imgix.net/1d85731a-417c-439d-9d58-28b1375d80b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
