@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-12T14:09:45.383Z</id>
+    <id>urn:2023-06-12T15:10:52.839Z</id>
     <title>web3::cave</title>
-    <updated>2023-06-12T14:09:45.383Z</updated>
+    <updated>2023-06-12T15:10:52.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Buzzcutt]]></title>
+        <id>https://www.producthunt.com/posts/buzzcutt</id>
+        <link href="https://www.producthunt.com/posts/buzzcutt"/>
+        <updated>2023-06-12T14:11:36.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Dedicated Dev]]></title>
         <id>https://www.producthunt.com/posts/a-dedicated-dev</id>
@@ -286,18 +298,6 @@
         <id>https://www.producthunt.com/posts/mindready</id>
         <link href="https://www.producthunt.com/posts/mindready"/>
         <updated>2023-06-10T23:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balance]]></title>
-        <id>https://www.producthunt.com/posts/balance-2673e5b1-3f31-41d9-ad16-e3ecfae35d0e</id>
-        <link href="https://www.producthunt.com/posts/balance-2673e5b1-3f31-41d9-ad16-e3ecfae35d0e"/>
-        <updated>2023-06-10T22:05:39.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -615,7 +615,6 @@ Taiko Alpha-3 Grímsvötn Testnet
         <id>https://medium.com/p/f3d9e9a3653d</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-polygon-zkevm-f3d9e9a3653d?source=rss-4949be3a0c7a------2"/>
         <updated>2023-06-03T22:02:11.000Z</updated>
-        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
