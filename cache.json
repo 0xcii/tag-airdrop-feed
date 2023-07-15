@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/overviv-1-0",
           "publishedOn": "2023-07-14T14:26:27.000Z",
-          "wordCount": 457,
+          "wordCount": 373,
           "title": "Overviv 1.0",
           "imageUrl": "https://ph-files.imgix.net/44d26267-2efe-4cb1-9a82-22f9911bc95d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-product-scoper",
           "publishedOn": "2023-07-14T12:09:00.000Z",
-          "wordCount": 483,
+          "wordCount": 482,
           "title": "AI Product Scoper",
           "imageUrl": "https://ph-files.imgix.net/fc945f2c-9231-44b4-9386-605393608f45.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/telly-3",
           "publishedOn": "2023-07-14T10:59:12.000Z",
-          "wordCount": 410,
+          "wordCount": 428,
           "title": "Telly",
           "imageUrl": "https://ph-files.imgix.net/b32ae6b3-c015-4dee-887a-e7fc0e0a5c0f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -104,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bikey-2",
           "publishedOn": "2023-07-14T08:28:04.000Z",
-          "wordCount": 522,
+          "wordCount": 541,
           "title": "Bikey",
           "imageUrl": "https://ph-files.imgix.net/86b97f96-67d8-4ee0-88b6-3e51e9f8a9a4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -134,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/copilot2trip",
           "publishedOn": "2023-07-14T05:45:42.000Z",
-          "wordCount": 487,
+          "wordCount": 486,
           "title": "Copilot2trip",
           "imageUrl": "https://ph-files.imgix.net/8c467afd-448c-42bd-8ba1-c3a1300dca48.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -224,7 +224,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/steadworth",
           "publishedOn": "2023-07-13T20:31:59.000Z",
-          "wordCount": 497,
+          "wordCount": 496,
           "title": "Steadworth",
           "imageUrl": "https://ph-files.imgix.net/32f314e6-9f2d-4268-b7ed-d1d7324afffd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -319,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/f08de004-96cf-4ed2-bb6e-2b404a19e607.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/makemyweb",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/makemyweb",
-          "publishedOn": "2023-07-13T09:01:46.000Z",
-          "wordCount": 529,
-          "title": "MakeMyWeb",
-          "imageUrl": "https://ph-files.imgix.net/e958d89c-fcd0-492d-a054-36a426565d84.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/reffery",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -354,9 +344,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gtm-canvas",
           "publishedOn": "2023-07-13T04:26:51.000Z",
-          "wordCount": 614,
+          "wordCount": 613,
           "title": "GTM Canvas",
           "imageUrl": "https://ph-files.imgix.net/cfd695c4-a302-425d-b560-20a1311e43f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sweep-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sweep-5",
+          "publishedOn": "2023-07-13T04:24:48.000Z",
+          "wordCount": 590,
+          "title": "Sweep",
+          "imageUrl": "https://ph-files.imgix.net/73fea507-ad01-43e0-9f13-821adcd0bb6e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/marble-insurance",
@@ -424,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wizebot",
           "publishedOn": "2023-07-11T01:18:29.000Z",
-          "wordCount": 604,
+          "wordCount": 585,
           "title": "WizeBot",
           "imageUrl": "https://ph-files.imgix.net/4aff7ce6-c613-46f1-9f24-5f41d7a5695e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -444,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/buying-bottlenecks-by-storylane",
           "publishedOn": "2023-07-10T13:17:52.000Z",
-          "wordCount": 601,
+          "wordCount": 600,
           "title": "Buying Bottlenecks by Storylane",
           "imageUrl": "https://ph-files.imgix.net/27b21132-6d20-4bf1-bd9f-46d2fb1a6b48.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -504,7 +504,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hunted-space",
           "publishedOn": "2023-06-22T18:39:10.000Z",
-          "wordCount": 536,
+          "wordCount": 535,
           "title": "Hunted Space",
           "imageUrl": "https://ph-files.imgix.net/748c83ab-3fd3-44cd-bdaf-7e03b67d4bf3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
