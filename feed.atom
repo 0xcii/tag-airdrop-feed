@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-20T21:09:14.316Z</id>
+    <id>urn:2023-07-20T22:10:15.395Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-20T21:09:14.316Z</updated>
+    <updated>2023-07-20T22:10:15.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mainnet Guide — Linea]]></title>
+        <id>https://medium.com/p/dcdaf0b822bf</id>
+        <link href="https://medium.com/@CalendarDefi/mainnet-guide-linea-dcdaf0b822bf?source=rss-4949be3a0c7a------2"/>
+        <updated>2023-07-20T21:45:54.000Z</updated>
+        <author>
+            <name>DefiCalendar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AskYourApp]]></title>
         <id>https://www.producthunt.com/posts/askyourapp</id>
@@ -532,7 +541,6 @@ One Click Crypto, a DeFi 3.0 protocol is launching an exclusive ambassador progr
         <id>https://medium.com/p/537ee8bda3ce</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-lsdfi-projects-537ee8bda3ce?source=rss-4949be3a0c7a------2"/>
         <updated>2023-07-14T22:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
