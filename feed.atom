@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T14:09:34.404Z</id>
+    <id>urn:2023-07-21T15:10:36.832Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-21T14:09:34.404Z</updated>
+    <updated>2023-07-21T15:10:36.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ShortcutsGPT]]></title>
+        <id>https://www.producthunt.com/posts/shortcutsgpt</id>
+        <link href="https://www.producthunt.com/posts/shortcutsgpt"/>
+        <updated>2023-07-21T13:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blood Pressure Tracker]]></title>
         <id>https://www.producthunt.com/posts/blood-pressure-tracker-3</id>
@@ -35,18 +47,6 @@ The goal of this bounty is to develop a supervised machine learning model that i
         <id>https://www.producthunt.com/posts/generator</id>
         <link href="https://www.producthunt.com/posts/generator"/>
         <updated>2023-07-21T11:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testing]]></title>
-        <id>https://www.producthunt.com/posts/testing-fe7f4fa0-2ebf-41fc-8ed8-563d441e15e2</id>
-        <link href="https://www.producthunt.com/posts/testing-fe7f4fa0-2ebf-41fc-8ed8-563d441e15e2"/>
-        <updated>2023-07-21T09:02:03.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
