@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-30T14:07:49.822Z</id>
+    <id>urn:2023-07-30T15:09:02.981Z</id>
     <title>web3::cave</title>
-    <updated>2023-07-30T14:07:49.822Z</updated>
+    <updated>2023-07-30T15:09:02.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -210,18 +210,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agora Square]]></title>
-        <id>https://www.producthunt.com/posts/agora-square</id>
-        <link href="https://www.producthunt.com/posts/agora-square"/>
-        <updated>2023-07-28T17:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linkbolt]]></title>
         <id>https://www.producthunt.com/posts/linkbolt</id>
         <link href="https://www.producthunt.com/posts/linkbolt"/>
@@ -238,6 +226,18 @@
         <id>https://www.producthunt.com/posts/acendi</id>
         <link href="https://www.producthunt.com/posts/acendi"/>
         <updated>2023-07-28T15:52:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lolo - AI Food Tracker]]></title>
+        <id>https://www.producthunt.com/posts/lolo-ai-food-tracker</id>
+        <link href="https://www.producthunt.com/posts/lolo-ai-food-tracker"/>
+        <updated>2023-07-28T15:28:37.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -629,7 +629,6 @@ Questify launched “The Odyssey” Ambassador program. You can join the project
         <id>https://medium.com/p/b2e0aae52dca</id>
         <link href="https://medium.com/alpha/airdrop-strategy-1-stone-7-birds-b2e0aae52dca?source=rss-722c3df56b66------2"/>
         <updated>2023-07-21T21:47:08.000Z</updated>
-        <summary type="html"><![CDATA[I will walk you through a strategy that could make you eligible for 7 airdrops. This strategy suits LSDfi users and ETH holders best.]]></summary>
         <author>
             <name>Aramz</name>
         </author>
@@ -676,7 +675,6 @@ The goal of this bounty is to develop a supervised machine learning model that i
         <id>https://medium.com/p/dcdaf0b822bf</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-linea-dcdaf0b822bf?source=rss-4949be3a0c7a------2"/>
         <updated>2023-07-20T21:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
