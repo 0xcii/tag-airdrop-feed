@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T16:15:07.694Z</id>
+    <id>urn:2023-08-09T17:10:04.936Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-09T16:15:07.694Z</updated>
+    <updated>2023-08-09T17:10:04.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -58,6 +58,18 @@
         <id>https://www.producthunt.com/posts/fourie</id>
         <link href="https://www.producthunt.com/posts/fourie"/>
         <updated>2023-08-09T06:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Tour Links by CommandBar]]></title>
+        <id>https://www.producthunt.com/posts/magic-tour-links-by-commandbar</id>
+        <link href="https://www.producthunt.com/posts/magic-tour-links-by-commandbar"/>
+        <updated>2023-08-09T04:09:58.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -126,46 +138,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ProductSlide]]></title>
-        <id>https://www.producthunt.com/posts/productslide</id>
-        <link href="https://www.producthunt.com/posts/productslide"/>
-        <updated>2023-08-08T19:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[.dbignore]]></title>
         <id>https://www.producthunt.com/posts/dbignore-2</id>
         <link href="https://www.producthunt.com/posts/dbignore-2"/>
         <updated>2023-08-08T19:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IDX.dev]]></title>
-        <id>https://www.producthunt.com/posts/idx-dev</id>
-        <link href="https://www.producthunt.com/posts/idx-dev"/>
-        <updated>2023-08-08T19:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VitoDeploy]]></title>
-        <id>https://www.producthunt.com/posts/vitodeploy</id>
-        <link href="https://www.producthunt.com/posts/vitodeploy"/>
-        <updated>2023-08-08T19:03:42.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -222,34 +198,22 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Text to Speech API]]></title>
+        <id>https://www.producthunt.com/posts/text-to-speech-api</id>
+        <link href="https://www.producthunt.com/posts/text-to-speech-api"/>
+        <updated>2023-08-08T17:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Notion for University Students]]></title>
         <id>https://www.producthunt.com/posts/notion-for-university-students</id>
         <link href="https://www.producthunt.com/posts/notion-for-university-students"/>
         <updated>2023-08-08T16:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNS Diagnosis]]></title>
-        <id>https://www.producthunt.com/posts/dns-diagnosis</id>
-        <link href="https://www.producthunt.com/posts/dns-diagnosis"/>
-        <updated>2023-08-08T15:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StudentAI]]></title>
-        <id>https://www.producthunt.com/posts/studentai</id>
-        <link href="https://www.producthunt.com/posts/studentai"/>
-        <updated>2023-08-08T15:52:53.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -426,6 +390,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[fitIQ]]></title>
+        <id>https://www.producthunt.com/posts/fitiq</id>
+        <link href="https://www.producthunt.com/posts/fitiq"/>
+        <updated>2023-08-07T09:28:05.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Botdocs]]></title>
         <id>https://www.producthunt.com/posts/botdocs</id>
         <link href="https://www.producthunt.com/posts/botdocs"/>
@@ -504,6 +480,30 @@ Base Onchain Summer Festival
         <id>https://www.producthunt.com/posts/neighborbrite-vision</id>
         <link href="https://www.producthunt.com/posts/neighborbrite-vision"/>
         <updated>2023-08-03T21:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spinach.io]]></title>
+        <id>https://www.producthunt.com/posts/spinach-io-2</id>
+        <link href="https://www.producthunt.com/posts/spinach-io-2"/>
+        <updated>2023-08-03T18:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jasmine Energy]]></title>
+        <id>https://www.producthunt.com/posts/jasmine-energy</id>
+        <link href="https://www.producthunt.com/posts/jasmine-energy"/>
+        <updated>2023-08-02T19:21:14.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
