@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-16T12:18:37.532Z</id>
+    <id>urn:2023-08-16T13:12:21.600Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-16T12:18:37.532Z</updated>
+    <updated>2023-08-16T13:12:21.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -154,7 +154,6 @@
         <id>https://medium.com/p/4525ca40c509</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-gitcoin-grants-round-18-4525ca40c509?source=rss-4949be3a0c7a------2"/>
         <updated>2023-08-15T22:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
@@ -172,10 +171,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[StreamSphere]]></title>
-        <id>https://www.producthunt.com/posts/streamsphere</id>
-        <link href="https://www.producthunt.com/posts/streamsphere"/>
-        <updated>2023-08-15T21:05:46.000Z</updated>
+        <title type="html"><![CDATA[FINARKY]]></title>
+        <id>https://www.producthunt.com/posts/finarky</id>
+        <link href="https://www.producthunt.com/posts/finarky"/>
+        <updated>2023-08-15T21:12:41.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -208,6 +207,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Karate Labs]]></title>
+        <id>https://www.producthunt.com/posts/karate-labs</id>
+        <link href="https://www.producthunt.com/posts/karate-labs"/>
+        <updated>2023-08-15T20:06:02.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gem]]></title>
         <id>https://www.producthunt.com/posts/gem-3d783fc9-f041-460a-a3dd-ccfe7cb6ff79</id>
         <link href="https://www.producthunt.com/posts/gem-3d783fc9-f041-460a-a3dd-ccfe7cb6ff79"/>
@@ -232,22 +243,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JungGPT]]></title>
-        <id>https://www.producthunt.com/posts/junggpt</id>
-        <link href="https://www.producthunt.com/posts/junggpt"/>
-        <updated>2023-08-15T18:11:21.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quicklofy]]></title>
-        <id>https://www.producthunt.com/posts/quicklofy</id>
-        <link href="https://www.producthunt.com/posts/quicklofy"/>
-        <updated>2023-08-15T17:57:44.000Z</updated>
+        <title type="html"><![CDATA[SpendSights]]></title>
+        <id>https://www.producthunt.com/posts/spendsights</id>
+        <link href="https://www.producthunt.com/posts/spendsights"/>
+        <updated>2023-08-15T18:59:19.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -272,6 +271,18 @@
         <id>https://www.producthunt.com/posts/ytranscribe</id>
         <link href="https://www.producthunt.com/posts/ytranscribe"/>
         <updated>2023-08-15T15:24:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YT Careers]]></title>
+        <id>https://www.producthunt.com/posts/yt-careers</id>
+        <link href="https://www.producthunt.com/posts/yt-careers"/>
+        <updated>2023-08-15T15:17:37.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -424,18 +435,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AskVideo.ai]]></title>
-        <id>https://www.producthunt.com/posts/askvideo-ai</id>
-        <link href="https://www.producthunt.com/posts/askvideo-ai"/>
-        <updated>2023-08-14T17:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SOON]]></title>
         <id>https://www.producthunt.com/posts/soon-9</id>
         <link href="https://www.producthunt.com/posts/soon-9"/>
@@ -496,6 +495,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VectorShift]]></title>
+        <id>https://www.producthunt.com/posts/vectorshift</id>
+        <link href="https://www.producthunt.com/posts/vectorshift"/>
+        <updated>2023-08-14T07:08:07.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Likeness]]></title>
         <id>https://www.producthunt.com/posts/the-likeness</id>
         <link href="https://www.producthunt.com/posts/the-likeness"/>
@@ -544,10 +555,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Requestly Session Replays]]></title>
-        <id>https://www.producthunt.com/posts/requestly-session-replays</id>
-        <link href="https://www.producthunt.com/posts/requestly-session-replays"/>
-        <updated>2023-08-10T21:50:53.000Z</updated>
+        <title type="html"><![CDATA[Slidebean]]></title>
+        <id>https://www.producthunt.com/posts/slidebean-687d953f-df48-4d79-9e71-458260826235</id>
+        <link href="https://www.producthunt.com/posts/slidebean-687d953f-df48-4d79-9e71-458260826235"/>
+        <updated>2023-08-10T20:49:38.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -560,7 +571,6 @@
         <id>https://medium.com/p/73eec91ad0c6</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-base-73eec91ad0c6?source=rss-4949be3a0c7a------2"/>
         <updated>2023-08-09T21:33:37.000Z</updated>
-        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
@@ -626,7 +636,6 @@
         <id>https://medium.com/p/b2e0aae52dca</id>
         <link href="https://medium.com/alpha/airdrop-strategy-1-stone-7-birds-b2e0aae52dca?source=rss-722c3df56b66------2"/>
         <updated>2023-07-21T21:47:08.000Z</updated>
-        <summary type="html"><![CDATA[I will walk you through a strategy that could make you eligible for 7 airdrops. This strategy suits LSDfi users and ETH holders best.]]></summary>
         <author>
             <name>Aramz</name>
         </author>
@@ -636,7 +645,6 @@
         <id>https://medium.com/p/dcdaf0b822bf</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-linea-dcdaf0b822bf?source=rss-4949be3a0c7a------2"/>
         <updated>2023-07-20T21:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
@@ -646,18 +654,6 @@
         <id>https://www.producthunt.com/posts/microthemer</id>
         <link href="https://www.producthunt.com/posts/microthemer"/>
         <updated>2023-07-19T20:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spaceship.com]]></title>
-        <id>https://www.producthunt.com/posts/spaceship-com</id>
-        <link href="https://www.producthunt.com/posts/spaceship-com"/>
-        <updated>2023-07-19T12:36:47.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
