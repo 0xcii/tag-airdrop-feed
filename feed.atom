@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-17T14:09:12.923Z</id>
+    <id>urn:2023-08-17T15:09:44.389Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-17T14:09:12.923Z</updated>
+    <updated>2023-08-17T15:09:44.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -210,30 +210,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AutoMailman]]></title>
-        <id>https://www.producthunt.com/posts/automailman</id>
-        <link href="https://www.producthunt.com/posts/automailman"/>
-        <updated>2023-08-16T21:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowly]]></title>
-        <id>https://www.producthunt.com/posts/flowly-3</id>
-        <link href="https://www.producthunt.com/posts/flowly-3"/>
-        <updated>2023-08-16T20:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Notion Book Tracker]]></title>
         <id>https://www.producthunt.com/posts/notion-book-tracker-dc2ef29b-3c76-4670-b016-dbd742c8740d</id>
         <link href="https://www.producthunt.com/posts/notion-book-tracker-dc2ef29b-3c76-4670-b016-dbd742c8740d"/>
@@ -270,10 +246,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Glasses Gone]]></title>
-        <id>https://www.producthunt.com/posts/glasses-gone</id>
-        <link href="https://www.producthunt.com/posts/glasses-gone"/>
-        <updated>2023-08-16T17:17:57.000Z</updated>
+        <title type="html"><![CDATA[Sherpa-Map]]></title>
+        <id>https://www.producthunt.com/posts/sherpa-map</id>
+        <link href="https://www.producthunt.com/posts/sherpa-map"/>
+        <updated>2023-08-16T17:21:43.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -282,10 +258,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CaptionsLab]]></title>
-        <id>https://www.producthunt.com/posts/captionslab</id>
-        <link href="https://www.producthunt.com/posts/captionslab"/>
-        <updated>2023-08-16T15:46:34.000Z</updated>
+        <title type="html"><![CDATA[SellScale]]></title>
+        <id>https://www.producthunt.com/posts/sellscale-2</id>
+        <link href="https://www.producthunt.com/posts/sellscale-2"/>
+        <updated>2023-08-16T16:34:09.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -298,18 +274,6 @@
         <id>https://www.producthunt.com/posts/ai-grants-finder</id>
         <link href="https://www.producthunt.com/posts/ai-grants-finder"/>
         <updated>2023-08-16T15:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[earlyStage]]></title>
-        <id>https://www.producthunt.com/posts/earlystage-2</id>
-        <link href="https://www.producthunt.com/posts/earlystage-2"/>
-        <updated>2023-08-16T14:42:57.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -402,6 +366,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Subscriptions Tracker]]></title>
+        <id>https://www.producthunt.com/posts/subscriptions-tracker-2</id>
+        <link href="https://www.producthunt.com/posts/subscriptions-tracker-2"/>
+        <updated>2023-08-16T07:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Variables by Uiflow Studio]]></title>
         <id>https://www.producthunt.com/posts/variables-by-uiflow-studio</id>
         <link href="https://www.producthunt.com/posts/variables-by-uiflow-studio"/>
@@ -421,6 +397,18 @@
         <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synaptiq]]></title>
+        <id>https://www.producthunt.com/posts/synaptiq</id>
+        <link href="https://www.producthunt.com/posts/synaptiq"/>
+        <updated>2023-08-15T19:39:22.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -534,6 +522,18 @@
         <id>https://www.producthunt.com/posts/warmup-inbox</id>
         <link href="https://www.producthunt.com/posts/warmup-inbox"/>
         <updated>2023-08-09T12:27:14.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[heyLibby]]></title>
+        <id>https://www.producthunt.com/posts/heylibby</id>
+        <link href="https://www.producthunt.com/posts/heylibby"/>
+        <updated>2023-08-08T21:25:30.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
