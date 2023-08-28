@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T17:09:18.352Z</id>
+    <id>urn:2023-08-28T18:12:53.466Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-28T17:09:18.352Z</updated>
+    <updated>2023-08-28T18:12:53.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Five to Thrive]]></title>
+        <id>https://www.producthunt.com/posts/five-to-thrive</id>
+        <link href="https://www.producthunt.com/posts/five-to-thrive"/>
+        <updated>2023-08-28T18:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxalus]]></title>
         <id>https://www.producthunt.com/posts/oxalus</id>
@@ -474,18 +486,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MindPal Search]]></title>
-        <id>https://www.producthunt.com/posts/mindpal-search</id>
-        <link href="https://www.producthunt.com/posts/mindpal-search"/>
-        <updated>2023-08-22T10:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[fesh.store]]></title>
         <id>https://www.producthunt.com/posts/fesh-store</id>
         <link href="https://www.producthunt.com/posts/fesh-store"/>
@@ -574,6 +574,7 @@
         <id>https://medium.com/p/4525ca40c509</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-gitcoin-grants-round-18-4525ca40c509?source=rss-4949be3a0c7a------2"/>
         <updated>2023-08-15T22:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
