@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-29T11:08:32.328Z</id>
+    <id>urn:2023-08-29T12:19:28.328Z</id>
     <title>web3::cave</title>
-    <updated>2023-08-29T11:08:32.328Z</updated>
+    <updated>2023-08-29T12:19:28.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -94,6 +94,18 @@
         <id>https://www.producthunt.com/posts/stream-deck-button-designer</id>
         <link href="https://www.producthunt.com/posts/stream-deck-button-designer"/>
         <updated>2023-08-28T21:32:06.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spout Watermaker]]></title>
+        <id>https://www.producthunt.com/posts/spout-watermaker</id>
+        <link href="https://www.producthunt.com/posts/spout-watermaker"/>
+        <updated>2023-08-28T19:01:53.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -270,18 +282,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oxalus]]></title>
-        <id>https://www.producthunt.com/posts/oxalus</id>
-        <link href="https://www.producthunt.com/posts/oxalus"/>
-        <updated>2023-08-28T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Magic Deals]]></title>
         <id>https://www.producthunt.com/posts/magic-deals</id>
         <link href="https://www.producthunt.com/posts/magic-deals"/>
@@ -426,9 +426,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DearReal]]></title>
-        <id>https://www.producthunt.com/posts/dearreal</id>
-        <link href="https://www.producthunt.com/posts/dearreal"/>
+        <title type="html"><![CDATA[DearReal - The Trustworthy Dating App]]></title>
+        <id>https://www.producthunt.com/posts/dearreal-the-trustworthy-dating-app</id>
+        <link href="https://www.producthunt.com/posts/dearreal-the-trustworthy-dating-app"/>
         <updated>2023-08-24T08:50:29.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -572,6 +572,7 @@
         <id>https://medium.com/p/73eec91ad0c6</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-base-73eec91ad0c6?source=rss-4949be3a0c7a------2"/>
         <updated>2023-08-09T21:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
