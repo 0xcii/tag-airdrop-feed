@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-06T10:10:51.032Z</id>
+    <id>urn:2023-09-06T11:08:36.507Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-06T10:10:51.032Z</updated>
+    <updated>2023-09-06T11:08:36.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TP–7]]></title>
+        <id>https://www.producthunt.com/posts/tp-7</id>
+        <link href="https://www.producthunt.com/posts/tp-7"/>
+        <updated>2023-09-06T10:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion Template Checklist]]></title>
         <id>https://www.producthunt.com/posts/notion-template-checklist</id>
@@ -66,7 +78,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amanu]]></title>
+        <title type="html"><![CDATA[🅰️ Amanu]]></title>
         <id>https://www.producthunt.com/posts/amanu</id>
         <link href="https://www.producthunt.com/posts/amanu"/>
         <updated>2023-09-06T00:30:20.000Z</updated>
@@ -250,18 +262,6 @@
         <id>https://www.producthunt.com/posts/story-studio</id>
         <link href="https://www.producthunt.com/posts/story-studio"/>
         <updated>2023-09-05T08:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OP3D]]></title>
-        <id>https://www.producthunt.com/posts/op3d</id>
-        <link href="https://www.producthunt.com/posts/op3d"/>
-        <updated>2023-09-05T08:03:15.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -526,6 +526,7 @@
         <id>https://medium.com/p/4525ca40c509</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-gitcoin-grants-round-18-4525ca40c509?source=rss-4949be3a0c7a------2"/>
         <updated>2023-08-15T22:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
