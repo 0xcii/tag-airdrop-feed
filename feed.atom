@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-13T02:17:06.863Z</id>
+    <id>urn:2023-09-13T03:10:35.546Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-13T02:17:06.863Z</updated>
+    <updated>2023-09-13T03:10:35.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -198,18 +198,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HyperConnector]]></title>
-        <id>https://www.producthunt.com/posts/hyperconnector</id>
-        <link href="https://www.producthunt.com/posts/hyperconnector"/>
-        <updated>2023-09-11T17:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Budgeat]]></title>
         <id>https://www.producthunt.com/posts/budgeat-2</id>
         <link href="https://www.producthunt.com/posts/budgeat-2"/>
@@ -262,6 +250,18 @@
         <id>https://www.producthunt.com/posts/the-saas-factory</id>
         <link href="https://www.producthunt.com/posts/the-saas-factory"/>
         <updated>2023-09-11T15:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnyWare]]></title>
+        <id>https://www.producthunt.com/posts/anyware</id>
+        <link href="https://www.producthunt.com/posts/anyware"/>
+        <updated>2023-09-11T14:17:17.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -586,7 +586,6 @@
         <id>https://medium.com/p/4525ca40c509</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-gitcoin-grants-round-18-4525ca40c509?source=rss-4949be3a0c7a------2"/>
         <updated>2023-08-15T22:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
