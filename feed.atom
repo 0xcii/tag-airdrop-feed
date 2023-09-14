@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-14T10:11:36.918Z</id>
+    <id>urn:2023-09-14T11:09:29.819Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-14T10:11:36.918Z</updated>
+    <updated>2023-09-14T11:09:29.819Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -174,18 +174,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docalysis AI Chat with Multiple Files]]></title>
-        <id>https://www.producthunt.com/posts/docalysis-ai-chat-with-multiple-files</id>
-        <link href="https://www.producthunt.com/posts/docalysis-ai-chat-with-multiple-files"/>
-        <updated>2023-09-13T17:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Portfolio Magic by Contra]]></title>
         <id>https://www.producthunt.com/posts/portfolio-magic-by-contra</id>
         <link href="https://www.producthunt.com/posts/portfolio-magic-by-contra"/>
@@ -294,9 +282,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Releases - Changelog Software]]></title>
-        <id>https://www.producthunt.com/posts/releases-changelog-software</id>
-        <link href="https://www.producthunt.com/posts/releases-changelog-software"/>
+        <title type="html"><![CDATA[Releases]]></title>
+        <id>https://www.producthunt.com/posts/releases-2</id>
+        <link href="https://www.producthunt.com/posts/releases-2"/>
         <updated>2023-09-13T08:31:16.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -394,6 +382,18 @@
         <id>https://www.producthunt.com/posts/friendly-3</id>
         <link href="https://www.producthunt.com/posts/friendly-3"/>
         <updated>2023-09-11T22:46:51.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XSight]]></title>
+        <id>https://www.producthunt.com/posts/xsight-2</id>
+        <link href="https://www.producthunt.com/posts/xsight-2"/>
+        <updated>2023-09-11T21:38:19.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -567,16 +567,6 @@
             Link]]></summary>
         <author>
             <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mainnet Guide — Gitcoin Grants Round 18]]></title>
-        <id>https://medium.com/p/4525ca40c509</id>
-        <link href="https://medium.com/@CalendarDefi/mainnet-guide-gitcoin-grants-round-18-4525ca40c509?source=rss-4949be3a0c7a------2"/>
-        <updated>2023-08-15T22:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
-        <author>
-            <name>DefiCalendar</name>
         </author>
     </entry>
 </feed>
