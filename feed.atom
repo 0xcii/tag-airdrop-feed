@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-20T04:12:33.494Z</id>
+    <id>urn:2023-09-20T05:09:57.135Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-20T04:12:33.494Z</updated>
+    <updated>2023-09-20T05:09:57.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,18 @@
         <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oso Modeler]]></title>
+        <id>https://www.producthunt.com/posts/oso-modeler</id>
+        <link href="https://www.producthunt.com/posts/oso-modeler"/>
+        <updated>2023-09-19T13:46:02.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
@@ -428,18 +440,6 @@
         <id>https://www.producthunt.com/posts/the-popup-project-2</id>
         <link href="https://www.producthunt.com/posts/the-popup-project-2"/>
         <updated>2023-09-15T14:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GenieeAI]]></title>
-        <id>https://www.producthunt.com/posts/genieeai</id>
-        <link href="https://www.producthunt.com/posts/genieeai"/>
-        <updated>2023-09-14T20:02:38.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
