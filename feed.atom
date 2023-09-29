@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-29T17:09:42.402Z</id>
+    <id>urn:2023-09-29T18:13:38.666Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-29T17:09:42.402Z</updated>
+    <updated>2023-09-29T18:13:38.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Echo]]></title>
+        <id>https://www.producthunt.com/posts/echo-085ed6ad-0850-4f8e-8535-6e72724b8db2</id>
+        <link href="https://www.producthunt.com/posts/echo-085ed6ad-0850-4f8e-8535-6e72724b8db2"/>
+        <updated>2023-09-29T17:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Green Room AI]]></title>
         <id>https://www.producthunt.com/posts/green-room-ai</id>
@@ -18,9 +30,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sober October Challenge]]></title>
-        <id>https://www.producthunt.com/posts/sober-october-challenge</id>
-        <link href="https://www.producthunt.com/posts/sober-october-challenge"/>
+        <title type="html"><![CDATA[Sober October AI Chatbot]]></title>
+        <id>https://www.producthunt.com/posts/sober-october-ai-chatbot</id>
+        <link href="https://www.producthunt.com/posts/sober-october-ai-chatbot"/>
         <updated>2023-09-29T06:02:54.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -462,18 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatRealtor]]></title>
-        <id>https://www.producthunt.com/posts/chatrealtor</id>
-        <link href="https://www.producthunt.com/posts/chatrealtor"/>
-        <updated>2023-09-27T03:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Remove Background (Privacy-First)]]></title>
         <id>https://www.producthunt.com/posts/remove-background-privacy-first</id>
         <link href="https://www.producthunt.com/posts/remove-background-privacy-first"/>
@@ -562,6 +562,7 @@
         <id>https://medium.com/p/c5bd840e1243</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-zora-c5bd840e1243?source=rss-4949be3a0c7a------2"/>
         <updated>2023-09-19T23:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
