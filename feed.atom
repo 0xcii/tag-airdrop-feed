@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-30T23:09:49.302Z</id>
+    <id>urn:2023-10-01T00:54:29.467Z</id>
     <title>web3::cave</title>
-    <updated>2023-09-30T23:09:49.302Z</updated>
+    <updated>2023-10-01T00:54:29.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -282,18 +282,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MOTOSPOT]]></title>
-        <id>https://www.producthunt.com/posts/motospot</id>
-        <link href="https://www.producthunt.com/posts/motospot"/>
-        <updated>2023-09-28T15:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X Unfollower]]></title>
         <id>https://www.producthunt.com/posts/x-unfollower</id>
         <link href="https://www.producthunt.com/posts/x-unfollower"/>
@@ -430,6 +418,18 @@
         <id>https://www.producthunt.com/posts/i18n-studio</id>
         <link href="https://www.producthunt.com/posts/i18n-studio"/>
         <updated>2023-09-24T09:17:01.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Hunt Workbook]]></title>
+        <id>https://www.producthunt.com/posts/product-hunt-workbook</id>
+        <link href="https://www.producthunt.com/posts/product-hunt-workbook"/>
+        <updated>2023-09-24T07:26:51.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
