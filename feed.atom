@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-03T10:11:31.119Z</id>
+    <id>urn:2023-10-03T11:08:59.234Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-03T10:11:31.119Z</updated>
+    <updated>2023-10-03T11:08:59.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NextGenTool.io]]></title>
+        <id>https://www.producthunt.com/posts/nextgentool-io</id>
+        <link href="https://www.producthunt.com/posts/nextgentool-io"/>
+        <updated>2023-10-03T09:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Suku Uptime]]></title>
         <id>https://www.producthunt.com/posts/suku-uptime</id>
@@ -82,6 +94,18 @@
         <id>https://www.producthunt.com/posts/joola-app</id>
         <link href="https://www.producthunt.com/posts/joola-app"/>
         <updated>2023-10-02T23:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Prompt Finder]]></title>
+        <id>https://www.producthunt.com/posts/ai-prompt-finder</id>
+        <link href="https://www.producthunt.com/posts/ai-prompt-finder"/>
+        <updated>2023-10-02T22:41:17.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -246,9 +270,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Watchlistfy: Watchlist Tracker]]></title>
-        <id>https://www.producthunt.com/posts/watchlistfy-watchlist-tracker</id>
-        <link href="https://www.producthunt.com/posts/watchlistfy-watchlist-tracker"/>
+        <title type="html"><![CDATA[Watchlistfy]]></title>
+        <id>https://www.producthunt.com/posts/watchlistfy</id>
+        <link href="https://www.producthunt.com/posts/watchlistfy"/>
         <updated>2023-10-02T15:15:48.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -294,18 +318,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrowdSync App]]></title>
-        <id>https://www.producthunt.com/posts/crowdsync-app</id>
-        <link href="https://www.producthunt.com/posts/crowdsync-app"/>
-        <updated>2023-09-30T04:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nara Therapy]]></title>
         <id>https://www.producthunt.com/posts/nara-therapy</id>
         <link href="https://www.producthunt.com/posts/nara-therapy"/>
@@ -318,9 +330,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Actor Builder by Artflow.ai]]></title>
-        <id>https://www.producthunt.com/posts/actor-builder-by-artflow-ai</id>
-        <link href="https://www.producthunt.com/posts/actor-builder-by-artflow-ai"/>
+        <title type="html"><![CDATA[Actor Builder]]></title>
+        <id>https://www.producthunt.com/posts/actor-builder</id>
+        <link href="https://www.producthunt.com/posts/actor-builder"/>
         <updated>2023-09-29T10:13:26.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -462,18 +474,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intently]]></title>
-        <id>https://www.producthunt.com/posts/intently-ai</id>
-        <link href="https://www.producthunt.com/posts/intently-ai"/>
-        <updated>2023-09-24T16:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Expert Remote]]></title>
         <id>https://www.producthunt.com/posts/expert-remote</id>
         <link href="https://www.producthunt.com/posts/expert-remote"/>
@@ -514,6 +514,7 @@
         <id>https://medium.com/p/c5bd840e1243</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-zora-c5bd840e1243?source=rss-4949be3a0c7a------2"/>
         <updated>2023-09-19T23:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
