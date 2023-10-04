@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T15:11:30.648Z</id>
+    <id>urn:2023-10-04T16:14:11.569Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-04T15:11:30.648Z</updated>
+    <updated>2023-10-04T16:14:11.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -10,6 +10,18 @@
         <id>https://www.producthunt.com/posts/magic-studio-2</id>
         <link href="https://www.producthunt.com/posts/magic-studio-2"/>
         <updated>2023-10-04T13:34:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pikd]]></title>
+        <id>https://www.producthunt.com/posts/pikd</id>
+        <link href="https://www.producthunt.com/posts/pikd"/>
+        <updated>2023-10-04T12:57:15.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -138,9 +150,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangChain Integration]]></title>
-        <id>https://www.producthunt.com/posts/langchain-integration</id>
-        <link href="https://www.producthunt.com/posts/langchain-integration"/>
+        <title type="html"><![CDATA[n8n LangChain integration]]></title>
+        <id>https://www.producthunt.com/posts/n8n-langchain-integration</id>
+        <link href="https://www.producthunt.com/posts/n8n-langchain-integration"/>
         <updated>2023-10-04T00:17:47.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -250,18 +262,6 @@
         <id>https://www.producthunt.com/posts/theia-2</id>
         <link href="https://www.producthunt.com/posts/theia-2"/>
         <updated>2023-10-03T16:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memotico]]></title>
-        <id>https://www.producthunt.com/posts/memotico</id>
-        <link href="https://www.producthunt.com/posts/memotico"/>
-        <updated>2023-10-03T16:28:28.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
