@@ -29,14 +29,44 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/brainstory",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/brainstory",
+          "publishedOn": "2023-10-09T21:43:35.000Z",
+          "wordCount": 502,
+          "title": "BrainStory",
+          "imageUrl": "https://ph-files.imgix.net/cefbad5e-c116-43ac-812a-f20ec6972979.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ebio-gg",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ebio-gg",
+          "publishedOn": "2023-10-09T18:15:08.000Z",
+          "wordCount": 617,
+          "title": "ebio.gg",
+          "imageUrl": "https://ph-files.imgix.net/07651b47-e138-47a5-8130-85161a8c3627.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/serene-bbd9636b-c2f4-485b-940c-10f06a754690",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/serene-bbd9636b-c2f4-485b-940c-10f06a754690",
           "publishedOn": "2023-10-09T14:10:52.000Z",
-          "wordCount": 494,
+          "wordCount": 475,
           "title": "Serene",
           "imageUrl": "https://ph-files.imgix.net/754791c5-b227-43e7-ba93-f53c8cdba00e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/stakingcrypto-io",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/stakingcrypto-io",
+          "publishedOn": "2023-10-09T12:01:32.000Z",
+          "wordCount": 529,
+          "title": "StakingCrypto.io",
+          "imageUrl": "https://ph-files.imgix.net/346d1d2e-fe90-47e5-a874-948cbb24b28b.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/klustr",
@@ -74,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dyva-coming-soon",
           "publishedOn": "2023-10-09T08:40:39.000Z",
-          "wordCount": 477,
+          "wordCount": 496,
           "title": "Dyva - Coming Soon",
           "imageUrl": "https://ph-files.imgix.net/e65f2481-0bb8-4558-a520-32b9f080d820.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -94,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dorosi-ai",
           "publishedOn": "2023-10-09T07:17:50.000Z",
-          "wordCount": 540,
+          "wordCount": 480,
           "title": "Dorosi AI",
           "imageUrl": "https://ph-files.imgix.net/1225b17b-73da-40b3-9fe6-67e43def2e9c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -124,7 +154,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/business-idea-generator-3",
           "publishedOn": "2023-10-09T01:39:28.000Z",
-          "wordCount": 328,
+          "wordCount": 409,
           "title": "Business Idea Generator",
           "imageUrl": "https://ph-files.imgix.net/25a3cbf5-b659-44d1-81c0-66e4dbf723a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -144,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/payload-2-0",
           "publishedOn": "2023-10-08T22:00:25.000Z",
-          "wordCount": 539,
+          "wordCount": 626,
           "title": "Payload 2.0",
           "imageUrl": "https://ph-files.imgix.net/ae898dd5-5a80-43f2-b560-bda9033c4966.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -304,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/loop-english",
           "publishedOn": "2023-10-06T14:54:46.000Z",
-          "wordCount": 542,
+          "wordCount": 461,
           "title": "Loop English",
           "imageUrl": "https://ph-files.imgix.net/a7fcdcea-540a-4234-bd92-92959a9be2c7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -329,16 +359,6 @@
           "imageUrl": "https://ph-files.imgix.net/c1248b7a-09b2-4545-9731-9ab105d65164.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/dimeos-the-ultimate-finance-tracker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dimeos-the-ultimate-finance-tracker",
-          "publishedOn": "2023-10-05T14:47:45.000Z",
-          "wordCount": 651,
-          "title": "DimeOS - The Ultimate Finance Tracker",
-          "imageUrl": "https://ph-files.imgix.net/a8d0e6d5-0611-4488-aa5b-0689177d2045.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/design-os-1",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -347,16 +367,6 @@
           "wordCount": 506,
           "title": "Design OS",
           "imageUrl": "https://ph-files.imgix.net/52ee7e23-1362-402e-986c-f7a7d25e4956.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/williamsburg",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/williamsburg",
-          "publishedOn": "2023-10-05T08:54:09.000Z",
-          "wordCount": 365,
-          "title": "Williamsburg",
-          "imageUrl": "https://ph-files.imgix.net/6bee33aa-04e1-4aca-b44e-dcfc6c594c1f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/spring-xcelerator",
@@ -419,16 +429,6 @@
           "imageUrl": "https://ph-files.imgix.net/b14e3634-94ac-4fb6-8b91-e6894bc1c010.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/notion4teachers",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/notion4teachers",
-          "publishedOn": "2023-10-03T07:37:24.000Z",
-          "wordCount": 528,
-          "title": "Notion4Teachers",
-          "imageUrl": "https://ph-files.imgix.net/fbe69604-a650-4262-bdd2-2ec0b0c04726.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/smartbrandly",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/automaze",
           "publishedOn": "2023-10-01T10:36:27.000Z",
-          "wordCount": 568,
+          "wordCount": 508,
           "title": "Automaze",
           "imageUrl": "https://ph-files.imgix.net/d80af154-eb2b-4a15-95a2-0a05e59f49ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
