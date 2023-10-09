@@ -26,8 +26,18 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/serene-bbd9636b-c2f4-485b-940c-10f06a754690",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/serene-bbd9636b-c2f4-485b-940c-10f06a754690",
+          "publishedOn": "2023-10-09T14:10:52.000Z",
+          "wordCount": 494,
+          "title": "Serene",
+          "imageUrl": "https://ph-files.imgix.net/754791c5-b227-43e7-ba93-f53c8cdba00e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/klustr",
           "author": null,
@@ -114,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/business-idea-generator-3",
           "publishedOn": "2023-10-09T01:39:28.000Z",
-          "wordCount": 409,
+          "wordCount": 328,
           "title": "Business Idea Generator",
           "imageUrl": "https://ph-files.imgix.net/25a3cbf5-b659-44d1-81c0-66e4dbf723a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -134,7 +144,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/payload-2-0",
           "publishedOn": "2023-10-08T22:00:25.000Z",
-          "wordCount": 626,
+          "wordCount": 539,
           "title": "Payload 2.0",
           "imageUrl": "https://ph-files.imgix.net/ae898dd5-5a80-43f2-b560-bda9033c4966.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -359,16 +369,6 @@
           "imageUrl": "https://ph-files.imgix.net/9d279527-8f6a-4cf0-b913-72793e2eb306.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/company-crm",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/company-crm",
-          "publishedOn": "2023-10-04T14:35:17.000Z",
-          "wordCount": 393,
-          "title": "Company CRM",
-          "imageUrl": "https://ph-files.imgix.net/1b288779-dc3d-4d04-8b5d-1aa75791c116.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/color-fuse-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/smartbrandly",
           "publishedOn": "2023-10-02T13:33:46.000Z",
-          "wordCount": 603,
+          "wordCount": 604,
           "title": "SmartBrandly",
           "imageUrl": "https://ph-files.imgix.net/1ec50cb0-638b-428b-9c68-2f2a70cba9ee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/automaze",
           "publishedOn": "2023-10-01T10:36:27.000Z",
-          "wordCount": 564,
+          "wordCount": 568,
           "title": "Automaze",
           "imageUrl": "https://ph-files.imgix.net/d80af154-eb2b-4a15-95a2-0a05e59f49ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
