@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/loop-switch",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/loop-switch",
+          "publishedOn": "2023-10-11T21:53:27.000Z",
+          "wordCount": 496,
+          "title": "Loop Switch",
+          "imageUrl": "https://ph-files.imgix.net/67a7e529-9732-4378-92c8-4beecf9d3a17.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/nl-pearl",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -164,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/self-4",
           "publishedOn": "2023-10-10T17:33:19.000Z",
-          "wordCount": 513,
+          "wordCount": 517,
           "title": "Self",
           "imageUrl": "https://ph-files.imgix.net/91b05afa-cd30-4967-8071-cc06cd0e57bc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -249,16 +259,6 @@
           "imageUrl": "https://ph-files.imgix.net/1c0e745a-418b-41d4-b32f-66e9ce033ebe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/assistr-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/assistr-ai",
-          "publishedOn": "2023-10-10T10:41:54.000Z",
-          "wordCount": 591,
-          "title": "Assistr.ai",
-          "imageUrl": "https://ph-files.imgix.net/3722bf41-897d-44dd-88b9-70f811502e3d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/nadia-slezak-media",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -314,7 +314,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/blaze-9e15dcad-8e5a-4e92-a06f-fa3c97e86625",
           "publishedOn": "2023-10-09T21:51:33.000Z",
-          "wordCount": 472,
+          "wordCount": 391,
           "title": "Blaze",
           "imageUrl": "https://ph-files.imgix.net/a2e01468-4eaf-438e-8b39-0c174183d9cc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -334,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/notionplates",
           "publishedOn": "2023-10-09T20:05:04.000Z",
-          "wordCount": 546,
+          "wordCount": 527,
           "title": "NotionPlates",
           "imageUrl": "https://ph-files.imgix.net/714c2f90-8c59-4ee3-88ac-9bfd1f21fe21.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/simplyfit",
           "publishedOn": "2023-10-04T14:16:56.000Z",
-          "wordCount": 545,
+          "wordCount": 464,
           "title": "SimplyFit",
           "imageUrl": "https://ph-files.imgix.net/148207c0-d461-4e26-ae07-bc0e09177edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -484,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-professional-headshots",
           "publishedOn": "2023-09-29T19:53:23.000Z",
-          "wordCount": 478,
+          "wordCount": 565,
           "title": "AI Professional Headshots",
           "imageUrl": "https://ph-files.imgix.net/63119f77-629e-423b-bb87-e6e257c7dfb5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
