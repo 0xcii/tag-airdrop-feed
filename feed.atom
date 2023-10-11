@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T09:11:11.850Z</id>
+    <id>urn:2023-10-11T10:11:47.140Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-11T09:11:11.850Z</updated>
+    <updated>2023-10-11T10:11:47.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tarori]]></title>
+        <id>https://www.producthunt.com/posts/tarori</id>
+        <link href="https://www.producthunt.com/posts/tarori"/>
+        <updated>2023-10-11T09:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Interviewer]]></title>
         <id>https://www.producthunt.com/posts/the-interviewer</id>
@@ -258,34 +270,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Assistr.ai]]></title>
-        <id>https://www.producthunt.com/posts/assistr-ai</id>
-        <link href="https://www.producthunt.com/posts/assistr-ai"/>
-        <updated>2023-10-10T10:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nadia Slezak Media]]></title>
         <id>https://www.producthunt.com/posts/nadia-slezak-media</id>
         <link href="https://www.producthunt.com/posts/nadia-slezak-media"/>
         <updated>2023-10-10T10:24:58.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visualtap.design]]></title>
-        <id>https://www.producthunt.com/posts/visualtap-design</id>
-        <link href="https://www.producthunt.com/posts/visualtap-design"/>
-        <updated>2023-10-10T08:06:33.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -354,6 +342,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[QuickQuest]]></title>
+        <id>https://www.producthunt.com/posts/quickquest</id>
+        <link href="https://www.producthunt.com/posts/quickquest"/>
+        <updated>2023-10-09T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NotionPlates]]></title>
         <id>https://www.producthunt.com/posts/notionplates</id>
         <link href="https://www.producthunt.com/posts/notionplates"/>
@@ -378,9 +378,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scalar API References / Swagger Editor]]></title>
-        <id>https://www.producthunt.com/posts/scalar-api-references-swagger-editor</id>
-        <link href="https://www.producthunt.com/posts/scalar-api-references-swagger-editor"/>
+        <title type="html"><![CDATA[Swagger Editor]]></title>
+        <id>https://www.producthunt.com/posts/swagger-editor</id>
+        <link href="https://www.producthunt.com/posts/swagger-editor"/>
         <updated>2023-10-09T08:46:05.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -426,9 +426,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[anchors | Event - Maximizing Reach]]></title>
-        <id>https://www.producthunt.com/posts/anchors-event-maximizing-reach</id>
-        <link href="https://www.producthunt.com/posts/anchors-event-maximizing-reach"/>
+        <title type="html"><![CDATA[Events]]></title>
+        <id>https://www.producthunt.com/posts/events-2</id>
+        <link href="https://www.producthunt.com/posts/events-2"/>
         <updated>2023-10-06T12:09:45.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -498,9 +498,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SimplyFit: Your AI Fitness Mentor]]></title>
-        <id>https://www.producthunt.com/posts/simplyfit-your-ai-fitness-mentor</id>
-        <link href="https://www.producthunt.com/posts/simplyfit-your-ai-fitness-mentor"/>
+        <title type="html"><![CDATA[SimplyFit]]></title>
+        <id>https://www.producthunt.com/posts/simplyfit</id>
+        <link href="https://www.producthunt.com/posts/simplyfit"/>
         <updated>2023-10-04T14:16:56.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -546,9 +546,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe Express Connector by CI HUB]]></title>
-        <id>https://www.producthunt.com/posts/adobe-express-connector-by-ci-hub</id>
-        <link href="https://www.producthunt.com/posts/adobe-express-connector-by-ci-hub"/>
+        <title type="html"><![CDATA[Adobe Express Connector]]></title>
+        <id>https://www.producthunt.com/posts/adobe-express-connector</id>
+        <link href="https://www.producthunt.com/posts/adobe-express-connector"/>
         <updated>2023-09-27T07:21:37.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
