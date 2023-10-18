@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/x-link-preview",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/x-link-preview",
+          "publishedOn": "2023-10-18T11:58:05.000Z",
+          "wordCount": 594,
+          "title": "X Link Preview",
+          "imageUrl": "https://ph-files.imgix.net/de90eda6-0003-4c10-bdc8-4a5be1cb5c85.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/groodles-art-therapy-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -164,19 +174,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/xillion-401k-optimizer",
           "publishedOn": "2023-10-17T22:54:53.000Z",
-          "wordCount": 577,
+          "wordCount": 579,
           "title": "Xillion 401k Optimizer",
           "imageUrl": "https://ph-files.imgix.net/f8105b5a-c578-4a56-a855-a0baef3ed428.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/flutterflow-for-ipad",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/flutterflow-for-ipad",
-          "publishedOn": "2023-10-17T21:58:01.000Z",
-          "wordCount": 587,
-          "title": "FlutterFlow for iPad",
-          "imageUrl": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/backroad",
@@ -184,7 +184,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/backroad",
           "publishedOn": "2023-10-17T19:56:25.000Z",
-          "wordCount": 417,
+          "wordCount": 336,
           "title": "Backroad",
           "imageUrl": "https://ph-files.imgix.net/49041c2e-3e83-4a1f-904f-02bb6232d931.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -309,16 +309,6 @@
           "imageUrl": "https://ph-files.imgix.net/6a2cbc9e-9a7e-41b5-a6e5-ad459965e76d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/komfy-couch-streaming",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/komfy-couch-streaming",
-          "publishedOn": "2023-10-17T11:05:19.000Z",
-          "wordCount": 540,
-          "title": "Komfy: Couch streaming",
-          "imageUrl": "https://ph-files.imgix.net/7138918e-7d28-4077-ac04-e13da3474c71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/soccer-moments",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -327,6 +317,16 @@
           "wordCount": 379,
           "title": "Soccer Moments",
           "imageUrl": "https://ph-files.imgix.net/097b6b02-95c8-4fad-8013-97c9c0705b8f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/aivatar-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/aivatar-2",
+          "publishedOn": "2023-10-17T10:10:35.000Z",
+          "wordCount": 578,
+          "title": "Aivatar",
+          "imageUrl": "https://ph-files.imgix.net/3bdbe619-8b98-4bde-8142-6aa777dd92ab.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/instaforum",
@@ -384,7 +384,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/work-hub",
           "publishedOn": "2023-10-16T17:08:11.000Z",
-          "wordCount": 463,
+          "wordCount": 468,
           "title": "Work Hub",
           "imageUrl": "https://ph-files.imgix.net/9012dee2-97ae-4501-af5b-e9719bde5d81.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cookiejar",
           "publishedOn": "2023-10-12T01:10:36.000Z",
-          "wordCount": 594,
+          "wordCount": 590,
           "title": "CookieJar",
           "imageUrl": "https://ph-files.imgix.net/77334e7f-246f-481f-9c3e-949347f5966c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,58 +464,38 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/exitfund",
           "publishedOn": "2023-10-11T20:01:48.000Z",
-          "wordCount": 518,
+          "wordCount": 599,
           "title": "Exitfund",
           "imageUrl": "https://ph-files.imgix.net/08262106-5974-46e4-99e4-261643020d7a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/harmony-accessible-ui-color-palette",
+          "id": "https://www.producthunt.com/posts/harmony-f46918b9-21c6-44c9-8ff9-aba6bebfa584",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/harmony-accessible-ui-color-palette",
+          "link": "https://www.producthunt.com/posts/harmony-f46918b9-21c6-44c9-8ff9-aba6bebfa584",
           "publishedOn": "2023-10-11T12:28:45.000Z",
-          "wordCount": 574,
-          "title": "Harmony: Accessible UI Color Palette",
+          "wordCount": 534,
+          "title": "Harmony",
           "imageUrl": "https://ph-files.imgix.net/47171972-43c0-4ec6-9224-3321cd3dec09.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/stripe-embedded-checkout",
+          "id": "https://www.producthunt.com/posts/ai-content-genie",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/stripe-embedded-checkout",
-          "publishedOn": "2023-10-10T15:42:27.000Z",
-          "wordCount": 540,
-          "title": "Stripe Embedded Checkout",
-          "imageUrl": "https://ph-files.imgix.net/5461f0ad-7b25-451f-ab04-c3f9fcbb3a06.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/mumbler",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/mumbler",
-          "publishedOn": "2023-10-09T09:12:58.000Z",
-          "wordCount": 614,
-          "title": "Mumbler",
-          "imageUrl": "https://ph-files.imgix.net/cae841dd-033f-45c6-8417-8264d2a2d0ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/narrato-ai-content-genie",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/narrato-ai-content-genie",
+          "link": "https://www.producthunt.com/posts/ai-content-genie",
           "publishedOn": "2023-10-04T07:11:36.000Z",
-          "wordCount": 663,
-          "title": "Narrato AI Content Genie",
+          "wordCount": 672,
+          "title": "AI Content Genie",
           "imageUrl": "https://ph-files.imgix.net/d061d726-589e-4307-8b7b-4e2a41719bea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/mindr-mindful-reminders",
+          "id": "https://www.producthunt.com/posts/mindr",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/mindr-mindful-reminders",
+          "link": "https://www.producthunt.com/posts/mindr",
           "publishedOn": "2023-09-19T22:40:36.000Z",
-          "wordCount": 615,
-          "title": "Mindr - Mindful Reminders",
+          "wordCount": 585,
+          "title": "Mindr",
           "imageUrl": "https://ph-files.imgix.net/f25ebcfa-cca2-4c95-bece-45bc523b689f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]

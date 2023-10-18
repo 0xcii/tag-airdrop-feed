@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-18T14:10:17.242Z</id>
+    <id>urn:2023-10-18T15:11:13.595Z</id>
     <title>web3::cave</title>
-    <updated>2023-10-18T14:10:17.242Z</updated>
+    <updated>2023-10-18T15:11:13.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[X Link Preview]]></title>
+        <id>https://www.producthunt.com/posts/x-link-preview</id>
+        <link href="https://www.producthunt.com/posts/x-link-preview"/>
+        <updated>2023-10-18T11:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groodles - Art Therapy App]]></title>
         <id>https://www.producthunt.com/posts/groodles-art-therapy-app</id>
@@ -174,18 +186,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FlutterFlow for iPad]]></title>
-        <id>https://www.producthunt.com/posts/flutterflow-for-ipad</id>
-        <link href="https://www.producthunt.com/posts/flutterflow-for-ipad"/>
-        <updated>2023-10-17T21:58:01.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Backroad]]></title>
         <id>https://www.producthunt.com/posts/backroad</id>
         <link href="https://www.producthunt.com/posts/backroad"/>
@@ -342,10 +342,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Komfy: Couch streaming]]></title>
-        <id>https://www.producthunt.com/posts/komfy-couch-streaming</id>
-        <link href="https://www.producthunt.com/posts/komfy-couch-streaming"/>
-        <updated>2023-10-17T11:05:19.000Z</updated>
+        <title type="html"><![CDATA[Soccer Moments]]></title>
+        <id>https://www.producthunt.com/posts/soccer-moments</id>
+        <link href="https://www.producthunt.com/posts/soccer-moments"/>
+        <updated>2023-10-17T10:57:28.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -354,10 +354,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soccer Moments]]></title>
-        <id>https://www.producthunt.com/posts/soccer-moments</id>
-        <link href="https://www.producthunt.com/posts/soccer-moments"/>
-        <updated>2023-10-17T10:57:28.000Z</updated>
+        <title type="html"><![CDATA[Aivatar]]></title>
+        <id>https://www.producthunt.com/posts/aivatar-2</id>
+        <link href="https://www.producthunt.com/posts/aivatar-2"/>
+        <updated>2023-10-17T10:10:35.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -534,9 +534,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harmony: Accessible UI Color Palette]]></title>
-        <id>https://www.producthunt.com/posts/harmony-accessible-ui-color-palette</id>
-        <link href="https://www.producthunt.com/posts/harmony-accessible-ui-color-palette"/>
+        <title type="html"><![CDATA[Harmony]]></title>
+        <id>https://www.producthunt.com/posts/harmony-f46918b9-21c6-44c9-8ff9-aba6bebfa584</id>
+        <link href="https://www.producthunt.com/posts/harmony-f46918b9-21c6-44c9-8ff9-aba6bebfa584"/>
         <updated>2023-10-11T12:28:45.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -546,33 +546,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stripe Embedded Checkout]]></title>
-        <id>https://www.producthunt.com/posts/stripe-embedded-checkout</id>
-        <link href="https://www.producthunt.com/posts/stripe-embedded-checkout"/>
-        <updated>2023-10-10T15:42:27.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mumbler]]></title>
-        <id>https://www.producthunt.com/posts/mumbler</id>
-        <link href="https://www.producthunt.com/posts/mumbler"/>
-        <updated>2023-10-09T09:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narrato AI Content Genie]]></title>
-        <id>https://www.producthunt.com/posts/narrato-ai-content-genie</id>
-        <link href="https://www.producthunt.com/posts/narrato-ai-content-genie"/>
+        <title type="html"><![CDATA[AI Content Genie]]></title>
+        <id>https://www.producthunt.com/posts/ai-content-genie</id>
+        <link href="https://www.producthunt.com/posts/ai-content-genie"/>
         <updated>2023-10-04T07:11:36.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -592,9 +568,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mindr - Mindful Reminders]]></title>
-        <id>https://www.producthunt.com/posts/mindr-mindful-reminders</id>
-        <link href="https://www.producthunt.com/posts/mindr-mindful-reminders"/>
+        <title type="html"><![CDATA[Mindr]]></title>
+        <id>https://www.producthunt.com/posts/mindr</id>
+        <link href="https://www.producthunt.com/posts/mindr"/>
         <updated>2023-09-19T22:40:36.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
