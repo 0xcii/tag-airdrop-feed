@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/nolanai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/nolanai",
+          "publishedOn": "2023-10-18T19:37:43.000Z",
+          "wordCount": 542,
+          "title": "NolanAI",
+          "imageUrl": "https://ph-files.imgix.net/1ea17dab-4146-4bbe-8610-0140b5ec8e27.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/daystack",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -114,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/time-zone-overlap",
           "publishedOn": "2023-10-18T05:43:51.000Z",
-          "wordCount": 456,
+          "wordCount": 516,
           "title": "Time zone overlap",
           "imageUrl": "https://ph-files.imgix.net/934d654b-ff0b-4eb4-81cc-ef782760ef88.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -154,7 +164,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supawiki",
           "publishedOn": "2023-10-18T02:48:30.000Z",
-          "wordCount": 473,
+          "wordCount": 533,
           "title": "Supawiki",
           "imageUrl": "https://ph-files.imgix.net/db9b551d-09cd-447e-b445-75166fdb881e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -199,6 +209,16 @@
           "imageUrl": "https://ph-files.imgix.net/f8105b5a-c578-4a56-a855-a0baef3ed428.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/flutterflow-for-ipad",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/flutterflow-for-ipad",
+          "publishedOn": "2023-10-17T21:58:01.000Z",
+          "wordCount": 587,
+          "title": "FlutterFlow for iPad",
+          "imageUrl": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/backroad",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -224,7 +244,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sprint-6",
           "publishedOn": "2023-10-17T18:49:26.000Z",
-          "wordCount": 625,
+          "wordCount": 629,
           "title": "Sprint",
           "imageUrl": "https://ph-files.imgix.net/960f2e4f-0af6-4f5b-bede-fab225e8e02d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -254,7 +274,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/travelaroundtheworld",
           "publishedOn": "2023-10-17T15:46:45.000Z",
-          "wordCount": 571,
+          "wordCount": 575,
           "title": "TravelAroundTheWorld",
           "imageUrl": "https://ph-files.imgix.net/438f4401-9034-40b0-a9b5-f1e04169b0bb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -299,26 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/36c34310-6a6b-4a08-9d20-c9fee8f88d0b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/gopdf",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/gopdf",
-          "publishedOn": "2023-10-17T12:30:00.000Z",
-          "wordCount": 426,
-          "title": "GoPDF",
-          "imageUrl": "https://ph-files.imgix.net/90b9821f-3bea-4db3-a858-58c6a2779918.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/zoviz",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/zoviz",
-          "publishedOn": "2023-10-17T12:08:46.000Z",
-          "wordCount": 430,
-          "title": "Zoviz",
-          "imageUrl": "https://ph-files.imgix.net/6a2cbc9e-9a7e-41b5-a6e5-ad459965e76d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/soccer-moments",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -327,16 +327,6 @@
           "wordCount": 379,
           "title": "Soccer Moments",
           "imageUrl": "https://ph-files.imgix.net/097b6b02-95c8-4fad-8013-97c9c0705b8f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/instaforum",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/instaforum",
-          "publishedOn": "2023-10-17T09:31:17.000Z",
-          "wordCount": 604,
-          "title": "Instaforum",
-          "imageUrl": "https://ph-files.imgix.net/6a4c9c0a-847f-4222-8406-fdbaf0ba4eb1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/lastmile-ai",
@@ -377,16 +367,6 @@
           "wordCount": 531,
           "title": "Showday",
           "imageUrl": "https://ph-files.imgix.net/592d2417-e4ab-47e7-b899-c595b5cc32c4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/creato-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/creato-ai-2",
-          "publishedOn": "2023-10-16T17:24:33.000Z",
-          "wordCount": 325,
-          "title": "creato.ai",
-          "imageUrl": "https://ph-files.imgix.net/ee313ef7-fd71-4a66-ac07-d8a22359de05.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/work-hub",
@@ -454,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/exitfund",
           "publishedOn": "2023-10-11T20:01:48.000Z",
-          "wordCount": 539,
+          "wordCount": 599,
           "title": "Exitfund",
           "imageUrl": "https://ph-files.imgix.net/08262106-5974-46e4-99e4-261643020d7a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/harmony-f46918b9-21c6-44c9-8ff9-aba6bebfa584",
           "publishedOn": "2023-10-11T12:28:45.000Z",
-          "wordCount": 474,
+          "wordCount": 534,
           "title": "Harmony",
           "imageUrl": "https://ph-files.imgix.net/1b04b225-b508-47b1-bfc2-a016fcac56e2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -479,12 +459,32 @@
           "imageUrl": "https://ph-files.imgix.net/1b2238b0-f8b8-467e-9956-7f733abc208c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/stripe-embedded-checkout",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/stripe-embedded-checkout",
+          "publishedOn": "2023-10-10T15:42:27.000Z",
+          "wordCount": 540,
+          "title": "Stripe Embedded Checkout",
+          "imageUrl": "https://ph-files.imgix.net/5461f0ad-7b25-451f-ab04-c3f9fcbb3a06.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mumbler",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mumbler",
+          "publishedOn": "2023-10-09T09:12:58.000Z",
+          "wordCount": 616,
+          "title": "Mumbler",
+          "imageUrl": "https://ph-files.imgix.net/cae841dd-033f-45c6-8417-8264d2a2d0ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ai-content-genie",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-content-genie",
           "publishedOn": "2023-10-04T07:11:36.000Z",
-          "wordCount": 594,
+          "wordCount": 654,
           "title": "AI Content Genie",
           "imageUrl": "https://ph-files.imgix.net/d061d726-589e-4307-8b7b-4e2a41719bea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -494,7 +494,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mindr",
           "publishedOn": "2023-09-19T22:40:36.000Z",
-          "wordCount": 585,
+          "wordCount": 523,
           "title": "Mindr",
           "imageUrl": "https://ph-files.imgix.net/f25ebcfa-cca2-4c95-bece-45bc523b689f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
