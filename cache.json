@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/moemate",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/moemate",
+          "publishedOn": "2023-10-25T12:42:48.000Z",
+          "wordCount": 486,
+          "title": "Moemate",
+          "imageUrl": "https://ph-files.imgix.net/b9b4de04-d9a6-48a0-90ad-58c9708253de.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/dipsway-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -113,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/llime",
           "publishedOn": "2023-10-24T16:02:03.000Z",
-          "wordCount": 431,
+          "wordCount": 436,
           "title": "LLime",
           "imageUrl": "https://ph-files.imgix.net/bd5c86d8-8c0c-4473-b0b4-8d6e8600e265.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -203,7 +213,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/componly",
           "publishedOn": "2023-10-24T10:21:22.000Z",
-          "wordCount": 478,
+          "wordCount": 480,
           "title": "Componly",
           "imageUrl": "https://ph-files.imgix.net/1270424e-f63d-4e04-a9c4-6b563d977207.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -253,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/heyweb",
           "publishedOn": "2023-10-23T19:19:31.000Z",
-          "wordCount": 489,
+          "wordCount": 570,
           "title": "Heyweb",
           "imageUrl": "https://ph-files.imgix.net/b17ad7da-ec31-4dab-b6e2-bec116439799.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -318,16 +328,6 @@
           "imageUrl": "https://ph-files.imgix.net/ce1e8eaa-a163-4fa7-bd83-40c86041120c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/irys",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/irys",
-          "publishedOn": "2023-10-20T12:19:51.000Z",
-          "wordCount": 470,
-          "title": "Irys",
-          "imageUrl": "https://ph-files.imgix.net/530f18ac-d76d-44b5-b674-bc12a3aee63e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/investor-base-by-spendbase-series-a",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/publer-for-mastodon",
           "publishedOn": "2023-10-20T07:31:37.000Z",
-          "wordCount": 497,
+          "wordCount": 584,
           "title": "Publer for Mastodon",
           "imageUrl": "https://ph-files.imgix.net/bf09a349-ea93-4e74-a3b8-b993a01f43de.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -393,7 +393,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trueranker-2",
           "publishedOn": "2023-10-18T02:15:52.000Z",
-          "wordCount": 460,
+          "wordCount": 479,
           "title": "TrueRanker",
           "imageUrl": "https://ph-files.imgix.net/4fea97a9-8fe1-464c-a05f-a2e4a79bfc76.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
