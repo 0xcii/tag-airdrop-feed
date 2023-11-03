@@ -40,6 +40,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/doritos-silent",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/doritos-silent",
+          "publishedOn": "2023-11-03T14:46:49.000Z",
+          "wordCount": 461,
+          "title": "Doritos Silent",
+          "imageUrl": "https://ph-files.imgix.net/ca295997-f36e-4eb4-9301-bb4b037ba4f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/potionpitch-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -115,7 +125,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bookmarked-2",
           "publishedOn": "2023-11-02T19:44:35.000Z",
-          "wordCount": 531,
+          "wordCount": 534,
           "title": "Bookmarked",
           "imageUrl": "https://ph-files.imgix.net/c6520d98-a978-4bf0-b2b1-cce630ffc96f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -440,16 +450,6 @@
           "imageUrl": "https://ph-files.imgix.net/82c80852-7c0e-41c1-a487-62c655df4e75.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/enhanced-build-lite",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/enhanced-build-lite",
-          "publishedOn": "2023-10-27T20:33:15.000Z",
-          "wordCount": 344,
-          "title": "Enhanced Build Lite",
-          "imageUrl": "https://ph-files.imgix.net/f8df30c9-1ef5-4e8f-bb80-b75044cc622b.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/wattle",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -485,7 +485,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/buzzwork",
           "publishedOn": "2023-10-18T17:53:42.000Z",
-          "wordCount": 512,
+          "wordCount": 509,
           "title": "BuzzWork",
           "imageUrl": "https://ph-files.imgix.net/08d83e36-9a1c-4910-8300-d617029802e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -495,7 +495,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/insightio-ai",
           "publishedOn": "2023-10-17T13:24:05.000Z",
-          "wordCount": 494,
+          "wordCount": 493,
           "title": "Insightio AI",
           "imageUrl": "https://ph-files.imgix.net/23c8221b-37a5-4a25-9252-5c45008eac4a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
