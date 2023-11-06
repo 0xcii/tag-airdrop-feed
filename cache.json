@@ -40,6 +40,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/massinbox",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/massinbox",
+          "publishedOn": "2023-11-06T08:32:19.000Z",
+          "wordCount": 582,
+          "title": "MassInbox",
+          "imageUrl": "https://ph-files.imgix.net/269a3c51-b1eb-4810-bd87-5ff708395ee8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/aicarousels-2-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -100,16 +110,6 @@
           "imageUrl": "https://ph-files.imgix.net/07cb16dd-74e1-4c34-b029-960198fff6a1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/grok-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/grok-4",
-          "publishedOn": "2023-11-05T22:05:39.000Z",
-          "wordCount": 394,
-          "title": "Grok",
-          "imageUrl": "https://ph-files.imgix.net/bd76a160-470f-4533-86f8-2242477b8480.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/quizzle",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -135,7 +135,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/quenti",
           "publishedOn": "2023-11-05T16:07:58.000Z",
-          "wordCount": 403,
+          "wordCount": 477,
           "title": "Quenti",
           "imageUrl": "https://ph-files.imgix.net/7743c3a9-a32d-4628-a13f-7a02a08b9f62.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -155,7 +155,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/designcode-ui",
           "publishedOn": "2023-11-05T08:04:07.000Z",
-          "wordCount": 557,
+          "wordCount": 576,
           "title": "DesignCode UI",
           "imageUrl": "https://ph-files.imgix.net/412ad604-b0c2-497e-93e6-dd307127f701.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -235,7 +235,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cicada-4",
           "publishedOn": "2023-11-03T23:20:05.000Z",
-          "wordCount": 572,
+          "wordCount": 576,
           "title": "Cicada",
           "imageUrl": "https://ph-files.imgix.net/cebeea28-ec30-4370-ad45-928ff3e3c3a8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -300,13 +300,13 @@
           "imageUrl": "https://ph-files.imgix.net/577bcba9-bfb9-4fa3-ab55-40a2dbe2ca05.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/cherrypick-master-your-linkedin-network",
+          "id": "https://www.producthunt.com/posts/cherrypick-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/cherrypick-master-your-linkedin-network",
+          "link": "https://www.producthunt.com/posts/cherrypick-2",
           "publishedOn": "2023-11-02T20:54:09.000Z",
-          "wordCount": 506,
-          "title": "CherryPick: Master Your LinkedIn Network",
+          "wordCount": 465,
+          "title": "CherryPick",
           "imageUrl": "https://ph-files.imgix.net/7499507c-d220-4149-9cc5-e9e3c6961b17.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -325,7 +325,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/documenso-singleplayer-mode",
           "publishedOn": "2023-11-02T13:59:40.000Z",
-          "wordCount": 599,
+          "wordCount": 519,
           "title": "Documenso Singleplayer Mode",
           "imageUrl": "https://ph-files.imgix.net/075b77b1-07fc-4cbf-bf06-1104ab0e22ce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -345,7 +345,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pinmy",
           "publishedOn": "2023-11-02T11:41:22.000Z",
-          "wordCount": 535,
+          "wordCount": 540,
           "title": "PinMy",
           "imageUrl": "https://ph-files.imgix.net/bed3212a-553d-47ef-85d8-542f6a0718bf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -385,7 +385,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/universal-ui-kit-web-v4-0",
           "publishedOn": "2023-11-01T09:46:13.000Z",
-          "wordCount": 545,
+          "wordCount": 462,
           "title": "Universal UI Kit (Web) v4.0",
           "imageUrl": "https://ph-files.imgix.net/d59d0628-78f1-4802-a8bb-100cda4e74f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -395,7 +395,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/odd-circles-2",
           "publishedOn": "2023-10-31T13:44:17.000Z",
-          "wordCount": 563,
+          "wordCount": 561,
           "title": "Odd Circles",
           "imageUrl": "https://ph-files.imgix.net/5f7dd801-a1c0-4c9c-85ed-38e3b41ec0e5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -415,7 +415,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/summaverse",
           "publishedOn": "2023-10-31T02:07:20.000Z",
-          "wordCount": 449,
+          "wordCount": 445,
           "title": "SummaVerse",
           "imageUrl": "https://ph-files.imgix.net/e585e3c8-6efd-4c99-a078-8f9bc736f7df.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
