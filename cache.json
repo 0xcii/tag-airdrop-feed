@@ -40,12 +40,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/shy-editor",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/shy-editor",
+          "publishedOn": "2023-11-08T09:05:36.000Z",
+          "wordCount": 407,
+          "title": "Shy Editor",
+          "imageUrl": "https://ph-files.imgix.net/b949a6d3-fa3a-4739-8efb-7ae14a86c627.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/radion-video-games",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/radion-video-games",
           "publishedOn": "2023-11-08T08:37:21.000Z",
-          "wordCount": 501,
+          "wordCount": 520,
           "title": "Radion - Video Games",
           "imageUrl": "https://ph-files.imgix.net/ae4993dc-f0c4-49ae-b30c-896f92fdf5b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -55,7 +65,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pocket-paint-easy-gen-ai",
           "publishedOn": "2023-11-08T06:44:55.000Z",
-          "wordCount": 560,
+          "wordCount": 541,
           "title": "Pocket Paint - Easy Gen AI",
           "imageUrl": "https://ph-files.imgix.net/652f280d-0512-4621-86d7-e5eb37594d4e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -65,7 +75,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/landing-tools-directory",
           "publishedOn": "2023-11-08T06:29:27.000Z",
-          "wordCount": 514,
+          "wordCount": 511,
           "title": "Landing Tools Directory",
           "imageUrl": "https://ph-files.imgix.net/86f1f69d-7a72-4c52-a657-be91130e219b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -125,19 +135,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mind-trade-pro",
           "publishedOn": "2023-11-07T19:29:41.000Z",
-          "wordCount": 522,
+          "wordCount": 503,
           "title": "Mind Trade Pro",
           "imageUrl": "https://ph-files.imgix.net/fe02a414-3c9b-418e-81d8-4566015f8f93.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/robocoder",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/robocoder",
-          "publishedOn": "2023-11-07T18:21:46.000Z",
-          "wordCount": 349,
-          "title": "RoboCoder",
-          "imageUrl": "https://ph-files.imgix.net/02fbb001-e223-4358-8d62-8ade7de109cc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/boardgamers",
@@ -265,7 +265,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rsvplease-on-nostr",
           "publishedOn": "2023-11-07T12:01:30.000Z",
-          "wordCount": 529,
+          "wordCount": 548,
           "title": "RSVPlease on nostr",
           "imageUrl": "https://ph-files.imgix.net/d115240a-9325-4aa1-9f65-3ac849dbb151.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -325,7 +325,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sampld-2-0",
           "publishedOn": "2023-11-06T06:52:47.000Z",
-          "wordCount": 515,
+          "wordCount": 496,
           "title": "Sampld 2.0",
           "imageUrl": "https://ph-files.imgix.net/bef9329d-20af-464b-8061-89d29f847c1a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
