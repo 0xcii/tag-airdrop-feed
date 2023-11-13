@@ -40,12 +40,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/1photoai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/1photoai",
+          "publishedOn": "2023-11-13T08:07:11.000Z",
+          "wordCount": 501,
+          "title": "1PhotoAI",
+          "imageUrl": "https://ph-files.imgix.net/7ec9ec7b-da7e-4438-822a-e7f33476b210.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/weblead",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/weblead",
           "publishedOn": "2023-11-13T08:02:52.000Z",
-          "wordCount": 321,
+          "wordCount": 268,
           "title": "Weblead",
           "imageUrl": "https://ph-files.imgix.net/03d30989-15e0-4512-899d-168eac85420a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -115,7 +125,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/roborecap",
           "publishedOn": "2023-11-12T20:01:09.000Z",
-          "wordCount": 490,
+          "wordCount": 437,
           "title": "RoboRecap",
           "imageUrl": "https://ph-files.imgix.net/dd6c2eda-2331-485c-90b8-6a7852391ad9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -135,7 +145,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/recodify",
           "publishedOn": "2023-11-12T15:51:05.000Z",
-          "wordCount": 520,
+          "wordCount": 467,
           "title": "Recodify",
           "imageUrl": "https://ph-files.imgix.net/02e9b39d-f493-454a-a3eb-44530a1ae6c0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -215,7 +225,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/same-day-landing-page",
           "publishedOn": "2023-11-11T18:03:13.000Z",
-          "wordCount": 482,
+          "wordCount": 479,
           "title": "Same Day Landing Page",
           "imageUrl": "https://ph-files.imgix.net/87abee48-f0af-45e1-84b3-bb36ca1a8552.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -225,7 +235,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flipword-3",
           "publishedOn": "2023-11-11T16:52:18.000Z",
-          "wordCount": 463,
+          "wordCount": 410,
           "title": "Flipword",
           "imageUrl": "https://ph-files.imgix.net/d5e9d02c-1818-407b-a668-59a6bc7b65cb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -285,7 +295,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lebesgue",
           "publishedOn": "2023-11-10T13:11:42.000Z",
-          "wordCount": 441,
+          "wordCount": 388,
           "title": "Lebesgue",
           "imageUrl": "https://ph-files.imgix.net/ed250c12-39db-4c3c-8f6b-ef5c28383526.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -305,7 +315,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wiro-talk",
           "publishedOn": "2023-11-10T05:50:18.000Z",
-          "wordCount": 564,
+          "wordCount": 511,
           "title": "Wiro Talk",
           "imageUrl": "https://ph-files.imgix.net/353f0277-2a0c-46ae-9586-06bd58fd4df4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -345,7 +355,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/stratus-api",
           "publishedOn": "2023-11-08T22:25:46.000Z",
-          "wordCount": 562,
+          "wordCount": 488,
           "title": "Stratus API",
           "imageUrl": "https://ph-files.imgix.net/932ef03c-2630-47e5-b755-6681db608e0f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -477,7 +487,7 @@
           "publishedOn": "2023-10-27T04:19:34.000Z",
           "wordCount": 657,
           "title": "RemixAI",
-          "imageUrl": "https://ph-files.imgix.net/6c240d07-b960-453e-9c54-fa76816750e2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": "https://ph-files.imgix.net/0b5d4331-5cc1-4e0d-9bb1-30c110464f58.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/domumgym",
@@ -510,22 +520,12 @@
           "imageUrl": "https://ph-files.imgix.net/a930e557-54a5-4043-a614-a6a8b3a001ac.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/lunched-in",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/lunched-in",
-          "publishedOn": "2023-10-20T15:13:13.000Z",
-          "wordCount": 592,
-          "title": "Lunched IN",
-          "imageUrl": "https://ph-files.imgix.net/ea2994fb-b41b-415d-a971-5f0458c67a0f.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/leaddelta-3-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/leaddelta-3-0",
           "publishedOn": "2023-10-17T10:16:37.000Z",
-          "wordCount": 742,
+          "wordCount": 658,
           "title": "LeadDelta 3.0",
           "imageUrl": "https://ph-files.imgix.net/be7265ff-9f96-436f-8b63-6da14f4b5bb1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
