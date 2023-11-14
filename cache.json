@@ -37,7 +37,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/ghosted-boo",
@@ -65,7 +65,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/docuseal",
           "publishedOn": "2023-11-14T09:04:31.000Z",
-          "wordCount": 454,
+          "wordCount": 435,
           "title": "DocuSeal",
           "imageUrl": "https://ph-files.imgix.net/f167780e-03e2-4387-915d-324e73368ad8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -85,7 +85,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/firejet",
           "publishedOn": "2023-11-14T08:56:03.000Z",
-          "wordCount": 535,
+          "wordCount": 554,
           "title": "FireJet",
           "imageUrl": "https://ph-files.imgix.net/cd86df2c-5155-414e-94a9-adb11844d804.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -220,6 +220,16 @@
           "imageUrl": "https://ph-files.imgix.net/ae34ecf5-cb7e-4c3b-9e76-f7398a2ccd38.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/reflect-ai-search",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/reflect-ai-search",
+          "publishedOn": "2023-11-13T21:00:39.000Z",
+          "wordCount": 533,
+          "title": "Reflect AI Search",
+          "imageUrl": "https://ph-files.imgix.net/4c7fedf5-2dae-4532-a445-786ef91c5cda.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/black-friday-procrastinators-toolkit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -235,7 +245,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/floutwork",
           "publishedOn": "2023-11-13T18:46:09.000Z",
-          "wordCount": 420,
+          "wordCount": 435,
           "title": "Floutwork",
           "imageUrl": "https://ph-files.imgix.net/16051f08-9c41-48e8-998b-8a730edf699d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -295,7 +305,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tefez-scheduling",
           "publishedOn": "2023-11-12T15:59:11.000Z",
-          "wordCount": 362,
+          "wordCount": 442,
           "title": "Tefez Scheduling",
           "imageUrl": "https://ph-files.imgix.net/2b7ff087-8ec3-4f22-b4db-f5c610907948.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -305,7 +315,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/debaters-ai",
           "publishedOn": "2023-11-12T01:44:12.000Z",
-          "wordCount": 437,
+          "wordCount": 418,
           "title": "Debaters.ai",
           "imageUrl": "https://ph-files.imgix.net/0e390d51-d588-481a-a133-8e407ed9e3fe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -345,7 +355,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/shadowtraffic",
           "publishedOn": "2023-11-09T20:46:13.000Z",
-          "wordCount": 431,
+          "wordCount": 450,
           "title": "ShadowTraffic",
           "imageUrl": "https://ph-files.imgix.net/4c187739-e994-4320-ba0d-2cf8e2cadb53.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -498,16 +508,6 @@
           "wordCount": 485,
           "title": "Pexmotion",
           "imageUrl": "https://ph-files.imgix.net/ecd223e7-dffc-4bff-a1d0-5b858a42cbbe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/askyoda-by-eden-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/askyoda-by-eden-ai",
-          "publishedOn": "2023-10-25T12:48:25.000Z",
-          "wordCount": 579,
-          "title": "AskYoda by Eden AI",
-          "imageUrl": "https://ph-files.imgix.net/265633ac-0815-4d08-8b38-acd51ff16abb.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/mfa-by-logto",
