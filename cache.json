@@ -37,7 +37,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/zeebra-images-to-short-video",
@@ -65,7 +65,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cloudfit",
           "publishedOn": "2023-11-15T08:55:51.000Z",
-          "wordCount": 347,
+          "wordCount": 328,
           "title": "CloudFit",
           "imageUrl": "https://ph-files.imgix.net/0a8fa20d-5e74-42ac-862b-378a976756e2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -75,7 +75,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/konsol",
           "publishedOn": "2023-11-15T08:50:55.000Z",
-          "wordCount": 408,
+          "wordCount": 389,
           "title": "Konsol",
           "imageUrl": "https://ph-files.imgix.net/f65be650-ef40-4563-894e-572919de52a0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -95,7 +95,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/boggl",
           "publishedOn": "2023-11-15T08:10:20.000Z",
-          "wordCount": 660,
+          "wordCount": 652,
           "title": "Boggl",
           "imageUrl": "https://ph-files.imgix.net/e2939213-b9a0-49f6-be08-c8d7cb508631.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -125,7 +125,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sidekic-ai-2",
           "publishedOn": "2023-11-15T08:03:26.000Z",
-          "wordCount": 482,
+          "wordCount": 563,
           "title": "Sidekic AI",
           "imageUrl": "https://ph-files.imgix.net/cdf18621-0223-479c-808e-43640b6fbff9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -230,6 +230,16 @@
           "imageUrl": "https://ph-files.imgix.net/77c2bba9-cf11-45a2-b431-115cae8b6e61.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/helpwire",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/helpwire",
+          "publishedOn": "2023-11-14T20:42:23.000Z",
+          "wordCount": 455,
+          "title": "HelpWire",
+          "imageUrl": "https://ph-files.imgix.net/d9f066b7-bbea-4887-98d9-397246612098.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/letty",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -270,14 +280,14 @@
           "imageUrl": "https://ph-files.imgix.net/1260f488-53af-4f3b-be5d-82a770f3e13d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/releasy",
+          "id": "https://www.producthunt.com/posts/presscloud-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/releasy",
-          "publishedOn": "2023-11-14T15:16:45.000Z",
-          "wordCount": 511,
-          "title": "Releasy",
-          "imageUrl": "https://ph-files.imgix.net/089c42ae-9df3-4cb3-b8c4-d6f5c32c1414.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/presscloud-ai",
+          "publishedOn": "2023-11-14T11:38:38.000Z",
+          "wordCount": 508,
+          "title": "Presscloud.ai",
+          "imageUrl": "https://ph-files.imgix.net/7d01da2c-a852-4af3-b764-0539b9590bb5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/supastarter-for-nuxt-3",
@@ -288,16 +298,6 @@
           "wordCount": 543,
           "title": "supastarter for Nuxt 3",
           "imageUrl": "https://ph-files.imgix.net/42579714-362a-4857-8f6b-574f2b759b88.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/taskade-ai-agents",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/taskade-ai-agents",
-          "publishedOn": "2023-11-14T09:15:24.000Z",
-          "wordCount": 537,
-          "title": "Taskade AI Agents",
-          "imageUrl": "https://ph-files.imgix.net/7a26798e-308b-413d-9c06-394beb12d6c8.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/signlz-ai-alpha-release",
@@ -340,6 +340,16 @@
           "imageUrl": "https://ph-files.imgix.net/9eaea70f-c452-48be-b731-310ea422c97d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ventureinsights",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ventureinsights",
+          "publishedOn": "2023-11-13T16:26:20.000Z",
+          "wordCount": 422,
+          "title": "VentureInsights",
+          "imageUrl": "https://ph-files.imgix.net/119485a2-9f91-4f27-8416-7ad0666d5d87.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/secfi-portfolio",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -355,7 +365,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/document360-2-0",
           "publishedOn": "2023-11-13T10:42:42.000Z",
-          "wordCount": 474,
+          "wordCount": 480,
           "title": "Document360 2.0",
           "imageUrl": "https://ph-files.imgix.net/e80c6510-0089-44b9-bda2-7fba2f7cff09.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -365,7 +375,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wave-0f18b2bc-b202-41e9-bde6-e3db18818a4e",
           "publishedOn": "2023-11-13T07:02:04.000Z",
-          "wordCount": 412,
+          "wordCount": 465,
           "title": "wave",
           "imageUrl": "https://ph-files.imgix.net/1417cd64-a28e-4a6c-ac07-0edc08c45428.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -445,7 +455,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openmeter",
           "publishedOn": "2023-11-08T13:59:06.000Z",
-          "wordCount": 342,
+          "wordCount": 416,
           "title": "OpenMeter",
           "imageUrl": "https://ph-files.imgix.net/5c4e7789-2de7-4fdf-8ca4-4f900f592dee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -508,16 +518,6 @@
           "wordCount": 504,
           "title": "ZELIQ",
           "imageUrl": "https://ph-files.imgix.net/69f0396b-0c3b-4680-80da-67eaeb566dee.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sharelo",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sharelo",
-          "publishedOn": "2023-10-22T16:00:40.000Z",
-          "wordCount": 410,
-          "title": "Sharelo",
-          "imageUrl": "https://ph-files.imgix.net/ef3f5d61-158d-43e4-8bff-69a343adeb72.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     }
