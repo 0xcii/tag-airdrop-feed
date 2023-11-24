@@ -21,7 +21,7 @@
           "description": "Our profile page: https://link3.to/deficalendar",
           "link": "https://medium.com/@CalendarDefi/mainnet-guide-scroll-d35e0c7a44ac?source=rss-4949be3a0c7a------2",
           "publishedOn": "2023-10-30T23:35:22.000Z",
-          "wordCount": 1959,
+          "wordCount": 1974,
           "title": "Mainnet Guide — Scroll",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:887/0*7u37mpwsf2iFvd7i.png"
         }
@@ -47,7 +47,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/llmonitor",
@@ -55,7 +55,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/llmonitor",
           "publishedOn": "2023-11-24T14:08:46.000Z",
-          "wordCount": 417,
+          "wordCount": 436,
           "title": "LLMonitor",
           "imageUrl": "https://ph-files.imgix.net/db66c59f-937a-4028-b33c-6bca47939751.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -65,7 +65,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/grip-car",
           "publishedOn": "2023-11-24T12:12:01.000Z",
-          "wordCount": 468,
+          "wordCount": 487,
           "title": "Grip car",
           "imageUrl": "https://ph-files.imgix.net/a10312ca-06d3-4e6c-817b-945783a8932c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -75,9 +75,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dateup",
           "publishedOn": "2023-11-24T11:21:58.000Z",
-          "wordCount": 413,
+          "wordCount": 432,
           "title": "DateUp",
           "imageUrl": "https://ph-files.imgix.net/32771dc6-f0b9-44ac-b31d-36c8bfe9adbc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/wallmoji",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/wallmoji",
+          "publishedOn": "2023-11-24T11:19:38.000Z",
+          "wordCount": 489,
+          "title": "WallMoji",
+          "imageUrl": "https://ph-files.imgix.net/590ba9b1-e8ef-47be-ba50-bda42bbde247.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/copystyleguide-com",
@@ -85,7 +95,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/copystyleguide-com",
           "publishedOn": "2023-11-24T09:42:52.000Z",
-          "wordCount": 535,
+          "wordCount": 554,
           "title": "CopyStyleGuide.com",
           "imageUrl": "https://ph-files.imgix.net/879c104e-0750-4c86-9d2c-110ef02ce532.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -95,7 +105,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/subscription-vault",
           "publishedOn": "2023-11-24T08:29:03.000Z",
-          "wordCount": 550,
+          "wordCount": 569,
           "title": "Subscription Vault",
           "imageUrl": "https://ph-files.imgix.net/8b2b4106-9d79-47d0-905b-3936d26282cb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -290,16 +300,6 @@
           "imageUrl": "https://ph-files.imgix.net/9e77e665-4695-43da-ba15-deee0308f93b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/my-secret-santa",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/my-secret-santa",
-          "publishedOn": "2023-11-22T21:16:01.000Z",
-          "wordCount": 447,
-          "title": "My Secret Santa",
-          "imageUrl": "https://ph-files.imgix.net/3d7e13fe-48ac-4e0a-9fed-7208aea78afe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/bubble-8a2e9e7e-0a95-473b-b994-8de15d17bd08",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -415,7 +415,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/find-my-size",
           "publishedOn": "2023-11-20T21:20:18.000Z",
-          "wordCount": 429,
+          "wordCount": 431,
           "title": "Find My Size",
           "imageUrl": "https://ph-files.imgix.net/e165db0c-a9de-4dd7-b314-c88b9f49a315.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -455,7 +455,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/good-plates-2",
           "publishedOn": "2023-11-19T19:41:03.000Z",
-          "wordCount": 571,
+          "wordCount": 590,
           "title": "Good Plates",
           "imageUrl": "https://ph-files.imgix.net/e7904ea8-856b-4058-a8ce-aff08759b083.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -475,7 +475,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zeroid",
           "publishedOn": "2023-11-14T07:22:51.000Z",
-          "wordCount": 454,
+          "wordCount": 473,
           "title": "ZeroID",
           "imageUrl": "https://ph-files.imgix.net/b1dc8577-06f6-432d-a884-efe819a0c207.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -505,7 +505,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/faircado",
           "publishedOn": "2023-11-07T10:32:11.000Z",
-          "wordCount": 522,
+          "wordCount": 541,
           "title": "Faircado",
           "imageUrl": "https://ph-files.imgix.net/2b2ab21e-ae03-4540-a26f-fc4bdc5618df.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
