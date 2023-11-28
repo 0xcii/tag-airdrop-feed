@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T09:11:27.090Z</id>
+    <id>urn:2023-11-28T10:12:00.919Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-28T09:11:27.090Z</updated>
+    <updated>2023-11-28T10:12:00.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -94,6 +94,18 @@
         <id>https://www.producthunt.com/posts/videomentions</id>
         <link href="https://www.producthunt.com/posts/videomentions"/>
         <updated>2023-11-28T01:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stepsize AI]]></title>
+        <id>https://www.producthunt.com/posts/stepsize-ai</id>
+        <link href="https://www.producthunt.com/posts/stepsize-ai"/>
+        <updated>2023-11-28T00:54:58.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -481,18 +493,6 @@
         <summary type="html"><![CDATA[Our link3 profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XCalSync]]></title>
-        <id>https://www.producthunt.com/posts/xcalsync</id>
-        <link href="https://www.producthunt.com/posts/xcalsync"/>
-        <updated>2023-11-21T15:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
         </author>
     </entry>
     <entry>
