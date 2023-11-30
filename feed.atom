@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T08:13:45.623Z</id>
+    <id>urn:2023-11-30T09:10:44.370Z</id>
     <title>web3::cave</title>
-    <updated>2023-11-30T08:13:45.623Z</updated>
+    <updated>2023-11-30T09:10:44.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -70,6 +70,30 @@
         <id>https://www.producthunt.com/posts/chatgpt-wrapped</id>
         <link href="https://www.producthunt.com/posts/chatgpt-wrapped"/>
         <updated>2023-11-30T01:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClipGlow]]></title>
+        <id>https://www.producthunt.com/posts/clipglow</id>
+        <link href="https://www.producthunt.com/posts/clipglow"/>
+        <updated>2023-11-29T22:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet the all-new GitBook]]></title>
+        <id>https://www.producthunt.com/posts/meet-the-all-new-gitbook</id>
+        <link href="https://www.producthunt.com/posts/meet-the-all-new-gitbook"/>
+        <updated>2023-11-29T21:45:04.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -282,18 +306,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giftish]]></title>
-        <id>https://www.producthunt.com/posts/giftish</id>
-        <link href="https://www.producthunt.com/posts/giftish"/>
-        <updated>2023-11-29T07:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ReachOwl]]></title>
         <id>https://www.producthunt.com/posts/reachowl</id>
         <link href="https://www.producthunt.com/posts/reachowl"/>
@@ -342,18 +354,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SuperCold]]></title>
-        <id>https://www.producthunt.com/posts/supercold</id>
-        <link href="https://www.producthunt.com/posts/supercold"/>
-        <updated>2023-11-29T00:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Agents]]></title>
         <id>https://www.producthunt.com/posts/ai-agents</id>
         <link href="https://www.producthunt.com/posts/ai-agents"/>
@@ -382,18 +382,6 @@
         <id>https://www.producthunt.com/posts/webbie-ui</id>
         <link href="https://www.producthunt.com/posts/webbie-ui"/>
         <updated>2023-11-28T15:20:10.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HasMySecretLeaked]]></title>
-        <id>https://www.producthunt.com/posts/hasmysecretleaked</id>
-        <link href="https://www.producthunt.com/posts/hasmysecretleaked"/>
-        <updated>2023-11-28T14:44:05.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -601,16 +589,6 @@
             Link]]></summary>
         <author>
             <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedStone is Launching an Exciting Journey — RedStone Expedition]]></title>
-        <id>https://medium.com/p/120fc24222f6</id>
-        <link href="https://medium.com/alpha/redstone-is-launching-an-exciting-journey-redstone-expedition-120fc24222f6?source=rss-722c3df56b66------2"/>
-        <updated>2023-10-31T20:14:51.000Z</updated>
-        <summary type="html"><![CDATA[RedStone, an innovative Oracle system introduced earlier on Alpha Drops, is launching Expedition. The RedStone Expedition is a remarkable…]]></summary>
-        <author>
-            <name>Aramz</name>
         </author>
     </entry>
 </feed>
