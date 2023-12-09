@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/bottomright-ai",
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/imagine-with-meta-ai",
           "publishedOn": "2023-12-08T00:43:10.000Z",
-          "wordCount": 378,
+          "wordCount": 431,
           "title": "Imagine with Meta AI",
           "imageUrl": "https://ph-files.imgix.net/9b812dba-5acb-41f1-a586-792d99c95307.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -94,7 +94,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/stampfans",
           "publishedOn": "2023-12-07T17:15:35.000Z",
-          "wordCount": 370,
+          "wordCount": 317,
           "title": "StampFans",
           "imageUrl": "https://ph-files.imgix.net/af22f987-7c08-4e24-a525-8c8e7deb455a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -124,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/phorevr",
           "publishedOn": "2023-12-07T12:29:15.000Z",
-          "wordCount": 420,
+          "wordCount": 367,
           "title": "Phorevr",
           "imageUrl": "https://ph-files.imgix.net/1c685772-b8f5-4e74-99c5-2fd38771b7dd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -209,6 +209,16 @@
           "imageUrl": "https://ph-files.imgix.net/75ea0646-f61c-4f8c-9e2f-6956d5dcf80e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ascii-charts",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ascii-charts",
+          "publishedOn": "2023-12-06T21:52:53.000Z",
+          "wordCount": 498,
+          "title": "ASCII Charts",
+          "imageUrl": "https://ph-files.imgix.net/adeb0001-5baa-46c2-a818-2a0ee58d531a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/browserless-io",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -234,7 +244,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/echonotes",
           "publishedOn": "2023-12-06T15:12:24.000Z",
-          "wordCount": 484,
+          "wordCount": 431,
           "title": "Echonotes",
           "imageUrl": "https://ph-files.imgix.net/5ae82081-7919-453a-baee-9f96393eca90.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -244,19 +254,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/xound",
           "publishedOn": "2023-12-06T14:51:18.000Z",
-          "wordCount": 552,
+          "wordCount": 499,
           "title": "Xound",
           "imageUrl": "https://ph-files.imgix.net/68199ce9-e4cb-445e-b157-5eac9aaafa0f.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/midnight-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/midnight-2",
-          "publishedOn": "2023-12-06T13:54:57.000Z",
-          "wordCount": 428,
-          "title": "Midnight",
-          "imageUrl": "https://ph-files.imgix.net/eba6de42-3b52-40c5-821e-d86a04f67765.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/all-in-one-seo-suite",
@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flux-c27640a9-3284-4d5d-962f-0f088ad9ef4b",
           "publishedOn": "2023-12-06T00:57:31.000Z",
-          "wordCount": 589,
+          "wordCount": 642,
           "title": "Flux",
           "imageUrl": "https://ph-files.imgix.net/ca47f13d-031f-48db-99ef-72bda285a84f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -334,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/urso",
           "publishedOn": "2023-12-05T11:49:54.000Z",
-          "wordCount": 546,
+          "wordCount": 599,
           "title": "Urso",
           "imageUrl": "https://ph-files.imgix.net/941af281-8325-4386-a7c6-c3917ae57b32.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -364,7 +364,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ello-4",
           "publishedOn": "2023-12-05T00:19:36.000Z",
-          "wordCount": 491,
+          "wordCount": 438,
           "title": "Ello",
           "imageUrl": "https://ph-files.imgix.net/62f3358d-f8c1-428d-9d30-7b23c6f0c0ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/barglance",
           "publishedOn": "2023-12-01T21:28:19.000Z",
-          "wordCount": 566,
+          "wordCount": 513,
           "title": "BarGlance",
           "imageUrl": "https://ph-files.imgix.net/3a960983-03cc-4412-b9e4-080833bd003e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -424,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/strut-ai",
           "publishedOn": "2023-12-01T00:59:12.000Z",
-          "wordCount": 462,
+          "wordCount": 409,
           "title": "Strut AI",
           "imageUrl": "https://ph-files.imgix.net/97137f45-ebfc-4faa-8b3f-3dc7a0db9d12.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -494,7 +494,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/brandvox-3",
           "publishedOn": "2023-11-23T12:05:50.000Z",
-          "wordCount": 508,
+          "wordCount": 455,
           "title": "BrandVox",
           "imageUrl": "https://ph-files.imgix.net/7f89dd35-02b9-45b8-af10-b57c9187f513.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -537,7 +537,7 @@
           "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1733224071595167844",
           "publishedOn": "2023-12-08T20:36:35.000Z",
-          "wordCount": 1782,
+          "wordCount": 1330,
           "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com ➡️ https://dropsearn.com/air...",
           "imageUrl": null
         },
@@ -547,7 +547,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1732678119633424822",
           "publishedOn": "2023-12-07T08:27:09.000Z",
-          "wordCount": 1580,
+          "wordCount": 1536,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -557,7 +557,7 @@
           "description": "💧New events on http://DropsEarn.com\n✔️ .@IntractCampaign  Ambassador Program \n✔️ .@C3protocol  x .@immunefi Bug Bounty Program \n✔️ .@triaslab  Ambassador Program\n➡️ http://dropsearn.com",
           "link": "https://twitter.com/DropsEarn/status/1731893455201161555",
           "publishedOn": "2023-12-05T04:29:11.000Z",
-          "wordCount": 1563,
+          "wordCount": 1361,
           "title": "💧New events on http://DropsEarn.com ✔️ .@IntractCampaign Ambassador Program ✔️ .@C3protocol x .@immunefi Bug Bounty Program ✔️ .@triaslab Amb...",
           "imageUrl": null
         },
@@ -567,7 +567,7 @@
           "description": "💧 New event on http://DropsEarn.com\nCore DAO Ambassador Program v2\n.@Coredao_Org  has announced the v2 of their ambassador program. \nThe overall aim of this program is to grow and empower the Core community. \n➡️ https://dropsearn.com/events/core-ambassador-v2",
           "link": "https://twitter.com/DropsEarn/status/1730522913927803133",
           "publishedOn": "2023-12-01T09:43:08.000Z",
-          "wordCount": 1801,
+          "wordCount": 1536,
           "title": "💧 New event on http://DropsEarn.com Core DAO Ambassador Program v2 .@Coredao_Org has announced the v2 of their ambassador program. The overall aim ...",
           "imageUrl": null
         },
@@ -577,7 +577,7 @@
           "description": "💧 New event on http://DropsEarn.com\nFutureVerse The Future of Metaverse Campaign\n.@futureverse invites community members to join The Future of Metaverse Campaign. \n➡️ https://dropsearn.com/events/futureverse-the-future-of-metaverse-campaign",
           "link": "https://twitter.com/DropsEarn/status/1729965005049676115",
           "publishedOn": "2023-11-29T20:46:13.000Z",
-          "wordCount": 1545,
+          "wordCount": 1379,
           "title": "💧 New event on http://DropsEarn.com FutureVerse The Future of Metaverse Campaign .@futureverse invites community members to join The Future of Meta...",
           "imageUrl": null
         },
@@ -587,7 +587,7 @@
           "description": "💧 New event on http://DropsEarn.com\nSaga Pegasus Incentivized Testnet\n.@Sagaxyz__  has launched their Incentivized Testnet, named Pegasus, giving game creators even more freedom to unleash their creative expression on Saga\n➡️ https://dropsearn.com/events/saga-pegasus-incentivized-testnet",
           "link": "https://twitter.com/DropsEarn/status/1729590825800089826",
           "publishedOn": "2023-11-28T19:59:21.000Z",
-          "wordCount": 1589,
+          "wordCount": 1797,
           "title": "💧 New event on http://DropsEarn.com Saga Pegasus Incentivized Testnet .@Sagaxyz__ has launched their Incentivized Testnet, named Pegasus, giving ga...",
           "imageUrl": null
         },
@@ -597,7 +597,7 @@
           "description": "💧 New event on http://DropsEarn.com\nMaverick Warrior Ambassador Program\n.@mavprotocol has updates its ambassador program - Maverick Warrior Program.\n➡️ https://dropsearn.com/events/maverick-warrior-ambassador-program",
           "link": "https://twitter.com/DropsEarn/status/1729227488038191225",
           "publishedOn": "2023-11-27T19:55:35.000Z",
-          "wordCount": 1736,
+          "wordCount": 1571,
           "title": "💧 New event on http://DropsEarn.com Maverick Warrior Ambassador Program .@mavprotocol has updates its ambassador program - Maverick Warrior Program...",
           "imageUrl": null
         },
@@ -617,7 +617,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1727779677996027905",
           "publishedOn": "2023-11-23T20:02:30.000Z",
-          "wordCount": 1572,
+          "wordCount": 1563,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -637,7 +637,7 @@
           "description": "💧 New event on http://DropsEarn.com\nXion Burnt Blaze Syndicate Community Program\nThe @burnt_xion community launches program to continue fostering worldwide growth. \n➡️ https://dropsearn.com/events/xion-burnt-community-program",
           "link": "https://twitter.com/DropsEarn/status/1726978242350067726",
           "publishedOn": "2023-11-21T14:57:53.000Z",
-          "wordCount": 1789,
+          "wordCount": 1536,
           "title": "💧 New event on http://DropsEarn.com Xion Burnt Blaze Syndicate Community Program The @burnt_xion community launches program to continue fostering w...",
           "imageUrl": null
         },
@@ -647,7 +647,7 @@
           "description": "💧 New event on http://DropsEarn.com\nStarknet Early Community Member Program\nThe .@Starknet Foundation has introduced the Early Community Member Program (ECMP).\n➡️ https://dropsearn.com/events/starknet-ecm-program",
           "link": "https://twitter.com/DropsEarn/status/1726689553543844005",
           "publishedOn": "2023-11-20T19:50:44.000Z",
-          "wordCount": 1545,
+          "wordCount": 1329,
           "title": "💧 New event on http://DropsEarn.com Starknet Early Community Member Program The .@Starknet Foundation has introduced the Early Community Member Pro...",
           "imageUrl": null
         },
@@ -657,7 +657,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1724521985571434644",
           "publishedOn": "2023-11-14T20:17:36.000Z",
-          "wordCount": 1801,
+          "wordCount": 1536,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -667,7 +667,7 @@
           "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1723983710662365604",
           "publishedOn": "2023-11-13T08:38:41.000Z",
-          "wordCount": 1797,
+          "wordCount": 1330,
           "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com ➡️ https://dropsearn.com/air...",
           "imageUrl": null
         }
