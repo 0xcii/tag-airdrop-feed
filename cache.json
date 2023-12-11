@@ -1,39 +1,6 @@
 {
   "sources": [
     {
-      "title": "Stories by DefiCalendar on Medium",
-      "feedUrl": "https://medium.com/feed/@CalendarDefi",
-      "siteUrl": "https://medium.com/@CalendarDefi?source=rss-4949be3a0c7a------2",
-      "articles": [
-        {
-          "id": "https://medium.com/p/b87498e564dd",
-          "author": "DefiCalendar",
-          "description": "Our profile page: https://link3.to/deficalendar",
-          "link": "https://medium.com/@CalendarDefi/mainnet-guide-wormhole-b87498e564dd?source=rss-4949be3a0c7a------2",
-          "publishedOn": "2023-12-09T20:14:32.000Z",
-          "wordCount": 1119,
-          "title": "Mainnet Guide — Wormhole",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*5kSKeYguO8e-GCkh.png"
-        },
-        {
-          "id": "https://medium.com/p/4fd58d7be59d",
-          "author": "DefiCalendar",
-          "description": "Our link3 profile page: https://link3.to/deficalendar",
-          "link": "https://medium.com/@CalendarDefi/mainnet-guide-gitcoin-grants-round-19-4fd58d7be59d?source=rss-4949be3a0c7a------2",
-          "publishedOn": "2023-11-21T22:20:16.000Z",
-          "wordCount": 1840,
-          "title": "Mainnet Guide — Gitcoin Grants Round 19",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*P7BUIkNQ3eXvXVpm.png"
-        }
-      ]
-    },
-    {
-      "title": "Stories by Aramz on Medium",
-      "feedUrl": "https://medium.com/feed/@aramzz",
-      "siteUrl": "https://medium.com/@aramzz?source=rss-722c3df56b66------2",
-      "articles": []
-    },
-    {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
       "siteUrl": "https://www.producthunt.com",
@@ -104,7 +71,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/finalist-1-5",
           "publishedOn": "2023-12-09T23:26:10.000Z",
-          "wordCount": 616,
+          "wordCount": 608,
           "title": "Finalist 1.5",
           "imageUrl": "https://ph-files.imgix.net/abbbd0ec-650d-4623-9b7f-969efff0e0d4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -174,7 +141,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gitbrain",
           "publishedOn": "2023-12-08T20:49:14.000Z",
-          "wordCount": 496,
+          "wordCount": 481,
           "title": "GitBrain",
           "imageUrl": "https://ph-files.imgix.net/cc28e2d1-d6e4-4445-85d3-defa0fa798ba.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -225,7 +192,7 @@
           "link": "https://www.producthunt.com/posts/walnut-deal-intel",
           "publishedOn": "2023-12-08T10:08:42.000Z",
           "wordCount": 619,
-          "title": "Walnut: Deal Intel",
+          "title": "Walnut Deal Intel",
           "imageUrl": "https://ph-files.imgix.net/ce33424c-bdf6-43a9-9636-75ac267216b0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -269,16 +236,6 @@
           "imageUrl": "https://ph-files.imgix.net/af22f987-7c08-4e24-a525-8c8e7deb455a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/agent-m-powered-by-floatbot-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/agent-m-powered-by-floatbot-ai-2",
-          "publishedOn": "2023-12-07T15:02:11.000Z",
-          "wordCount": 494,
-          "title": "Agent M - Powered by Floatbot.AI",
-          "imageUrl": "https://ph-files.imgix.net/ab156195-e1dc-4e06-9e8d-2dd3a270f9b1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/houseparty-7",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -304,7 +261,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dream-kid",
           "publishedOn": "2023-12-07T11:19:11.000Z",
-          "wordCount": 410,
+          "wordCount": 463,
           "title": "Dream Kid",
           "imageUrl": "https://ph-files.imgix.net/2e7c250d-ffe7-4f6f-b9a5-0f0b58a81f2e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -369,13 +326,13 @@
           "imageUrl": "https://ph-files.imgix.net/15ee4abb-696d-411b-9280-f7f9a9cc8951.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/giftit-social-wishlists",
+          "id": "https://www.producthunt.com/posts/giftit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/giftit-social-wishlists",
+          "link": "https://www.producthunt.com/posts/giftit",
           "publishedOn": "2023-12-05T13:44:54.000Z",
-          "wordCount": 532,
-          "title": "Giftit - Social Wishlists",
+          "wordCount": 502,
+          "title": "Giftit",
           "imageUrl": "https://ph-files.imgix.net/349c6f79-b459-4799-a247-78cc1ba0f339.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -439,6 +396,16 @@
           "imageUrl": "https://ph-files.imgix.net/f496ed5e-603f-4adf-992f-3da660f94a87.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/mammoth-2-for-mastodon",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mammoth-2-for-mastodon",
+          "publishedOn": "2023-12-01T21:20:45.000Z",
+          "wordCount": 536,
+          "title": "Mammoth 2 for Mastodon",
+          "imageUrl": "https://ph-files.imgix.net/22533c31-633c-4ea6-8582-36d3f2d9cff4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/streak-the-party-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -484,7 +451,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supasnap",
           "publishedOn": "2023-11-27T22:07:13.000Z",
-          "wordCount": 511,
+          "wordCount": 456,
           "title": "Supasnap",
           "imageUrl": "https://ph-files.imgix.net/03798536-d16b-4ba8-b6e8-c6e7337c2dd8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -494,7 +461,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/thinksy",
           "publishedOn": "2023-11-25T00:13:21.000Z",
-          "wordCount": 429,
+          "wordCount": 410,
           "title": "Thinksy",
           "imageUrl": "https://ph-files.imgix.net/afb539c2-634b-47fb-b37c-4c72ef7351aa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -547,7 +514,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1732678119633424822",
           "publishedOn": "2023-12-07T08:27:09.000Z",
-          "wordCount": 951,
+          "wordCount": 960,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -567,7 +534,7 @@
           "description": "💧 New event on http://DropsEarn.com\nCore DAO Ambassador Program v2\n.@Coredao_Org  has announced the v2 of their ambassador program. \nThe overall aim of this program is to grow and empower the Core community. \n➡️ https://dropsearn.com/events/core-ambassador-v2",
           "link": "https://twitter.com/DropsEarn/status/1730522913927803133",
           "publishedOn": "2023-12-01T09:43:08.000Z",
-          "wordCount": 960,
+          "wordCount": 951,
           "title": "💧 New event on http://DropsEarn.com Core DAO Ambassador Program v2 .@Coredao_Org has announced the v2 of their ambassador program. The overall aim ...",
           "imageUrl": null
         },
@@ -577,7 +544,7 @@
           "description": "💧 New event on http://DropsEarn.com\nFutureVerse The Future of Metaverse Campaign\n.@futureverse invites community members to join The Future of Metaverse Campaign. \n➡️ https://dropsearn.com/events/futureverse-the-future-of-metaverse-campaign",
           "link": "https://twitter.com/DropsEarn/status/1729965005049676115",
           "publishedOn": "2023-11-29T20:46:13.000Z",
-          "wordCount": 951,
+          "wordCount": 960,
           "title": "💧 New event on http://DropsEarn.com FutureVerse The Future of Metaverse Campaign .@futureverse invites community members to join The Future of Meta...",
           "imageUrl": null
         },
@@ -587,7 +554,7 @@
           "description": "💧 New event on http://DropsEarn.com\nSaga Pegasus Incentivized Testnet\n.@Sagaxyz__  has launched their Incentivized Testnet, named Pegasus, giving game creators even more freedom to unleash their creative expression on Saga\n➡️ https://dropsearn.com/events/saga-pegasus-incentivized-testnet",
           "link": "https://twitter.com/DropsEarn/status/1729590825800089826",
           "publishedOn": "2023-11-28T19:59:21.000Z",
-          "wordCount": 960,
+          "wordCount": 951,
           "title": "💧 New event on http://DropsEarn.com Saga Pegasus Incentivized Testnet .@Sagaxyz__ has launched their Incentivized Testnet, named Pegasus, giving ga...",
           "imageUrl": null
         },
@@ -617,7 +584,7 @@
           "description": "💧 Our new daily update: new airdrops have been added!\n 💰Check it out, and join the newest airdrops with http://Dropsearn.com \n ➡️ https://dropsearn.com/airdrops",
           "link": "https://twitter.com/DropsEarn/status/1727779677996027905",
           "publishedOn": "2023-11-23T20:02:30.000Z",
-          "wordCount": 960,
+          "wordCount": 951,
           "title": "💧 Our new daily update: new airdrops have been added! 💰Check it out, and join the newest airdrops with http://Dropsearn.com ➡️ https://dropsea...",
           "imageUrl": null
         },
@@ -637,7 +604,7 @@
           "description": "💧 New event on http://DropsEarn.com\nXion Burnt Blaze Syndicate Community Program\nThe @burnt_xion community launches program to continue fostering worldwide growth. \n➡️ https://dropsearn.com/events/xion-burnt-community-program",
           "link": "https://twitter.com/DropsEarn/status/1726978242350067726",
           "publishedOn": "2023-11-21T14:57:53.000Z",
-          "wordCount": 951,
+          "wordCount": 960,
           "title": "💧 New event on http://DropsEarn.com Xion Burnt Blaze Syndicate Community Program The @burnt_xion community launches program to continue fostering w...",
           "imageUrl": null
         },
