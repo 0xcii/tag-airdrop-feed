@@ -39,6 +39,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/ai-clips",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-clips",
+          "publishedOn": "2023-12-19T06:36:09.000Z",
+          "wordCount": 578,
+          "title": "AI Clips",
+          "imageUrl": "https://ph-files.imgix.net/2ffb245f-2827-4359-a3e4-3ee35cea03cf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/chatinbox-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -64,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jive-2",
           "publishedOn": "2023-12-18T21:25:43.000Z",
-          "wordCount": 466,
+          "wordCount": 485,
           "title": "Jive",
           "imageUrl": "https://ph-files.imgix.net/804d783a-7c31-4e21-89d3-b5fb8a9f19af.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -94,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/news-sentinel-by-blockbrain",
           "publishedOn": "2023-12-18T13:54:49.000Z",
-          "wordCount": 577,
+          "wordCount": 558,
           "title": "News Sentinel by Blockbrain",
           "imageUrl": "https://ph-files.imgix.net/927f8342-8315-43df-af23-07007e3fb342.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -137,6 +147,16 @@
           "wordCount": 366,
           "title": "Agenda Hero Magic",
           "imageUrl": "https://ph-files.imgix.net/93b5adc2-0bf2-48ac-87ab-2ce9260936c1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pullthecode",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pullthecode",
+          "publishedOn": "2023-12-18T02:07:57.000Z",
+          "wordCount": 443,
+          "title": "PullTheCode",
+          "imageUrl": "https://ph-files.imgix.net/0b469743-a8d7-4d02-8064-2badef51bb76.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/inri-2",
@@ -189,16 +209,6 @@
           "imageUrl": "https://ph-files.imgix.net/0ad80194-a33d-48d3-ad9c-a497afc3ae4a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/therai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/therai",
-          "publishedOn": "2023-12-17T02:20:25.000Z",
-          "wordCount": 484,
-          "title": "THERAi",
-          "imageUrl": "https://ph-files.imgix.net/71b9ebad-b40b-4c7f-a798-44156c901f3d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/giftruly",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -249,16 +259,6 @@
           "imageUrl": "https://ph-files.imgix.net/51ddefa5-d9e3-4daa-947d-b9c3df6098bd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/chatboat",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/chatboat",
-          "publishedOn": "2023-12-16T15:29:49.000Z",
-          "wordCount": 379,
-          "title": "Chatboat",
-          "imageUrl": "https://ph-files.imgix.net/6928ffda-9e11-437f-8fdc-ab80b73f6c10.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/interviewjarvis",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -274,7 +274,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/app-logs",
           "publishedOn": "2023-12-16T07:07:48.000Z",
-          "wordCount": 518,
+          "wordCount": 537,
           "title": "App-Logs",
           "imageUrl": "https://ph-files.imgix.net/968457ec-0ed5-44a5-8334-ada8eb6cd321.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -284,7 +284,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/turboscripter",
           "publishedOn": "2023-12-16T03:08:52.000Z",
-          "wordCount": 576,
+          "wordCount": 595,
           "title": "TurboScripter",
           "imageUrl": "https://ph-files.imgix.net/121d801a-96d1-48f8-9dcf-2bb972901bb0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/floowi",
           "publishedOn": "2023-12-15T21:05:03.000Z",
-          "wordCount": 397,
+          "wordCount": 416,
           "title": "Floowi",
           "imageUrl": "https://ph-files.imgix.net/f07f0e44-acfe-477a-8f92-b2b39f18f7b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -324,7 +324,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/scipub",
           "publishedOn": "2023-12-15T14:58:21.000Z",
-          "wordCount": 534,
+          "wordCount": 515,
           "title": "SciPub+",
           "imageUrl": "https://ph-files.imgix.net/69a8cc77-09c6-484d-bc3f-0a4c69a58855.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -344,7 +344,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/theydo",
           "publishedOn": "2023-12-15T12:34:18.000Z",
-          "wordCount": 448,
+          "wordCount": 452,
           "title": "TheyDo",
           "imageUrl": "https://ph-files.imgix.net/88beb617-2dfb-4d78-8c71-2592c811c9d8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -389,6 +389,16 @@
           "imageUrl": "https://ph-files.imgix.net/6d20e224-ea7e-490e-a22e-3aa3ab23449b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ai-contract-analysis",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-contract-analysis",
+          "publishedOn": "2023-12-14T19:21:25.000Z",
+          "wordCount": 445,
+          "title": "AI Contract Analysis",
+          "imageUrl": "https://ph-files.imgix.net/a5587474-982d-4f87-893d-48b5fa7a0d93.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/smashing-docs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,16 +439,6 @@
           "imageUrl": "https://ph-files.imgix.net/6a4b33d0-a229-4415-9537-06b1ac740c50.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/green-quid",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/green-quid",
-          "publishedOn": "2023-12-13T02:47:59.000Z",
-          "wordCount": 470,
-          "title": "Green Quid",
-          "imageUrl": "https://ph-files.imgix.net/46da6f9f-9578-47aa-8251-5f614fe0d7bd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/earnbetter",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -464,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/creatify-ai",
           "publishedOn": "2023-12-11T21:58:39.000Z",
-          "wordCount": 599,
+          "wordCount": 608,
           "title": "Creatify AI",
           "imageUrl": "https://ph-files.imgix.net/6c90d027-e6e2-4cb6-9d4c-ef279088a587.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
