@@ -29,12 +29,32 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/inbox-zero-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/inbox-zero-2",
+          "publishedOn": "2023-12-26T07:41:34.000Z",
+          "wordCount": 388,
+          "title": "Inbox Zero",
+          "imageUrl": "https://ph-files.imgix.net/352e7f84-1968-49d0-8254-e52c1711387f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/design-buddy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/design-buddy",
+          "publishedOn": "2023-12-25T14:08:46.000Z",
+          "wordCount": 466,
+          "title": "Design Buddy",
+          "imageUrl": "https://ph-files.imgix.net/862dd698-596b-4752-93fa-ed0d16937557.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/santa-s-bouncy-quest",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/santa-s-bouncy-quest",
           "publishedOn": "2023-12-25T11:16:24.000Z",
-          "wordCount": 624,
+          "wordCount": 677,
           "title": "Santa's Bouncy Quest",
           "imageUrl": "https://ph-files.imgix.net/4fc40be2-f572-4de3-95b1-c4ab58f7ca88.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -44,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/emit-diary",
           "publishedOn": "2023-12-25T09:55:06.000Z",
-          "wordCount": 467,
+          "wordCount": 520,
           "title": "Emit Diary",
           "imageUrl": "https://ph-files.imgix.net/82a28eb8-56a4-4c91-b4a6-27e0ea686722.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/new-year-resolutions-ai",
           "publishedOn": "2023-12-25T04:18:54.000Z",
-          "wordCount": 470,
+          "wordCount": 523,
           "title": "New Year Resolutions AI",
           "imageUrl": "https://ph-files.imgix.net/64e9c0ac-442d-40a0-a1f6-77af14c98306.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -94,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/codify-2",
           "publishedOn": "2023-12-24T10:26:23.000Z",
-          "wordCount": 540,
+          "wordCount": 593,
           "title": "Codify",
           "imageUrl": "https://ph-files.imgix.net/0a967cc0-bb8d-42ee-b848-35d38541599f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -184,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/creaizi-ar-christmas-card",
           "publishedOn": "2023-12-23T10:05:04.000Z",
-          "wordCount": 545,
+          "wordCount": 546,
           "title": "Creaizi AR Christmas Card",
           "imageUrl": "https://ph-files.imgix.net/afff7030-c00c-428f-89e1-2a38c1f40966.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -354,7 +374,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/convertlyio",
           "publishedOn": "2023-12-21T14:02:41.000Z",
-          "wordCount": 399,
+          "wordCount": 418,
           "title": "Convertlyio",
           "imageUrl": "https://ph-files.imgix.net/fb4a7528-e1aa-4d5a-88a6-00f678e676e5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -399,16 +419,6 @@
           "imageUrl": "https://ph-files.imgix.net/01240348-44c7-493e-acf1-b9d82a43cdb8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/caphacker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/caphacker",
-          "publishedOn": "2023-12-20T07:44:02.000Z",
-          "wordCount": 428,
-          "title": "CapHacker",
-          "imageUrl": "https://ph-files.imgix.net/f340c3dc-5a2f-4b9b-8abd-26337d3a59a9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/percept-pixel",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -424,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/greetsapp-2",
           "publishedOn": "2023-12-17T22:07:49.000Z",
-          "wordCount": 560,
+          "wordCount": 507,
           "title": "Greetsapp",
           "imageUrl": "https://ph-files.imgix.net/04f131d0-31ca-468c-b676-0374eecc77fc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -467,16 +477,6 @@
           "wordCount": 588,
           "title": "JaevesAI Creative Suite 2.0 (Beta)",
           "imageUrl": "https://ph-files.imgix.net/da5dfe5d-ebb2-41b5-a88a-38b692d195b5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sentiment-analysis-bot",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sentiment-analysis-bot",
-          "publishedOn": "2023-12-02T17:51:09.000Z",
-          "wordCount": 507,
-          "title": "Sentiment Analysis Bot",
-          "imageUrl": "https://ph-files.imgix.net/fa7e930e-8131-4ce0-9917-cd6d33d15779.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
