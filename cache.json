@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/nextprep",
@@ -234,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/formie",
           "publishedOn": "2023-12-28T10:05:57.000Z",
-          "wordCount": 466,
+          "wordCount": 413,
           "title": "formie",
           "imageUrl": "https://ph-files.imgix.net/a2ef8ff0-dc8a-4455-a2e7-935ab19675eb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -264,7 +264,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/reponotes",
           "publishedOn": "2023-12-28T05:41:47.000Z",
-          "wordCount": 506,
+          "wordCount": 453,
           "title": "RepoNotes",
           "imageUrl": "https://ph-files.imgix.net/0e6fa66f-cf41-42c7-8f4e-8e0429cc8fe6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -299,6 +299,16 @@
           "imageUrl": "https://ph-files.imgix.net/b23aa788-ee41-4de3-9358-907facac9c0f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/genie-ai-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/genie-ai-2",
+          "publishedOn": "2023-12-27T19:54:49.000Z",
+          "wordCount": 509,
+          "title": "Genie AI",
+          "imageUrl": "https://ph-files.imgix.net/86e98207-d34a-40b1-8ed3-b23f81aba8ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/microsoft-copilot-for-android",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -307,16 +317,6 @@
           "wordCount": 488,
           "title": "Microsoft Copilot for Android",
           "imageUrl": "https://ph-files.imgix.net/1de29d7f-668a-4016-ac47-a0dc52e5a877.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/nural-45aa42d7-dfe9-4179-aca9-516674f61027",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/nural-45aa42d7-dfe9-4179-aca9-516674f61027",
-          "publishedOn": "2023-12-27T18:35:57.000Z",
-          "wordCount": 545,
-          "title": "Nural",
-          "imageUrl": "https://ph-files.imgix.net/8b860f4c-71bc-46c3-a841-083d429ea00d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/the-undefeated-underdogs-podcast",
@@ -344,7 +344,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/streaks-4",
           "publishedOn": "2023-12-27T13:43:16.000Z",
-          "wordCount": 459,
+          "wordCount": 406,
           "title": "Streaks",
           "imageUrl": "https://ph-files.imgix.net/e831382f-506e-4e33-aa14-7d137af302a6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/anyo",
           "publishedOn": "2023-12-27T06:55:19.000Z",
-          "wordCount": 497,
+          "wordCount": 444,
           "title": "Anyo",
           "imageUrl": "https://ph-files.imgix.net/a8f2d921-cdc7-482d-9dbe-cc690bacf8d5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
