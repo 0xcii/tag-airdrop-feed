@@ -36,15 +36,25 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/smartgym",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/smartgym",
+          "publishedOn": "2024-01-04T18:36:44.000Z",
+          "wordCount": 318,
+          "title": "SmartGym",
+          "imageUrl": "https://ph-files.imgix.net/7c5bfe98-99bb-4aa3-92f8-0dce858946aa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/petwalk",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/petwalk",
           "publishedOn": "2024-01-04T15:33:26.000Z",
-          "wordCount": 436,
+          "wordCount": 414,
           "title": "Petwalk",
           "imageUrl": "https://ph-files.imgix.net/20c049ef-6a61-4098-913b-85a367bac7d7.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +94,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/habitloop-for-ios",
           "publishedOn": "2024-01-03T19:10:20.000Z",
-          "wordCount": 550,
+          "wordCount": 531,
           "title": "HabitLoop for iOS",
           "imageUrl": "https://ph-files.imgix.net/84ed6194-2fe2-4dcf-9827-f45e46c8312c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -104,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/smudge-ai",
           "publishedOn": "2024-01-03T15:23:19.000Z",
-          "wordCount": 609,
+          "wordCount": 590,
           "title": "smudge.ai",
           "imageUrl": "https://ph-files.imgix.net/bb002d48-cbeb-415a-804f-534b0bef1cf3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -154,7 +164,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/savemytime-for-ios",
           "publishedOn": "2024-01-03T11:56:51.000Z",
-          "wordCount": 549,
+          "wordCount": 550,
           "title": "SaveMyTime for iOS",
           "imageUrl": "https://ph-files.imgix.net/576b8489-5731-4309-ab50-03ef71295343.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -194,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/launched-3",
           "publishedOn": "2024-01-03T06:03:59.000Z",
-          "wordCount": 520,
+          "wordCount": 573,
           "title": "LAUNCHED",
           "imageUrl": "https://ph-files.imgix.net/0e90f49d-36dc-4551-a8b9-53a273636a1a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -257,6 +267,16 @@
           "wordCount": 446,
           "title": "WordSnap - AI Flashcards Maker",
           "imageUrl": "https://ph-files.imgix.net/2119e4ac-5dc7-4f88-923c-4a06a85b0d60.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/habit-harbor",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/habit-harbor",
+          "publishedOn": "2024-01-02T23:29:28.000Z",
+          "wordCount": 540,
+          "title": "Habit Harbor",
+          "imageUrl": "https://ph-files.imgix.net/7a5405e8-5d45-452c-a156-c91144b2c347.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/many-penny",
@@ -324,7 +344,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/my-year-2",
           "publishedOn": "2024-01-02T13:12:21.000Z",
-          "wordCount": 398,
+          "wordCount": 451,
           "title": "My Year",
           "imageUrl": "https://ph-files.imgix.net/6dbb5b4b-66c9-4a03-b678-ef2bd4105f3c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -354,7 +374,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sereneai",
           "publishedOn": "2024-01-02T09:25:59.000Z",
-          "wordCount": 497,
+          "wordCount": 550,
           "title": "SereneAI",
           "imageUrl": "https://ph-files.imgix.net/314564a1-880a-46dd-a96f-49caa8490648.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -374,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/open-love",
           "publishedOn": "2024-01-02T04:19:08.000Z",
-          "wordCount": 470,
+          "wordCount": 523,
           "title": "Open Love",
           "imageUrl": "https://ph-files.imgix.net/15ddfb36-df90-4514-a6eb-adbdbf448ed2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -414,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cartfuls",
           "publishedOn": "2024-01-01T15:01:22.000Z",
-          "wordCount": 399,
+          "wordCount": 452,
           "title": "Cartfuls",
           "imageUrl": "https://ph-files.imgix.net/b4eb2ed4-8867-4891-a211-323a0906f4bb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,29 +474,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/compressx",
           "publishedOn": "2023-12-27T12:42:53.000Z",
-          "wordCount": 437,
+          "wordCount": 509,
           "title": "CompressX",
           "imageUrl": "https://ph-files.imgix.net/34033f43-f14e-4097-93fd-835a31f00c5f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/myinvestment-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/myinvestment-ai",
-          "publishedOn": "2023-12-27T10:17:20.000Z",
-          "wordCount": 566,
-          "title": "MyInvestment-AI",
-          "imageUrl": "https://ph-files.imgix.net/48482588-bde8-4727-a06d-dcca7b786849.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/lottiebox",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/lottiebox",
-          "publishedOn": "2023-12-27T06:58:38.000Z",
-          "wordCount": 508,
-          "title": "Lottiebox",
-          "imageUrl": "https://ph-files.imgix.net/ad08511f-5300-46fd-9c1d-80d6e6072a59.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/leadrpro-for-events",
