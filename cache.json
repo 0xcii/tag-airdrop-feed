@@ -18,12 +18,12 @@
         {
           "id": "https://medium.com/p/b87498e564dd",
           "author": "DefiCalendar",
-          "description": "Our profile page: https://link3.to/deficalendar",
+          "description": "",
           "link": "https://medium.com/@CalendarDefi/mainnet-guide-wormhole-b87498e564dd?source=rss-4949be3a0c7a------2",
           "publishedOn": "2023-12-09T20:14:32.000Z",
-          "wordCount": 1144,
+          "wordCount": null,
           "title": "Mainnet Guide — Wormhole",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/0*5kSKeYguO8e-GCkh.png"
+          "imageUrl": null
         }
       ]
     },
@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/petwalk",
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/aoyo-ai",
           "publishedOn": "2024-01-04T09:50:41.000Z",
-          "wordCount": 411,
+          "wordCount": 464,
           "title": "aoyo.ai",
           "imageUrl": "https://ph-files.imgix.net/4f3c821f-ec2d-4921-9a38-711bc4d5078c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -74,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hubble-tailwind-css",
           "publishedOn": "2024-01-03T21:04:58.000Z",
-          "wordCount": 364,
+          "wordCount": 417,
           "title": "Hubble Tailwind CSS",
           "imageUrl": "https://ph-files.imgix.net/f7009d40-6980-4002-ac18-cbd78ef04a36.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/habitloop-for-ios",
           "publishedOn": "2024-01-03T19:10:20.000Z",
-          "wordCount": 547,
+          "wordCount": 528,
           "title": "HabitLoop for iOS",
           "imageUrl": "https://ph-files.imgix.net/84ed6194-2fe2-4dcf-9827-f45e46c8312c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -104,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/smudge-ai",
           "publishedOn": "2024-01-03T15:23:19.000Z",
-          "wordCount": 606,
+          "wordCount": 587,
           "title": "smudge.ai",
           "imageUrl": "https://ph-files.imgix.net/bb002d48-cbeb-415a-804f-534b0bef1cf3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/data-dead-drop",
           "publishedOn": "2024-01-03T15:21:36.000Z",
-          "wordCount": 338,
+          "wordCount": 391,
           "title": "Data Dead Drop",
           "imageUrl": "https://ph-files.imgix.net/650bf267-6c4e-409c-b3f9-d40a183495d6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -234,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/opentaskai",
           "publishedOn": "2024-01-03T04:02:30.000Z",
-          "wordCount": 526,
+          "wordCount": 528,
           "title": "OpenTaskAI",
           "imageUrl": "https://ph-files.imgix.net/cb0bce5b-aed3-4bce-a73f-ff82032d4299.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -264,7 +264,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/habit-harbor",
           "publishedOn": "2024-01-02T23:29:28.000Z",
-          "wordCount": 556,
+          "wordCount": 537,
           "title": "Habit Harbor",
           "imageUrl": "https://ph-files.imgix.net/7a5405e8-5d45-452c-a156-c91144b2c347.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -384,7 +384,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/open-love",
           "publishedOn": "2024-01-02T04:19:08.000Z",
-          "wordCount": 470,
+          "wordCount": 523,
           "title": "Open Love",
           "imageUrl": "https://ph-files.imgix.net/15ddfb36-df90-4514-a6eb-adbdbf448ed2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/frequentlyaskedai",
           "publishedOn": "2024-01-02T02:02:45.000Z",
-          "wordCount": 545,
+          "wordCount": 471,
           "title": "FrequentlyAskedAI",
           "imageUrl": "https://ph-files.imgix.net/dc480569-5e2d-4b59-b285-e1123cad472b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -424,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cartfuls",
           "publishedOn": "2024-01-01T15:01:22.000Z",
-          "wordCount": 399,
+          "wordCount": 452,
           "title": "Cartfuls",
           "imageUrl": "https://ph-files.imgix.net/b4eb2ed4-8867-4891-a211-323a0906f4bb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/compressx",
           "publishedOn": "2023-12-27T12:42:53.000Z",
-          "wordCount": 434,
+          "wordCount": 413,
           "title": "CompressX",
           "imageUrl": "https://ph-files.imgix.net/34033f43-f14e-4097-93fd-835a31f00c5f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
