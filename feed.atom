@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T16:13:54.824Z</id>
+    <id>urn:2024-01-08T17:10:03.518Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-08T16:13:54.824Z</updated>
+    <updated>2024-01-08T17:10:03.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,6 +82,18 @@
         <id>https://www.producthunt.com/posts/rely-io-2</id>
         <link href="https://www.producthunt.com/posts/rely-io-2"/>
         <updated>2024-01-07T22:14:49.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RoastedWithAI - Get Your Website Roasted]]></title>
+        <id>https://www.producthunt.com/posts/roastedwithai-get-your-website-roasted</id>
+        <link href="https://www.producthunt.com/posts/roastedwithai-get-your-website-roasted"/>
+        <updated>2024-01-07T21:37:08.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -414,18 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ingredient Scanner & Analyzer]]></title>
-        <id>https://www.producthunt.com/posts/ingredient-scanner-analyzer</id>
-        <link href="https://www.producthunt.com/posts/ingredient-scanner-analyzer"/>
-        <updated>2024-01-04T12:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Parse Url Online]]></title>
         <id>https://www.producthunt.com/posts/parse-url-online</id>
         <link href="https://www.producthunt.com/posts/parse-url-online"/>
@@ -538,7 +538,6 @@
         <id>https://medium.com/p/80ee03625635</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-potential-binance-launchpad-projects-80ee03625635?source=rss-4949be3a0c7a------2"/>
         <updated>2023-12-30T23:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
