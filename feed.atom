@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T17:10:03.518Z</id>
+    <id>urn:2024-01-08T18:14:05.192Z</id>
     <title>web3::cave</title>
-    <updated>2024-01-08T17:10:03.518Z</updated>
+    <updated>2024-01-08T18:14:05.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -366,6 +366,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AdSync]]></title>
+        <id>https://www.producthunt.com/posts/adsync-2</id>
+        <link href="https://www.producthunt.com/posts/adsync-2"/>
+        <updated>2024-01-05T10:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Diffr]]></title>
         <id>https://www.producthunt.com/posts/diffr</id>
         <link href="https://www.producthunt.com/posts/diffr"/>
@@ -450,18 +462,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minodor]]></title>
-        <id>https://www.producthunt.com/posts/minodor-3</id>
-        <link href="https://www.producthunt.com/posts/minodor-3"/>
-        <updated>2024-01-03T13:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Resources for Early-Stage Founders]]></title>
         <id>https://www.producthunt.com/posts/resources-for-early-stage-founders</id>
         <link href="https://www.producthunt.com/posts/resources-for-early-stage-founders"/>
@@ -538,6 +538,7 @@
         <id>https://medium.com/p/80ee03625635</id>
         <link href="https://medium.com/@CalendarDefi/mainnet-guide-potential-binance-launchpad-projects-80ee03625635?source=rss-4949be3a0c7a------2"/>
         <updated>2023-12-30T23:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Our new profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
