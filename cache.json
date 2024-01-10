@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/startup-ratings",
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/journal-8",
           "publishedOn": "2024-01-10T01:10:25.000Z",
-          "wordCount": 581,
+          "wordCount": 562,
           "title": "Journal.",
           "imageUrl": "https://ph-files.imgix.net/dd66c83d-6903-4ff7-9ca4-9201a702fa9a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sleepmi-z3",
           "publishedOn": "2024-01-09T19:10:10.000Z",
-          "wordCount": 338,
+          "wordCount": 319,
           "title": "Sleepmi Z3",
           "imageUrl": "https://ph-files.imgix.net/871de7ac-d698-4628-a963-8a84dfd31c24.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rimo",
           "publishedOn": "2024-01-09T14:34:22.000Z",
-          "wordCount": 475,
+          "wordCount": 479,
           "title": "Rimo",
           "imageUrl": "https://ph-files.imgix.net/36e014db-0644-416a-a0fe-9eca3c60a2f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -379,16 +379,6 @@
           "imageUrl": "https://ph-files.imgix.net/9214f1b0-864f-4d17-9574-85ffa80958f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tablize",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tablize",
-          "publishedOn": "2024-01-05T10:57:03.000Z",
-          "wordCount": 355,
-          "title": "Tablize",
-          "imageUrl": "https://ph-files.imgix.net/eda1720f-5cde-4dbc-b1ee-9fc516b36215.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/adsync-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -424,7 +414,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rabbit-r1",
           "publishedOn": "2024-01-04T03:36:30.000Z",
-          "wordCount": 497,
+          "wordCount": 501,
           "title": "Rabbit r1",
           "imageUrl": "https://ph-files.imgix.net/9d3b85d6-0230-40c5-b71c-f041b3ceffa6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -447,6 +437,16 @@
           "wordCount": 513,
           "title": "OkFeedback",
           "imageUrl": "https://ph-files.imgix.net/8c190f8b-45d2-4174-bf29-b346df4804f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/seemless",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/seemless",
+          "publishedOn": "2024-01-01T02:15:55.000Z",
+          "wordCount": 538,
+          "title": "Seemless",
+          "imageUrl": "https://ph-files.imgix.net/0e5a01be-1073-4cf6-9ecb-9bf665066651.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/packem",
@@ -474,7 +474,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/miflow-2",
           "publishedOn": "2023-12-14T00:28:11.000Z",
-          "wordCount": 601,
+          "wordCount": 582,
           "title": "miflow®",
           "imageUrl": "https://ph-files.imgix.net/731b3c2c-a113-4f88-8437-86a959cf6147.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
