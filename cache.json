@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/ai-audio-kit",
@@ -34,7 +34,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-audio-kit",
           "publishedOn": "2024-01-17T07:12:14.000Z",
-          "wordCount": 592,
+          "wordCount": 539,
           "title": "AI Audio Kit",
           "imageUrl": "https://ph-files.imgix.net/b2aaf074-3dc2-4c7f-9947-4eaad8a871af.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pinecone-serverless",
           "publishedOn": "2024-01-17T04:55:14.000Z",
-          "wordCount": 372,
+          "wordCount": 319,
           "title": "Pinecone Serverless",
           "imageUrl": "https://ph-files.imgix.net/3a5ceef2-fc0b-4523-9cab-37037890a9d8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/unify-5",
           "publishedOn": "2024-01-17T03:14:33.000Z",
-          "wordCount": 482,
+          "wordCount": 501,
           "title": "Unify",
           "imageUrl": "https://ph-files.imgix.net/36a37793-e9c7-42a4-bfd5-917b4a6adf24.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -74,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/notion-calendar",
           "publishedOn": "2024-01-16T23:22:06.000Z",
-          "wordCount": 461,
+          "wordCount": 483,
           "title": "Notion Calendar",
           "imageUrl": "https://ph-files.imgix.net/d7022da1-ff88-4e46-afa4-18bf281b5d52.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -104,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/numi-3",
           "publishedOn": "2024-01-16T22:18:37.000Z",
-          "wordCount": 341,
+          "wordCount": 288,
           "title": "NUMI",
           "imageUrl": "https://ph-files.imgix.net/91303cb5-6e0e-451e-9bff-68d4824ee6b3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -129,12 +129,22 @@
           "imageUrl": "https://ph-files.imgix.net/acf20e10-bb28-4e33-af99-ec0c87740683.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/modernltv",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/modernltv",
+          "publishedOn": "2024-01-16T20:25:51.000Z",
+          "wordCount": 525,
+          "title": "ModernLTV",
+          "imageUrl": "https://ph-files.imgix.net/d26373c4-eacb-486a-a2d1-fed5df8ded0e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/tango-a322b23c-d6c4-4dd4-8d61-54eb6cd4bd21",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tango-a322b23c-d6c4-4dd4-8d61-54eb6cd4bd21",
           "publishedOn": "2024-01-16T18:53:10.000Z",
-          "wordCount": 640,
+          "wordCount": 587,
           "title": "Tango",
           "imageUrl": "https://ph-files.imgix.net/06f9dfe8-48c6-4b0f-ae80-a3157c4a8c7b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -164,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/betweenui",
           "publishedOn": "2024-01-16T17:24:54.000Z",
-          "wordCount": 465,
+          "wordCount": 462,
           "title": "BetweenUI",
           "imageUrl": "https://ph-files.imgix.net/15c2d715-5a33-48a6-9b37-a9ca510f0fbb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -184,7 +194,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/templated-2",
           "publishedOn": "2024-01-16T16:39:11.000Z",
-          "wordCount": 580,
+          "wordCount": 584,
           "title": "Templated",
           "imageUrl": "https://ph-files.imgix.net/e8f2dc2f-59cc-4e73-a77e-9dce3ee26936.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -194,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/letterbird",
           "publishedOn": "2024-01-16T15:26:33.000Z",
-          "wordCount": 551,
+          "wordCount": 552,
           "title": "Letterbird",
           "imageUrl": "https://ph-files.imgix.net/bcbf5ec1-5564-476f-a431-89d2d20908de.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -204,7 +214,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/notega",
           "publishedOn": "2024-01-16T15:19:25.000Z",
-          "wordCount": 521,
+          "wordCount": 468,
           "title": "Notega",
           "imageUrl": "https://ph-files.imgix.net/7105aea0-e824-4956-a1ea-5f3c148de3f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -354,7 +364,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/direqual",
           "publishedOn": "2024-01-15T09:34:57.000Z",
-          "wordCount": 555,
+          "wordCount": 502,
           "title": "DirEqual",
           "imageUrl": "https://ph-files.imgix.net/a55759fb-d7d4-4108-b433-96778ec2f498.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -364,7 +374,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lume-3",
           "publishedOn": "2024-01-15T04:21:26.000Z",
-          "wordCount": 506,
+          "wordCount": 453,
           "title": "Lume",
           "imageUrl": "https://ph-files.imgix.net/aaae7f85-dba0-4a55-a26a-1c2d6593f968.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/innox-app",
           "publishedOn": "2024-01-13T06:32:23.000Z",
-          "wordCount": 401,
+          "wordCount": 348,
           "title": "Innox App",
           "imageUrl": "https://ph-files.imgix.net/8305bee1-5953-4382-b18b-5b7514b007c6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -424,19 +434,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/triibe-550d1379-c712-4f7a-8e39-eca27797766a",
           "publishedOn": "2024-01-12T11:41:37.000Z",
-          "wordCount": 563,
+          "wordCount": 506,
           "title": "Triibe",
           "imageUrl": "https://ph-files.imgix.net/3fe988de-b8df-4651-a625-8b23227a2031.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/adintell-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/adintell-ai",
-          "publishedOn": "2024-01-12T09:08:27.000Z",
-          "wordCount": 381,
-          "title": "AdIntell.ai",
-          "imageUrl": "https://ph-files.imgix.net/433868f0-cabb-4b73-9262-a6c558671f91.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/riyo-ai",
