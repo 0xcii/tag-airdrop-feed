@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/ai-audio-kit",
@@ -69,12 +69,22 @@
           "imageUrl": "https://ph-files.imgix.net/b9b50c76-912a-4cf5-8f56-0554347d09b6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/notion-calendar",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/notion-calendar",
+          "publishedOn": "2024-01-16T23:22:06.000Z",
+          "wordCount": 461,
+          "title": "Notion Calendar",
+          "imageUrl": "https://ph-files.imgix.net/d7022da1-ff88-4e46-afa4-18bf281b5d52.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/helloii",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/helloii",
           "publishedOn": "2024-01-16T23:02:54.000Z",
-          "wordCount": 407,
+          "wordCount": 481,
           "title": "Helloii",
           "imageUrl": "https://ph-files.imgix.net/e0fd92ed-5366-41d4-8ed9-cb340f719405.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/event-penguin",
           "publishedOn": "2024-01-16T21:41:58.000Z",
-          "wordCount": 458,
+          "wordCount": 455,
           "title": "Event Penguin",
           "imageUrl": "https://ph-files.imgix.net/acf20e10-bb28-4e33-af99-ec0c87740683.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -124,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tango-a322b23c-d6c4-4dd4-8d61-54eb6cd4bd21",
           "publishedOn": "2024-01-16T18:53:10.000Z",
-          "wordCount": 659,
+          "wordCount": 640,
           "title": "Tango",
           "imageUrl": "https://ph-files.imgix.net/06f9dfe8-48c6-4b0f-ae80-a3157c4a8c7b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -194,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/notega",
           "publishedOn": "2024-01-16T15:19:25.000Z",
-          "wordCount": 540,
+          "wordCount": 521,
           "title": "Notega",
           "imageUrl": "https://ph-files.imgix.net/7105aea0-e824-4956-a1ea-5f3c148de3f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -324,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/instill-vdp",
           "publishedOn": "2024-01-15T16:05:43.000Z",
-          "wordCount": 529,
+          "wordCount": 585,
           "title": "Instill VDP",
           "imageUrl": "https://ph-files.imgix.net/d088f6ca-df1d-4343-9374-75f4a1fa8dbf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,19 +474,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/reacttiv-3",
           "publishedOn": "2024-01-11T00:38:59.000Z",
-          "wordCount": 354,
+          "wordCount": 357,
           "title": "Reacttiv",
           "imageUrl": "https://ph-files.imgix.net/5d8bb6f7-7a9c-4b91-b0a4-e6b56ea21135.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sell-button-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sell-button-2",
-          "publishedOn": "2024-01-08T19:37:32.000Z",
-          "wordCount": 402,
-          "title": "Sell Button",
-          "imageUrl": "https://ph-files.imgix.net/162db77a-9e82-430c-9ae4-0f2c834e311c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/webnatives-app",
