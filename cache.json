@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/steve-ai-2-0",
@@ -234,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/silter",
           "publishedOn": "2024-01-24T09:40:49.000Z",
-          "wordCount": 483,
+          "wordCount": 486,
           "title": "Silter",
           "imageUrl": "https://ph-files.imgix.net/17d4c584-e474-409d-acdd-5eb5d62d0461.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -254,7 +254,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/shiplog",
           "publishedOn": "2024-01-24T08:20:57.000Z",
-          "wordCount": 527,
+          "wordCount": 447,
           "title": "ShipLog",
           "imageUrl": "https://ph-files.imgix.net/d15fd792-d7ab-41aa-9582-7cb682253364.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-godfathers",
           "publishedOn": "2024-01-24T02:42:36.000Z",
-          "wordCount": 473,
+          "wordCount": 470,
           "title": "AI Godfathers",
           "imageUrl": "https://ph-files.imgix.net/5b3f18b1-50d9-4f0f-b4a5-909c2a1f8572.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jellypod-2",
           "publishedOn": "2024-01-19T20:00:36.000Z",
-          "wordCount": 544,
+          "wordCount": 470,
           "title": "Jellypod",
           "imageUrl": "https://ph-files.imgix.net/afc1e6ce-958e-4ef2-9030-d2be5348698d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -495,6 +495,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://twitter.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1750609163443491303",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nSocrates Ambassador Program\n.@Socrates_global  has announced the launch of its Ambassador Program globally. \n🌐 https://dropsearn.com/events/socrates-ambassador-program",
+          "link": "https://twitter.com/DropsEarn/status/1750609163443491303",
+          "publishedOn": "2024-01-25T19:58:43.000Z",
+          "wordCount": null,
+          "title": "💧 New event on http://DropsEarn.com Socrates Ambassador Program .@Socrates_global has announced the launch of its Ambassador Program globally. 🌐...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1749886339246407747",
           "author": "Drops Earn",
