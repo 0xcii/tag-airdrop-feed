@@ -39,12 +39,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/steve-ai-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/steve-ai-2-0",
+          "publishedOn": "2024-01-25T12:10:45.000Z",
+          "wordCount": 531,
+          "title": "Steve AI 2.0",
+          "imageUrl": "https://ph-files.imgix.net/f49a4720-5358-402d-a37e-ea907c389a65.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/amie-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/amie-5",
           "publishedOn": "2024-01-25T07:55:53.000Z",
-          "wordCount": 377,
+          "wordCount": 297,
           "title": "Amie",
           "imageUrl": "https://ph-files.imgix.net/7c54e5af-0da2-43ab-ae6c-36193c1d2780.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fountain-podcast-app",
           "publishedOn": "2024-01-24T21:57:24.000Z",
-          "wordCount": 542,
+          "wordCount": 545,
           "title": "Fountain Podcast App",
           "imageUrl": "https://ph-files.imgix.net/7829c898-46d6-4fcf-92c3-79ed892b87e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -284,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-godfathers",
           "publishedOn": "2024-01-24T02:42:36.000Z",
-          "wordCount": 473,
+          "wordCount": 470,
           "title": "AI Godfathers",
           "imageUrl": "https://ph-files.imgix.net/5b3f18b1-50d9-4f0f-b4a5-909c2a1f8572.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -337,16 +347,6 @@
           "wordCount": 392,
           "title": "Raise Millions Book",
           "imageUrl": "https://ph-files.imgix.net/336cae4a-7dd9-4944-9fc0-a3b6a15ffede.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/receiptup",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/receiptup",
-          "publishedOn": "2024-01-23T23:10:27.000Z",
-          "wordCount": 368,
-          "title": "ReceiptUp",
-          "imageUrl": "https://ph-files.imgix.net/5a37a0d1-c3a6-44d9-8197-d7588556faea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/startilla",
@@ -404,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sequence-2",
           "publishedOn": "2024-01-22T13:54:23.000Z",
-          "wordCount": 510,
+          "wordCount": 506,
           "title": "Sequence",
           "imageUrl": "https://ph-files.imgix.net/8fb1cb4a-a885-4c08-9fc6-8609a52c359e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
