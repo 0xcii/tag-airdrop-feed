@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/roadrunner-2",
@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kuizu",
           "publishedOn": "2024-01-26T13:07:47.000Z",
-          "wordCount": 548,
+          "wordCount": 550,
           "title": "kuizu",
           "imageUrl": "https://ph-files.imgix.net/cfb89954-20b7-405c-a645-960a23503ecb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -126,7 +126,7 @@
           "publishedOn": "2024-01-26T05:07:00.000Z",
           "wordCount": 495,
           "title": "CMDExplorer",
-          "imageUrl": "https://ph-files.imgix.net/4eb7e24e-972a-4ddb-9ca2-66c9835bfecd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": "https://ph-files.imgix.net/b9a5dfe5-b971-4b98-9749-551f13c6fa06.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/spotify-campaign-kit",
@@ -339,16 +339,6 @@
           "imageUrl": "https://ph-files.imgix.net/e9b3c0e7-d82a-4e8c-9f93-ed29bd645118.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/prompt-8",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/prompt-8",
-          "publishedOn": "2024-01-24T20:46:53.000Z",
-          "wordCount": 390,
-          "title": "Prompt&",
-          "imageUrl": "https://ph-files.imgix.net/83deeebb-05e2-44e9-967d-4727f06e2d03.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/rkiez",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -467,6 +457,16 @@
           "wordCount": 514,
           "title": "better mind",
           "imageUrl": "https://ph-files.imgix.net/37829c93-fcc7-4a7e-879c-6f365263eacd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/kuasar-video-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/kuasar-video-ai",
+          "publishedOn": "2024-01-13T00:17:13.000Z",
+          "wordCount": 632,
+          "title": "Kuasar Video AI",
+          "imageUrl": "https://ph-files.imgix.net/0635ad51-c707-4218-8c49-c99261c38b49.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/opendraft",
