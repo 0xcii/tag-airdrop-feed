@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/opencopilot-v2",
           "publishedOn": "2024-01-30T05:12:28.000Z",
-          "wordCount": 517,
+          "wordCount": 435,
           "title": "OpenCopilot v2",
           "imageUrl": "https://ph-files.imgix.net/e3a0714d-fb95-478b-b6a7-0e3de8efdcaa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -229,13 +229,13 @@
           "imageUrl": "https://ph-files.imgix.net/74af0527-1cc6-41c1-bf88-79d45e7cc6e0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/fastpal-intermittent-fasting",
+          "id": "https://www.producthunt.com/posts/fastpal",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/fastpal-intermittent-fasting",
+          "link": "https://www.producthunt.com/posts/fastpal",
           "publishedOn": "2024-01-28T22:25:14.000Z",
-          "wordCount": 627,
-          "title": "Fastpal - Intermittent Fasting",
+          "wordCount": 579,
+          "title": "Fastpal",
           "imageUrl": "https://ph-files.imgix.net/6730c64a-a30b-4611-9c79-e3f72328e137.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -354,7 +354,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pebble-app",
           "publishedOn": "2024-01-25T11:53:14.000Z",
-          "wordCount": 503,
+          "wordCount": 548,
           "title": "Pebble",
           "imageUrl": "https://ph-files.imgix.net/6cee1003-aaa8-46b0-8039-3bc423f15123.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -404,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fluxninja-aperture",
           "publishedOn": "2024-01-23T11:28:07.000Z",
-          "wordCount": 478,
+          "wordCount": 482,
           "title": "FluxNinja Aperture",
           "imageUrl": "https://ph-files.imgix.net/cc96aa58-3436-478c-a1bb-0df14e50523e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zerve-ai",
           "publishedOn": "2024-01-15T18:42:09.000Z",
-          "wordCount": 516,
+          "wordCount": 523,
           "title": "Zerve AI",
           "imageUrl": "https://ph-files.imgix.net/1036835b-1704-4d27-8d43-fae5854c7a6d.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -504,11 +504,17 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/martial-profile",
           "publishedOn": "2024-01-03T21:15:26.000Z",
-          "wordCount": 462,
+          "wordCount": 458,
           "title": "Martial Profile",
           "imageUrl": "https://ph-files.imgix.net/ef35d2cb-c222-442b-806e-73b94fdeac06.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://twitter.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
