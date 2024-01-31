@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/firstround",
@@ -319,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/66176c56-aff9-4c89-b5cc-9bb1053106c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/share-gpt",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/share-gpt",
-          "publishedOn": "2024-01-29T23:27:09.000Z",
-          "wordCount": 527,
-          "title": "Share GPT",
-          "imageUrl": "https://ph-files.imgix.net/d1d0a259-15e5-4865-a4c1-91d3b223d254.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/code-snippets-ai-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -407,6 +397,16 @@
           "wordCount": 591,
           "title": "Translatespace",
           "imageUrl": "https://ph-files.imgix.net/28288dd7-d808-4ea5-8465-7fdd1bb8e5f9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pirsch-analytics-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pirsch-analytics-2-0",
+          "publishedOn": "2024-01-24T14:37:52.000Z",
+          "wordCount": 547,
+          "title": "Pirsch Analytics 2.0",
+          "imageUrl": "https://ph-files.imgix.net/41ca0a21-ce66-49c7-8a16-0642f753148e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/promptbase",
@@ -524,7 +524,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cyclops",
           "publishedOn": "2024-01-03T15:43:29.000Z",
-          "wordCount": 493,
+          "wordCount": 567,
           "title": "Cyclops",
           "imageUrl": "https://ph-files.imgix.net/2f74e614-bfc1-4132-b47a-5eb10ac4d99a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -541,6 +541,16 @@
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://twitter.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1752768758555328918",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nTabi Testnet\n.@Tabi_NFT  has announced the Tabi Chain testnet.  Join in the pioneering journey and be part of the Tabi revolution.\n🌐 https://dropsearn.com/events/tabi-testnet",
+          "link": "https://twitter.com/DropsEarn/status/1752768758555328918",
+          "publishedOn": "2024-01-31T19:00:11.000Z",
+          "wordCount": null,
+          "title": "💧 New event on http://DropsEarn.com Tabi Testnet .@Tabi_NFT has announced the Tabi Chain testnet. Join in the pioneering journey and be part of the...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1752073219836727505",
           "author": "Drops Earn",
