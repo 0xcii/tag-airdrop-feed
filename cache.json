@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/refresher-ai",
           "publishedOn": "2024-01-30T10:28:56.000Z",
-          "wordCount": 372,
+          "wordCount": 376,
           "title": "Refresher AI",
           "imageUrl": "https://ph-files.imgix.net/57488e0e-eb25-4545-94ce-c76e291a3b31.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -324,7 +324,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/code-snippets-ai-3",
           "publishedOn": "2024-01-29T16:20:49.000Z",
-          "wordCount": 636,
+          "wordCount": 639,
           "title": "Code Snippets AI",
           "imageUrl": "https://ph-files.imgix.net/629fe2d6-110d-4df0-935c-c01eb48ee65c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -389,6 +389,16 @@
           "imageUrl": "https://ph-files.imgix.net/28288dd7-d808-4ea5-8465-7fdd1bb8e5f9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/pirsch-analytics-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pirsch-analytics-2-0",
+          "publishedOn": "2024-01-24T14:37:52.000Z",
+          "wordCount": 475,
+          "title": "Pirsch Analytics 2.0",
+          "imageUrl": "https://ph-files.imgix.net/41ca0a21-ce66-49c7-8a16-0642f753148e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/promptbase",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -409,16 +419,6 @@
           "imageUrl": "https://ph-files.imgix.net/738b04fd-200b-4ec7-a56f-eaf41b9f68d6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/outseta-webflow-app",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/outseta-webflow-app",
-          "publishedOn": "2024-01-22T21:14:41.000Z",
-          "wordCount": 528,
-          "title": "Outseta Webflow App",
-          "imageUrl": "https://ph-files.imgix.net/b420fa56-f18d-4ef3-b9cb-5f3a1f52c8c2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/lfg",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,13 +429,13 @@
           "imageUrl": "https://ph-files.imgix.net/afcc9230-5922-4f23-b7a8-afc6db67903d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/siteforge",
+          "id": "https://www.producthunt.com/posts/siteforge-io",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/siteforge",
+          "link": "https://www.producthunt.com/posts/siteforge-io",
           "publishedOn": "2024-01-18T11:40:11.000Z",
-          "wordCount": 597,
-          "title": "SiteForge",
+          "wordCount": 601,
+          "title": "SiteForge.io",
           "imageUrl": "https://ph-files.imgix.net/966849a6-a0b4-43d1-9cbc-39544c3f4fb1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -519,6 +519,12 @@
           "imageUrl": "https://ph-files.imgix.net/2f74e614-bfc1-4132-b47a-5eb10ac4d99a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://twitter.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
