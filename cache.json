@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/firstround",
@@ -204,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wato-2",
           "publishedOn": "2024-01-30T16:56:18.000Z",
-          "wordCount": 529,
+          "wordCount": 457,
           "title": "WATO",
           "imageUrl": "https://ph-files.imgix.net/81809dbc-73e9-4a7c-834b-9e4f6bfcd450.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -314,7 +314,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/storykit",
           "publishedOn": "2024-01-30T09:22:47.000Z",
-          "wordCount": 433,
+          "wordCount": 361,
           "title": "Storykit",
           "imageUrl": "https://ph-files.imgix.net/ba31ea3a-b46f-4412-9325-c2245959fa19.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -359,12 +359,22 @@
           "imageUrl": "https://ph-files.imgix.net/6f07a661-3190-4532-8973-1b2c5cab3b8e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/gptguard-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/gptguard-2",
+          "publishedOn": "2024-01-29T08:52:26.000Z",
+          "wordCount": 401,
+          "title": "GPTGuard",
+          "imageUrl": "https://ph-files.imgix.net/f813ce93-025f-447f-a880-ee13660080ce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/postergpt",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/postergpt",
           "publishedOn": "2024-01-27T10:30:06.000Z",
-          "wordCount": 472,
+          "wordCount": 400,
           "title": "PosterGPT",
           "imageUrl": "https://ph-files.imgix.net/994c6a87-afb7-4e51-9c93-59c1819e8926.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -374,7 +384,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openart-2",
           "publishedOn": "2024-01-26T05:55:06.000Z",
-          "wordCount": 543,
+          "wordCount": 471,
           "title": "OpenArt",
           "imageUrl": "https://ph-files.imgix.net/5c472a2e-81ab-4260-b5fb-ae8ac2389919.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bonfire-8",
           "publishedOn": "2024-01-25T01:21:00.000Z",
-          "wordCount": 454,
+          "wordCount": 382,
           "title": "Bonfire",
           "imageUrl": "https://ph-files.imgix.net/7bd686c9-8a77-4373-aeee-7d9cb23993de.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -424,19 +434,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/timeular",
           "publishedOn": "2024-01-23T12:06:22.000Z",
-          "wordCount": 492,
+          "wordCount": 420,
           "title": "Timeular",
           "imageUrl": "https://ph-files.imgix.net/738b04fd-200b-4ec7-a56f-eaf41b9f68d6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/outseta-webflow-app",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/outseta-webflow-app",
-          "publishedOn": "2024-01-22T21:14:41.000Z",
-          "wordCount": 530,
-          "title": "Outseta Webflow App",
-          "imageUrl": "https://ph-files.imgix.net/b420fa56-f18d-4ef3-b9cb-5f3a1f52c8c2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/lfg",
@@ -484,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/snapclear",
           "publishedOn": "2024-01-13T16:49:15.000Z",
-          "wordCount": 560,
+          "wordCount": 488,
           "title": "Snapclear",
           "imageUrl": "https://ph-files.imgix.net/ae35cfac-24bd-47da-a282-3274b65d8237.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -524,7 +524,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cyclops",
           "publishedOn": "2024-01-03T15:43:29.000Z",
-          "wordCount": 564,
+          "wordCount": 492,
           "title": "Cyclops",
           "imageUrl": "https://ph-files.imgix.net/2f74e614-bfc1-4132-b47a-5eb10ac4d99a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
