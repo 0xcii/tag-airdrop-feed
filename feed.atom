@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-23T12:18:36.361Z</id>
+    <id>urn:2024-02-23T13:11:38.804Z</id>
     <title>web3::cave</title>
-    <updated>2024-02-23T12:18:36.361Z</updated>
+    <updated>2024-02-23T13:11:38.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LiveChatAI]]></title>
+        <id>https://www.producthunt.com/posts/livechatai-2</id>
+        <link href="https://www.producthunt.com/posts/livechatai-2"/>
+        <updated>2024-02-23T09:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API Switch]]></title>
         <id>https://www.producthunt.com/posts/api-switch</id>
@@ -42,9 +54,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design System Sync — Figma to Webflow]]></title>
-        <id>https://www.producthunt.com/posts/design-system-sync-figma-to-webflow</id>
-        <link href="https://www.producthunt.com/posts/design-system-sync-figma-to-webflow"/>
+        <title type="html"><![CDATA[Design System Sync]]></title>
+        <id>https://www.producthunt.com/posts/design-system-sync</id>
+        <link href="https://www.producthunt.com/posts/design-system-sync"/>
         <updated>2024-02-23T04:04:12.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -426,9 +438,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mindr goes Vision Pro]]></title>
-        <id>https://www.producthunt.com/posts/mindr-goes-vision-pro</id>
-        <link href="https://www.producthunt.com/posts/mindr-goes-vision-pro"/>
+        <title type="html"><![CDATA[Mindr for Vision Pro]]></title>
+        <id>https://www.producthunt.com/posts/mindr-for-vision-pro</id>
+        <link href="https://www.producthunt.com/posts/mindr-for-vision-pro"/>
         <updated>2024-02-19T19:59:43.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -442,6 +454,18 @@
         <id>https://www.producthunt.com/posts/postpace-2</id>
         <link href="https://www.producthunt.com/posts/postpace-2"/>
         <updated>2024-02-19T18:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grake]]></title>
+        <id>https://www.producthunt.com/posts/grake</id>
+        <link href="https://www.producthunt.com/posts/grake"/>
+        <updated>2024-02-19T10:03:48.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -474,21 +498,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hermae]]></title>
-        <id>https://www.producthunt.com/posts/hermae</id>
-        <link href="https://www.producthunt.com/posts/hermae"/>
-        <updated>2024-02-15T16:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperSquad - Do it or Lose it Habit App]]></title>
-        <id>https://www.producthunt.com/posts/supersquad-do-it-or-lose-it-habit-app</id>
-        <link href="https://www.producthunt.com/posts/supersquad-do-it-or-lose-it-habit-app"/>
+        <title type="html"><![CDATA[SuperSquad]]></title>
+        <id>https://www.producthunt.com/posts/supersquad-2</id>
+        <link href="https://www.producthunt.com/posts/supersquad-2"/>
         <updated>2024-02-14T03:07:41.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -522,21 +534,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Recaster AI]]></title>
-        <id>https://www.producthunt.com/posts/recaster-ai</id>
-        <link href="https://www.producthunt.com/posts/recaster-ai"/>
-        <updated>2024-02-12T14:43:21.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHPForm: OpenSource Headless Form Server]]></title>
-        <id>https://www.producthunt.com/posts/phpform-opensource-headless-form-server</id>
-        <link href="https://www.producthunt.com/posts/phpform-opensource-headless-form-server"/>
+        <title type="html"><![CDATA[PHPForm]]></title>
+        <id>https://www.producthunt.com/posts/phpform</id>
+        <link href="https://www.producthunt.com/posts/phpform"/>
         <updated>2024-02-11T20:16:56.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
@@ -574,18 +574,6 @@
         <id>https://www.producthunt.com/posts/dosty-petcare</id>
         <link href="https://www.producthunt.com/posts/dosty-petcare"/>
         <updated>2024-02-06T08:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heeps.ai]]></title>
-        <id>https://www.producthunt.com/posts/heeps-ai</id>
-        <link href="https://www.producthunt.com/posts/heeps-ai"/>
-        <updated>2024-01-25T01:08:02.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
