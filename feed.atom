@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-01T09:12:49.660Z</id>
+    <id>urn:2024-03-01T10:11:15.373Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-01T09:12:49.660Z</updated>
+    <updated>2024-03-01T10:11:15.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -82,7 +82,6 @@
         <id>https://medium.com/p/f8378135f8c2</id>
         <link href="https://medium.com/@CalendarDefi/bitcoin-layer-2-ecosystem-f8378135f8c2?source=rss-4949be3a0c7a------2"/>
         <updated>2024-02-29T21:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
@@ -352,18 +351,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monic AI]]></title>
-        <id>https://www.producthunt.com/posts/monic-ai-3</id>
-        <link href="https://www.producthunt.com/posts/monic-ai-3"/>
-        <updated>2024-02-28T16:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Facts Generator]]></title>
         <id>https://www.producthunt.com/posts/facts-generator</id>
         <link href="https://www.producthunt.com/posts/facts-generator"/>
@@ -476,6 +463,18 @@
         <id>https://www.producthunt.com/posts/humaan-ai</id>
         <link href="https://www.producthunt.com/posts/humaan-ai"/>
         <updated>2024-02-26T08:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YourGPT Chatbot Studio]]></title>
+        <id>https://www.producthunt.com/posts/yourgpt-chatbot-studio</id>
+        <link href="https://www.producthunt.com/posts/yourgpt-chatbot-studio"/>
+        <updated>2024-02-26T06:40:12.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
