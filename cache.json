@@ -8,12 +8,12 @@
         {
           "id": "https://medium.com/p/f8378135f8c2",
           "author": "DefiCalendar",
-          "description": "Our profile page: https://link3.to/deficalendar",
+          "description": "",
           "link": "https://medium.com/@CalendarDefi/bitcoin-layer-2-ecosystem-f8378135f8c2?source=rss-4949be3a0c7a------2",
           "publishedOn": "2024-02-29T21:31:54.000Z",
-          "wordCount": 1024,
+          "wordCount": null,
           "title": "Bitcoin Layer 2 Ecosystem",
-          "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*3jKqoevRfrwoLU-bordioA.png"
+          "imageUrl": null
         }
       ]
     },
@@ -154,7 +154,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/twodos",
           "publishedOn": "2024-03-04T22:34:11.000Z",
-          "wordCount": 371,
+          "wordCount": 416,
           "title": "Twodos",
           "imageUrl": "https://ph-files.imgix.net/5294ba9b-4d90-4c73-9ff4-2e35a67cd501.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -284,7 +284,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/qubinets",
           "publishedOn": "2024-03-03T22:12:16.000Z",
-          "wordCount": 509,
+          "wordCount": 515,
           "title": "Qubinets",
           "imageUrl": "https://ph-files.imgix.net/a7d91092-ed3b-46f1-8d25-51a097771b14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sellmate-ai",
           "publishedOn": "2024-03-03T17:39:34.000Z",
-          "wordCount": 464,
+          "wordCount": 467,
           "title": "SellMate AI",
           "imageUrl": "https://ph-files.imgix.net/e859ee2d-e4c6-4cc8-8b27-d9d9f21495c5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -324,7 +324,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/docask",
           "publishedOn": "2024-03-02T11:13:32.000Z",
-          "wordCount": 379,
+          "wordCount": 378,
           "title": "DocAsk",
           "imageUrl": "https://ph-files.imgix.net/4d150082-8f3f-4c4f-b6e7-a818c72cd558.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -344,7 +344,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/inductor",
           "publishedOn": "2024-03-01T20:40:54.000Z",
-          "wordCount": 327,
+          "wordCount": 326,
           "title": "Inductor",
           "imageUrl": "https://ph-files.imgix.net/2c56603a-7865-4728-967a-feed0c902200.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -407,6 +407,16 @@
           "wordCount": 431,
           "title": "LaraFast",
           "imageUrl": "https://ph-files.imgix.net/1ef4d844-fc23-4a09-b974-113ca648462f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/oiko-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/oiko-2",
+          "publishedOn": "2024-02-27T12:30:44.000Z",
+          "wordCount": 498,
+          "title": "Oiko",
+          "imageUrl": "https://ph-files.imgix.net/2338b02a-9e31-460a-93d6-a63ada8c1231.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/bake",
@@ -499,22 +509,12 @@
           "imageUrl": "https://ph-files.imgix.net/87a2e5e8-1be6-4a06-820d-0cf8a6815cd4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/pixelied-color-palette-generator",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pixelied-color-palette-generator",
-          "publishedOn": "2024-02-09T10:02:10.000Z",
-          "wordCount": 484,
-          "title": "Pixelied Color Palette Generator",
-          "imageUrl": "https://ph-files.imgix.net/1be10a81-159f-4fd3-b9bb-f1fddf21875c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/hubql-cli",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hubql-cli",
           "publishedOn": "2024-02-05T18:00:24.000Z",
-          "wordCount": 589,
+          "wordCount": 586,
           "title": "Hubql CLI",
           "imageUrl": "https://ph-files.imgix.net/b077f4e1-65b9-452d-ba98-9983a835ab89.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
