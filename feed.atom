@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-06T20:11:00.223Z</id>
+    <id>urn:2024-03-06T21:09:30.276Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-06T20:11:00.223Z</updated>
+    <updated>2024-03-06T21:09:30.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -130,6 +130,18 @@
         <id>https://www.producthunt.com/posts/modul</id>
         <link href="https://www.producthunt.com/posts/modul"/>
         <updated>2024-03-05T17:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Eclipse Map]]></title>
+        <id>https://www.producthunt.com/posts/the-eclipse-map</id>
+        <link href="https://www.producthunt.com/posts/the-eclipse-map"/>
+        <updated>2024-03-05T17:22:16.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -414,18 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DocAsk]]></title>
-        <id>https://www.producthunt.com/posts/docask</id>
-        <link href="https://www.producthunt.com/posts/docask"/>
-        <updated>2024-03-02T11:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Eartho]]></title>
         <id>https://www.producthunt.com/posts/eartho-2</id>
         <link href="https://www.producthunt.com/posts/eartho-2"/>
@@ -502,7 +502,6 @@
         <id>https://medium.com/p/f8378135f8c2</id>
         <link href="https://medium.com/@CalendarDefi/bitcoin-layer-2-ecosystem-f8378135f8c2?source=rss-4949be3a0c7a------2"/>
         <updated>2024-02-29T21:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
