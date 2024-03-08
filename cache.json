@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/aerosync",
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ocular-ai",
           "publishedOn": "2024-03-08T06:30:28.000Z",
-          "wordCount": 549,
+          "wordCount": 499,
           "title": "Ocular AI",
           "imageUrl": "https://ph-files.imgix.net/68101e56-520e-4c4f-9976-a4c3fa70c6b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -229,16 +229,6 @@
           "imageUrl": "https://ph-files.imgix.net/f3b74857-798c-4c9f-92d9-0258d8414431.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/pencilbooth-2-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pencilbooth-2-0",
-          "publishedOn": "2024-03-07T03:42:06.000Z",
-          "wordCount": 580,
-          "title": "PencilBooth 2.0",
-          "imageUrl": "https://ph-files.imgix.net/9d957685-6284-4048-87f2-28a44ea80f17.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/zainii-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -339,6 +329,16 @@
           "imageUrl": "https://ph-files.imgix.net/b56de86a-23d1-4a38-af89-1fead7693378.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/outfindo",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/outfindo",
+          "publishedOn": "2024-03-06T07:11:48.000Z",
+          "wordCount": 444,
+          "title": "Outfindo",
+          "imageUrl": "https://ph-files.imgix.net/700db9c8-e859-4911-9507-58430680c49d.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/drymerge",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -364,7 +364,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vital-4",
           "publishedOn": "2024-03-06T01:43:20.000Z",
-          "wordCount": 583,
+          "wordCount": 584,
           "title": "Vital",
           "imageUrl": "https://ph-files.imgix.net/c9d274ff-68fb-4f56-8e80-08ad68bfce47.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
