@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-16T15:09:21.813Z</id>
+    <id>urn:2024-03-16T16:11:38.169Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-16T15:09:21.813Z</updated>
+    <updated>2024-03-16T16:11:38.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -342,18 +342,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Musavir]]></title>
-        <id>https://www.producthunt.com/posts/musavir</id>
-        <link href="https://www.producthunt.com/posts/musavir"/>
-        <updated>2024-03-14T05:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lumona]]></title>
         <id>https://www.producthunt.com/posts/lumona</id>
         <link href="https://www.producthunt.com/posts/lumona"/>
@@ -558,11 +546,22 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bidify]]></title>
+        <id>https://www.producthunt.com/posts/bidify</id>
+        <link href="https://www.producthunt.com/posts/bidify"/>
+        <updated>2024-03-01T20:27:30.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bitcoin Layer 2 Ecosystem]]></title>
         <id>https://medium.com/p/f8378135f8c2</id>
         <link href="https://medium.com/@CalendarDefi/bitcoin-layer-2-ecosystem-f8378135f8c2?source=rss-4949be3a0c7a------2"/>
         <updated>2024-02-29T21:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
         <author>
             <name>DefiCalendar</name>
         </author>
