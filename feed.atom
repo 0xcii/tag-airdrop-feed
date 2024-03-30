@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-30T09:09:27.272Z</id>
+    <id>urn:2024-03-30T10:11:13.295Z</id>
     <title>web3::cave</title>
-    <updated>2024-03-30T09:09:27.272Z</updated>
+    <updated>2024-03-30T10:11:13.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -270,6 +270,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sendspark Dynamic Videos]]></title>
+        <id>https://www.producthunt.com/posts/sendspark-dynamic-videos</id>
+        <link href="https://www.producthunt.com/posts/sendspark-dynamic-videos"/>
+        <updated>2024-03-27T23:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bezi AI]]></title>
         <id>https://www.producthunt.com/posts/bezi-ai-2</id>
         <link href="https://www.producthunt.com/posts/bezi-ai-2"/>
@@ -286,18 +298,6 @@
         <id>https://www.producthunt.com/posts/greater-paper</id>
         <link href="https://www.producthunt.com/posts/greater-paper"/>
         <updated>2024-03-27T22:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Repuxation]]></title>
-        <id>https://www.producthunt.com/posts/repuxation</id>
-        <link href="https://www.producthunt.com/posts/repuxation"/>
-        <updated>2024-03-27T21:27:56.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -567,16 +567,6 @@
             Link]]></summary>
         <author>
             <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Layer 2 Ecosystem]]></title>
-        <id>https://medium.com/p/f8378135f8c2</id>
-        <link href="https://medium.com/@CalendarDefi/bitcoin-layer-2-ecosystem-f8378135f8c2?source=rss-4949be3a0c7a------2"/>
-        <updated>2024-02-29T21:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Our profile page: https://link3.to/deficalendar]]></summary>
-        <author>
-            <name>DefiCalendar</name>
         </author>
     </entry>
 </feed>
