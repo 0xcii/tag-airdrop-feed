@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/clip-bike",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/clip-bike",
+          "publishedOn": "2024-04-04T14:48:26.000Z",
+          "wordCount": 390,
+          "title": "CLIP Bike",
+          "imageUrl": "https://ph-files.imgix.net/a0b463ed-5b37-4a6d-bdd6-edb04fe44b5c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/brave-leo-on-ios",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -104,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fracttal-one",
           "publishedOn": "2024-04-03T11:31:07.000Z",
-          "wordCount": 376,
+          "wordCount": 378,
           "title": "Fracttal One",
           "imageUrl": "https://ph-files.imgix.net/f9117651-566f-43ef-8bf4-087f0ac4d93d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -214,19 +224,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/intellectia-ai",
           "publishedOn": "2024-04-02T16:32:00.000Z",
-          "wordCount": 439,
+          "wordCount": 440,
           "title": "Intellectia.AI",
           "imageUrl": "https://ph-files.imgix.net/f2009476-cb94-4848-9759-057c17c3c400.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/benchmark-your-org",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/benchmark-your-org",
-          "publishedOn": "2024-04-02T16:15:32.000Z",
-          "wordCount": 494,
-          "title": "Benchmark Your Org",
-          "imageUrl": "https://ph-files.imgix.net/61e7c479-4d4e-4298-a1d7-ff80d3cb41b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/openkoda",
@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/storygenius",
           "publishedOn": "2024-04-01T09:53:12.000Z",
-          "wordCount": 328,
+          "wordCount": 378,
           "title": "StoryGenius",
           "imageUrl": "https://ph-files.imgix.net/41ab7c05-5a64-4164-bfc7-b544a0da8e50.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -444,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/shopyflow",
           "publishedOn": "2024-03-25T16:54:38.000Z",
-          "wordCount": 448,
+          "wordCount": 498,
           "title": "Shopyflow",
           "imageUrl": "https://ph-files.imgix.net/8565e6cf-188e-4556-bf69-7c7608faafbf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
