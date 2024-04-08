@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/melodisco",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/melodisco",
+          "publishedOn": "2024-04-08T11:27:03.000Z",
+          "wordCount": 275,
+          "title": "Melodisco",
+          "imageUrl": "https://ph-files.imgix.net/7203bca8-783d-4137-a198-5da1f2d7874c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/adcaptcha",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -289,16 +299,6 @@
           "imageUrl": "https://ph-files.imgix.net/5e2f6c8f-d0fa-4e0c-808f-d49ad474002c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/quizado-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/quizado-2",
-          "publishedOn": "2024-04-05T06:54:30.000Z",
-          "wordCount": 455,
-          "title": "Quizado",
-          "imageUrl": "https://ph-files.imgix.net/77b137eb-366c-4d0a-a0f3-1b0a3200e3e0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tailscan-devtools",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -314,7 +314,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nuca-camera",
           "publishedOn": "2024-04-05T05:33:12.000Z",
-          "wordCount": 432,
+          "wordCount": 382,
           "title": "NUCA Camera",
           "imageUrl": "https://ph-files.imgix.net/cec4f26d-c774-4553-b59f-6bdf75f81bec.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
