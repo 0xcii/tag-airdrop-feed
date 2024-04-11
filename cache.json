@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/folderizer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/folderizer",
+          "publishedOn": "2024-04-11T10:59:12.000Z",
+          "wordCount": 367,
+          "title": "Folderizer",
+          "imageUrl": "https://ph-files.imgix.net/98cbfc72-a98b-414b-a2d7-bb929af8f97c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/musho",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -37,6 +47,16 @@
           "wordCount": 471,
           "title": "Musho",
           "imageUrl": "https://ph-files.imgix.net/02886dff-1af7-43d1-a2e9-a23413f13f19.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/google-vids",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/google-vids",
+          "publishedOn": "2024-04-10T21:16:06.000Z",
+          "wordCount": 402,
+          "title": "Google Vids",
+          "imageUrl": "https://ph-files.imgix.net/11c7e7c3-ec7c-42ab-9818-29564af2f168.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/hyperdoc",
@@ -194,7 +214,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/captions-2",
           "publishedOn": "2024-04-09T01:17:51.000Z",
-          "wordCount": 444,
+          "wordCount": 493,
           "title": "Captions",
           "imageUrl": "https://ph-files.imgix.net/29137ab1-47f2-427e-9bec-dbc45f1d8ac0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -299,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/b4ff1a41-60a3-4fad-a882-6840e2aefc7a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/ai-playlists-by-spotify",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ai-playlists-by-spotify",
-          "publishedOn": "2024-04-08T08:55:36.000Z",
-          "wordCount": 476,
-          "title": "AI Playlists by Spotify",
-          "imageUrl": "https://ph-files.imgix.net/738a1c0d-6c1a-43bd-8da9-937dbe9272e9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/hoy-953471f9-dc97-4c7b-9c95-76288513d19d",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -369,14 +379,14 @@
           "imageUrl": "https://ph-files.imgix.net/ba6436f5-0e39-4964-836a-6dfddc0984c3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/dataconstruct",
+          "id": "https://www.producthunt.com/posts/slidey",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dataconstruct",
-          "publishedOn": "2024-04-05T01:27:23.000Z",
-          "wordCount": 322,
-          "title": "DataConstruct",
-          "imageUrl": "https://ph-files.imgix.net/edc73b4a-1929-4d3e-9194-140289cb2872.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/slidey",
+          "publishedOn": "2024-04-04T14:48:36.000Z",
+          "wordCount": 394,
+          "title": "Slidey",
+          "imageUrl": "https://ph-files.imgix.net/4720a9ac-4ac4-4175-b026-513c51366f45.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/picasso",
@@ -429,16 +439,6 @@
           "imageUrl": "https://ph-files.imgix.net/99c8fe45-35d4-47d6-96ef-1c225f258549.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/mapstory",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/mapstory",
-          "publishedOn": "2024-03-27T03:51:34.000Z",
-          "wordCount": 468,
-          "title": "MapStory",
-          "imageUrl": "https://ph-files.imgix.net/2f1d5973-e039-4bc2-bdbc-cfe25d9ec804.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/lingopraxis",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -474,7 +474,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/biliki-ai",
           "publishedOn": "2024-03-20T10:17:54.000Z",
-          "wordCount": 391,
+          "wordCount": 390,
           "title": "Biliki AI",
           "imageUrl": "https://ph-files.imgix.net/9d637cd3-1f82-4173-ba3d-a8e42f263c35.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
