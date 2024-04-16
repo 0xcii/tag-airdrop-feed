@@ -29,12 +29,32 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/wisecut-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/wisecut-ai",
+          "publishedOn": "2024-04-16T11:13:57.000Z",
+          "wordCount": 497,
+          "title": "Wisecut AI",
+          "imageUrl": "https://ph-files.imgix.net/bc81fb15-b4e5-4e66-bd3e-6b43548a414d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/lateron-email",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/lateron-email",
+          "publishedOn": "2024-04-16T07:19:35.000Z",
+          "wordCount": 604,
+          "title": "LaterOn.email",
+          "imageUrl": "https://ph-files.imgix.net/03c97c4f-fa60-407a-b6ca-0db4332818b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/whatshook-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/whatshook-2",
           "publishedOn": "2024-04-16T06:59:20.000Z",
-          "wordCount": 400,
+          "wordCount": 381,
           "title": "WhatsHook",
           "imageUrl": "https://ph-files.imgix.net/b7f1e52c-aff4-4efc-a552-c9395d80cf43.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -44,9 +64,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/poe-3-0",
           "publishedOn": "2024-04-15T23:57:55.000Z",
-          "wordCount": 399,
+          "wordCount": 380,
           "title": "Poe 3.0",
           "imageUrl": "https://ph-files.imgix.net/3976a6c7-ea66-45fc-9b01-52da93e16c8b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/framerauth",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/framerauth",
+          "publishedOn": "2024-04-15T22:17:19.000Z",
+          "wordCount": 384,
+          "title": "FramerAuth",
+          "imageUrl": "https://ph-files.imgix.net/ba5a9563-cdb8-453b-a0f9-bb5d3fd19ddc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/yourgpt-2",
@@ -54,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/yourgpt-2",
           "publishedOn": "2024-04-15T14:21:37.000Z",
-          "wordCount": 480,
+          "wordCount": 479,
           "title": "YourGPT",
           "imageUrl": "https://ph-files.imgix.net/971ea626-a3e1-4524-8aa2-1667ce3f7ff9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +94,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/limitless-8",
           "publishedOn": "2024-04-15T13:32:25.000Z",
-          "wordCount": 577,
+          "wordCount": 558,
           "title": "Limitless",
           "imageUrl": "https://ph-files.imgix.net/136f962f-b244-4652-b021-b9da514173f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,9 +144,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supabase-b37accde-66c0-4c60-bc5c-2634afa7cfe2",
           "publishedOn": "2024-04-14T16:53:05.000Z",
-          "wordCount": 536,
+          "wordCount": 517,
           "title": "Supabase",
           "imageUrl": "https://ph-files.imgix.net/d1f428d5-ca9b-45aa-8d96-f559800e715c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/instagraph-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/instagraph-2",
+          "publishedOn": "2024-04-14T15:09:21.000Z",
+          "wordCount": 502,
+          "title": "InstaGraph",
+          "imageUrl": "https://ph-files.imgix.net/db479e9f-1616-40aa-a2f7-426afef520db.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/calculatorninjas",
@@ -174,7 +214,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/airchat-6",
           "publishedOn": "2024-04-13T00:24:39.000Z",
-          "wordCount": 246,
+          "wordCount": 227,
           "title": "Airchat",
           "imageUrl": "https://ph-files.imgix.net/82b109e2-b920-42fd-8f40-ba6afee8618e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -199,16 +239,6 @@
           "imageUrl": "https://ph-files.imgix.net/04c295e2-e459-48ae-9b4c-b7188cb4f844.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/stackifymind",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/stackifymind",
-          "publishedOn": "2024-04-12T16:28:54.000Z",
-          "wordCount": 347,
-          "title": "StackifyMind",
-          "imageUrl": "https://ph-files.imgix.net/0812aa73-58ed-4f09-84e3-ca533f7d7bad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/goptimise-beta",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -224,7 +254,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/alttunes",
           "publishedOn": "2024-04-12T11:44:34.000Z",
-          "wordCount": 520,
+          "wordCount": 501,
           "title": "AltTunes",
           "imageUrl": "https://ph-files.imgix.net/9af94957-a15d-40cf-8a08-dac8f57c3836.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -247,36 +277,6 @@
           "wordCount": 494,
           "title": "Expense Badger",
           "imageUrl": "https://ph-files.imgix.net/855ef203-9bae-49ba-95c1-71ec117d2da5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/ladylog-a-period-tracker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ladylog-a-period-tracker",
-          "publishedOn": "2024-04-12T08:49:32.000Z",
-          "wordCount": 510,
-          "title": "LadyLog - A period tracker",
-          "imageUrl": "https://ph-files.imgix.net/b6e4fe2c-d62d-4d5d-9e2b-b103400e2435.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/topoguesser",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/topoguesser",
-          "publishedOn": "2024-04-12T04:00:19.000Z",
-          "wordCount": 457,
-          "title": "TopoGuesser",
-          "imageUrl": "https://ph-files.imgix.net/0eae94b0-cc26-4e79-a60c-bf49fe77e976.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/pastebin-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pastebin-ai",
-          "publishedOn": "2024-04-12T03:05:23.000Z",
-          "wordCount": 381,
-          "title": "Pastebin.ai",
-          "imageUrl": "https://ph-files.imgix.net/95e90ec9-effa-44a3-94bc-d9db0dd0eea5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/chatslide-ai",
@@ -334,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/unlogged",
           "publishedOn": "2024-04-08T15:48:59.000Z",
-          "wordCount": 476,
+          "wordCount": 457,
           "title": "Unlogged",
           "imageUrl": "https://ph-files.imgix.net/f1ffa671-a762-4654-b88a-9e482b5a284e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -384,7 +384,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/neon-8",
           "publishedOn": "2024-04-06T01:04:01.000Z",
-          "wordCount": 455,
+          "wordCount": 436,
           "title": "Neon",
           "imageUrl": "https://ph-files.imgix.net/b8c982c4-b3c4-44ea-8a05-0715d45838a9.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -404,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/brandbay",
           "publishedOn": "2024-04-02T02:03:55.000Z",
-          "wordCount": 450,
+          "wordCount": 431,
           "title": "BrandBay",
           "imageUrl": "https://ph-files.imgix.net/6a7234ba-abe1-4630-8cc3-c1965cb5a033.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -424,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/seomaker",
           "publishedOn": "2024-03-27T14:25:05.000Z",
-          "wordCount": 368,
+          "wordCount": 349,
           "title": "Seomaker",
           "imageUrl": "https://ph-files.imgix.net/c3a323ec-771a-4acc-817d-10b139063046.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -444,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/macula",
           "publishedOn": "2024-03-20T17:46:17.000Z",
-          "wordCount": 611,
+          "wordCount": 592,
           "title": "Macula",
           "imageUrl": "https://ph-files.imgix.net/88f235e9-1842-4ce1-98ba-59c87562b04a.avif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
