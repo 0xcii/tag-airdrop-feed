@@ -26,18 +26,8 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
-        {
-          "id": "https://www.producthunt.com/posts/devinstock",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/devinstock",
-          "publishedOn": "2024-04-16T20:25:52.000Z",
-          "wordCount": 434,
-          "title": "Devinstock",
-          "imageUrl": "https://ph-files.imgix.net/5d6ea091-c6b7-4fc9-87af-b9deb6dd58cc.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
         {
           "id": "https://www.producthunt.com/posts/validated-taglines",
           "author": null,
@@ -204,7 +194,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/20-free-tailwind-css-react-blocks",
           "publishedOn": "2024-04-15T07:00:08.000Z",
-          "wordCount": 613,
+          "wordCount": 563,
           "title": "20+ Free Tailwind CSS & React Blocks",
           "imageUrl": "https://ph-files.imgix.net/8135ea30-9e86-418c-b9be-28dbf692be9e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -214,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/breezemail",
           "publishedOn": "2024-04-15T06:48:47.000Z",
-          "wordCount": 481,
+          "wordCount": 431,
           "title": "Breezemail",
           "imageUrl": "https://ph-files.imgix.net/fed9130d-3790-4665-bc7c-df8aec27eb8c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -397,6 +387,16 @@
           "wordCount": 475,
           "title": "Dagster+",
           "imageUrl": "https://ph-files.imgix.net/20e683ef-839d-4ccf-aa18-19d2ab65f033.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/youtube-summarizer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/youtube-summarizer",
+          "publishedOn": "2024-04-02T12:37:19.000Z",
+          "wordCount": 452,
+          "title": "YouTube Summarizer",
+          "imageUrl": "https://ph-files.imgix.net/7eee6a31-a524-487b-8de6-c8d6e68ac37c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/brandbay",
