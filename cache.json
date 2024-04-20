@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/kickrender",
@@ -134,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nothing-ear-and-ear-a",
           "publishedOn": "2024-04-19T07:42:44.000Z",
-          "wordCount": 448,
+          "wordCount": 470,
           "title": "Nothing Ear and Ear a",
           "imageUrl": "https://ph-files.imgix.net/d488ac26-f789-407e-a759-8d0efc3e8c0e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -314,7 +314,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/latitude-6",
           "publishedOn": "2024-04-17T18:10:41.000Z",
-          "wordCount": 401,
+          "wordCount": 423,
           "title": "Latitude",
           "imageUrl": "https://ph-files.imgix.net/09edcb2c-a6de-4931-a824-663fbe1bcd63.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -347,16 +347,6 @@
           "wordCount": 470,
           "title": "SpeakLine 5",
           "imageUrl": "https://ph-files.imgix.net/763c42f3-ae8f-4c66-9a3e-8c2f540b79d9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sweego",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sweego",
-          "publishedOn": "2024-04-16T14:10:06.000Z",
-          "wordCount": 566,
-          "title": "Sweego",
-          "imageUrl": "https://ph-files.imgix.net/e2e9d3cb-882f-4e0e-af2f-862c7cb3676a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/snapsign",
@@ -437,6 +427,16 @@
           "wordCount": 404,
           "title": "SermoAI",
           "imageUrl": "https://ph-files.imgix.net/cd24bfe6-7f0e-49cb-a5c6-98db8fd743e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/iopartners",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/iopartners",
+          "publishedOn": "2024-04-11T16:01:02.000Z",
+          "wordCount": 416,
+          "title": "ioPartners",
+          "imageUrl": "https://ph-files.imgix.net/4f3d99ef-8c1b-4614-86f3-23b4d047bcb6.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/stevie-ai",
