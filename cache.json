@@ -39,6 +39,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/really-great-feedback",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/really-great-feedback",
+          "publishedOn": "2024-05-06T15:35:32.000Z",
+          "wordCount": 239,
+          "title": "Really Great Feedback",
+          "imageUrl": "https://ph-files.imgix.net/c435d4b4-a699-4984-9c4a-ac3c07ade5b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ai-illustration-generator",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/dd82c4ec-538d-43b6-b7ef-56eae1474b87.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/playbook-x-gpt",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/playbook-x-gpt",
-          "publishedOn": "2024-05-02T01:32:45.000Z",
-          "wordCount": 599,
-          "title": "Playbook x GPT",
-          "imageUrl": "https://ph-files.imgix.net/2a05817e-3cde-4137-a04a-8e7f2faa588f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/qrev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -374,7 +374,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/logome",
           "publishedOn": "2024-04-30T02:53:13.000Z",
-          "wordCount": 571,
+          "wordCount": 574,
           "title": "Logome",
           "imageUrl": "https://ph-files.imgix.net/5f667f89-d082-4d93-b957-3aa71d7e2122.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
