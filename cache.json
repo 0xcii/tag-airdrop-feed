@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/alphabot",
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tender-5",
           "publishedOn": "2024-05-09T06:44:10.000Z",
-          "wordCount": 460,
+          "wordCount": 439,
           "title": "Tender",
           "imageUrl": "https://ph-files.imgix.net/d3d8ec1c-d59a-42f4-8a66-d2cf07c6886f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/voice-director-by-replica-studios",
           "publishedOn": "2024-05-09T04:54:19.000Z",
-          "wordCount": 463,
+          "wordCount": 518,
           "title": "Voice Director by Replica Studios",
           "imageUrl": "https://ph-files.imgix.net/d8abeab3-f69c-4e4e-b071-bedf0c38e7d1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fwd2cal",
           "publishedOn": "2024-05-08T15:31:36.000Z",
-          "wordCount": 529,
+          "wordCount": 513,
           "title": "fwd2cal",
           "imageUrl": "https://ph-files.imgix.net/97aab982-fdec-4a57-ba1e-990c74403c7a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -429,13 +429,13 @@
           "imageUrl": "https://ph-files.imgix.net/dedf3c2b-c6bf-4fca-ab5f-d8a64f0caa25.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/commented-public-commenting",
+          "id": "https://www.producthunt.com/posts/public-commenting-by-commented",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/commented-public-commenting",
+          "link": "https://www.producthunt.com/posts/public-commenting-by-commented",
           "publishedOn": "2024-04-26T14:39:55.000Z",
-          "wordCount": 634,
-          "title": "Commented: Public Commenting",
+          "wordCount": 643,
+          "title": "Public Commenting by Commented",
           "imageUrl": "https://ph-files.imgix.net/eb49f42a-d790-4bb9-9b2b-6cb4c256c4b2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -514,7 +514,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ringly-io",
           "publishedOn": "2024-04-15T09:51:09.000Z",
-          "wordCount": 453,
+          "wordCount": 404,
           "title": "Ringly.io",
           "imageUrl": "https://ph-files.imgix.net/b19cee13-fa67-49dc-9767-4c2da1ae4262.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
