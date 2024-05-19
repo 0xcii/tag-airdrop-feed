@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/chatplayground-ai",
@@ -449,6 +449,16 @@
           "imageUrl": "https://ph-files.imgix.net/f0ebde03-1e59-4f85-821b-2cbc67d79b71.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/plenty-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/plenty-2",
+          "publishedOn": "2024-05-09T17:45:24.000Z",
+          "wordCount": 515,
+          "title": "Plenty",
+          "imageUrl": "https://ph-files.imgix.net/2bd9a06a-ba43-4269-87ba-3c98f1154ccd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/appstor",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -457,16 +467,6 @@
           "wordCount": 450,
           "title": "AppStor",
           "imageUrl": "https://ph-files.imgix.net/a32f62ee-8ff6-48b0-8d76-47591ebc8771.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/tonic-ephemeral",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tonic-ephemeral",
-          "publishedOn": "2024-05-08T23:21:11.000Z",
-          "wordCount": 448,
-          "title": "Tonic Ephemeral",
-          "imageUrl": "https://ph-files.imgix.net/4dafa786-6289-4833-b3a5-d8523a5bd939.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/fiskl",
