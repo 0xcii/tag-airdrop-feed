@@ -39,6 +39,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/edde-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/edde-ai",
+          "publishedOn": "2024-05-19T21:23:30.000Z",
+          "wordCount": 374,
+          "title": "Edde AI",
+          "imageUrl": "https://ph-files.imgix.net/f298c0ee-ac7f-4dc7-a14a-f8ea44e7ce39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ev-charge-calculator-and-news",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -54,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chatplayground-ai",
           "publishedOn": "2024-05-19T07:01:32.000Z",
-          "wordCount": 595,
+          "wordCount": 644,
           "title": "ChatPlayground AI",
           "imageUrl": "https://ph-files.imgix.net/e761b078-17df-4d0f-a012-9bb48bf20624.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -124,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/clicks-so",
           "publishedOn": "2024-05-18T03:50:31.000Z",
-          "wordCount": 296,
+          "wordCount": 346,
           "title": "Clicks.so",
           "imageUrl": "https://ph-files.imgix.net/56eea0ad-c361-4f94-bac3-5e8566be310b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -134,9 +144,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/maven-0f32d335-ea62-4654-b04c-b5cf058a4b6f",
           "publishedOn": "2024-05-17T20:04:04.000Z",
-          "wordCount": 303,
+          "wordCount": 347,
           "title": "Maven",
           "imageUrl": "https://ph-files.imgix.net/9b563726-4e53-4594-ad92-e6de0f05aaa3.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/hr-integrations-by-swagup",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/hr-integrations-by-swagup",
+          "publishedOn": "2024-05-17T19:27:58.000Z",
+          "wordCount": 475,
+          "title": "HR Integrations by SwagUp",
+          "imageUrl": "https://ph-files.imgix.net/b709a941-f6b1-4959-a86e-9939bd5f816f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/omnijobs",
@@ -239,6 +259,16 @@
           "imageUrl": "https://ph-files.imgix.net/0855e560-d871-4223-b596-a41acb3bf764.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/multi-ai-chat",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/multi-ai-chat",
+          "publishedOn": "2024-05-17T08:05:52.000Z",
+          "wordCount": 342,
+          "title": "Multi AI Chat",
+          "imageUrl": "https://ph-files.imgix.net/5a871212-b49e-46fa-b3b6-15c8f8d14c40.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/wefire",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,26 +339,6 @@
           "imageUrl": "https://ph-files.imgix.net/ed00c762-6be6-4097-876a-a5729cb0c9d2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/pikimov",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pikimov",
-          "publishedOn": "2024-05-16T08:50:00.000Z",
-          "wordCount": 422,
-          "title": "Pikimov",
-          "imageUrl": "https://ph-files.imgix.net/b1fcfff5-fb06-4767-8626-ad16a10f97e1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/tapflow-1-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tapflow-1-0",
-          "publishedOn": "2024-05-16T07:02:37.000Z",
-          "wordCount": 473,
-          "title": "Tapflow 1.0",
-          "imageUrl": "https://ph-files.imgix.net/d1d4d36f-5292-4594-b9e1-026c761a449d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/food-holidays",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -367,16 +377,6 @@
           "wordCount": 446,
           "title": "Magicam",
           "imageUrl": "https://ph-files.imgix.net/4ad61e7f-c5e4-42ba-8ef2-abd1b7b40ecd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/reap-beta",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/reap-beta",
-          "publishedOn": "2024-05-14T22:59:31.000Z",
-          "wordCount": 632,
-          "title": "reap (beta)",
-          "imageUrl": "https://ph-files.imgix.net/ac26e020-f843-4ec2-acbb-ce631c6c7107.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/campana-2",
