@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/chirpley",
@@ -299,16 +299,6 @@
           "imageUrl": "https://ph-files.imgix.net/30bfbd52-df8a-4c1a-b454-e087f38089da.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/arrange-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/arrange-3",
-          "publishedOn": "2024-05-22T21:51:16.000Z",
-          "wordCount": 539,
-          "title": "Arrange",
-          "imageUrl": "https://ph-files.imgix.net/2cffe7b2-0ca8-4dde-a9df-d978fdd8837e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/depthforge",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -357,16 +347,6 @@
           "wordCount": 386,
           "title": "MontageCMS",
           "imageUrl": "https://ph-files.imgix.net/eb1e3d25-8855-411b-9cfa-cb8bb73757ba.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/muse-for-setapp",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/muse-for-setapp",
-          "publishedOn": "2024-05-22T04:04:03.000Z",
-          "wordCount": 500,
-          "title": "Muse for Setapp",
-          "imageUrl": "https://ph-files.imgix.net/41ac3f09-0fc3-4424-81a8-ca3601b722cd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/context-data",
@@ -439,6 +419,16 @@
           "imageUrl": "https://ph-files.imgix.net/24419054-377f-47e0-a5c0-4111ec72fe4a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/audiowaveai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/audiowaveai",
+          "publishedOn": "2024-05-16T21:02:46.000Z",
+          "wordCount": 476,
+          "title": "AudiowaveAI",
+          "imageUrl": "https://ph-files.imgix.net/87eb601a-4f30-4d55-ae94-88548e2b2c5a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/opinion-stage-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -447,6 +437,16 @@
           "wordCount": 685,
           "title": "Opinion Stage AI",
           "imageUrl": "https://ph-files.imgix.net/5b2f9fce-de23-431b-a099-53374cfa95e1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/foxyapps-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/foxyapps-2-0",
+          "publishedOn": "2024-05-15T23:20:34.000Z",
+          "wordCount": 520,
+          "title": "FoxyApps 2.0",
+          "imageUrl": "https://ph-files.imgix.net/8fbccd58-93e8-46b6-b865-736e6d9b18cd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/datagems",
