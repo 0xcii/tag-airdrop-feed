@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/squire-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/squire-ai",
+          "publishedOn": "2024-05-28T01:12:17.000Z",
+          "wordCount": 542,
+          "title": "Squire AI",
+          "imageUrl": "https://ph-files.imgix.net/aa6686e9-0568-484a-8e98-0bd41100e131.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/startkit-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -37,6 +47,16 @@
           "wordCount": 648,
           "title": "StartKit.AI",
           "imageUrl": "https://ph-files.imgix.net/7ddcab96-0fd1-4182-9144-89c1c8e32b45.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/just-polls",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/just-polls",
+          "publishedOn": "2024-05-27T19:30:24.000Z",
+          "wordCount": 392,
+          "title": "Just Polls",
+          "imageUrl": "https://ph-files.imgix.net/61e2382d-bd04-4211-b54a-8820a3a24b4e.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/transactional-dev",
@@ -249,16 +269,6 @@
           "imageUrl": "https://ph-files.imgix.net/ab9327be-8db9-4f26-bb34-2ee1746cdb2a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/packbuddy",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/packbuddy",
-          "publishedOn": "2024-05-24T17:43:06.000Z",
-          "wordCount": 535,
-          "title": "PackBuddy",
-          "imageUrl": "https://ph-files.imgix.net/138f7d02-287a-4106-b254-712125f7a5b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/frontly",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/aae1add0-db2f-41ab-b7da-9fa59587f269.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/autochat",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/autochat",
-          "publishedOn": "2024-05-24T08:42:37.000Z",
-          "wordCount": 366,
-          "title": "AutoChat®",
-          "imageUrl": "https://ph-files.imgix.net/6fb1ee2a-7e2c-4fd5-b923-c03b2d951ada.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/voxpad",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -337,6 +337,16 @@
           "wordCount": 643,
           "title": "ReplyBoard",
           "imageUrl": "https://ph-files.imgix.net/431385aa-1856-4351-a45c-4f494d9c0ce1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/outtloud",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/outtloud",
+          "publishedOn": "2024-05-22T14:06:41.000Z",
+          "wordCount": 540,
+          "title": "Outtloud",
+          "imageUrl": "https://ph-files.imgix.net/b74923c2-b5f6-4630-ace3-ddfd8e005e83.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ai-menti-builder",
@@ -399,16 +409,6 @@
           "imageUrl": "https://ph-files.imgix.net/c0080da7-c89c-4382-8cd9-46e5eb53d9d1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/trackerjam",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/trackerjam",
-          "publishedOn": "2024-05-20T19:19:54.000Z",
-          "wordCount": 415,
-          "title": "TrackerJam",
-          "imageUrl": "https://ph-files.imgix.net/40965264-ebb4-44fa-b9de-d4ad599425c4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/play-it-say-it",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lawformer-ai",
           "publishedOn": "2024-05-17T16:44:18.000Z",
-          "wordCount": 378,
+          "wordCount": 382,
           "title": "Lawformer AI",
           "imageUrl": "https://ph-files.imgix.net/561c2375-71f3-4773-9059-1f525f7f8970.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
