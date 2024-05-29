@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/learn-more-faster",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/learn-more-faster",
+          "publishedOn": "2024-05-29T19:00:11.000Z",
+          "wordCount": 466,
+          "title": "Learn More Faster",
+          "imageUrl": "https://ph-files.imgix.net/5fba5b90-9437-4a18-a835-c5fd107cf054.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/bear-habit-tracker",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -164,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/biofy-io",
           "publishedOn": "2024-05-28T12:01:39.000Z",
-          "wordCount": 408,
+          "wordCount": 591,
           "title": "Biofy.io",
           "imageUrl": "https://ph-files.imgix.net/ce68ce0a-3714-44fa-ae1e-23a5951eafed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -194,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trip-tunes",
           "publishedOn": "2024-05-28T03:34:41.000Z",
-          "wordCount": 491,
+          "wordCount": 488,
           "title": "Trip Tunes",
           "imageUrl": "https://ph-files.imgix.net/01a047bf-e979-40f2-a10d-3087e5912640.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -307,16 +317,6 @@
           "wordCount": 511,
           "title": "Roamcalm",
           "imageUrl": "https://ph-files.imgix.net/3cb7fe67-9b2e-4bdd-a8ac-37f7572a1afa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/papery",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/papery",
-          "publishedOn": "2024-05-25T10:17:44.000Z",
-          "wordCount": 561,
-          "title": "Papery",
-          "imageUrl": "https://ph-files.imgix.net/14daadfd-a370-49cc-9455-e0a69c77e856.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/crestgpt-2",
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/justinmind-user-flows",
           "publishedOn": "2024-05-13T21:54:48.000Z",
-          "wordCount": 497,
+          "wordCount": 500,
           "title": "Justinmind User Flows",
           "imageUrl": "https://ph-files.imgix.net/6a13a64d-e61b-4f22-bc61-1d41f8ca1bed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -474,7 +474,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/syllaby-v2-0",
           "publishedOn": "2024-05-01T05:50:21.000Z",
-          "wordCount": 612,
+          "wordCount": 559,
           "title": "Syllaby V2.0",
           "imageUrl": "https://ph-files.imgix.net/0a25bc4e-c917-4e1b-94df-b47065c36b99.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
