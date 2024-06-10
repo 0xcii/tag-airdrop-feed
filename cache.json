@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/luna-ring",
@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/luna-ring",
           "publishedOn": "2024-06-10T06:50:46.000Z",
-          "wordCount": 631,
+          "wordCount": 641,
           "title": "Luna Ring",
           "imageUrl": "https://ph-files.imgix.net/abc59894-c688-4063-b4fd-b200aab3fec0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/alva-ai-sidebar-chrome-extension",
           "publishedOn": "2024-06-09T17:26:18.000Z",
-          "wordCount": 501,
+          "wordCount": 489,
           "title": "Alva AI - Sidebar Chrome extension",
           "imageUrl": "https://ph-files.imgix.net/7297b56e-3d1c-46ab-a7a6-6fe5f244d6f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gitkraken-s-devex-platform",
           "publishedOn": "2024-06-09T16:09:27.000Z",
-          "wordCount": 491,
+          "wordCount": 492,
           "title": "GitKraken's DevEx Platform",
           "imageUrl": "https://ph-files.imgix.net/85751e80-87a3-477f-a2e2-8376321d8d44.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hadana-io",
           "publishedOn": "2024-06-08T16:51:40.000Z",
-          "wordCount": 493,
+          "wordCount": 503,
           "title": "Hadana.io",
           "imageUrl": "https://ph-files.imgix.net/9c35273f-5cb8-4723-8374-5e10271dfa9f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -163,7 +163,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/saasy-help",
           "publishedOn": "2024-06-07T13:51:23.000Z",
-          "wordCount": 358,
+          "wordCount": 357,
           "title": "SaaSy Help",
           "imageUrl": "https://ph-files.imgix.net/fee7c4b1-1136-4fd6-803e-773d470fda52.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tak-chat-for-shopify",
           "publishedOn": "2024-06-04T13:37:30.000Z",
-          "wordCount": 532,
+          "wordCount": 524,
           "title": "tak.chat for Shopify",
           "imageUrl": "https://ph-files.imgix.net/1d0ee094-6d78-471b-896c-becde332505e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -486,16 +486,6 @@
           "wordCount": 526,
           "title": "Debriefs",
           "imageUrl": "https://ph-files.imgix.net/abb762fa-0c31-4eb7-bda0-5d8b9e18f3f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/active-recall",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/active-recall",
-          "publishedOn": "2024-05-11T20:58:23.000Z",
-          "wordCount": 559,
-          "title": "Active Recall",
-          "imageUrl": "https://ph-files.imgix.net/be8781df-b9d5-4ed6-b72a-e8f358ec5b2f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     }
