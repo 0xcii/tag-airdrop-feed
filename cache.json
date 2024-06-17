@@ -18,12 +18,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/helix-free-user-persona-generator",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/helix-free-user-persona-generator",
+          "publishedOn": "2024-06-17T08:22:44.000Z",
+          "wordCount": 525,
+          "title": "Helix Free User Persona Generator",
+          "imageUrl": "https://ph-files.imgix.net/97e32a49-8fa6-4aca-b902-5e832516a36f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/olvy-3-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/olvy-3-0",
           "publishedOn": "2024-06-17T01:13:18.000Z",
-          "wordCount": 533,
+          "wordCount": 525,
           "title": "Olvy 3.0",
           "imageUrl": "https://ph-files.imgix.net/af804cde-d09a-450a-9064-d741157de397.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rickblock",
           "publishedOn": "2024-06-16T20:03:04.000Z",
-          "wordCount": 275,
+          "wordCount": 272,
           "title": "RickBlock",
           "imageUrl": "https://ph-files.imgix.net/b09a977f-f400-46ae-a691-38112ec4730a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/website-builder-for-gumroad-products",
           "publishedOn": "2024-06-16T17:48:53.000Z",
-          "wordCount": 519,
+          "wordCount": 510,
           "title": "Website Builder for Gumroad Products",
           "imageUrl": "https://ph-files.imgix.net/896066b5-8f6e-4eeb-a33d-f6f8ee8b20b6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fidgetable",
           "publishedOn": "2024-06-16T07:07:33.000Z",
-          "wordCount": 385,
+          "wordCount": 382,
           "title": "Fidgetable",
           "imageUrl": "https://ph-files.imgix.net/2335412a-5b3e-4adf-8b7e-ac1a83f02116.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -173,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/inncivio",
           "publishedOn": "2024-06-14T18:24:55.000Z",
-          "wordCount": 482,
+          "wordCount": 474,
           "title": "inncivio",
           "imageUrl": "https://ph-files.imgix.net/58f884f6-ecc4-4431-b9ae-42b654244f8e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -203,7 +213,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vidau",
           "publishedOn": "2024-06-14T13:01:47.000Z",
-          "wordCount": 593,
+          "wordCount": 594,
           "title": "VidAU",
           "imageUrl": "https://ph-files.imgix.net/05ea0e6d-f952-4f06-aa43-cf6c19b32fb5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -288,16 +298,6 @@
           "imageUrl": "https://ph-files.imgix.net/71d9793a-cd5e-407f-86f6-10d6ef578356.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/cara-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/cara-3",
-          "publishedOn": "2024-06-13T11:20:12.000Z",
-          "wordCount": 479,
-          "title": "Cara",
-          "imageUrl": "https://ph-files.imgix.net/ca68d316-f361-414c-8f04-813233761b67.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/dynaui",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -333,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/papersync-2",
           "publishedOn": "2024-06-12T15:25:07.000Z",
-          "wordCount": 504,
+          "wordCount": 496,
           "title": "PaperSync",
           "imageUrl": "https://ph-files.imgix.net/543fb60e-b17b-4908-9e9b-27c62d6b9169.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mirrord-for-teams",
           "publishedOn": "2024-06-06T10:31:39.000Z",
-          "wordCount": 414,
+          "wordCount": 415,
           "title": "mirrord for Teams",
           "imageUrl": "https://ph-files.imgix.net/e5e50c0b-0e76-45e3-9486-cf7e94fb68d8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -483,7 +483,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/submitaitool",
           "publishedOn": "2024-06-05T12:09:27.000Z",
-          "wordCount": 397,
+          "wordCount": 389,
           "title": "SubmitAITool",
           "imageUrl": "https://ph-files.imgix.net/a741368a-db24-40e6-afcd-3fa044b7a0f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -498,6 +498,12 @@
           "imageUrl": "https://ph-files.imgix.net/b882def8-17d8-4c4e-8f78-8648303a1350.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     },
     {
       "title": "Twitter @Drops Earn",
