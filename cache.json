@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/bunnyshell-2",
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/00-1",
           "publishedOn": "2024-06-21T02:05:31.000Z",
-          "wordCount": 485,
+          "wordCount": 489,
           "title": "00",
           "imageUrl": "https://ph-files.imgix.net/a17d5ae5-aa47-4280-9e51-838630c76657.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -258,6 +258,16 @@
           "imageUrl": "https://ph-files.imgix.net/55f06f47-385e-41e7-a5a1-87178724ac00.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/spiral-8",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/spiral-8",
+          "publishedOn": "2024-06-20T03:22:47.000Z",
+          "wordCount": 433,
+          "title": "Spiral",
+          "imageUrl": "https://ph-files.imgix.net/5131a305-4315-4aa1-b9dc-e96f92f51d52.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/recall-46de58a7-9bed-4c1f-b5dd-10725c14391d",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -356,16 +366,6 @@
           "wordCount": 509,
           "title": "MyTrainingPlan",
           "imageUrl": "https://ph-files.imgix.net/1db14e8d-9535-485f-b9dd-b7784d50679d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/eternity-ac",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/eternity-ac",
-          "publishedOn": "2024-06-18T16:03:36.000Z",
-          "wordCount": 627,
-          "title": "Eternity AC",
-          "imageUrl": "https://ph-files.imgix.net/bde14f9d-e3a0-4848-86d7-5871e58b9916.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/dropbase-ai",
