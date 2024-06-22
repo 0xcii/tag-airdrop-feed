@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/bunnyshell-2",
@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pico-library",
           "publishedOn": "2024-06-21T02:40:15.000Z",
-          "wordCount": 589,
+          "wordCount": 542,
           "title": "Pico Library",
           "imageUrl": "https://ph-files.imgix.net/e4cf647d-4140-41cc-9dc0-6c7cd737db46.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/twitdget",
           "publishedOn": "2024-06-20T23:06:31.000Z",
-          "wordCount": 338,
+          "wordCount": 291,
           "title": "Twitdget",
           "imageUrl": "https://ph-files.imgix.net/c17b1f10-3331-4330-8b86-496b24340351.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -183,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/scrapx-2",
           "publishedOn": "2024-06-20T11:57:59.000Z",
-          "wordCount": 536,
+          "wordCount": 483,
           "title": "ScrapX",
           "imageUrl": "https://ph-files.imgix.net/6d9083fd-3635-4f13-978e-ec1914378aa9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -256,16 +256,6 @@
           "wordCount": 408,
           "title": "SF Symbols 6",
           "imageUrl": "https://ph-files.imgix.net/55f06f47-385e-41e7-a5a1-87178724ac00.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/spiral-8",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/spiral-8",
-          "publishedOn": "2024-06-20T03:22:47.000Z",
-          "wordCount": 433,
-          "title": "Spiral",
-          "imageUrl": "https://ph-files.imgix.net/5131a305-4315-4aa1-b9dc-e96f92f51d52.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/recall-46de58a7-9bed-4c1f-b5dd-10725c14391d",
@@ -466,6 +456,16 @@
           "wordCount": 300,
           "title": "Streambased",
           "imageUrl": "https://ph-files.imgix.net/26afb1e6-6020-42c4-b1e2-026723d338fb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sol-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sol-3",
+          "publishedOn": "2024-05-27T23:06:41.000Z",
+          "wordCount": 575,
+          "title": "Sol",
+          "imageUrl": "https://ph-files.imgix.net/66f0113e-d136-4ed8-b7fa-9220d817718c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
