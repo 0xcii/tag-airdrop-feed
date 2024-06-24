@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/portfolio2me",
           "publishedOn": "2024-06-23T19:59:00.000Z",
-          "wordCount": 478,
+          "wordCount": 479,
           "title": "Portfolio2me",
           "imageUrl": "https://ph-files.imgix.net/edfb9450-ec77-432d-97aa-5e7a4074917e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -248,6 +248,16 @@
           "imageUrl": "https://ph-files.imgix.net/daaecf96-146a-4371-9cbe-9c8a65c52249.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/shitsaas",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/shitsaas",
+          "publishedOn": "2024-06-21T20:25:14.000Z",
+          "wordCount": 501,
+          "title": "ShitSaaS",
+          "imageUrl": "https://ph-files.imgix.net/8742737f-64d8-4a4f-9b78-52f1701b8760.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/gym-graphs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -306,16 +316,6 @@
           "wordCount": 363,
           "title": "Mock Maker",
           "imageUrl": "https://ph-files.imgix.net/c5470f69-1c58-48ec-b97c-a47cc4c5068a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/forvoyez",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/forvoyez",
-          "publishedOn": "2024-06-21T00:18:50.000Z",
-          "wordCount": 518,
-          "title": "ForVoyez",
-          "imageUrl": "https://ph-files.imgix.net/7379e9b8-81d9-4bbf-85ed-0f697bbd8894.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sets-workout-app",
@@ -498,12 +498,6 @@
           "imageUrl": "https://ph-files.imgix.net/d837cc59-baaa-4e76-8967-095f607e8ae5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
