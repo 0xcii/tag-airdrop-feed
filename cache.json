@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/splice-create-create-w-your-own-loop",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/splice-create-create-w-your-own-loop",
+          "publishedOn": "2024-06-26T17:33:49.000Z",
+          "wordCount": 485,
+          "title": "Splice Create - Create w/ your own loop",
+          "imageUrl": "https://ph-files.imgix.net/8a13aec4-fde7-4625-966b-a038958dabfc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/weekly-github",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/superhuman-2-0",
           "publishedOn": "2024-06-25T21:39:15.000Z",
-          "wordCount": 780,
+          "wordCount": 785,
           "title": "Superhuman 2.0",
           "imageUrl": "https://ph-files.imgix.net/dd1409d8-664f-41c8-9914-e25edf126373.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/elevenlabs-reader",
           "publishedOn": "2024-06-25T18:25:03.000Z",
-          "wordCount": 464,
+          "wordCount": 463,
           "title": "ElevenLabs Reader",
           "imageUrl": "https://ph-files.imgix.net/ebd21d87-55d0-4df8-9e0f-220b7463ecc9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -113,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/private-notes-for-google-calendar",
           "publishedOn": "2024-06-25T14:37:16.000Z",
-          "wordCount": 423,
+          "wordCount": 424,
           "title": "Private Notes for Google Calendar",
           "imageUrl": "https://ph-files.imgix.net/5470fcee-c011-4e4d-9de4-aff0aeeb0641.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -123,7 +133,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pressproxy",
           "publishedOn": "2024-06-25T13:23:13.000Z",
-          "wordCount": 503,
+          "wordCount": 500,
           "title": "PressProxy",
           "imageUrl": "https://ph-files.imgix.net/26442c0a-94ac-4078-b82c-828da78824c4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supportbot-pro",
           "publishedOn": "2024-06-16T13:06:52.000Z",
-          "wordCount": 461,
+          "wordCount": 464,
           "title": "Supportbot Pro",
           "imageUrl": "https://ph-files.imgix.net/c7965e8a-b671-47f7-95c1-625d3ba0af99.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,19 +463,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lifestack",
           "publishedOn": "2024-06-12T18:26:51.000Z",
-          "wordCount": 504,
+          "wordCount": 506,
           "title": "Lifestack",
           "imageUrl": "https://ph-files.imgix.net/b4dd6849-700a-4e60-ba6e-d75492e10a57.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/add-to-sheets",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/add-to-sheets",
-          "publishedOn": "2024-06-04T12:14:53.000Z",
-          "wordCount": 602,
-          "title": "Add to Sheets",
-          "imageUrl": "https://ph-files.imgix.net/9c205871-5786-4489-b69d-1a78a6d46f16.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/threadly",
@@ -488,12 +488,6 @@
           "imageUrl": "https://ph-files.imgix.net/b34d0181-51a9-4707-be9b-6d90451f7cb7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
