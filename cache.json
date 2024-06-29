@@ -388,24 +388,24 @@
           "imageUrl": "https://ph-files.imgix.net/ac23fb9e-4b40-4b0e-9863-b118d40b3acd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/flexrem-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/flexrem-2-0",
+          "publishedOn": "2024-06-24T13:18:34.000Z",
+          "wordCount": 569,
+          "title": "FlexRem 2.0",
+          "imageUrl": "https://ph-files.imgix.net/94eb391e-0615-42e9-bc08-f1c8ce5ff718.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/briefy-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/briefy-2",
           "publishedOn": "2024-06-24T06:40:03.000Z",
-          "wordCount": 556,
+          "wordCount": 503,
           "title": "Briefy",
           "imageUrl": "https://ph-files.imgix.net/7592e8fa-f3ee-4648-8754-99659163bdcd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sheet-shifter",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sheet-shifter",
-          "publishedOn": "2024-06-23T22:37:44.000Z",
-          "wordCount": 483,
-          "title": "Sheet Shifter",
-          "imageUrl": "https://ph-files.imgix.net/ff6b4413-e309-43e5-9453-3ecea031e39f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/siram",
@@ -520,6 +520,56 @@
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://x.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1806010978418430041",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nPlume Goon Adventure Testnet Campaign\n.@plumenetwork  is introducing its Plume Testnet Campaign. The aim is to help usher in the next phase of RWAs and Plume will need help to make it happen.\n🌐 https://dropsearn.com/events/plume-testnet",
+          "link": "https://x.com/DropsEarn/status/1806010978418430041",
+          "publishedOn": "2024-06-26T17:05:45.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Plume Goon Adventure Testnet Campaign .@plumenetwork is introducing its Plume Testnet Campaign. The aim is to h...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1805691647960740239",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nMagic Alchemy Brew or Die Campaign\nBrew or Die is a Play2Airdrop launched by .@magicalchemydao \nAt this stage, players’ main task is to get points, which can later be exchanged for project tokens, POTION.\n🌐 https://dropsearn.com/events/magic-alchemy-brew-or-die-campaign",
+          "link": "https://x.com/DropsEarn/status/1805691647960740239",
+          "publishedOn": "2024-06-25T19:56:51.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Magic Alchemy Brew or Die Campaign Brew or Die is a Play2Airdrop launched by .@magicalchemydao At this stage, p...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1804804553616887905",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nZoth Atlas Incentivized Testnet\n.@zothdotio  welcomes everyone to the Zoth Atlas — a portal designed to bridge TradFi & DeFi through Real World Assets (RWAs).\n🌐 https://dropsearn.com/events/zoth-atlas-incentivized-testnet",
+          "link": "https://x.com/DropsEarn/status/1804804553616887905",
+          "publishedOn": "2024-06-23T09:11:51.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Zoth Atlas Incentivized Testnet .@zothdotio welcomes everyone to the Zoth Atlas — a portal designed to bridge ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1804602736387764320",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nPlume Network Ambassador Program\n.@plumenetwork invites everyone to become a Plume Goons. Apply, join the crew, and earn rewards.\n🌐 https://dropsearn.com/events/plume-network-ambassador-program",
+          "link": "https://x.com/DropsEarn/status/1804602736387764320",
+          "publishedOn": "2024-06-22T19:49:54.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Plume Network Ambassador Program .@plumenetwork invites everyone to become a Plume Goons. Apply, join the crew,...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1804512628657562013",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nBeacon The New Frontiers Quest\n.@The_Beacon_GG  has launched The New Frontiers Quest Ahead of NFT Mint. \n🌐 https://dropsearn.com/events/beacon-the-new-frontiers-quest",
+          "link": "https://x.com/DropsEarn/status/1804512628657562013",
+          "publishedOn": "2024-06-22T13:51:51.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Beacon The New Frontiers Quest .@The_Beacon_GG has launched The New Frontiers Quest Ahead of NFT Mint. 🌐 htt...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1803874692081860763",
           "author": "Drops Earn",
