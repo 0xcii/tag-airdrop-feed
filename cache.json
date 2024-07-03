@@ -18,12 +18,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/writebook",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/writebook",
+          "publishedOn": "2024-07-03T14:42:48.000Z",
+          "wordCount": 477,
+          "title": "Writebook",
+          "imageUrl": "https://ph-files.imgix.net/75d9bfcc-97ae-4bda-8285-0b23126056ef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/birdesk",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/birdesk",
           "publishedOn": "2024-07-03T11:39:53.000Z",
-          "wordCount": 409,
+          "wordCount": 413,
           "title": "Birdesk",
           "imageUrl": "https://ph-files.imgix.net/25890350-37dd-44ec-a91f-cca7c1882b11.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/little-one",
           "publishedOn": "2024-07-03T10:34:37.000Z",
-          "wordCount": 533,
+          "wordCount": 532,
           "title": "Little One",
           "imageUrl": "https://ph-files.imgix.net/0581e456-0f4e-4492-bbb7-bfc01f16d72f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hotsuto",
           "publishedOn": "2024-07-03T04:39:20.000Z",
-          "wordCount": 469,
+          "wordCount": 496,
           "title": "Hotsuto",
           "imageUrl": "https://ph-files.imgix.net/d3301a46-bc09-4be9-aa48-8c3eb21cbdbf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/defer",
           "publishedOn": "2024-07-02T23:23:20.000Z",
-          "wordCount": 432,
+          "wordCount": 430,
           "title": "Defer",
           "imageUrl": "https://ph-files.imgix.net/e14e31e4-2791-402d-8a87-d65e493a40cc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -143,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/skott",
           "publishedOn": "2024-07-02T05:07:56.000Z",
-          "wordCount": 454,
+          "wordCount": 453,
           "title": "Skott",
           "imageUrl": "https://ph-files.imgix.net/7e6405e3-9b9c-4786-9f32-c2b403747100.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -278,22 +288,12 @@
           "imageUrl": "https://ph-files.imgix.net/b489f494-358e-4626-b721-7a71911878be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/weekly-calendar-in-todoist",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/weekly-calendar-in-todoist",
-          "publishedOn": "2024-07-01T09:47:50.000Z",
-          "wordCount": 596,
-          "title": "Weekly Calendar in Todoist",
-          "imageUrl": "https://ph-files.imgix.net/6f7f470c-7e0d-4b96-ad00-ff34e8006354.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/spectrum-9",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/spectrum-9",
           "publishedOn": "2024-07-01T08:21:51.000Z",
-          "wordCount": 410,
+          "wordCount": 363,
           "title": "Spectrum",
           "imageUrl": "https://ph-files.imgix.net/6732fccd-88cb-4a74-9c0b-d9a19e1d6290.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -303,7 +303,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/git2log",
           "publishedOn": "2024-07-01T06:59:54.000Z",
-          "wordCount": 443,
+          "wordCount": 442,
           "title": "Git2Log",
           "imageUrl": "https://ph-files.imgix.net/58071495-e452-40b3-adde-04c602f28eea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -473,7 +473,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/owox-sql-copilot",
           "publishedOn": "2024-06-08T16:43:50.000Z",
-          "wordCount": 456,
+          "wordCount": 455,
           "title": "OWOX SQL Copilot",
           "imageUrl": "https://ph-files.imgix.net/c959d9be-7911-442f-86ba-5ab645b84dc7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -493,11 +493,17 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vitamin-ai",
           "publishedOn": "2024-06-04T10:13:39.000Z",
-          "wordCount": 591,
+          "wordCount": 590,
           "title": "Vitamin AI",
           "imageUrl": "https://ph-files.imgix.net/e6ae2e71-bd05-48dd-87eb-a4790d6c8043.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
