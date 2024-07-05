@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/apple-search-ads-extension",
           "publishedOn": "2024-07-04T20:51:21.000Z",
-          "wordCount": 373,
+          "wordCount": 375,
           "title": "Apple Search Ads Extension",
           "imageUrl": "https://ph-files.imgix.net/7dabc5a1-81cc-4752-8462-f53f2d98fc7c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/leo-a682e4fb-1a98-4d18-b1fa-97cb5077f093",
           "publishedOn": "2024-07-04T12:16:57.000Z",
-          "wordCount": 469,
+          "wordCount": 470,
           "title": "LEO",
           "imageUrl": "https://ph-files.imgix.net/50cf834b-60af-45ac-862a-60557b0436c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -163,7 +163,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/junior-ok",
           "publishedOn": "2024-07-03T20:56:01.000Z",
-          "wordCount": 349,
+          "wordCount": 348,
           "title": "Junior OK",
           "imageUrl": "https://ph-files.imgix.net/b2e35386-5935-4fd3-8b7a-a6a6861ae44c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -278,16 +278,6 @@
           "imageUrl": "https://ph-files.imgix.net/bd7dfe58-b474-419e-b54f-e867e1bdff0a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/defer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/defer",
-          "publishedOn": "2024-07-02T23:23:20.000Z",
-          "wordCount": 429,
-          "title": "Defer",
-          "imageUrl": "https://ph-files.imgix.net/e14e31e4-2791-402d-8a87-d65e493a40cc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/clouds",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -306,6 +296,16 @@
           "wordCount": 397,
           "title": "B2B SaaS Valuation Calculator",
           "imageUrl": "https://ph-files.imgix.net/d5543d29-4b60-409f-bd66-c5b7f29554d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/calypso",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/calypso",
+          "publishedOn": "2024-07-02T21:05:47.000Z",
+          "wordCount": 409,
+          "title": "Calypso",
+          "imageUrl": "https://ph-files.imgix.net/efb23c3d-5fe1-4b06-9105-6e17e53b97c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/customjs",
@@ -353,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/llama-3-on-telegram",
           "publishedOn": "2024-07-02T13:48:59.000Z",
-          "wordCount": 407,
+          "wordCount": 408,
           "title": "Llama 3 on Telegram",
           "imageUrl": "https://ph-files.imgix.net/bada6297-6ea7-4e05-a786-26d722846e02.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -508,6 +508,12 @@
           "imageUrl": "https://ph-files.imgix.net/c959d9be-7911-442f-86ba-5ab645b84dc7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
