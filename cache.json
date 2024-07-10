@@ -153,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lazy-weather-app",
           "publishedOn": "2024-07-09T13:55:27.000Z",
-          "wordCount": 499,
+          "wordCount": 500,
           "title": "Lazy Weather app",
           "imageUrl": "https://ph-files.imgix.net/780ee40d-9554-4fd9-ab7b-7707e959f25d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -208,16 +208,6 @@
           "imageUrl": "https://ph-files.imgix.net/7ad80050-5fcc-4eec-b161-227df7bcc441.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/banhaten-design-system",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/banhaten-design-system",
-          "publishedOn": "2024-07-09T02:40:45.000Z",
-          "wordCount": 447,
-          "title": "Banhaten design system",
-          "imageUrl": "https://ph-files.imgix.net/082a31ec-cdf2-41e8-a71b-bb93746979d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/parallel-dom",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -268,6 +258,16 @@
           "imageUrl": "https://ph-files.imgix.net/b1791ce2-bb6a-44ea-8fea-0aba0939e714.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/roots-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/roots-4",
+          "publishedOn": "2024-07-08T17:01:39.000Z",
+          "wordCount": 531,
+          "title": "Roots",
+          "imageUrl": "https://ph-files.imgix.net/90b38628-5bd2-47f8-91bd-ba8f7d356a39.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/vibely-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -313,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/leo-2b243728-08b9-41f9-840c-12191363b4af",
           "publishedOn": "2024-07-07T17:42:03.000Z",
-          "wordCount": 228,
+          "wordCount": 275,
           "title": "Leo",
           "imageUrl": "https://ph-files.imgix.net/59d28f21-7b80-40f0-9323-0ba2a397c5f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/raijin-ai",
           "publishedOn": "2024-07-07T13:28:49.000Z",
-          "wordCount": 607,
+          "wordCount": 608,
           "title": "Raijin.ai",
           "imageUrl": "https://ph-files.imgix.net/324782ef-cdd6-4e1b-859d-022248f45e9e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -443,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flat-5",
           "publishedOn": "2024-06-27T23:30:36.000Z",
-          "wordCount": 412,
+          "wordCount": 413,
           "title": "Flat",
           "imageUrl": "https://ph-files.imgix.net/620c5cdb-32e5-48e2-9ced-f595dca35673.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/streamalive-app-for-zoom",
           "publishedOn": "2024-06-27T14:15:05.000Z",
-          "wordCount": 521,
+          "wordCount": 468,
           "title": "StreamAlive App for Zoom",
           "imageUrl": "https://ph-files.imgix.net/37d99d77-aa4d-48eb-a451-e10dafd77776.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -508,6 +508,12 @@
           "imageUrl": "https://ph-files.imgix.net/281692ea-4204-4454-9819-49224635509f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
