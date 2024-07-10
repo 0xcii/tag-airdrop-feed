@@ -18,12 +18,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/franzai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/franzai",
+          "publishedOn": "2024-07-10T09:12:29.000Z",
+          "wordCount": 436,
+          "title": "FranzAI",
+          "imageUrl": "https://ph-files.imgix.net/84bc4d5a-5b60-4a66-ba93-de7822725fbf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/meet-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/meet-4",
           "publishedOn": "2024-07-10T06:32:46.000Z",
-          "wordCount": 635,
+          "wordCount": 628,
           "title": "Meet",
           "imageUrl": "https://ph-files.imgix.net/0d2b11fb-d4b2-496a-a0d2-038cddf78dc3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -113,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/boycott-buddy",
           "publishedOn": "2024-07-09T16:08:26.000Z",
-          "wordCount": 301,
+          "wordCount": 298,
           "title": "Boycott Buddy",
           "imageUrl": "https://ph-files.imgix.net/142fe98b-710d-437f-8dbc-dc58d7b132b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -198,16 +208,6 @@
           "imageUrl": "https://ph-files.imgix.net/7ad80050-5fcc-4eec-b161-227df7bcc441.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/banhaten-design-system",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/banhaten-design-system",
-          "publishedOn": "2024-07-09T02:40:45.000Z",
-          "wordCount": 459,
-          "title": "Banhaten design system",
-          "imageUrl": "https://ph-files.imgix.net/082a31ec-cdf2-41e8-a71b-bb93746979d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/parallel-dom",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -243,19 +243,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/translized-ai-software-localization",
           "publishedOn": "2024-07-08T20:17:06.000Z",
-          "wordCount": 538,
+          "wordCount": 537,
           "title": "Translized - AI Software Localization",
           "imageUrl": "https://ph-files.imgix.net/2aaef511-effa-4d6d-b221-baaa014ec3d0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/brb-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/brb-2",
-          "publishedOn": "2024-07-08T20:07:26.000Z",
-          "wordCount": 432,
-          "title": "brb",
-          "imageUrl": "https://ph-files.imgix.net/0484ea00-bdbe-4c7a-b69e-8e93ddfd5edb.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/live-video-agent-from-fluidworks",
@@ -266,6 +256,16 @@
           "wordCount": 617,
           "title": "Live Video Agent from Fluidworks",
           "imageUrl": "https://ph-files.imgix.net/b1791ce2-bb6a-44ea-8fea-0aba0939e714.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/roots-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/roots-4",
+          "publishedOn": "2024-07-08T17:01:39.000Z",
+          "wordCount": 543,
+          "title": "Roots",
+          "imageUrl": "https://ph-files.imgix.net/90b38628-5bd2-47f8-91bd-ba8f7d356a39.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ooo-4",
@@ -286,16 +286,6 @@
           "wordCount": 457,
           "title": "Vibely",
           "imageUrl": "https://ph-files.imgix.net/79df16c6-2c30-4983-89b1-0d543c7bfc1f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/cassiopeia",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/cassiopeia",
-          "publishedOn": "2024-07-08T10:08:19.000Z",
-          "wordCount": 473,
-          "title": "Cassiopeia",
-          "imageUrl": "https://ph-files.imgix.net/6104ee23-36d3-4043-9c0b-f12c4561c733.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/gepchat",
@@ -333,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/leo-2b243728-08b9-41f9-840c-12191363b4af",
           "publishedOn": "2024-07-07T17:42:03.000Z",
-          "wordCount": 236,
+          "wordCount": 283,
           "title": "Leo",
           "imageUrl": "https://ph-files.imgix.net/59d28f21-7b80-40f0-9323-0ba2a397c5f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/neocharge",
           "publishedOn": "2024-07-05T21:17:41.000Z",
-          "wordCount": 635,
+          "wordCount": 634,
           "title": "NeoCharge",
           "imageUrl": "https://ph-files.imgix.net/0a1ffad9-01d4-4469-bdd4-cf561ca21db7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -368,16 +358,6 @@
           "imageUrl": "https://ph-files.imgix.net/747a80f4-27e5-499f-b5a5-6fe695c57e71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/enso-9",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/enso-9",
-          "publishedOn": "2024-07-05T10:39:29.000Z",
-          "wordCount": 455,
-          "title": "enso",
-          "imageUrl": "https://ph-files.imgix.net/dc48ccf1-402a-4f72-9059-5d71ad36d62c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/studioform-pro-library",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -386,6 +366,16 @@
           "wordCount": 734,
           "title": "StudioForm Pro Library",
           "imageUrl": "https://ph-files.imgix.net/77ef3eb4-5bd7-49a0-8835-81c86789a53b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ai-agents-by-threado",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-agents-by-threado",
+          "publishedOn": "2024-07-04T05:59:39.000Z",
+          "wordCount": 675,
+          "title": "AI Agents by Threado",
+          "imageUrl": "https://ph-files.imgix.net/98bf4173-c9b2-4046-9818-38d440829536.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/free-llm-api-pricing-calculator",
@@ -413,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/klipy",
           "publishedOn": "2024-07-02T04:51:16.000Z",
-          "wordCount": 579,
+          "wordCount": 532,
           "title": "Klipy",
           "imageUrl": "https://ph-files.imgix.net/52652b14-1350-4558-9957-4c9b1074e465.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/turf-5",
           "publishedOn": "2024-06-29T03:05:32.000Z",
-          "wordCount": 619,
+          "wordCount": 627,
           "title": "Turf",
           "imageUrl": "https://ph-files.imgix.net/5eccaeab-55d0-482b-b9eb-74396dc2d966.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,12 +468,32 @@
           "imageUrl": "https://ph-files.imgix.net/37d99d77-aa4d-48eb-a451-e10dafd77776.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/shram",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/shram",
+          "publishedOn": "2024-06-26T14:30:12.000Z",
+          "wordCount": 561,
+          "title": "Shram",
+          "imageUrl": "https://ph-files.imgix.net/46d3bfac-1a14-45d8-916a-0bb2968de934.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/krut-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/krut-ai",
+          "publishedOn": "2024-06-25T20:17:28.000Z",
+          "wordCount": 464,
+          "title": "Krut AI",
+          "imageUrl": "https://ph-files.imgix.net/a27c6878-e94a-4910-8c18-3a138a38c3e4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/nihongo-the-kanji-update",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nihongo-the-kanji-update",
           "publishedOn": "2024-06-25T01:10:47.000Z",
-          "wordCount": 545,
+          "wordCount": 546,
           "title": "Nihongo: The Kanji Update",
           "imageUrl": "https://ph-files.imgix.net/9faa7c98-0572-4599-be70-81a97158795f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -493,7 +503,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hiive50",
           "publishedOn": "2024-06-20T22:09:19.000Z",
-          "wordCount": 502,
+          "wordCount": 504,
           "title": "Hiive50",
           "imageUrl": "https://ph-files.imgix.net/92d6f257-682e-49f2-a7c1-1665afe9ac7c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
