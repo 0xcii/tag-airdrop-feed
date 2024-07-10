@@ -303,7 +303,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gepchat",
           "publishedOn": "2024-07-08T07:22:11.000Z",
-          "wordCount": 425,
+          "wordCount": 426,
           "title": "Gepchat",
           "imageUrl": "https://ph-files.imgix.net/be4b39b5-dd00-4a5b-8cbe-d1451e6aa4e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pieces-copilot-2",
           "publishedOn": "2024-06-29T04:34:13.000Z",
-          "wordCount": 541,
+          "wordCount": 595,
           "title": "Pieces Copilot+",
           "imageUrl": "https://ph-files.imgix.net/b3083eef-e3bb-4e5c-97b9-dd1083e71b67.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -493,7 +493,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hiive50",
           "publishedOn": "2024-06-20T22:09:19.000Z",
-          "wordCount": 491,
+          "wordCount": 444,
           "title": "Hiive50",
           "imageUrl": "https://ph-files.imgix.net/92d6f257-682e-49f2-a7c1-1665afe9ac7c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -510,16 +510,20 @@
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
       "title": "Twitter @Drops Earn",
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://x.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1810755445709045806",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nMind Network Bug Bounty Program\n.@mindnetwork_xyz  has started Bug Bounty Program with possible rewards up to $50,000 in USDC.\n🌐 https://dropsearn.com/events/mind-network-bug-bounty-program",
+          "link": "https://x.com/DropsEarn/status/1810755445709045806",
+          "publishedOn": "2024-07-09T19:18:35.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Mind Network Bug Bounty Program .@mindnetwork_xyz has started Bug Bounty Program with possible rewards up to $5...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1808953875992563916",
           "author": "Drops Earn",
