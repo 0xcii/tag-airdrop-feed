@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/studiogigs-co",
@@ -178,16 +178,6 @@
           "imageUrl": "https://ph-files.imgix.net/0d2b11fb-d4b2-496a-a0d2-038cddf78dc3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/eclipse-digital-wallet",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/eclipse-digital-wallet",
-          "publishedOn": "2024-07-10T06:08:02.000Z",
-          "wordCount": 596,
-          "title": "Eclipse: Digital Wallet",
-          "imageUrl": "https://ph-files.imgix.net/19bac43e-daaf-447b-8af5-d9513c4bd089.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/4242-pro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -348,6 +338,16 @@
           "imageUrl": "https://ph-files.imgix.net/be4b39b5-dd00-4a5b-8cbe-d1451e6aa4e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/raijin-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/raijin-ai",
+          "publishedOn": "2024-07-07T13:28:49.000Z",
+          "wordCount": 603,
+          "title": "Raijin.ai",
+          "imageUrl": "https://ph-files.imgix.net/324782ef-cdd6-4e1b-859d-022248f45e9e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/let-s-hang-1",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -438,14 +438,14 @@
           "imageUrl": "https://ph-files.imgix.net/9f529d06-a8de-492f-ad83-9b99a052c503.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/turf-5",
+          "id": "https://www.producthunt.com/posts/pieces-copilot-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/turf-5",
-          "publishedOn": "2024-06-29T03:05:32.000Z",
-          "wordCount": 616,
-          "title": "Turf",
-          "imageUrl": "https://ph-files.imgix.net/5eccaeab-55d0-482b-b9eb-74396dc2d966.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/pieces-copilot-2",
+          "publishedOn": "2024-06-29T04:34:13.000Z",
+          "wordCount": 594,
+          "title": "Pieces Copilot+",
+          "imageUrl": "https://ph-files.imgix.net/b3083eef-e3bb-4e5c-97b9-dd1083e71b67.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/flat-5",
@@ -498,6 +498,12 @@
           "imageUrl": "https://ph-files.imgix.net/92d6f257-682e-49f2-a7c1-1665afe9ac7c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
