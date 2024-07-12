@@ -18,14 +18,24 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/sensible-inventory-forecasting",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sensible-inventory-forecasting",
+          "publishedOn": "2024-07-12T08:52:07.000Z",
+          "wordCount": 489,
+          "title": "Sensible Inventory Forecasting",
+          "imageUrl": "https://ph-files.imgix.net/1694ace3-35d6-41c7-808b-bd7e1340dd26.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/openvibe",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openvibe",
           "publishedOn": "2024-07-12T04:16:40.000Z",
-          "wordCount": 419,
+          "wordCount": 370,
           "title": "Openvibe",
-          "imageUrl": "https://ph-files.imgix.net/739c8adf-7b63-41a4-b5f3-b1433033421c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": "https://ph-files.imgix.net/6781984d-234f-4cc9-b0b8-85ff5a941eeb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/elevenlabs-audio-isolation-api",
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/elevenlabs-audio-isolation-api",
           "publishedOn": "2024-07-12T04:02:04.000Z",
-          "wordCount": 501,
+          "wordCount": 498,
           "title": "ElevenLabs Audio Isolation API",
           "imageUrl": "https://ph-files.imgix.net/1fd2ebb7-0496-47b6-bec8-848a2fe87709.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/datech-shopsync",
           "publishedOn": "2024-07-12T03:00:48.000Z",
-          "wordCount": 409,
+          "wordCount": 412,
           "title": "Datech ShopSync",
           "imageUrl": "https://ph-files.imgix.net/b8bb4fdc-a648-4194-8b06-24caed1d8eb0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -63,9 +73,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ocr-wiz",
           "publishedOn": "2024-07-11T22:32:10.000Z",
-          "wordCount": 506,
+          "wordCount": 507,
           "title": "OCR Wiz",
           "imageUrl": "https://ph-files.imgix.net/7c464a15-a3ea-42ec-aa2e-0b2b15f8d12c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/feedback-wizard-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/feedback-wizard-ai",
+          "publishedOn": "2024-07-11T18:38:07.000Z",
+          "wordCount": 576,
+          "title": "Feedback Wizard AI",
+          "imageUrl": "https://ph-files.imgix.net/7127fff7-1c96-4f2d-85d2-9168df55132b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sign-ai",
@@ -73,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sign-ai",
           "publishedOn": "2024-07-11T18:33:10.000Z",
-          "wordCount": 450,
+          "wordCount": 447,
           "title": "Sign AI",
           "imageUrl": "https://ph-files.imgix.net/76c2a27d-d3af-4354-8341-65f9a19ec5b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +113,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/twin-city",
           "publishedOn": "2024-07-11T12:44:02.000Z",
-          "wordCount": 400,
+          "wordCount": 399,
           "title": "Twin City",
           "imageUrl": "https://ph-files.imgix.net/72e12455-3e0d-46da-a3dc-733d6e12c10c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -103,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/skyport-panel",
           "publishedOn": "2024-07-11T11:55:34.000Z",
-          "wordCount": 416,
+          "wordCount": 411,
           "title": "Skyport Panel",
           "imageUrl": "https://ph-files.imgix.net/527fd783-007e-46c4-ab1f-c06cc734930f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -133,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sacred-seconds-spacial-clocks",
           "publishedOn": "2024-07-11T09:37:54.000Z",
-          "wordCount": 480,
+          "wordCount": 479,
           "title": "Sacred Seconds: Spacial Clocks",
           "imageUrl": "https://ph-files.imgix.net/e34d0afd-22ff-42a7-8174-c5d0f5722b94.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -163,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/x-detector",
           "publishedOn": "2024-07-11T04:06:46.000Z",
-          "wordCount": 492,
+          "wordCount": 487,
           "title": "X Detector",
           "imageUrl": "https://ph-files.imgix.net/31995941-d502-4670-bc88-6426d0a8b2f4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -233,29 +253,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/docscube-2-0",
           "publishedOn": "2024-07-10T15:24:43.000Z",
-          "wordCount": 422,
+          "wordCount": 475,
           "title": "DocsCube 2.0",
           "imageUrl": "https://ph-files.imgix.net/1141747e-9914-4c20-a4d8-6f43651ab6da.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/overtalk-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/overtalk-2",
-          "publishedOn": "2024-07-10T14:49:58.000Z",
-          "wordCount": 335,
-          "title": "Overtalk",
-          "imageUrl": "https://ph-files.imgix.net/01ff9cb5-c0ad-4d6c-8799-43cb14f90129.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/crawlrlabs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/crawlrlabs",
-          "publishedOn": "2024-07-10T14:03:36.000Z",
-          "wordCount": 380,
-          "title": "CrawlrLabs",
-          "imageUrl": "https://ph-files.imgix.net/314f9300-ba25-426c-a319-f00d3e19911e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/supercfd",
@@ -263,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supercfd",
           "publishedOn": "2024-07-10T13:49:42.000Z",
-          "wordCount": 427,
+          "wordCount": 423,
           "title": "Supercfd",
           "imageUrl": "https://ph-files.imgix.net/4d058b0a-b780-42e7-b146-e4e790c0758d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -283,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/typeflowai",
           "publishedOn": "2024-07-10T10:50:39.000Z",
-          "wordCount": 334,
+          "wordCount": 333,
           "title": "TypeflowAI",
           "imageUrl": "https://ph-files.imgix.net/64c72ca4-c96e-4b03-ac24-c00de893d178.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/outwork-self-improvement",
           "publishedOn": "2024-07-09T10:30:36.000Z",
-          "wordCount": 598,
+          "wordCount": 595,
           "title": "Outwork: Self-Improvement",
           "imageUrl": "https://ph-files.imgix.net/31e90304-2126-4d9a-a3b0-1b2dd01005e0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -333,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/telescope-b2d1fe71-5d26-4c04-a2ff-544e59828902",
           "publishedOn": "2024-07-09T09:50:55.000Z",
-          "wordCount": 529,
+          "wordCount": 526,
           "title": "Telescope",
           "imageUrl": "https://ph-files.imgix.net/56bb2849-8845-4bcd-8ba0-f9a50b04d462.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/archfy",
           "publishedOn": "2024-07-09T07:01:04.000Z",
-          "wordCount": 437,
+          "wordCount": 438,
           "title": "Archfy",
           "imageUrl": "https://ph-files.imgix.net/4785cf22-fd09-454c-9e5b-6fa1639c78b0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -363,7 +363,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/postiva",
           "publishedOn": "2024-07-07T12:32:50.000Z",
-          "wordCount": 622,
+          "wordCount": 624,
           "title": "Postiva",
           "imageUrl": "https://ph-files.imgix.net/aaa84436-c6f1-4ca0-b86f-db19417d4f2f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supergpt",
           "publishedOn": "2024-07-06T18:02:30.000Z",
-          "wordCount": 485,
+          "wordCount": 438,
           "title": "SuperGPT",
           "imageUrl": "https://ph-files.imgix.net/e846584d-f32a-48bd-a5dc-daa788721d6a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/free-monitoring-suite-by-webgazer",
           "publishedOn": "2024-07-04T16:06:45.000Z",
-          "wordCount": 558,
+          "wordCount": 556,
           "title": "Free Monitoring Suite by WebGazer",
           "imageUrl": "https://ph-files.imgix.net/ceb56ad0-0d2f-4449-be74-eb6c282a880e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -413,7 +413,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tivazo",
           "publishedOn": "2024-07-04T15:05:41.000Z",
-          "wordCount": 436,
+          "wordCount": 389,
           "title": "Tivazo",
           "imageUrl": "https://ph-files.imgix.net/ca15d3e8-9705-4465-b201-a25378e2c404.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supergoat",
           "publishedOn": "2024-07-02T15:20:50.000Z",
-          "wordCount": 367,
+          "wordCount": 366,
           "title": "SuperGoat",
           "imageUrl": "https://ph-files.imgix.net/3d28e222-1082-4717-b622-1be1bc7fbf93.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/impact-diary",
           "publishedOn": "2024-07-01T16:44:20.000Z",
-          "wordCount": 499,
+          "wordCount": 500,
           "title": "Impact Diary",
           "imageUrl": "https://ph-files.imgix.net/3516d07b-fb72-4c9b-aaee-71eb55dd483f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/studio-by-gan-ai-recorder",
           "publishedOn": "2024-06-30T01:54:43.000Z",
-          "wordCount": 510,
+          "wordCount": 460,
           "title": "Studio by Gan.AI Recorder",
           "imageUrl": "https://ph-files.imgix.net/bf52c213-892b-42e7-9216-40aa64c5713e.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -468,12 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/460b2152-0d1a-4308-a4d0-76ca90f63d64.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
