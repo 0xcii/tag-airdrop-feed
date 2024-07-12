@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lsd",
           "publishedOn": "2024-07-11T06:07:48.000Z",
-          "wordCount": 231,
+          "wordCount": 184,
           "title": "LSD",
           "imageUrl": "https://ph-files.imgix.net/773cdf24-0e83-4845-a841-54e26c056282.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -313,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/aieditor",
           "publishedOn": "2024-07-09T08:49:33.000Z",
-          "wordCount": 329,
+          "wordCount": 460,
           "title": "AiEditor",
           "imageUrl": "https://ph-files.imgix.net/6c654947-c6f6-4ced-b5ec-ae8a59fdcea4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rubbrband",
           "publishedOn": "2024-07-01T23:22:33.000Z",
-          "wordCount": 337,
+          "wordCount": 290,
           "title": "Rubbrband",
           "imageUrl": "https://ph-files.imgix.net/fbbfde0c-95a0-49cb-b8cd-126e3bb8c0a8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -446,6 +446,16 @@
           "wordCount": 302,
           "title": "Learnbase",
           "imageUrl": "https://ph-files.imgix.net/9f529d06-a8de-492f-ad83-9b99a052c503.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/turf-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/turf-5",
+          "publishedOn": "2024-06-29T03:05:32.000Z",
+          "wordCount": 616,
+          "title": "Turf",
+          "imageUrl": "https://ph-files.imgix.net/5eccaeab-55d0-482b-b9eb-74396dc2d966.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/flat-5",
@@ -483,27 +493,11 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/anyonecanai",
           "publishedOn": "2024-06-21T09:05:08.000Z",
-          "wordCount": 496,
+          "wordCount": 543,
           "title": "AnyoneCanAI",
           "imageUrl": "https://ph-files.imgix.net/460b2152-0d1a-4308-a4d0-76ca90f63d64.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/hiive50",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/hiive50",
-          "publishedOn": "2024-06-20T22:09:19.000Z",
-          "wordCount": 490,
-          "title": "Hiive50",
-          "imageUrl": "https://ph-files.imgix.net/92d6f257-682e-49f2-a7c1-1665afe9ac7c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
