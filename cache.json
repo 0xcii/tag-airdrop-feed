@@ -94,7 +94,7 @@
           "link": "https://www.producthunt.com/posts/stop-copycats",
           "publishedOn": "2024-07-14T13:09:28.000Z",
           "wordCount": 512,
-          "title": "Stop copycats",
+          "title": "Stop Copycats",
           "imageUrl": "https://ph-files.imgix.net/cb0e01e6-6bb2-4540-9895-0e35a40d1fcf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -213,7 +213,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/clean-inbox-for-gmail",
           "publishedOn": "2024-07-12T11:18:11.000Z",
-          "wordCount": 520,
+          "wordCount": 517,
           "title": "Clean Inbox for Gmail™",
           "imageUrl": "https://ph-files.imgix.net/aff4ef49-b229-496a-b5f6-e2474fdafab1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -306,16 +306,6 @@
           "wordCount": 483,
           "title": "Project Atlas Desktop",
           "imageUrl": "https://ph-files.imgix.net/0b940487-68a9-48ce-b37a-5c2d5e23baa9.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/docscube-2-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/docscube-2-0",
-          "publishedOn": "2024-07-10T15:24:43.000Z",
-          "wordCount": 463,
-          "title": "DocsCube 2.0",
-          "imageUrl": "https://ph-files.imgix.net/1141747e-9914-4c20-a4d8-6f43651ab6da.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sugar-free-food-scanner",
@@ -428,6 +418,16 @@
           "imageUrl": "https://ph-files.imgix.net/57e27de4-3aad-4df7-be9b-a8dc7d4e2a92.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/beeyondai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/beeyondai",
+          "publishedOn": "2024-07-07T07:19:41.000Z",
+          "wordCount": 636,
+          "title": "Beeyond AI",
+          "imageUrl": "https://ph-files.imgix.net/917d1b2e-58e7-43f0-a75a-88fe568bcddc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/x-feed-muter",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -498,12 +498,6 @@
           "imageUrl": "https://ph-files.imgix.net/55a5cf62-aca6-42c0-b1c1-0e3d11f5fb22.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
