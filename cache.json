@@ -7,12 +7,6 @@
       "articles": []
     },
     {
-      "title": "Stories by Aramz on Medium",
-      "feedUrl": "https://medium.com/feed/@aramzz",
-      "siteUrl": "https://medium.com/@aramzz?source=rss-722c3df56b66------2",
-      "articles": []
-    },
-    {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
       "siteUrl": "https://www.producthunt.com",
@@ -33,7 +27,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/moonshine",
           "publishedOn": "2024-07-16T04:50:58.000Z",
-          "wordCount": 478,
+          "wordCount": 477,
           "title": "Moonshine",
           "imageUrl": "https://ph-files.imgix.net/2ba67f16-a5de-46f1-9287-012e822a30ef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -73,7 +67,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sketch2scheme",
           "publishedOn": "2024-07-15T23:05:14.000Z",
-          "wordCount": 481,
+          "wordCount": 480,
           "title": "Sketch2scheme",
           "imageUrl": "https://ph-files.imgix.net/d1fb7abc-da5e-4472-bedf-43962651b350.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -133,7 +127,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/yuwu-eu",
           "publishedOn": "2024-07-15T19:25:33.000Z",
-          "wordCount": 266,
+          "wordCount": 263,
           "title": "Yuwu.eu",
           "imageUrl": "https://ph-files.imgix.net/be0ad9c4-4eb1-45e2-a256-2f7e0399132c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -256,16 +250,6 @@
           "wordCount": 343,
           "title": "CPS Test",
           "imageUrl": "https://ph-files.imgix.net/a0dafd6c-bc4b-4520-b924-895b061e1fc2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/brick-photos",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/brick-photos",
-          "publishedOn": "2024-07-14T14:38:07.000Z",
-          "wordCount": 486,
-          "title": "Brick Photos",
-          "imageUrl": "https://ph-files.imgix.net/b7b47ad6-ef83-44ab-9feb-709566d694d2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/stop-copycats",
@@ -433,7 +417,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jobright-ai-2",
           "publishedOn": "2024-07-04T12:29:45.000Z",
-          "wordCount": 435,
+          "wordCount": 437,
           "title": "Jobright AI",
           "imageUrl": "https://ph-files.imgix.net/fc954cf1-b748-4a8b-9ff6-46be05419a41.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -488,6 +472,12 @@
           "imageUrl": "https://ph-files.imgix.net/25580c05-e643-4663-a0ab-158a443923f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
