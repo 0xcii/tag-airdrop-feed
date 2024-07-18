@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/fast-text-2",
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/depth-4",
           "publishedOn": "2024-07-17T05:15:51.000Z",
-          "wordCount": 580,
+          "wordCount": 579,
           "title": "Depth",
           "imageUrl": "https://ph-files.imgix.net/0ae01c49-c648-4852-a597-d5ea2929eb8e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/waveform-ai",
           "publishedOn": "2024-07-16T19:52:00.000Z",
-          "wordCount": 516,
+          "wordCount": 517,
           "title": "Waveform.ai",
           "imageUrl": "https://ph-files.imgix.net/3dffa894-07ba-4c1d-b89f-8704188b603b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -123,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nomadwith-me",
           "publishedOn": "2024-07-16T14:10:12.000Z",
-          "wordCount": 291,
+          "wordCount": 292,
           "title": "NomadWith.me",
           "imageUrl": "https://ph-files.imgix.net/6ea73ac3-2a15-4f6c-aa0a-95fb535244ee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -168,16 +168,6 @@
           "imageUrl": "https://ph-files.imgix.net/55976f4e-df2c-4b2b-a6a8-9c12c7704017.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/random-song-generator-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/random-song-generator-2",
-          "publishedOn": "2024-07-16T05:02:10.000Z",
-          "wordCount": 493,
-          "title": "Random Song Generator",
-          "imageUrl": "https://ph-files.imgix.net/6eb119b0-1183-4d60-9a6c-7636180a4b55.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/starlink-mini",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -203,7 +193,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/langcall",
           "publishedOn": "2024-07-16T01:31:48.000Z",
-          "wordCount": 369,
+          "wordCount": 370,
           "title": "LangCall",
           "imageUrl": "https://ph-files.imgix.net/cc47d8ed-b16a-4af5-9607-e28984bed921.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -216,6 +206,16 @@
           "wordCount": 562,
           "title": "Expert Book Recommendations",
           "imageUrl": "https://ph-files.imgix.net/e7530099-ec16-402f-8ae2-956830ca70a0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sketch2scheme",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sketch2scheme",
+          "publishedOn": "2024-07-15T23:05:14.000Z",
+          "wordCount": 477,
+          "title": "Sketch2scheme",
+          "imageUrl": "https://ph-files.imgix.net/d1fb7abc-da5e-4472-bedf-43962651b350.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/overstory",
@@ -246,16 +246,6 @@
           "wordCount": 570,
           "title": "Sprig Heatmaps",
           "imageUrl": "https://ph-files.imgix.net/d1630a1e-56f3-4468-bf6e-177ee331805e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/yuwu-eu",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/yuwu-eu",
-          "publishedOn": "2024-07-15T19:25:33.000Z",
-          "wordCount": 263,
-          "title": "Yuwu.eu",
-          "imageUrl": "https://ph-files.imgix.net/be0ad9c4-4eb1-45e2-a256-2f7e0399132c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/infinite-machine-p1-2",
@@ -326,6 +316,16 @@
           "wordCount": 419,
           "title": "Apidog",
           "imageUrl": "https://ph-files.imgix.net/24767cdd-b439-4b08-b027-c94e16d54a01.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cols-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/cols-ai",
+          "publishedOn": "2024-07-15T01:32:36.000Z",
+          "wordCount": 383,
+          "title": "Cols.ai",
+          "imageUrl": "https://ph-files.imgix.net/6d2f7f49-68e0-4c4e-85b4-1b0f1c1824cc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/real-time-voice-translation-by-byrdhouse",
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/waywise",
           "publishedOn": "2024-07-09T12:10:29.000Z",
-          "wordCount": 424,
+          "wordCount": 425,
           "title": "Waywise",
           "imageUrl": "https://ph-files.imgix.net/aa09208e-68c3-4077-a8b8-2c7d8da329a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
