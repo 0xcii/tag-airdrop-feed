@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gpt-4o-mini",
           "publishedOn": "2024-07-18T20:45:25.000Z",
-          "wordCount": 424,
+          "wordCount": 479,
           "title": "GPT-4o mini",
           "imageUrl": "https://ph-files.imgix.net/1b43e012-b487-4f92-a613-e54e326317c9.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -298,16 +298,6 @@
           "imageUrl": "https://ph-files.imgix.net/a4aadbb3-6e65-47ef-9cab-fa5f5e83dc6c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/saasy-trends",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/saasy-trends",
-          "publishedOn": "2024-07-17T16:12:03.000Z",
-          "wordCount": 490,
-          "title": "SaaSy Trends",
-          "imageUrl": "https://ph-files.imgix.net/40b198a2-51d5-4e92-a36b-c050cf534bb0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/gowebly",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -316,6 +306,16 @@
           "wordCount": 485,
           "title": "Gowebly",
           "imageUrl": "https://ph-files.imgix.net/8e67b9d2-5f4e-40f9-b109-184f34e08f80.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ubiops",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ubiops",
+          "publishedOn": "2024-07-17T09:34:08.000Z",
+          "wordCount": 449,
+          "title": "UbiOps",
+          "imageUrl": "https://ph-files.imgix.net/54fffe6e-2c35-4ef5-97c8-8264cc09d427.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/time-on-trails",
@@ -418,6 +418,16 @@
           "imageUrl": "https://ph-files.imgix.net/93442a8b-af87-4e3c-a4d4-eea996450fcd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/pet-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pet-app",
+          "publishedOn": "2024-07-15T09:38:03.000Z",
+          "wordCount": 612,
+          "title": "Pet App",
+          "imageUrl": "https://ph-files.imgix.net/2c771d36-4865-45eb-a753-1481b60412c9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/heic-converter-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -426,16 +436,6 @@
           "wordCount": 422,
           "title": "HEIC Converter",
           "imageUrl": "https://ph-files.imgix.net/8c1aa53c-f866-4928-8684-6ede1740e404.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/loops-b4eb3c28-5d9d-4d4a-9414-e57e3faf3f67",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/loops-b4eb3c28-5d9d-4d4a-9414-e57e3faf3f67",
-          "publishedOn": "2024-07-12T22:05:33.000Z",
-          "wordCount": 598,
-          "title": "Loops",
-          "imageUrl": "https://ph-files.imgix.net/f8fd846e-4b9d-4a5a-9f4d-6c9e820deea7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/reimagic-ai",
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/proven-ly-social-proof-fomo-builder",
           "publishedOn": "2024-07-12T05:01:57.000Z",
-          "wordCount": 530,
+          "wordCount": 531,
           "title": "Proven.ly Social Proof & FOMO Builder",
           "imageUrl": "https://ph-files.imgix.net/1ec52bf8-7e3f-41e9-8a22-d5f60765286a.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -518,6 +518,12 @@
           "imageUrl": "https://ph-files.imgix.net/89dd6cc6-6b9e-470e-a07b-4ee84bf26229.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
