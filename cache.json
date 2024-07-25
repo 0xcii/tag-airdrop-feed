@@ -203,7 +203,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tern-2",
           "publishedOn": "2024-07-23T07:28:52.000Z",
-          "wordCount": 455,
+          "wordCount": 502,
           "title": "Tern",
           "imageUrl": "https://ph-files.imgix.net/f280e185-f93f-4f86-9ba3-6e8f50053a38.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -328,22 +328,12 @@
           "imageUrl": "https://ph-files.imgix.net/678bdb9b-edb0-4352-a3cb-ef7ce6ab8bc5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/lokal-so",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/lokal-so",
-          "publishedOn": "2024-07-19T17:32:40.000Z",
-          "wordCount": 576,
-          "title": "Lokal.so",
-          "imageUrl": "https://ph-files.imgix.net/3ae341d2-0038-4c52-8a2e-97b9d8212f47.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/permit-share-if",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/permit-share-if",
           "publishedOn": "2024-07-19T14:27:43.000Z",
-          "wordCount": 497,
+          "wordCount": 550,
           "title": "Permit Share-If",
           "imageUrl": "https://ph-files.imgix.net/1fa73cf8-5d70-406e-9562-92cb5ce478e1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -468,6 +458,16 @@
           "imageUrl": "https://ph-files.imgix.net/6600cc9c-8f24-4c2a-ad6e-36cf680b58f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/youorme",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/youorme",
+          "publishedOn": "2024-07-09T13:12:55.000Z",
+          "wordCount": 409,
+          "title": "YouOrMe",
+          "imageUrl": "https://ph-files.imgix.net/36404f88-9317-42b5-a0d6-4cc3c70915e1.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/loquis-for-developers",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -488,6 +488,12 @@
           "imageUrl": "https://ph-files.imgix.net/1919c63c-6592-4d2e-b6fb-f30063cd0648.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
