@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/slimify",
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/two-cents-2",
           "publishedOn": "2024-07-26T21:26:38.000Z",
-          "wordCount": 493,
+          "wordCount": 489,
           "title": "Two Cents",
           "imageUrl": "https://ph-files.imgix.net/9dff0c02-7861-4941-bcf1-e0a85a62263d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -138,16 +138,6 @@
           "imageUrl": "https://ph-files.imgix.net/c115cb3b-f8f1-4c25-a3d9-924515369ca9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/friend-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/friend-2",
-          "publishedOn": "2024-07-25T22:05:14.000Z",
-          "wordCount": 569,
-          "title": "Friend",
-          "imageUrl": "https://ph-files.imgix.net/f5ec6bef-70fc-4f24-8f8a-7b3f560c7f86.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/bookfave",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -163,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/apple-maps-for-web-beta",
           "publishedOn": "2024-07-25T19:27:41.000Z",
-          "wordCount": 428,
+          "wordCount": 424,
           "title": "Apple Maps for Web Beta",
           "imageUrl": "https://ph-files.imgix.net/1a9d930a-39bf-4c2d-bcbb-cf76b908cd85.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -183,7 +173,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mistral-large-2",
           "publishedOn": "2024-07-25T18:39:12.000Z",
-          "wordCount": 453,
+          "wordCount": 450,
           "title": "Mistral Large 2",
           "imageUrl": "https://ph-files.imgix.net/bf876f20-97e3-46ae-b03d-82f07eb2c03c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -193,9 +183,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/contact-concert",
           "publishedOn": "2024-07-25T16:53:36.000Z",
-          "wordCount": 304,
+          "wordCount": 308,
           "title": "Contact Concert™",
           "imageUrl": "https://ph-files.imgix.net/20e76262-fc6d-416b-8fa6-b80c5d7dd4c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mbox-ai-meet",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mbox-ai-meet",
+          "publishedOn": "2024-07-25T16:37:23.000Z",
+          "wordCount": 468,
+          "title": "MBox AI meet",
+          "imageUrl": "https://ph-files.imgix.net/7771f403-bfc8-43ff-8760-01efd00b73f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/thyme-tell",
@@ -213,7 +213,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mobile-less",
           "publishedOn": "2024-07-25T16:32:54.000Z",
-          "wordCount": 525,
+          "wordCount": 521,
           "title": "Mobile Less",
           "imageUrl": "https://ph-files.imgix.net/5476cc34-c833-4d49-9e9a-90373362088a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -223,7 +223,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/stateful",
           "publishedOn": "2024-07-25T16:02:11.000Z",
-          "wordCount": 503,
+          "wordCount": 506,
           "title": "Stateful",
           "imageUrl": "https://ph-files.imgix.net/7ef95a51-2e99-4a54-8250-b61c414aaa05.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -263,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/365games",
           "publishedOn": "2024-07-25T12:37:09.000Z",
-          "wordCount": 352,
+          "wordCount": 356,
           "title": "365Games",
           "imageUrl": "https://ph-files.imgix.net/0ecf75ba-7763-4a70-9c7d-2d9a3824cbf5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -273,7 +273,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/riliz-co",
           "publishedOn": "2024-07-25T12:09:26.000Z",
-          "wordCount": 342,
+          "wordCount": 346,
           "title": "Riliz.co",
           "imageUrl": "https://ph-files.imgix.net/85cc5215-5a22-48ce-b189-7535f18be12a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -293,7 +293,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/agent-crop",
           "publishedOn": "2024-07-25T10:36:19.000Z",
-          "wordCount": 410,
+          "wordCount": 414,
           "title": "Agent Crop",
           "imageUrl": "https://ph-files.imgix.net/07fa8d33-0e51-4d6e-9d7c-aee994963053.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -303,7 +303,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/adbreak",
           "publishedOn": "2024-07-25T09:51:34.000Z",
-          "wordCount": 565,
+          "wordCount": 561,
           "title": "AdBreak",
           "imageUrl": "https://ph-files.imgix.net/c2955dfa-f18f-4b39-9b60-17c76cc215da.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -313,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/stempad",
           "publishedOn": "2024-07-25T07:07:54.000Z",
-          "wordCount": 518,
+          "wordCount": 522,
           "title": "Stempad",
           "imageUrl": "https://ph-files.imgix.net/b890539e-f111-4b82-a7f4-3f68c4b53a20.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/klee-2",
           "publishedOn": "2024-07-25T07:07:41.000Z",
-          "wordCount": 385,
+          "wordCount": 381,
           "title": "Klee",
           "imageUrl": "https://ph-files.imgix.net/564a034c-3c6b-4bfc-9509-fc9a89cdcfc4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -333,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/autoposts-ai",
           "publishedOn": "2024-07-25T06:43:04.000Z",
-          "wordCount": 450,
+          "wordCount": 454,
           "title": "AutoPosts AI",
           "imageUrl": "https://ph-files.imgix.net/05e834ce-d000-4446-9520-056611bdef1b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/crossprism-photo-labeler-for-macos",
           "publishedOn": "2024-07-24T21:36:08.000Z",
-          "wordCount": 605,
+          "wordCount": 601,
           "title": "CrossPrism Photo Labeler for MacOS",
           "imageUrl": "https://ph-files.imgix.net/294d1bbb-0d2f-4e49-ac91-f1651f630ff1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cloudsky",
           "publishedOn": "2024-07-24T18:25:32.000Z",
-          "wordCount": 454,
+          "wordCount": 450,
           "title": "CloudSky",
           "imageUrl": "https://ph-files.imgix.net/9aa9c346-e176-4ad0-b21d-ec2bf06109a8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -363,7 +363,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ping-my-link",
           "publishedOn": "2024-07-24T15:51:23.000Z",
-          "wordCount": 412,
+          "wordCount": 416,
           "title": "Ping My Link",
           "imageUrl": "https://ph-files.imgix.net/12f63e17-a8dc-4c4d-824b-68d7c445025a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/twinkle-art",
           "publishedOn": "2024-07-24T09:13:40.000Z",
-          "wordCount": 489,
+          "wordCount": 493,
           "title": "Twinkle Art",
           "imageUrl": "https://ph-files.imgix.net/92a7aa07-dd40-4a64-a088-37960a4e2a4d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -388,13 +388,13 @@
           "imageUrl": "https://ph-files.imgix.net/693f6e47-6cae-4cb5-8155-5347a3319f5e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/brev-ai-ai-music-generator-free-online",
+          "id": "https://www.producthunt.com/posts/brev-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/brev-ai-ai-music-generator-free-online",
+          "link": "https://www.producthunt.com/posts/brev-ai",
           "publishedOn": "2024-07-23T02:57:26.000Z",
-          "wordCount": 515,
-          "title": "Brev.ai: AI Music Generator Free Online",
+          "wordCount": 436,
+          "title": "Brev.ai",
           "imageUrl": "https://ph-files.imgix.net/c27397b9-d343-4d5d-b82c-84bc00712c0d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/themefy",
           "publishedOn": "2024-07-16T05:54:12.000Z",
-          "wordCount": 499,
+          "wordCount": 503,
           "title": "Themefy",
           "imageUrl": "https://ph-files.imgix.net/a2a3f3c3-d1cc-4300-92f1-d9b7430c4fce.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -463,7 +463,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/page-ui-2",
           "publishedOn": "2024-07-11T17:27:41.000Z",
-          "wordCount": 609,
+          "wordCount": 606,
           "title": "Page UI",
           "imageUrl": "https://ph-files.imgix.net/6abf6a16-7805-404c-8641-42132354fc68.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
