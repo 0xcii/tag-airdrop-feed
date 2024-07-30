@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/fastht-ml",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fastht-ml",
+          "publishedOn": "2024-07-30T05:10:49.000Z",
+          "wordCount": 549,
+          "title": "fastht.ml",
+          "imageUrl": "https://ph-files.imgix.net/b8bf80a5-36b7-4db4-8e47-212d123a5827.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/pace-chase",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -93,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/customcv",
           "publishedOn": "2024-07-29T14:50:44.000Z",
-          "wordCount": 338,
+          "wordCount": 385,
           "title": "CustomCV",
           "imageUrl": "https://ph-files.imgix.net/6019dd7f-00f8-40b3-a79e-2e3701db7240.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -156,16 +166,6 @@
           "wordCount": 584,
           "title": "AMA",
           "imageUrl": "https://ph-files.imgix.net/b71206e2-46d5-4c79-9b7b-9ed5566189e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/diary",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/diary",
-          "publishedOn": "2024-07-28T03:10:22.000Z",
-          "wordCount": 487,
-          "title": "Diary",
-          "imageUrl": "https://ph-files.imgix.net/a3363b4e-75ce-4ae8-8978-22d082c3d3a8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/factsify",
@@ -293,7 +293,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/verbalia-ai-instructor-generator",
           "publishedOn": "2024-07-24T12:38:07.000Z",
-          "wordCount": 575,
+          "wordCount": 572,
           "title": "Verbalia AI Instructor Generator",
           "imageUrl": "https://ph-files.imgix.net/7144e11a-7f5b-4c5b-8f77-240b4655c9df.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -358,16 +358,6 @@
           "imageUrl": "https://ph-files.imgix.net/cab01321-c6ca-4c54-a0da-11468ee96f36.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/xspacegpt",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/xspacegpt",
-          "publishedOn": "2024-07-22T11:06:03.000Z",
-          "wordCount": 468,
-          "title": "XspaceGPT",
-          "imageUrl": "https://ph-files.imgix.net/c13646f7-2d84-4a79-aed5-a40b6fd86bbb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/bex",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -383,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/table-4",
           "publishedOn": "2024-07-19T20:23:23.000Z",
-          "wordCount": 401,
+          "wordCount": 400,
           "title": "table",
           "imageUrl": "https://ph-files.imgix.net/65f5817c-ae86-423d-8be8-84e26e5c18d5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -393,7 +383,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/offlight",
           "publishedOn": "2024-07-18T10:45:55.000Z",
-          "wordCount": 458,
+          "wordCount": 505,
           "title": "OFFLIGHT",
           "imageUrl": "https://ph-files.imgix.net/f72acead-83a4-4d81-ba48-e198627ec00b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -413,9 +403,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/id-art",
           "publishedOn": "2024-07-16T06:06:05.000Z",
-          "wordCount": 496,
+          "wordCount": 493,
           "title": "ID.ART",
           "imageUrl": "https://ph-files.imgix.net/c1a8eff2-bd9b-4cda-ae35-82f82dedf3cf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/content-vitaminizer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/content-vitaminizer",
+          "publishedOn": "2024-07-11T14:01:52.000Z",
+          "wordCount": 474,
+          "title": "Content Vitaminizer",
+          "imageUrl": "https://ph-files.imgix.net/b392f6cf-e6d0-4fd9-b6b8-dcf339b82ab3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/planoramic",
@@ -448,13 +448,13 @@
           "imageUrl": "https://ph-files.imgix.net/1376455f-59d2-431d-b72b-733f4c139d3b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/seopro-seo-products-optimizer",
+          "id": "https://www.producthunt.com/posts/seopro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/seopro-seo-products-optimizer",
+          "link": "https://www.producthunt.com/posts/seopro",
           "publishedOn": "2024-07-04T21:19:27.000Z",
-          "wordCount": 782,
-          "title": "SEOPro: SEO Products Optimizer",
+          "wordCount": 741,
+          "title": "SEOPro",
           "imageUrl": "https://ph-files.imgix.net/afaaf0d7-ec48-4ec8-a6f9-7b49d24e2db7.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
