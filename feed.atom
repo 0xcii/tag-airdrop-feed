@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-01T13:15:52.056Z</id>
+    <id>urn:2024-08-01T14:11:59.037Z</id>
     <title>web3::cave</title>
-    <updated>2024-08-01T13:15:52.056Z</updated>
+    <updated>2024-08-01T14:11:59.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Toolstash]]></title>
+        <id>https://www.producthunt.com/posts/toolstash-2</id>
+        <link href="https://www.producthunt.com/posts/toolstash-2"/>
+        <updated>2024-08-01T13:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kathy]]></title>
         <id>https://www.producthunt.com/posts/kathy</id>
@@ -198,18 +210,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slack AI]]></title>
-        <id>https://www.producthunt.com/posts/slack-ai</id>
-        <link href="https://www.producthunt.com/posts/slack-ai"/>
-        <updated>2024-07-30T23:29:28.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Simply Draw]]></title>
         <id>https://www.producthunt.com/posts/simply-draw</id>
         <link href="https://www.producthunt.com/posts/simply-draw"/>
@@ -274,18 +274,6 @@
         <id>https://www.producthunt.com/posts/monitro-dev</id>
         <link href="https://www.producthunt.com/posts/monitro-dev"/>
         <updated>2024-07-30T04:34:18.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private AI Assistant]]></title>
-        <id>https://www.producthunt.com/posts/private-ai-assistant</id>
-        <link href="https://www.producthunt.com/posts/private-ai-assistant"/>
-        <updated>2024-07-30T01:11:19.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -382,6 +370,18 @@
         <id>https://www.producthunt.com/posts/stammer-ai</id>
         <link href="https://www.producthunt.com/posts/stammer-ai"/>
         <updated>2024-07-25T02:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ezyClients]]></title>
+        <id>https://www.producthunt.com/posts/ezyclients</id>
+        <link href="https://www.producthunt.com/posts/ezyclients"/>
+        <updated>2024-07-24T19:27:53.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
