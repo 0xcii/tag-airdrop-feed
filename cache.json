@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/markable-3",
           "publishedOn": "2024-08-04T22:11:10.000Z",
-          "wordCount": 515,
+          "wordCount": 514,
           "title": "Markable",
           "imageUrl": "https://ph-files.imgix.net/cc177822-a264-4d79-8ac5-488015dc26e0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fix-my-speaker-5",
           "publishedOn": "2024-08-04T20:52:43.000Z",
-          "wordCount": 434,
+          "wordCount": 435,
           "title": "Fix My Speaker",
           "imageUrl": "https://ph-files.imgix.net/a9d9f84f-df35-4d79-8cdc-16fcef5241d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -308,6 +308,16 @@
           "imageUrl": "https://ph-files.imgix.net/29b0963b-4f05-4017-aaf3-735137cff9ac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/textbin",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/textbin",
+          "publishedOn": "2024-08-02T13:16:09.000Z",
+          "wordCount": 557,
+          "title": "TextBin",
+          "imageUrl": "https://ph-files.imgix.net/64e612a9-347b-4159-af69-0273dc0e829f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/blur-it",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -343,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/no-scam",
           "publishedOn": "2024-08-02T03:30:15.000Z",
-          "wordCount": 264,
+          "wordCount": 265,
           "title": "No Scam",
           "imageUrl": "https://ph-files.imgix.net/a1da1d82-f86f-486f-8db7-d7a6b5da6c49.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -363,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/builder-s-bid-book",
           "publishedOn": "2024-08-01T16:58:39.000Z",
-          "wordCount": 459,
+          "wordCount": 412,
           "title": "Builder's Bid Book",
           "imageUrl": "https://ph-files.imgix.net/966ffc78-e900-40fa-aac9-dc9ad2e5ef8d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/avatar-architect",
           "publishedOn": "2024-07-30T13:18:18.000Z",
-          "wordCount": 463,
+          "wordCount": 461,
           "title": "Avatar Architect",
           "imageUrl": "https://ph-files.imgix.net/a3724228-3c6e-420d-988d-f2d0158f2d80.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -463,7 +473,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/making-today",
           "publishedOn": "2024-07-26T03:02:26.000Z",
-          "wordCount": 545,
+          "wordCount": 499,
           "title": "Making Today",
           "imageUrl": "https://ph-files.imgix.net/4c84a857-fb01-4ea1-87e0-5615926d6cf2.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -496,18 +506,14 @@
           "wordCount": 437,
           "title": "Olovka",
           "imageUrl": "https://ph-files.imgix.net/a6536aa7-6fe2-4e1d-b440-a100a2b55d3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/minduck",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/minduck",
-          "publishedOn": "2024-07-20T17:55:51.000Z",
-          "wordCount": 1144,
-          "title": "Minduck",
-          "imageUrl": "https://ph-files.imgix.net/2f624c4e-7851-4108-a277-f3c178f4b2c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     },
     {
       "title": "Twitter @Drops Earn",
