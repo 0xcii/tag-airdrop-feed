@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/markable-3",
           "publishedOn": "2024-08-04T22:11:10.000Z",
-          "wordCount": 510,
+          "wordCount": 509,
           "title": "Markable",
           "imageUrl": "https://ph-files.imgix.net/cc177822-a264-4d79-8ac5-488015dc26e0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -183,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/prompt-hippo",
           "publishedOn": "2024-08-03T23:22:40.000Z",
-          "wordCount": 411,
+          "wordCount": 364,
           "title": "Prompt Hippo",
           "imageUrl": "https://ph-files.imgix.net/ab800087-b042-4333-9af5-fcedda3bc81a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -408,16 +408,6 @@
           "imageUrl": "https://ph-files.imgix.net/002de95c-0f59-4b01-ad8f-fb55714bdc25.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/felo",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/felo",
-          "publishedOn": "2024-07-31T09:53:13.000Z",
-          "wordCount": 569,
-          "title": "Felo",
-          "imageUrl": "https://ph-files.imgix.net/d03bd31c-65b4-480d-a718-41f255daabf3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/avatar-architect",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -456,6 +446,16 @@
           "wordCount": 485,
           "title": "Jotlify (BuildSpace S5)",
           "imageUrl": "https://ph-files.imgix.net/6303da0c-fdaf-4a93-8e4c-21ebe0a4a171.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/subbb-me",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/subbb-me",
+          "publishedOn": "2024-07-27T05:12:56.000Z",
+          "wordCount": 472,
+          "title": "Subbb.me",
+          "imageUrl": "https://ph-files.imgix.net/bb69e54d-4f43-4d67-8c75-ddcf9e721042.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/invisible-character-viewer",
@@ -503,11 +503,17 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/olovka",
           "publishedOn": "2024-07-23T13:09:30.000Z",
-          "wordCount": 437,
+          "wordCount": 390,
           "title": "Olovka",
           "imageUrl": "https://ph-files.imgix.net/a6536aa7-6fe2-4e1d-b440-a100a2b55d3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
