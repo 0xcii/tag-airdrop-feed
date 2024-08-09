@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/stable-fast-3d-from-stability-ai",
@@ -333,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/silvia",
           "publishedOn": "2024-08-07T05:00:42.000Z",
-          "wordCount": 410,
+          "wordCount": 363,
           "title": "Silvia",
           "imageUrl": "https://ph-files.imgix.net/cd19b7a2-cd8f-4295-a3ef-af4ae3df95e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/everyone-draw-2",
           "publishedOn": "2024-08-06T11:55:11.000Z",
-          "wordCount": 611,
+          "wordCount": 612,
           "title": "Everyone Draw",
           "imageUrl": "https://ph-files.imgix.net/3d900604-ff15-46b3-a319-1c307ca42867.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -488,12 +488,6 @@
           "imageUrl": "https://ph-files.imgix.net/485ac02a-4764-43fc-983e-afbdb788a89c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
