@@ -183,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/drupal-11",
           "publishedOn": "2024-08-08T04:05:31.000Z",
-          "wordCount": 280,
+          "wordCount": 327,
           "title": "Drupal 11",
           "imageUrl": "https://ph-files.imgix.net/67dd45c8-748e-4940-8577-6ba6366a5d46.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -313,19 +313,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gan-ai-tts-model-api-playground",
           "publishedOn": "2024-08-07T17:22:39.000Z",
-          "wordCount": 686,
+          "wordCount": 633,
           "title": "Gan.AI TTS Model & API Playground",
           "imageUrl": "https://ph-files.imgix.net/346016cf-b5d3-4294-8b9c-217a6c9e8157.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/papertalk",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/papertalk",
-          "publishedOn": "2024-08-07T14:37:12.000Z",
-          "wordCount": 489,
-          "title": "PaperTalk",
-          "imageUrl": "https://ph-files.imgix.net/9e32030d-0a1b-4eab-82c6-2113e3e81bf9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/mystic-turbo-registry",
@@ -343,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/langtrace-ai",
           "publishedOn": "2024-08-07T13:20:21.000Z",
-          "wordCount": 432,
+          "wordCount": 434,
           "title": "Langtrace AI",
           "imageUrl": "https://ph-files.imgix.net/868300ad-e8ac-4349-afc8-62fa06086e27.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -386,6 +376,16 @@
           "wordCount": 410,
           "title": "Silvia",
           "imageUrl": "https://ph-files.imgix.net/cd19b7a2-cd8f-4295-a3ef-af4ae3df95e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ai-product-hunter",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-product-hunter",
+          "publishedOn": "2024-08-07T04:19:24.000Z",
+          "wordCount": 433,
+          "title": "AI Product Hunter",
+          "imageUrl": "https://ph-files.imgix.net/9ac2a955-837c-4969-86e3-7c01b185b576.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/zaver",
@@ -508,6 +508,12 @@
           "imageUrl": "https://ph-files.imgix.net/e7596e71-f31b-4f07-9907-53bbd0adaa96.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
