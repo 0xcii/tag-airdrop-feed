@@ -193,7 +193,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bardeen-3-0",
           "publishedOn": "2024-08-08T10:47:53.000Z",
-          "wordCount": 535,
+          "wordCount": 588,
           "title": "Bardeen 3.0",
           "imageUrl": "https://ph-files.imgix.net/3a5b777e-9da9-4bd2-917d-1d8dc606598a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -216,6 +216,16 @@
           "wordCount": 336,
           "title": "CleanSlate",
           "imageUrl": "https://ph-files.imgix.net/59e8e7bf-fe0a-4a06-a616-a576606c8002.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/weblens",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/weblens",
+          "publishedOn": "2024-08-07T21:30:01.000Z",
+          "wordCount": 499,
+          "title": "WebLens",
+          "imageUrl": "https://ph-files.imgix.net/8dd69b6c-f6d2-45aa-ad7a-fcd0d330b403.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/leadcal",
@@ -408,16 +418,6 @@
           "imageUrl": "https://ph-files.imgix.net/d8f445c7-c3d6-45f3-8f3a-b7295cbda10b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/salesify",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/salesify",
-          "publishedOn": "2024-08-01T04:55:47.000Z",
-          "wordCount": 500,
-          "title": "Salesify",
-          "imageUrl": "https://ph-files.imgix.net/c4d2f680-be60-4cba-a29e-4559014dc595.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/flowdrive",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -490,6 +490,26 @@
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://x.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817908096024383831",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAnzen Ambassador Program\n.@AnzenFinance  launches Ambassador Program, offering rewards to content creators across social media, YouTube, blogs, and newsletters.\n🌐 https://dropsearn.com/events/anzen-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817908096024383831",
+          "publishedOn": "2024-07-29T13:00:39.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Anzen Ambassador Program .@AnzenFinance launches Ambassador Program, offering rewards to content creators acros...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817189464969490607",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAutonomys Network Ambassador Program\n@AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 enthusiasts, node-runners, writers, content creators, etc.\n🌐 https://dropsearn.com/events/autonomys-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817189464969490607",
+          "publishedOn": "2024-07-27T13:25:04.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Autonomys Network Ambassador Program @AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 e...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
           "author": "Drops Earn",
