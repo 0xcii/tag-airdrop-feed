@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/noble",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/noble",
+          "publishedOn": "2024-08-12T17:05:32.000Z",
+          "wordCount": 377,
+          "title": "Noble",
+          "imageUrl": "https://ph-files.imgix.net/ecfb7f8a-ab6c-4ccd-bb86-2864ec1d9e56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/component-wizard",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -63,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/my-insta-personality",
           "publishedOn": "2024-08-11T20:33:41.000Z",
-          "wordCount": 448,
+          "wordCount": 496,
           "title": "My Insta Personality",
           "imageUrl": "https://ph-files.imgix.net/164a2bc7-31fd-4ddd-bde0-aa1ae1c634d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -218,16 +228,6 @@
           "imageUrl": "https://ph-files.imgix.net/f47a9410-ca07-45b7-8a39-6cfe47e45016.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/bardeen-3-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/bardeen-3-0",
-          "publishedOn": "2024-08-08T10:47:53.000Z",
-          "wordCount": 588,
-          "title": "Bardeen 3.0",
-          "imageUrl": "https://ph-files.imgix.net/3a5b777e-9da9-4bd2-917d-1d8dc606598a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/cleanslate",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -263,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/palform",
           "publishedOn": "2024-08-07T09:30:59.000Z",
-          "wordCount": 524,
+          "wordCount": 523,
           "title": "Palform",
           "imageUrl": "https://ph-files.imgix.net/6a24f6fe-eddd-4fa7-b9f0-75f2a5f6e885.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/recap-6573aeaf-24ac-423d-93cb-d3bed11bb66a",
           "publishedOn": "2024-08-03T15:19:08.000Z",
-          "wordCount": 482,
+          "wordCount": 481,
           "title": "Recap",
           "imageUrl": "https://ph-files.imgix.net/943a9d92-da83-4c60-9f43-b30d5859fe5d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/folio-wallet-app",
           "publishedOn": "2024-07-18T12:14:53.000Z",
-          "wordCount": 504,
+          "wordCount": 505,
           "title": "Folio Wallet App",
           "imageUrl": "https://ph-files.imgix.net/8f03ae53-de49-4352-8ebb-7defa29fa77e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -443,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/indie-hacker-stacks",
           "publishedOn": "2024-07-15T18:38:03.000Z",
-          "wordCount": 587,
+          "wordCount": 584,
           "title": "Indie Hacker Stacks",
           "imageUrl": "https://ph-files.imgix.net/b24d1fec-4524-4a26-bb85-8620ca6394ce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jupitrr-ai",
           "publishedOn": "2024-07-14T23:45:41.000Z",
-          "wordCount": 697,
+          "wordCount": 696,
           "title": "Jupitrr AI",
           "imageUrl": "https://ph-files.imgix.net/d2a83cec-3779-4544-b78c-5da87a6690d4.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -468,6 +468,12 @@
           "imageUrl": "https://ph-files.imgix.net/7995e482-01f3-4779-a18f-327406ef5746.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
