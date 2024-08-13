@@ -148,16 +148,6 @@
           "imageUrl": "https://ph-files.imgix.net/81012ac5-414e-4786-8a38-7ac59feb0185.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/component-wizard",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/component-wizard",
-          "publishedOn": "2024-08-12T06:49:44.000Z",
-          "wordCount": 331,
-          "title": "Component Wizard",
-          "imageUrl": "https://ph-files.imgix.net/97638dc2-82d0-4ab1-9e57-44c6bdc55a63.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/openvc-decks",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -243,7 +233,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-form-fill",
           "publishedOn": "2024-08-10T10:47:20.000Z",
-          "wordCount": 450,
+          "wordCount": 453,
           "title": "AI Form Fill",
           "imageUrl": "https://ph-files.imgix.net/c0574d9b-6472-4e3d-a8d6-458333f46c14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -273,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tickr-4",
           "publishedOn": "2024-08-09T12:55:22.000Z",
-          "wordCount": 491,
+          "wordCount": 492,
           "title": "Tickr",
           "imageUrl": "https://ph-files.imgix.net/7e74dd02-0f2d-49dd-9c68-f11ea4313fbb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -336,6 +326,16 @@
           "wordCount": 520,
           "title": "Palform",
           "imageUrl": "https://ph-files.imgix.net/6a24f6fe-eddd-4fa7-b9f0-75f2a5f6e885.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/fred-the-uxr-shepherd",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fred-the-uxr-shepherd",
+          "publishedOn": "2024-08-07T07:46:15.000Z",
+          "wordCount": 761,
+          "title": "Fred - The UXR shepherd",
+          "imageUrl": "https://ph-files.imgix.net/50916e4e-0ef4-45ce-9bd0-98a7f33dc44e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/profundo",
@@ -478,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/b24d1fec-4524-4a26-bb85-8620ca6394ce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
