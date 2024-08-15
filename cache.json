@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/mindtown-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mindtown-ai",
+          "publishedOn": "2024-08-15T07:23:54.000Z",
+          "wordCount": 371,
+          "title": "Mindtown AI",
+          "imageUrl": "https://ph-files.imgix.net/0f4a4844-a14d-4efa-956f-4d18fdb1af82.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/placeholderjs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dev-utils",
           "publishedOn": "2024-08-15T01:45:36.000Z",
-          "wordCount": 487,
+          "wordCount": 486,
           "title": "Dev Utils",
           "imageUrl": "https://ph-files.imgix.net/9a782e66-0846-4b71-a175-d4caf45b516b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -103,7 +113,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/statscrave",
           "publishedOn": "2024-08-14T14:32:51.000Z",
-          "wordCount": 436,
+          "wordCount": 435,
           "title": "StatsCrave",
           "imageUrl": "https://ph-files.imgix.net/1f4afd7b-202b-4db4-9fcf-93b9feb887cf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -213,7 +223,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/crowdcate",
           "publishedOn": "2024-08-13T18:57:44.000Z",
-          "wordCount": 546,
+          "wordCount": 543,
           "title": "Crowdcate",
           "imageUrl": "https://ph-files.imgix.net/2cf1e615-353f-4a40-aea3-6ff35d54a74a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -273,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/provisian",
           "publishedOn": "2024-08-12T20:07:25.000Z",
-          "wordCount": 445,
+          "wordCount": 444,
           "title": "Provisian",
           "imageUrl": "https://ph-files.imgix.net/b80b9954-7fa7-4ffe-b7c3-3c2f32e7392d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -358,14 +368,14 @@
           "imageUrl": "https://ph-files.imgix.net/c0574d9b-6472-4e3d-a8d6-458333f46c14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tickr-4",
+          "id": "https://www.producthunt.com/posts/rankweek-v2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tickr-4",
-          "publishedOn": "2024-08-09T12:55:22.000Z",
-          "wordCount": 492,
-          "title": "Tickr",
-          "imageUrl": "https://ph-files.imgix.net/7e74dd02-0f2d-49dd-9c68-f11ea4313fbb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/rankweek-v2",
+          "publishedOn": "2024-08-09T13:27:19.000Z",
+          "wordCount": 393,
+          "title": "RankWeek V2",
+          "imageUrl": "https://ph-files.imgix.net/46ab1a66-5b5f-4687-b5bc-45fb96d335ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/trameter-2",
@@ -376,16 +386,6 @@
           "wordCount": 610,
           "title": "Trameter",
           "imageUrl": "https://ph-files.imgix.net/a31c856d-9134-4ca7-833f-402d797b0439.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/a1-art",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/a1-art",
-          "publishedOn": "2024-08-07T15:28:33.000Z",
-          "wordCount": 554,
-          "title": "a1.art",
-          "imageUrl": "https://ph-files.imgix.net/eee1e791-a649-4105-8779-308547efaaa5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ralify",
@@ -465,7 +465,7 @@
           "publishedOn": "2024-07-22T06:23:04.000Z",
           "wordCount": 797,
           "title": "Conversational Replicas by Tavus",
-          "imageUrl": "https://ph-files.imgix.net/cbca74e1-535c-4ff7-a49b-7f9ae4bb5d4a.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": "https://ph-files.imgix.net/16fd17a0-8213-45a4-8ddc-d30044e50a71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
@@ -474,73 +474,6 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1817908096024383831",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nAnzen Ambassador Program\n.@AnzenFinance  launches Ambassador Program, offering rewards to content creators across social media, YouTube, blogs, and newsletters.\n🌐 https://dropsearn.com/events/anzen-ambassador",
-          "link": "https://x.com/DropsEarn/status/1817908096024383831",
-          "publishedOn": "2024-07-29T13:00:39.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Anzen Ambassador Program .@AnzenFinance launches Ambassador Program, offering rewards to content creators acros...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1817189464969490607",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nAutonomys Network Ambassador Program\n@AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 enthusiasts, node-runners, writers, content creators, etc.\n🌐 https://dropsearn.com/events/autonomys-ambassador",
-          "link": "https://x.com/DropsEarn/status/1817189464969490607",
-          "publishedOn": "2024-07-27T13:25:04.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Autonomys Network Ambassador Program @AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 e...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\ndeBridge Bug Bounty Program\n.@deBridgeFinance  has presented a $200,000 Bug Bounty Program on .@immunefi \n🌐 https://dropsearn.com/events/debridge-bug-bounty",
-          "link": "https://x.com/DropsEarn/status/1816481495889879361",
-          "publishedOn": "2024-07-25T14:31:51.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com deBridge Bug Bounty Program .@deBridgeFinance has presented a $200,000 Bug Bounty Program on .@immunefi 🌐 ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1815834288518226373",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nFlap Ambassador Program\n.@flapdotsh  has launched Flap Ambassador Program and invites everyone to join.\n🌐 https://dropsearn.com/events/flap-ambassador-program",
-          "link": "https://x.com/DropsEarn/status/1815834288518226373",
-          "publishedOn": "2024-07-23T19:40:05.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Flap Ambassador Program .@flapdotsh has launched Flap Ambassador Program and invites everyone to join. 🌐 htt...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1814217537422287215",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nINIT Bug Bounty Program\n.@InitCapital_  with .@HackenProof has launched a $100,000 Bug Bounty Program. Find a bug, and get rewarded up to $100,000.\n🌐 https://dropsearn.com/events/init-bug-bounty-program",
-          "link": "https://x.com/DropsEarn/status/1814217537422287215",
-          "publishedOn": "2024-07-19T08:35:42.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com INIT Bug Bounty Program .@InitCapital_ with .@HackenProof has launched a $100,000 Bug Bounty Program. Find a bu...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1813543449532170538",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nMint Expedition Campaign\n.@Mint_Blockchain welcomes everyone to Mint Expedition - latest voyage with the flagship ecosystem set to revolutionize Web3 & NFTs decentralized applications.\n🌐 https://dropsearn.com/events/mint-expedition-campaign",
-          "link": "https://x.com/DropsEarn/status/1813543449532170538",
-          "publishedOn": "2024-07-17T11:57:07.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Mint Expedition Campaign .@Mint_Blockchain welcomes everyone to Mint Expedition - latest voyage with the flagsh...",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
