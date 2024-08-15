@@ -128,13 +128,13 @@
           "imageUrl": "https://ph-files.imgix.net/f52a6eb2-47db-47e3-ba06-f87e41a22fdd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/rakun-talk-can-t-say-it-show-it",
+          "id": "https://www.producthunt.com/posts/rakun-talk",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/rakun-talk-can-t-say-it-show-it",
+          "link": "https://www.producthunt.com/posts/rakun-talk",
           "publishedOn": "2024-08-14T08:24:05.000Z",
-          "wordCount": 406,
-          "title": "Rakun Talk - can't say it? Show it!",
+          "wordCount": 346,
+          "title": "Rakun Talk",
           "imageUrl": "https://ph-files.imgix.net/e5528841-d495-482e-975e-987ab34ff39e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -288,6 +288,16 @@
           "imageUrl": "https://ph-files.imgix.net/1c5f6c57-e307-4377-82b6-b9320110c304.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/outside",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/outside",
+          "publishedOn": "2024-08-12T12:26:00.000Z",
+          "wordCount": 624,
+          "title": "Outside",
+          "imageUrl": "https://ph-files.imgix.net/9d9b5c99-1e83-41c2-bc35-6bcca38bdefc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/loomer",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -348,16 +358,6 @@
           "imageUrl": "https://ph-files.imgix.net/c0574d9b-6472-4e3d-a8d6-458333f46c14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/rankweek-v2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/rankweek-v2",
-          "publishedOn": "2024-08-09T13:27:19.000Z",
-          "wordCount": 393,
-          "title": "RankWeek V2",
-          "imageUrl": "https://ph-files.imgix.net/46ab1a66-5b5f-4687-b5bc-45fb96d335ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tickr-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trameter-2",
           "publishedOn": "2024-08-08T22:34:04.000Z",
-          "wordCount": 609,
+          "wordCount": 610,
           "title": "Trameter",
           "imageUrl": "https://ph-files.imgix.net/a31c856d-9134-4ca7-833f-402d797b0439.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/shellmate",
           "publishedOn": "2024-08-02T05:32:54.000Z",
-          "wordCount": 477,
+          "wordCount": 429,
           "title": "ShellMate",
           "imageUrl": "https://ph-files.imgix.net/282a0870-65f4-4a9d-b1b5-f34f28d564b0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -413,7 +413,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/loomflows",
           "publishedOn": "2024-08-01T17:13:28.000Z",
-          "wordCount": 373,
+          "wordCount": 374,
           "title": "LoomFlows",
           "imageUrl": "https://ph-files.imgix.net/da1302c7-ce8e-4d76-ae95-216acb93be62.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -463,17 +463,11 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/conversational-replicas-by-tavus",
           "publishedOn": "2024-07-22T06:23:04.000Z",
-          "wordCount": 770,
+          "wordCount": 802,
           "title": "Conversational Replicas by Tavus",
           "imageUrl": "https://ph-files.imgix.net/cbca74e1-535c-4ff7-a49b-7f9ae4bb5d4a.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
