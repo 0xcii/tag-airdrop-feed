@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/life-minute-photos",
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/teachflow",
           "publishedOn": "2024-08-15T13:53:08.000Z",
-          "wordCount": 425,
+          "wordCount": 424,
           "title": "TeachFlow",
           "imageUrl": "https://ph-files.imgix.net/01ffab9c-a628-4401-97f9-59f447f94cb9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -298,16 +298,6 @@
           "imageUrl": "https://ph-files.imgix.net/d31ae661-cb03-4f61-ba94-2cba85e94c03.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/ai-eraser",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ai-eraser",
-          "publishedOn": "2024-08-14T02:38:37.000Z",
-          "wordCount": 513,
-          "title": "AI Eraser",
-          "imageUrl": "https://ph-files.imgix.net/093c75e8-c8ad-48dd-a80a-4371ad49a3c4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/hotspot-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -494,43 +484,6 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\ndeBridge Bug Bounty Program\n.@deBridgeFinance  has presented a $200,000 Bug Bounty Program on .@immunefi \n🌐 https://dropsearn.com/events/debridge-bug-bounty",
-          "link": "https://x.com/DropsEarn/status/1816481495889879361",
-          "publishedOn": "2024-07-25T14:31:51.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com deBridge Bug Bounty Program .@deBridgeFinance has presented a $200,000 Bug Bounty Program on .@immunefi 🌐 ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1815834288518226373",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nFlap Ambassador Program\n.@flapdotsh  has launched Flap Ambassador Program and invites everyone to join.\n🌐 https://dropsearn.com/events/flap-ambassador-program",
-          "link": "https://x.com/DropsEarn/status/1815834288518226373",
-          "publishedOn": "2024-07-23T19:40:05.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Flap Ambassador Program .@flapdotsh has launched Flap Ambassador Program and invites everyone to join. 🌐 htt...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1814217537422287215",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nINIT Bug Bounty Program\n.@InitCapital_  with .@HackenProof has launched a $100,000 Bug Bounty Program. Find a bug, and get rewarded up to $100,000.\n🌐 https://dropsearn.com/events/init-bug-bounty-program",
-          "link": "https://x.com/DropsEarn/status/1814217537422287215",
-          "publishedOn": "2024-07-19T08:35:42.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com INIT Bug Bounty Program .@InitCapital_ with .@HackenProof has launched a $100,000 Bug Bounty Program. Find a bu...",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
