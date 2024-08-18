@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/sneakify",
@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/darkest-pr",
           "publishedOn": "2024-08-17T12:45:18.000Z",
-          "wordCount": 546,
+          "wordCount": 545,
           "title": "Darkest-PR",
           "imageUrl": "https://ph-files.imgix.net/2893892b-f7e2-45e0-9b30-64022b9a3ce8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cursorlens",
           "publishedOn": "2024-08-17T12:40:03.000Z",
-          "wordCount": 472,
+          "wordCount": 471,
           "title": "CursorLens",
           "imageUrl": "https://ph-files.imgix.net/21e33d32-ff7d-4259-9339-2f715722e69e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/blissbox",
           "publishedOn": "2024-08-13T14:39:14.000Z",
-          "wordCount": 420,
+          "wordCount": 419,
           "title": "BlissBox",
           "imageUrl": "https://ph-files.imgix.net/86ff4961-2683-4546-9b5c-1e41549b28cd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -486,59 +486,6 @@
           "wordCount": 796,
           "title": "Conversational Replicas by Tavus",
           "imageUrl": "https://ph-files.imgix.net/16fd17a0-8213-45a4-8ddc-d30044e50a71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        }
-      ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1817908096024383831",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nAnzen Ambassador Program\n.@AnzenFinance  launches Ambassador Program, offering rewards to content creators across social media, YouTube, blogs, and newsletters.\n🌐 https://dropsearn.com/events/anzen-ambassador",
-          "link": "https://x.com/DropsEarn/status/1817908096024383831",
-          "publishedOn": "2024-07-29T13:00:39.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Anzen Ambassador Program .@AnzenFinance launches Ambassador Program, offering rewards to content creators acros...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1817189464969490607",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nAutonomys Network Ambassador Program\n@AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 enthusiasts, node-runners, writers, content creators, etc.\n🌐 https://dropsearn.com/events/autonomys-ambassador",
-          "link": "https://x.com/DropsEarn/status/1817189464969490607",
-          "publishedOn": "2024-07-27T13:25:04.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Autonomys Network Ambassador Program @AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 e...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\ndeBridge Bug Bounty Program\n.@deBridgeFinance  has presented a $200,000 Bug Bounty Program on .@immunefi \n🌐 https://dropsearn.com/events/debridge-bug-bounty",
-          "link": "https://x.com/DropsEarn/status/1816481495889879361",
-          "publishedOn": "2024-07-25T14:31:51.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com deBridge Bug Bounty Program .@deBridgeFinance has presented a $200,000 Bug Bounty Program on .@immunefi 🌐 ht...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1815834288518226373",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nFlap Ambassador Program\n.@flapdotsh  has launched Flap Ambassador Program and invites everyone to join.\n🌐 https://dropsearn.com/events/flap-ambassador-program",
-          "link": "https://x.com/DropsEarn/status/1815834288518226373",
-          "publishedOn": "2024-07-23T19:40:05.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Flap Ambassador Program .@flapdotsh has launched Flap Ambassador Program and invites everyone to join. 🌐 htt...",
-          "imageUrl": null
         }
       ]
     }
