@@ -494,6 +494,33 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\ndeBridge Bug Bounty Program\n.@deBridgeFinance  has presented a $200,000 Bug Bounty Program on .@immunefi \n🌐 https://dropsearn.com/events/debridge-bug-bounty",
+          "link": "https://x.com/DropsEarn/status/1816481495889879361",
+          "publishedOn": "2024-07-25T14:31:51.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com deBridge Bug Bounty Program .@deBridgeFinance has presented a $200,000 Bug Bounty Program on .@immunefi 🌐 ht...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1815834288518226373",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nFlap Ambassador Program\n.@flapdotsh  has launched Flap Ambassador Program and invites everyone to join.\n🌐 https://dropsearn.com/events/flap-ambassador-program",
+          "link": "https://x.com/DropsEarn/status/1815834288518226373",
+          "publishedOn": "2024-07-23T19:40:05.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Flap Ambassador Program .@flapdotsh has launched Flap Ambassador Program and invites everyone to join. 🌐 htt...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
