@@ -203,7 +203,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wiglo",
           "publishedOn": "2024-08-19T11:36:00.000Z",
-          "wordCount": 407,
+          "wordCount": 404,
           "title": "Wiglo",
           "imageUrl": "https://ph-files.imgix.net/79d0af3e-286b-4baa-b8bf-5953390e8d56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/my-quizzes",
           "publishedOn": "2024-08-03T05:41:35.000Z",
-          "wordCount": 491,
+          "wordCount": 490,
           "title": "My Quizzes",
           "imageUrl": "https://ph-files.imgix.net/41038cce-b6c8-44d5-91a1-9f63253e08c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -456,6 +456,39 @@
           "wordCount": 659,
           "title": "Passkey Ready",
           "imageUrl": "https://ph-files.imgix.net/27bc4866-f4e1-4ef5-b0c5-94c3cca77fab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        }
+      ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\ndeBridge Bug Bounty Program\n.@deBridgeFinance  has presented a $200,000 Bug Bounty Program on .@immunefi \n🌐 https://dropsearn.com/events/debridge-bug-bounty",
+          "link": "https://x.com/DropsEarn/status/1816481495889879361",
+          "publishedOn": "2024-07-25T14:31:51.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com deBridge Bug Bounty Program .@deBridgeFinance has presented a $200,000 Bug Bounty Program on .@immunefi 🌐 ht...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1815834288518226373",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nFlap Ambassador Program\n.@flapdotsh  has launched Flap Ambassador Program and invites everyone to join.\n🌐 https://dropsearn.com/events/flap-ambassador-program",
+          "link": "https://x.com/DropsEarn/status/1815834288518226373",
+          "publishedOn": "2024-07-23T19:40:05.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Flap Ambassador Program .@flapdotsh has launched Flap Ambassador Program and invites everyone to join. 🌐 htt...",
+          "imageUrl": null
         }
       ]
     }
