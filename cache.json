@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/dev-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dev-3",
+          "publishedOn": "2024-08-21T08:22:07.000Z",
+          "wordCount": 472,
+          "title": "Dev",
+          "imageUrl": "https://ph-files.imgix.net/c0190937-c730-434f-8a2b-7ffdf2161ed8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/kops-dev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -208,6 +218,16 @@
           "imageUrl": "https://ph-files.imgix.net/4810f2c3-dcdb-4644-8d72-fa0d8cc5aa77.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ko-fi-react-library",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ko-fi-react-library",
+          "publishedOn": "2024-08-19T18:43:20.000Z",
+          "wordCount": 489,
+          "title": "Ko-fi React Library",
+          "imageUrl": "https://ph-files.imgix.net/439c9b4f-21cf-468b-b16c-08f77017414c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/krammar",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -226,16 +246,6 @@
           "wordCount": 382,
           "title": "WebHash",
           "imageUrl": "https://ph-files.imgix.net/c5c48acf-c26f-40a7-a202-28554d515145.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/wiglo",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/wiglo",
-          "publishedOn": "2024-08-19T11:36:00.000Z",
-          "wordCount": 404,
-          "title": "Wiglo",
-          "imageUrl": "https://ph-files.imgix.net/79d0af3e-286b-4baa-b8bf-5953390e8d56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/marble-booking",
@@ -316,16 +326,6 @@
           "wordCount": 506,
           "title": "Evidently AI",
           "imageUrl": "https://ph-files.imgix.net/e93a309e-01fd-4004-a77b-47a6feaa02d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/your-ecom-agent",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/your-ecom-agent",
-          "publishedOn": "2024-08-15T18:49:26.000Z",
-          "wordCount": 580,
-          "title": "Your eCom Agent",
-          "imageUrl": "https://ph-files.imgix.net/4323bf96-9614-4400-a3fa-d2e5d3ee86c1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/glasp-curated-content-to-crafted-posts",
@@ -450,10 +450,31 @@
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1816481495889879361",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\ndeBridge Bug Bounty Program\n.@deBridgeFinance  has presented a $200,000 Bug Bounty Program on .@immunefi \n🌐 https://dropsearn.com/events/debridge-bug-bounty",
+          "link": "https://x.com/DropsEarn/status/1816481495889879361",
+          "publishedOn": "2024-07-25T14:31:51.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com deBridge Bug Bounty Program .@deBridgeFinance has presented a $200,000 Bug Bounty Program on .@immunefi 🌐 ht...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1815834288518226373",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nFlap Ambassador Program\n.@flapdotsh  has launched Flap Ambassador Program and invites everyone to join.\n🌐 https://dropsearn.com/events/flap-ambassador-program",
+          "link": "https://x.com/DropsEarn/status/1815834288518226373",
+          "publishedOn": "2024-07-23T19:40:05.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Flap Ambassador Program .@flapdotsh has launched Flap Ambassador Program and invites everyone to join. 🌐 htt...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
