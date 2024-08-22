@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/imagechat-3",
           "publishedOn": "2024-08-21T20:17:40.000Z",
-          "wordCount": 429,
+          "wordCount": 428,
           "title": "ImageChat",
           "imageUrl": "https://ph-files.imgix.net/a51d43ad-6fa7-499c-8690-9a518679bd6a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zerocam-mono",
           "publishedOn": "2024-08-21T19:04:26.000Z",
-          "wordCount": 432,
+          "wordCount": 433,
           "title": "Zerocam Mono",
           "imageUrl": "https://ph-files.imgix.net/7ee950d3-993d-45f4-9005-e70a62ba8a72.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -238,6 +238,16 @@
           "imageUrl": "https://ph-files.imgix.net/2bd8d9be-1f3f-4a7f-a6a4-d5959c6ba198.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/risky-text",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/risky-text",
+          "publishedOn": "2024-08-19T22:20:05.000Z",
+          "wordCount": 488,
+          "title": "Risky Text",
+          "imageUrl": "https://ph-files.imgix.net/5216b6d6-186a-4d49-8d7a-cfb15892bc9c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/presence-tracker",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -288,16 +298,6 @@
           "imageUrl": "https://ph-files.imgix.net/f15816fd-96df-4098-82eb-580b2d466f1c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/undermind-yc-s24",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/undermind-yc-s24",
-          "publishedOn": "2024-08-18T16:10:06.000Z",
-          "wordCount": 485,
-          "title": "Undermind (YC S24)",
-          "imageUrl": "https://ph-files.imgix.net/c20f7117-cbe4-45c4-9196-b51709b95868.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/phase-8",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -328,22 +328,12 @@
           "imageUrl": "https://ph-files.imgix.net/9d72df2c-c8ed-4dba-9987-76e3dd62ce7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/stori-2-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/stori-2-0",
-          "publishedOn": "2024-08-14T17:04:24.000Z",
-          "wordCount": 827,
-          "title": "STORI 2.0",
-          "imageUrl": "https://ph-files.imgix.net/0faf48f7-ef63-4d54-851c-d63ea2df2a25.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/kraftful-3-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kraftful-3-0",
           "publishedOn": "2024-08-14T15:26:34.000Z",
-          "wordCount": 569,
+          "wordCount": 516,
           "title": "Kraftful 3.0",
           "imageUrl": "https://ph-files.imgix.net/b46bc77d-e2e8-42e7-bfc1-d0388ee47469.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -366,6 +356,16 @@
           "wordCount": 640,
           "title": "D-ID Video Translate",
           "imageUrl": "https://ph-files.imgix.net/61979f24-0992-4467-acf3-1b3b2a581a9a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/molypix-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/molypix-ai",
+          "publishedOn": "2024-08-14T01:01:37.000Z",
+          "wordCount": 440,
+          "title": "MolyPix.AI",
+          "imageUrl": "https://ph-files.imgix.net/4a397e93-7970-4ed4-84f6-346fa863a30a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/aicado-s-gpt",
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/life-note-2",
           "publishedOn": "2024-08-06T10:47:22.000Z",
-          "wordCount": 543,
+          "wordCount": 544,
           "title": "Life Note",
           "imageUrl": "https://ph-files.imgix.net/bd7c7734-0f70-4ecc-aaea-de70168e9bda.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sports-party",
           "publishedOn": "2024-08-01T12:18:12.000Z",
-          "wordCount": 497,
+          "wordCount": 496,
           "title": "Sports Party",
           "imageUrl": "https://ph-files.imgix.net/56b02b35-6dab-4ef1-b084-d2756dad7e07.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/how-much-for-site",
           "publishedOn": "2024-07-28T20:22:20.000Z",
-          "wordCount": 541,
+          "wordCount": 540,
           "title": "How Much for Site?",
           "imageUrl": "https://ph-files.imgix.net/78aa1950-c9a0-4b5f-bde9-c584e92b4352.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
