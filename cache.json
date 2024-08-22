@@ -15,8 +15,18 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/mailmodo-2-0-yc-s21",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mailmodo-2-0-yc-s21",
+          "publishedOn": "2024-08-22T07:02:28.000Z",
+          "wordCount": 501,
+          "title": "Mailmodo 2.0 (YC S21)",
+          "imageUrl": "https://ph-files.imgix.net/5cb490ac-1b1d-4f32-bbfa-981923e853ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/unitswap",
           "author": null,
@@ -43,9 +53,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/endel-for-adhd",
           "publishedOn": "2024-08-22T02:08:32.000Z",
-          "wordCount": 427,
+          "wordCount": 480,
           "title": "Endel for ADHD",
           "imageUrl": "https://ph-files.imgix.net/e4de970b-3370-41f1-9fa5-4cc14d19a4d1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/typr-editor",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/typr-editor",
+          "publishedOn": "2024-08-22T00:32:00.000Z",
+          "wordCount": 411,
+          "title": "Typr Editor",
+          "imageUrl": "https://ph-files.imgix.net/2b2a4819-aae2-41e0-8941-3fd250720e39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/imagechat-3",
@@ -228,16 +248,6 @@
           "imageUrl": "https://ph-files.imgix.net/0936ee68-c741-407a-90cd-949d1665dc4c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/daily-bots",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/daily-bots",
-          "publishedOn": "2024-08-20T05:31:51.000Z",
-          "wordCount": 709,
-          "title": "Daily Bots",
-          "imageUrl": "https://ph-files.imgix.net/b98e0c95-f2ac-4bea-8f18-2b8c3e5a3c5c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/apple-podcasts-for-web",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -246,16 +256,6 @@
           "wordCount": 458,
           "title": "Apple Podcasts for Web",
           "imageUrl": "https://ph-files.imgix.net/2bd8d9be-1f3f-4a7f-a6a4-d5959c6ba198.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/risky-text",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/risky-text",
-          "publishedOn": "2024-08-19T22:20:05.000Z",
-          "wordCount": 488,
-          "title": "Risky Text",
-          "imageUrl": "https://ph-files.imgix.net/5216b6d6-186a-4d49-8d7a-cfb15892bc9c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/presence-tracker",
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kraftful-3-0",
           "publishedOn": "2024-08-14T15:26:34.000Z",
-          "wordCount": 572,
+          "wordCount": 519,
           "title": "Kraftful 3.0",
           "imageUrl": "https://ph-files.imgix.net/b46bc77d-e2e8-42e7-bfc1-d0388ee47469.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -443,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/helicone-ai",
           "publishedOn": "2024-07-29T20:04:02.000Z",
-          "wordCount": 595,
+          "wordCount": 598,
           "title": "Helicone AI",
           "imageUrl": "https://ph-files.imgix.net/b2dd16ae-f73d-4fb4-b63e-5bedac5c7bda.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
