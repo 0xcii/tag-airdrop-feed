@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/next-alpha",
           "publishedOn": "2024-08-22T20:05:28.000Z",
-          "wordCount": 472,
+          "wordCount": 519,
           "title": "Next Alpha",
           "imageUrl": "https://ph-files.imgix.net/94b2706f-465e-403f-b05e-40734388cc72.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -203,7 +203,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mui-for-vs-code",
           "publishedOn": "2024-08-21T19:45:30.000Z",
-          "wordCount": 503,
+          "wordCount": 550,
           "title": "MUI for VS Code",
           "imageUrl": "https://ph-files.imgix.net/7c639c0a-c34f-4b3d-95db-d7e6f2e535ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -383,7 +383,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/paperguide",
           "publishedOn": "2024-08-19T07:35:14.000Z",
-          "wordCount": 465,
+          "wordCount": 518,
           "title": "Paperguide",
           "imageUrl": "https://ph-files.imgix.net/221dfeac-64ff-4768-92b1-dba8a06c9a21.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -413,7 +413,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/shred-4",
           "publishedOn": "2024-08-14T18:32:23.000Z",
-          "wordCount": 389,
+          "wordCount": 342,
           "title": "SHRED",
           "imageUrl": "https://ph-files.imgix.net/3ae1121a-77b1-45f7-96e4-84271cf92962.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -510,10 +510,31 @@
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817908096024383831",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAnzen Ambassador Program\n.@AnzenFinance  launches Ambassador Program, offering rewards to content creators across social media, YouTube, blogs, and newsletters.\n🌐 https://dropsearn.com/events/anzen-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817908096024383831",
+          "publishedOn": "2024-07-29T13:00:39.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Anzen Ambassador Program .@AnzenFinance launches Ambassador Program, offering rewards to content creators acros...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817189464969490607",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAutonomys Network Ambassador Program\n@AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 enthusiasts, node-runners, writers, content creators, etc.\n🌐 https://dropsearn.com/events/autonomys-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817189464969490607",
+          "publishedOn": "2024-07-27T13:25:04.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Autonomys Network Ambassador Program @AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 e...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
