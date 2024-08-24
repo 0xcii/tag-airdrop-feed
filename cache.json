@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/my-journey",
           "publishedOn": "2024-08-24T01:06:47.000Z",
-          "wordCount": 639,
+          "wordCount": 641,
           "title": "My Journey",
           "imageUrl": "https://ph-files.imgix.net/2acf48a5-9302-4429-b1ca-e72b195aee8e.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hey-7fed5187-9b92-4ee8-9ce5-e08d5bc63d15",
           "publishedOn": "2024-08-23T21:02:50.000Z",
-          "wordCount": 447,
+          "wordCount": 443,
           "title": "Hey!",
           "imageUrl": "https://ph-files.imgix.net/17e25554-9871-45f7-b79c-5287c2aa2d94.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -113,7 +113,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/next-alpha",
           "publishedOn": "2024-08-22T20:05:28.000Z",
-          "wordCount": 472,
+          "wordCount": 519,
           "title": "Next Alpha",
           "imageUrl": "https://ph-files.imgix.net/94b2706f-465e-403f-b05e-40734388cc72.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -173,7 +173,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wp-adminify-2",
           "publishedOn": "2024-08-22T11:01:02.000Z",
-          "wordCount": 432,
+          "wordCount": 431,
           "title": "WP Adminify",
           "imageUrl": "https://ph-files.imgix.net/eb6e680f-fe12-4397-a09e-ba3518559e9d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -393,7 +393,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/paperguide",
           "publishedOn": "2024-08-19T07:35:14.000Z",
-          "wordCount": 518,
+          "wordCount": 465,
           "title": "Paperguide",
           "imageUrl": "https://ph-files.imgix.net/221dfeac-64ff-4768-92b1-dba8a06c9a21.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -488,22 +488,43 @@
           "imageUrl": "https://ph-files.imgix.net/78aa1950-c9a0-4b5f-bde9-c584e92b4352.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/griddr-a-grid-camera-app",
+          "id": "https://www.producthunt.com/posts/griddr-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/griddr-a-grid-camera-app",
+          "link": "https://www.producthunt.com/posts/griddr-2",
           "publishedOn": "2024-07-26T04:05:53.000Z",
-          "wordCount": 518,
-          "title": "Griddr. - A Grid Camera App",
+          "wordCount": 473,
+          "title": "Griddr.",
           "imageUrl": "https://ph-files.imgix.net/ec00db51-5863-4871-b0b3-2b011fa6778b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817908096024383831",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAnzen Ambassador Program\n.@AnzenFinance  launches Ambassador Program, offering rewards to content creators across social media, YouTube, blogs, and newsletters.\n🌐 https://dropsearn.com/events/anzen-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817908096024383831",
+          "publishedOn": "2024-07-29T13:00:39.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Anzen Ambassador Program .@AnzenFinance launches Ambassador Program, offering rewards to content creators acros...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817189464969490607",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAutonomys Network Ambassador Program\n@AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 enthusiasts, node-runners, writers, content creators, etc.\n🌐 https://dropsearn.com/events/autonomys-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817189464969490607",
+          "publishedOn": "2024-07-27T13:25:04.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Autonomys Network Ambassador Program @AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 e...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
