@@ -338,6 +338,16 @@
           "imageUrl": "https://ph-files.imgix.net/eb6e680f-fe12-4397-a09e-ba3518559e9d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/imagechat-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/imagechat-3",
+          "publishedOn": "2024-08-21T20:17:40.000Z",
+          "wordCount": 431,
+          "title": "ImageChat",
+          "imageUrl": "https://ph-files.imgix.net/a51d43ad-6fa7-499c-8690-9a518679bd6a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/mui-for-vs-code",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -413,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pyramid-com-solitaire",
           "publishedOn": "2024-08-19T20:48:06.000Z",
-          "wordCount": 464,
+          "wordCount": 410,
           "title": "Pyramid.com Solitaire",
           "imageUrl": "https://ph-files.imgix.net/4d9556ff-7f45-4962-af2f-2d22ad7ac85b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -486,16 +496,6 @@
           "wordCount": 604,
           "title": "DesignDupe",
           "imageUrl": "https://ph-files.imgix.net/ab9ec7fa-e782-4e98-8e73-31c42505516a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/helicone-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/helicone-ai",
-          "publishedOn": "2024-07-29T20:04:02.000Z",
-          "wordCount": 647,
-          "title": "Helicone AI",
-          "imageUrl": "https://ph-files.imgix.net/b2dd16ae-f73d-4fb4-b63e-5bedac5c7bda.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
@@ -504,6 +504,33 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817908096024383831",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAnzen Ambassador Program\n.@AnzenFinance  launches Ambassador Program, offering rewards to content creators across social media, YouTube, blogs, and newsletters.\n🌐 https://dropsearn.com/events/anzen-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817908096024383831",
+          "publishedOn": "2024-07-29T13:00:39.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Anzen Ambassador Program .@AnzenFinance launches Ambassador Program, offering rewards to content creators acros...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1817189464969490607",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nAutonomys Network Ambassador Program\n@AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 enthusiasts, node-runners, writers, content creators, etc.\n🌐 https://dropsearn.com/events/autonomys-ambassador",
+          "link": "https://x.com/DropsEarn/status/1817189464969490607",
+          "publishedOn": "2024-07-27T13:25:04.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Autonomys Network Ambassador Program @AutonomysNet is welcoming new Ambassadors: devs, designers, #AI / #Web3 e...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
