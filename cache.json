@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/seven24-ai",
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flowchart-fun-2",
           "publishedOn": "2024-08-24T14:52:01.000Z",
-          "wordCount": 352,
+          "wordCount": 353,
           "title": "Flowchart Fun",
           "imageUrl": "https://ph-files.imgix.net/e3290c70-1b2d-4866-9ed7-5b5bf22f7c9b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gifmo-gif-meme-maker",
           "publishedOn": "2024-08-24T12:54:06.000Z",
-          "wordCount": 484,
+          "wordCount": 489,
           "title": "Gifmo: Gif & Meme Maker",
           "imageUrl": "https://ph-files.imgix.net/b273871f-db95-4643-a857-8b9bd26d17a3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -113,7 +113,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/book2socialfeed",
           "publishedOn": "2024-08-24T07:48:03.000Z",
-          "wordCount": 558,
+          "wordCount": 557,
           "title": "Book2SocialFeed",
           "imageUrl": "https://ph-files.imgix.net/9a496560-21cb-45fa-ade9-1815f7caa068.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -143,7 +143,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tally-counter-3",
           "publishedOn": "2024-08-24T02:59:22.000Z",
-          "wordCount": 475,
+          "wordCount": 476,
           "title": "Tally Counter",
           "imageUrl": "https://ph-files.imgix.net/c9fc7ce5-c164-4385-89b5-3f7fa1fbf539.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -328,14 +328,14 @@
           "imageUrl": "https://ph-files.imgix.net/eb6e680f-fe12-4397-a09e-ba3518559e9d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/zed-ai",
+          "id": "https://www.producthunt.com/posts/typr-editor",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/zed-ai",
-          "publishedOn": "2024-08-22T03:25:18.000Z",
-          "wordCount": 473,
-          "title": "Zed AI",
-          "imageUrl": "https://ph-files.imgix.net/9a8ee597-ba5e-4c25-84dd-06718257d373.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/typr-editor",
+          "publishedOn": "2024-08-22T00:32:00.000Z",
+          "wordCount": 411,
+          "title": "Typr Editor",
+          "imageUrl": "https://ph-files.imgix.net/2b2a4819-aae2-41e0-8941-3fd250720e39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/mui-for-vs-code",
@@ -356,6 +356,16 @@
           "wordCount": 533,
           "title": "Roast My Chat",
           "imageUrl": "https://ph-files.imgix.net/8cb15873-f980-4afc-b0fd-f8b2ce6db0e6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/the-daily-product",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/the-daily-product",
+          "publishedOn": "2024-08-21T18:17:56.000Z",
+          "wordCount": 565,
+          "title": "The Daily Product",
+          "imageUrl": "https://ph-files.imgix.net/5deb8838-146c-4ce9-a262-2fc8ce7eefde.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/svg-picker-for-safari",
@@ -406,16 +416,6 @@
           "wordCount": 428,
           "title": "sorrix",
           "imageUrl": "https://ph-files.imgix.net/13a6478f-1bb0-4f94-ba14-6d4485055e00.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/aceternity-ui-pro",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/aceternity-ui-pro",
-          "publishedOn": "2024-08-20T07:26:14.000Z",
-          "wordCount": 428,
-          "title": "Aceternity UI Pro",
-          "imageUrl": "https://ph-files.imgix.net/8fda3563-7d41-41b8-befa-cbba42c60adc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pyramid-com-solitaire",
@@ -473,7 +473,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/connecting-mentors-mentees-business",
           "publishedOn": "2024-08-08T07:45:12.000Z",
-          "wordCount": 536,
+          "wordCount": 535,
           "title": "Connecting Mentors & Mentees & Business",
           "imageUrl": "https://ph-files.imgix.net/fc9e42d5-35c1-4712-8d09-7a55830256c7.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
