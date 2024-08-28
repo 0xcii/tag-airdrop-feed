@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/10xlaunch",
           "publishedOn": "2024-08-22T07:53:59.000Z",
-          "wordCount": 502,
+          "wordCount": 506,
           "title": "10xlaunch",
           "imageUrl": "https://ph-files.imgix.net/f1f4527b-6b7f-403a-ac4d-b0ac4448bc3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,16 +478,22 @@
           "imageUrl": "https://ph-files.imgix.net/698efa81-55c1-4943-b79c-62587a917e4b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/theysaid",
+          "id": "https://www.producthunt.com/posts/codebrisk",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/theysaid",
-          "publishedOn": "2024-08-02T19:55:23.000Z",
-          "wordCount": 597,
-          "title": "TheySaid",
-          "imageUrl": "https://ph-files.imgix.net/4cdeafb0-9a10-4c3a-bd77-f82997911afa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/codebrisk",
+          "publishedOn": "2024-08-07T13:27:11.000Z",
+          "wordCount": 488,
+          "title": "CodeBrisk",
+          "imageUrl": "https://ph-files.imgix.net/13ca6bc6-3f8b-4b18-bca4-9d375ca7b317.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
