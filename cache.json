@@ -363,7 +363,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/podcraftr",
           "publishedOn": "2024-08-22T19:19:38.000Z",
-          "wordCount": 508,
+          "wordCount": 512,
           "title": "Podcraftr",
           "imageUrl": "https://ph-files.imgix.net/852c5048-cff3-42de-a077-0736f6a1571a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -490,61 +490,16 @@
       ]
     },
     {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
       "title": "Twitter @Drops Earn",
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1826885765738930563",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nZulu Incentivized Beta Testnet\n.@zulu_network  Beta Testnet Points Event is called Zulu Lwazi. Now you can join now and earn Zulu Genesis Points (ZGP) for completing different activities and quests.\n🌐 https://dropsearn.com/events/zulu-incentivized-beta-testnet",
-          "link": "https://x.com/DropsEarn/status/1826885765738930563",
-          "publishedOn": "2024-08-23T07:34:43.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Zulu Incentivized Beta Testnet .@zulu_network Beta Testnet Points Event is called Zulu Lwazi. Now you can join ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1824114865784361310",
-          "author": "Drops Earn",
-          "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n 🌐 https://dropsearn.com/airdrops",
-          "link": "https://x.com/DropsEarn/status/1824114865784361310",
-          "publishedOn": "2024-08-15T16:04:09.000Z",
-          "wordCount": 6,
-          "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com 🌐 https://dropsearn.com/air...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1822959922994122937",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nSandbox Ambassador Program\n@TheSandboxGame has announced relaunch of The Sandbox Ambassador Program. Sandbox is welcoming new ambassadors to help the project support and contribute to The Sandbox ecosystem.\n🌐 https://dropsearn.com/events/sandbox-ambassador",
-          "link": "https://x.com/DropsEarn/status/1822959922994122937",
-          "publishedOn": "2024-08-12T11:34:49.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Sandbox Ambassador Program @TheSandboxGame has announced relaunch of The Sandbox Ambassador Program. Sandbox is...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1821804946305544313",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nSaga Ambassador Program\n.@Sagaxyz__  has announced the new Saga Ambassador Program to all loyal Saganauts.\n🌐 https://dropsearn.com/events/saga-abassador-program",
-          "link": "https://x.com/DropsEarn/status/1821804946305544313",
-          "publishedOn": "2024-08-09T07:05:21.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Saga Ambassador Program .@Sagaxyz__ has announced the new Saga Ambassador Program to all loyal Saganauts. 🌐 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1821278543223116107",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nAllora Points Program\n.@AlloraNetwork  Points are a network-wide recognition of users' contributions to the Allora Network and its decentralized collective intelligence. \n🌐 https://dropsearn.com/events/allora-points-program",
-          "link": "https://x.com/DropsEarn/status/1821278543223116107",
-          "publishedOn": "2024-08-07T20:13:37.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Allora Points Program .@AlloraNetwork Points are a network-wide recognition of users' contributions to the Allo...",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
