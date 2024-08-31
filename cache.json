@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/minutes-ai-meeting-notes-transcripts",
           "publishedOn": "2024-08-30T23:27:01.000Z",
-          "wordCount": 654,
+          "wordCount": 653,
           "title": "Minutes: AI Meeting Notes & Transcripts",
           "imageUrl": "https://ph-files.imgix.net/f84584de-dfc5-448e-b937-2996ea8a5638.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/user-searcher",
           "publishedOn": "2024-08-30T11:19:28.000Z",
-          "wordCount": 422,
+          "wordCount": 421,
           "title": "User Searcher",
           "imageUrl": "https://ph-files.imgix.net/bbcf2134-c6c2-4899-834a-372e62ef682f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -223,7 +223,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/7-minutes-in-hell",
           "publishedOn": "2024-08-28T21:30:27.000Z",
-          "wordCount": 501,
+          "wordCount": 500,
           "title": "7 Minutes in Hell",
           "imageUrl": "https://ph-files.imgix.net/9705f886-a109-4085-9f55-dc71e9df13aa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -308,16 +308,6 @@
           "imageUrl": "https://ph-files.imgix.net/89e7d319-71aa-4f12-b519-75c8bde00b1e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/button-stealer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/button-stealer",
-          "publishedOn": "2024-08-28T02:53:56.000Z",
-          "wordCount": 463,
-          "title": "Button Stealer",
-          "imageUrl": "https://ph-files.imgix.net/dc7dbb3b-4dc7-41fe-9d2a-7c4271b8e6ff.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/storychat-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -356,6 +346,16 @@
           "wordCount": 418,
           "title": "ReviewPopup.io",
           "imageUrl": "https://ph-files.imgix.net/f862234a-72d1-41ca-9352-e45506a52471.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/snapbio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/snapbio",
+          "publishedOn": "2024-08-25T09:33:16.000Z",
+          "wordCount": 422,
+          "title": "snapbio",
+          "imageUrl": "https://ph-files.imgix.net/b861e054-713d-4a2b-901f-0050fbb4d578.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/creatify-2-0-1",
@@ -488,6 +488,12 @@
           "imageUrl": "https://ph-files.imgix.net/51cddc9c-8dff-499d-a6cb-ae0f86089bbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
