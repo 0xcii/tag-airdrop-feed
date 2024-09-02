@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pictogram-generator",
           "publishedOn": "2024-09-01T18:46:11.000Z",
-          "wordCount": 452,
+          "wordCount": 451,
           "title": "Pictogram Generator",
           "imageUrl": "https://ph-files.imgix.net/f78130c3-87f2-468f-8929-50a1b79e915a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/time-tag",
           "publishedOn": "2024-09-01T06:58:26.000Z",
-          "wordCount": 419,
+          "wordCount": 417,
           "title": "Time Tag",
           "imageUrl": "https://ph-files.imgix.net/4707f847-d322-4f12-a607-beadfab71e68.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -178,14 +178,14 @@
           "imageUrl": "https://ph-files.imgix.net/a062df75-cbc0-4e67-8cf0-1915bb1fb8f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/cheatsheet-ai",
+          "id": "https://www.producthunt.com/posts/nabubit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/cheatsheet-ai",
-          "publishedOn": "2024-08-30T01:11:36.000Z",
-          "wordCount": 549,
-          "title": "CheatSheet AI",
-          "imageUrl": "https://ph-files.imgix.net/cc052c14-b529-4df7-8dae-deaf04e8949f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/nabubit",
+          "publishedOn": "2024-08-30T05:10:26.000Z",
+          "wordCount": 357,
+          "title": "Nabubit",
+          "imageUrl": "https://ph-files.imgix.net/e8243815-e115-43dd-8c4e-1a17b779bc3d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/structai",
@@ -246,6 +246,16 @@
           "wordCount": 561,
           "title": "BNA",
           "imageUrl": "https://ph-files.imgix.net/537b7c10-158a-4919-af3c-dbaf18f5e400.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/bitkit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/bitkit",
+          "publishedOn": "2024-08-28T21:40:56.000Z",
+          "wordCount": 430,
+          "title": "Bitkit",
+          "imageUrl": "https://ph-files.imgix.net/10a5122b-da1c-4530-9b50-a74d1fc37d51.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/7-minutes-in-hell",
@@ -323,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/choppity",
           "publishedOn": "2024-08-23T12:04:57.000Z",
-          "wordCount": 519,
+          "wordCount": 518,
           "title": "Choppity",
           "imageUrl": "https://ph-files.imgix.net/6bf8950c-c8b8-429a-a524-f22921c12425.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +363,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pallie",
           "publishedOn": "2024-08-21T12:42:59.000Z",
-          "wordCount": 544,
+          "wordCount": 545,
           "title": "Pallie",
           "imageUrl": "https://ph-files.imgix.net/13bcd2bc-b22e-49f9-b07f-226ad024949a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +383,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/milestones",
           "publishedOn": "2024-08-18T15:46:40.000Z",
-          "wordCount": 439,
+          "wordCount": 438,
           "title": "milestones",
           "imageUrl": "https://ph-files.imgix.net/7db29730-1305-4c4f-b615-1cf5bb49b7ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -428,16 +438,6 @@
           "imageUrl": "https://ph-files.imgix.net/9e88cc5a-ed09-4caa-986d-6feb766cf837.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/elisi",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/elisi",
-          "publishedOn": "2024-08-06T08:13:46.000Z",
-          "wordCount": 596,
-          "title": "Elisi",
-          "imageUrl": "https://ph-files.imgix.net/4e06c9ef-689e-4bdb-8800-ffe6dc4c4fd1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/wisp-cms",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -464,83 +464,6 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1828868412421939667",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nBabylon Ambassador Program\nA program is designed to reward community members with exclusive rewards for helping .@babylonlabs_io  Chain grow. \n🌐 https://dropsearn.com/events/babylon-ambassador-program",
-          "link": "https://x.com/DropsEarn/status/1828868412421939667",
-          "publishedOn": "2024-08-28T18:53:02.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Babylon Ambassador Program A program is designed to reward community members with exclusive rewards for helping...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1828044908378132885",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nKalax Ambassador Program\n.@Kalax_io announced the launch of its Ambassador Program. This initiative aims to enlist individuals who possess a deep passion and expertise in crypto\n🌐 https://dropsearn.com/events/kalax-ambassador-program",
-          "link": "https://x.com/DropsEarn/status/1828044908378132885",
-          "publishedOn": "2024-08-26T12:20:44.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Kalax Ambassador Program .@Kalax_io announced the launch of its Ambassador Program. This initiative aims to enl...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1826885765738930563",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nZulu Incentivized Beta Testnet\n.@zulu_network  Beta Testnet Points Event is called Zulu Lwazi. Now you can join now and earn Zulu Genesis Points (ZGP) for completing different activities and quests.\n🌐 https://dropsearn.com/events/zulu-incentivized-beta-testnet",
-          "link": "https://x.com/DropsEarn/status/1826885765738930563",
-          "publishedOn": "2024-08-23T07:34:43.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Zulu Incentivized Beta Testnet .@zulu_network Beta Testnet Points Event is called Zulu Lwazi. Now you can join ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1824114865784361310",
-          "author": "Drops Earn",
-          "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n 🌐 https://dropsearn.com/airdrops",
-          "link": "https://x.com/DropsEarn/status/1824114865784361310",
-          "publishedOn": "2024-08-15T16:04:09.000Z",
-          "wordCount": 6,
-          "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com 🌐 https://dropsearn.com/air...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1822959922994122937",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nSandbox Ambassador Program\n@TheSandboxGame has announced relaunch of The Sandbox Ambassador Program. Sandbox is welcoming new ambassadors to help the project support and contribute to The Sandbox ecosystem.\n🌐 https://dropsearn.com/events/sandbox-ambassador",
-          "link": "https://x.com/DropsEarn/status/1822959922994122937",
-          "publishedOn": "2024-08-12T11:34:49.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Sandbox Ambassador Program @TheSandboxGame has announced relaunch of The Sandbox Ambassador Program. Sandbox is...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1821804946305544313",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nSaga Ambassador Program\n.@Sagaxyz__  has announced the new Saga Ambassador Program to all loyal Saganauts.\n🌐 https://dropsearn.com/events/saga-abassador-program",
-          "link": "https://x.com/DropsEarn/status/1821804946305544313",
-          "publishedOn": "2024-08-09T07:05:21.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Saga Ambassador Program .@Sagaxyz__ has announced the new Saga Ambassador Program to all loyal Saganauts. 🌐 ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1821278543223116107",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nAllora Points Program\n.@AlloraNetwork  Points are a network-wide recognition of users' contributions to the Allora Network and its decentralized collective intelligence. \n🌐 https://dropsearn.com/events/allora-points-program",
-          "link": "https://x.com/DropsEarn/status/1821278543223116107",
-          "publishedOn": "2024-08-07T20:13:37.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com Allora Points Program .@AlloraNetwork Points are a network-wide recognition of users' contributions to the Allo...",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
