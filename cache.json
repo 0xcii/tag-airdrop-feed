@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/videogen-yc-s24",
           "publishedOn": "2024-09-05T09:36:01.000Z",
-          "wordCount": 498,
+          "wordCount": 451,
           "title": "VideoGen (YC S24)",
           "imageUrl": "https://ph-files.imgix.net/7f178ee2-5558-4365-913c-121226db45d4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -388,16 +388,6 @@
           "imageUrl": "https://ph-files.imgix.net/a3b61468-63a4-4faa-bcd5-792f12005dec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/nexus-46c2b8b1-f8e6-492e-9cda-af21d6f6645a",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/nexus-46c2b8b1-f8e6-492e-9cda-af21d6f6645a",
-          "publishedOn": "2024-08-30T02:47:18.000Z",
-          "wordCount": 430,
-          "title": "Nexus",
-          "imageUrl": "https://ph-files.imgix.net/4003de4c-37f5-417b-8754-fc5a53cc7b5a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/odd-circles-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -488,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/5c00c17a-e1ec-4bda-a984-fa7af41020cd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
