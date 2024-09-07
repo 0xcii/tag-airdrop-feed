@@ -213,7 +213,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/picstudio-ai",
           "publishedOn": "2024-09-03T20:47:00.000Z",
-          "wordCount": 282,
+          "wordCount": 329,
           "title": "PicStudio.AI",
           "imageUrl": "https://ph-files.imgix.net/a24ba52c-6769-4f7a-b91a-ccbf4e5366b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -480,16 +480,20 @@
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
       "title": "Twitter @Drops Earn",
       "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
       "siteUrl": "https://x.com/DropsEarn",
       "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1831411316604772514",
+          "author": "Drops Earn",
+          "description": "💧New events on http://DropsEarn.com\n✔️.@defund_finance  Ambassador Program \n✔️.@0xSonicLabs  Bounty Program \n✔️.@nillionnetwork  Testnet Verifier Program \n🌐 http://dropsearn.com",
+          "link": "https://x.com/DropsEarn/status/1831411316604772514",
+          "publishedOn": "2024-09-04T19:17:38.000Z",
+          "wordCount": 6,
+          "title": "💧New events on http://DropsEarn.com ✔️.@defund_finance Ambassador Program ✔️.@0xSonicLabs Bounty Program ✔️.@nillionnetwork Testnet Verifier ...",
+          "imageUrl": null
+        },
         {
           "id": "https://twitter.com/DropsEarn/status/1828868412421939667",
           "author": "Drops Earn",
