@@ -143,7 +143,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/videogen-yc-s24",
           "publishedOn": "2024-09-05T09:36:01.000Z",
-          "wordCount": 498,
+          "wordCount": 451,
           "title": "VideoGen (YC S24)",
           "imageUrl": "https://ph-files.imgix.net/7f178ee2-5558-4365-913c-121226db45d4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -283,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cx-genie-2",
           "publishedOn": "2024-09-03T14:13:17.000Z",
-          "wordCount": 734,
+          "wordCount": 679,
           "title": "CX Genie",
           "imageUrl": "https://ph-files.imgix.net/6bcbf66d-7870-4dfd-9b0f-fa2a97274204.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -348,6 +348,16 @@
           "imageUrl": "https://ph-files.imgix.net/01d7e874-4b88-402b-a039-0324d799c0ea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/sticky-66e9fd8b-21d9-478d-896d-b2304c2a5a59",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sticky-66e9fd8b-21d9-478d-896d-b2304c2a5a59",
+          "publishedOn": "2024-08-31T07:09:56.000Z",
+          "wordCount": 488,
+          "title": "Sticky!",
+          "imageUrl": "https://ph-files.imgix.net/7a49eeb4-4214-473b-99d8-06f522ec0a02.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/group-card-creator",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -356,16 +366,6 @@
           "wordCount": 595,
           "title": "Group Card Creator",
           "imageUrl": "https://ph-files.imgix.net/7baa177c-0059-445d-b5b8-020ec1dd0c75.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/odd-circles-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/odd-circles-3",
-          "publishedOn": "2024-08-30T00:16:37.000Z",
-          "wordCount": 426,
-          "title": "Odd Circles",
-          "imageUrl": "https://ph-files.imgix.net/aed540de-e3a9-44c2-9480-22fee18b3b0d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/indigo-ai",
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trupeer-ai",
           "publishedOn": "2024-08-22T12:03:10.000Z",
-          "wordCount": 499,
+          "wordCount": 546,
           "title": "Trupeer.ai",
           "imageUrl": "https://ph-files.imgix.net/0989c380-7c29-4db1-a2f9-0a1e2f61d4fa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -460,10 +460,61 @@
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1828868412421939667",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nBabylon Ambassador Program\nA program is designed to reward community members with exclusive rewards for helping .@babylonlabs_io  Chain grow. \n🌐 https://dropsearn.com/events/babylon-ambassador-program",
+          "link": "https://x.com/DropsEarn/status/1828868412421939667",
+          "publishedOn": "2024-08-28T18:53:02.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Babylon Ambassador Program A program is designed to reward community members with exclusive rewards for helping...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1828044908378132885",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nKalax Ambassador Program\n.@Kalax_io announced the launch of its Ambassador Program. This initiative aims to enlist individuals who possess a deep passion and expertise in crypto\n🌐 https://dropsearn.com/events/kalax-ambassador-program",
+          "link": "https://x.com/DropsEarn/status/1828044908378132885",
+          "publishedOn": "2024-08-26T12:20:44.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Kalax Ambassador Program .@Kalax_io announced the launch of its Ambassador Program. This initiative aims to enl...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1826885765738930563",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nZulu Incentivized Beta Testnet\n.@zulu_network  Beta Testnet Points Event is called Zulu Lwazi. Now you can join now and earn Zulu Genesis Points (ZGP) for completing different activities and quests.\n🌐 https://dropsearn.com/events/zulu-incentivized-beta-testnet",
+          "link": "https://x.com/DropsEarn/status/1826885765738930563",
+          "publishedOn": "2024-08-23T07:34:43.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Zulu Incentivized Beta Testnet .@zulu_network Beta Testnet Points Event is called Zulu Lwazi. Now you can join ...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1824114865784361310",
+          "author": "Drops Earn",
+          "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n 🌐 https://dropsearn.com/airdrops",
+          "link": "https://x.com/DropsEarn/status/1824114865784361310",
+          "publishedOn": "2024-08-15T16:04:09.000Z",
+          "wordCount": 6,
+          "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com 🌐 https://dropsearn.com/air...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1822959922994122937",
+          "author": "Drops Earn",
+          "description": "💧 New event on http://DropsEarn.com\nSandbox Ambassador Program\n@TheSandboxGame has announced relaunch of The Sandbox Ambassador Program. Sandbox is welcoming new ambassadors to help the project support and contribute to The Sandbox ecosystem.\n🌐 https://dropsearn.com/events/sandbox-ambassador",
+          "link": "https://x.com/DropsEarn/status/1822959922994122937",
+          "publishedOn": "2024-08-12T11:34:49.000Z",
+          "wordCount": 6,
+          "title": "💧 New event on http://DropsEarn.com Sandbox Ambassador Program @TheSandboxGame has announced relaunch of The Sandbox Ambassador Program. Sandbox is...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
