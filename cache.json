@@ -15,15 +15,25 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/airglitch",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/airglitch",
+          "publishedOn": "2024-09-07T06:58:41.000Z",
+          "wordCount": 356,
+          "title": "Airglitch",
+          "imageUrl": "https://ph-files.imgix.net/ea6d0028-5d7d-4188-b8da-aa0fb51b0997.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/llm-detector",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/llm-detector",
           "publishedOn": "2024-09-07T06:10:33.000Z",
-          "wordCount": 401,
+          "wordCount": 420,
           "title": "LLM Detector",
           "imageUrl": "https://ph-files.imgix.net/f87fad88-4066-45b9-9b4f-8855f3485dab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/leica-lux",
           "publishedOn": "2024-09-06T21:45:27.000Z",
-          "wordCount": 412,
+          "wordCount": 411,
           "title": "Leica LUX",
           "imageUrl": "https://ph-files.imgix.net/bc591dd2-ec09-4375-9616-9b5327a0a155.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -143,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/videogen-yc-s24",
           "publishedOn": "2024-09-05T09:36:01.000Z",
-          "wordCount": 451,
+          "wordCount": 498,
           "title": "VideoGen (YC S24)",
           "imageUrl": "https://ph-files.imgix.net/7f178ee2-5558-4365-913c-121226db45d4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -153,7 +163,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/emailboards",
           "publishedOn": "2024-09-05T08:41:43.000Z",
-          "wordCount": 416,
+          "wordCount": 461,
           "title": "EmailBoards",
           "imageUrl": "https://ph-files.imgix.net/0adc85ee-4bae-4e4c-a9df-19451629a86c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,16 +278,6 @@
           "imageUrl": "https://ph-files.imgix.net/4d661207-19a0-47b9-bdad-640ffeaec09f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/picstudio-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/picstudio-ai",
-          "publishedOn": "2024-09-03T20:47:00.000Z",
-          "wordCount": 329,
-          "title": "PicStudio.AI",
-          "imageUrl": "https://ph-files.imgix.net/a24ba52c-6769-4f7a-b91a-ccbf4e5366b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/remind-ai-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -293,7 +293,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cx-genie-2",
           "publishedOn": "2024-09-03T14:13:17.000Z",
-          "wordCount": 710,
+          "wordCount": 711,
           "title": "CX Genie",
           "imageUrl": "https://ph-files.imgix.net/6bcbf66d-7870-4dfd-9b0f-fa2a97274204.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lucas-call-your-ai-language-teacher",
           "publishedOn": "2024-09-02T13:59:20.000Z",
-          "wordCount": 575,
+          "wordCount": 622,
           "title": "Lucas | Call your AI language teacher",
           "imageUrl": "https://ph-files.imgix.net/782c43e8-9681-4cb3-a386-a6d94e517951.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -356,16 +356,6 @@
           "wordCount": 568,
           "title": "SEOPulser",
           "imageUrl": "https://ph-files.imgix.net/01d7e874-4b88-402b-a039-0324d799c0ea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sticky-66e9fd8b-21d9-478d-896d-b2304c2a5a59",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sticky-66e9fd8b-21d9-478d-896d-b2304c2a5a59",
-          "publishedOn": "2024-08-31T07:09:56.000Z",
-          "wordCount": 488,
-          "title": "Sticky!",
-          "imageUrl": "https://ph-files.imgix.net/7a49eeb4-4214-473b-99d8-06f522ec0a02.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/group-card-creator",
@@ -453,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hoody-ai",
           "publishedOn": "2024-08-22T04:03:38.000Z",
-          "wordCount": 442,
+          "wordCount": 395,
           "title": "Hoody AI",
           "imageUrl": "https://ph-files.imgix.net/58de315a-ee87-4ab2-afa0-97bd3aaad640.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
