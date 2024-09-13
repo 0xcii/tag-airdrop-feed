@@ -278,16 +278,6 @@
           "imageUrl": "https://ph-files.imgix.net/8f8c2a64-82d6-4dd3-aa5e-3314a841afc0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/airpods-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/airpods-4",
-          "publishedOn": "2024-09-10T06:43:58.000Z",
-          "wordCount": 868,
-          "title": "AirPods 4",
-          "imageUrl": "https://ph-files.imgix.net/2b8483e3-fadf-4e5c-aefc-ae8d063be6f3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/airbounce-for-mac",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -306,6 +296,16 @@
           "wordCount": 1171,
           "title": "Embedded Recording SDK by Velt",
           "imageUrl": "https://ph-files.imgix.net/0c0d0e41-1f4c-48ec-aaf3-c3fc0a403029.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/iphone-16",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/iphone-16",
+          "publishedOn": "2024-09-09T18:46:05.000Z",
+          "wordCount": 910,
+          "title": "iPhone 16",
+          "imageUrl": "https://ph-files.imgix.net/a6a2ec15-0dd4-4c67-b476-48e0b36ca1da.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/belstad",
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/thunderbit",
           "publishedOn": "2024-09-09T13:46:56.000Z",
-          "wordCount": 1017,
+          "wordCount": 1037,
           "title": "Thunderbit",
           "imageUrl": "https://ph-files.imgix.net/a560bd9b-5450-4e21-bcb4-303f8da4b641.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -468,6 +468,16 @@
           "imageUrl": "https://ph-files.imgix.net/d3c0f5a5-3c81-4309-a02b-34a023eb20fa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/hoop-83cf26a5-11cb-4a8c-a3e4-1e0ba27dadb0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/hoop-83cf26a5-11cb-4a8c-a3e4-1e0ba27dadb0",
+          "publishedOn": "2024-08-27T16:38:04.000Z",
+          "wordCount": 1145,
+          "title": "Hoop",
+          "imageUrl": "https://ph-files.imgix.net/f2812a1a-da49-481c-a19b-bb19cf0cb460.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/openengine-by-datazip",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -496,18 +506,14 @@
           "wordCount": 1014,
           "title": "Scripe",
           "imageUrl": "https://ph-files.imgix.net/55743204-cabb-406a-957f-70cf89456f90.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/carrot-care-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/carrot-care-2",
-          "publishedOn": "2024-08-16T14:58:10.000Z",
-          "wordCount": 1054,
-          "title": "Carrot Care",
-          "imageUrl": "https://ph-files.imgix.net/8a982472-9d23-4559-9329-789c6626d5ca.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
