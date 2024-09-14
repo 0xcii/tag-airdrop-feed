@@ -183,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vels",
           "publishedOn": "2024-09-12T00:18:29.000Z",
-          "wordCount": 964,
+          "wordCount": 983,
           "title": "VELS",
           "imageUrl": "https://ph-files.imgix.net/bedc6681-fae7-453b-9b8f-a1bad60456f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -278,6 +278,16 @@
           "imageUrl": "https://ph-files.imgix.net/fc76ae37-d857-47fe-b1e0-29787d185987.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/replit-agent",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/replit-agent",
+          "publishedOn": "2024-09-10T23:09:03.000Z",
+          "wordCount": 998,
+          "title": "Replit Agent",
+          "imageUrl": "https://ph-files.imgix.net/6ed85f23-a0a0-4f25-90d1-c77902e0c8ff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/subtracky",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -286,16 +296,6 @@
           "wordCount": 996,
           "title": "SubTracky",
           "imageUrl": "https://ph-files.imgix.net/cd4bc40f-f723-4fb7-bd55-b7ddfea7c63f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/textflex",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/textflex",
-          "publishedOn": "2024-09-10T18:16:36.000Z",
-          "wordCount": 994,
-          "title": "TextFlex",
-          "imageUrl": "https://ph-files.imgix.net/9785d90a-e7db-4f28-8958-4c6eda4b6312.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/fit-ai",
@@ -408,6 +408,16 @@
           "imageUrl": "https://ph-files.imgix.net/853877c2-633d-4764-8021-fa8b5bffac3d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/genkin",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/genkin",
+          "publishedOn": "2024-09-06T17:27:06.000Z",
+          "wordCount": 856,
+          "title": "Genkin",
+          "imageUrl": "https://ph-files.imgix.net/ced95553-53bd-47e3-aa96-f9ed1ae330c7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ouro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -448,16 +458,6 @@
           "imageUrl": "https://ph-files.imgix.net/fabd2eb2-da19-468c-ba15-551ab19e7eaf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/command-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/command-ai",
-          "publishedOn": "2024-09-05T18:51:36.000Z",
-          "wordCount": 1104,
-          "title": "Command AI",
-          "imageUrl": "https://ph-files.imgix.net/8fdde5c0-7fb4-41e3-a5f3-53ad2ab28114.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/sparky-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -493,7 +493,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/minute-3",
           "publishedOn": "2024-09-01T08:42:38.000Z",
-          "wordCount": 1080,
+          "wordCount": 1081,
           "title": "Minute",
           "imageUrl": "https://ph-files.imgix.net/3db35284-194a-4ac9-81b3-4aa4828cbbae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -508,6 +508,12 @@
           "imageUrl": "https://ph-files.imgix.net/5d1e38a8-109e-4aec-a7b2-32d5e21f2eb0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
