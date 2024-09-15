@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/fusioncalc-memo-calculator-for-chrome",
@@ -173,7 +173,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openai-o1",
           "publishedOn": "2024-09-12T17:49:04.000Z",
-          "wordCount": 967,
+          "wordCount": 968,
           "title": "OpenAI o1",
           "imageUrl": "https://ph-files.imgix.net/40db3750-2b90-4346-9e0b-202b26f37ca8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -318,6 +318,16 @@
           "imageUrl": "https://ph-files.imgix.net/02c04783-cfac-49ba-82c2-58a52008566c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/youform",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/youform",
+          "publishedOn": "2024-09-11T15:02:54.000Z",
+          "wordCount": 879,
+          "title": "Youform",
+          "imageUrl": "https://ph-files.imgix.net/68a3b67c-ceb7-46a0-9ecc-aa584ae15e46.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/foundation-1cd06cfe-657f-4cdb-a9e0-014111982a0f",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -348,16 +358,6 @@
           "imageUrl": "https://ph-files.imgix.net/e61c63da-516d-465c-8ef8-3187436efbb3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/fujiyama",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/fujiyama",
-          "publishedOn": "2024-09-11T08:36:24.000Z",
-          "wordCount": 1025,
-          "title": "Fujiyama",
-          "imageUrl": "https://ph-files.imgix.net/31fd6521-142d-44f7-bd16-2c1da8711903.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/selfplanr",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -366,16 +366,6 @@
           "wordCount": 1288,
           "title": "Selfplanr",
           "imageUrl": "https://ph-files.imgix.net/fc76ae37-d857-47fe-b1e0-29787d185987.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/pantry-aid",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pantry-aid",
-          "publishedOn": "2024-09-10T14:13:07.000Z",
-          "wordCount": 1125,
-          "title": "Pantry AId",
-          "imageUrl": "https://ph-files.imgix.net/ebf0aa57-de83-4d89-be92-56fe844dede2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/airbounce-for-mac",
@@ -436,6 +426,16 @@
           "wordCount": 1072,
           "title": "Ouro",
           "imageUrl": "https://ph-files.imgix.net/87f88741-066f-453e-905b-692b359112ed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/scrap-io-maps-connect",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/scrap-io-maps-connect",
+          "publishedOn": "2024-09-06T13:16:49.000Z",
+          "wordCount": 1157,
+          "title": "Scrap.io Maps Connect",
+          "imageUrl": "https://ph-files.imgix.net/7b04b6a9-6f1c-43d1-9aa6-51700a5d601a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/mindz-mind-mapping",
