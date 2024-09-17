@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cracked-yc-s24",
           "publishedOn": "2024-09-16T04:03:18.000Z",
-          "wordCount": 928,
+          "wordCount": 945,
           "title": "Cracked (YC S24)",
           "imageUrl": "https://ph-files.imgix.net/769a9722-a173-4351-9d23-76e27951052f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -238,16 +238,6 @@
           "imageUrl": "https://ph-files.imgix.net/4d117dee-93ab-470b-9aa0-88ef14f6b8eb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/openai-o1",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/openai-o1",
-          "publishedOn": "2024-09-12T17:49:04.000Z",
-          "wordCount": 970,
-          "title": "OpenAI o1",
-          "imageUrl": "https://ph-files.imgix.net/40db3750-2b90-4346-9e0b-202b26f37ca8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/onsyvoit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -316,6 +306,16 @@
           "wordCount": 988,
           "title": "DateReady",
           "imageUrl": "https://ph-files.imgix.net/f4d05c2b-5ce8-4641-9525-d8a49989de24.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/aiphone-ai-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/aiphone-ai-3",
+          "publishedOn": "2024-09-11T09:11:22.000Z",
+          "wordCount": 1003,
+          "title": "AIPhone.AI",
+          "imageUrl": "https://ph-files.imgix.net/1485d38f-2168-4cf1-abba-aa826df30fca.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/selfplanr",
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ubicloud-yc-w24",
           "publishedOn": "2024-09-05T11:39:00.000Z",
-          "wordCount": 1246,
+          "wordCount": 1247,
           "title": "Ubicloud (YC W24)",
           "imageUrl": "https://ph-files.imgix.net/aa7c6c1c-4163-408b-aeae-fdc3b7069a46.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -488,12 +488,6 @@
           "imageUrl": "https://ph-files.imgix.net/fb9d244a-c838-4cee-931a-988827265698.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
