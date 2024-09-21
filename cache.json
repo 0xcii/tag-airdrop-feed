@@ -18,12 +18,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/joycapture",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/joycapture",
+          "publishedOn": "2024-09-21T06:02:05.000Z",
+          "wordCount": 1721,
+          "title": "JoyCapture",
+          "imageUrl": "https://ph-files.imgix.net/e8300b96-84fc-413c-9e2a-77a4e38fb2f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/founder-mode-checker",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/founder-mode-checker",
           "publishedOn": "2024-09-20T23:22:40.000Z",
-          "wordCount": 2048,
+          "wordCount": 2051,
           "title": "Founder Mode Checker",
           "imageUrl": "https://ph-files.imgix.net/cf62251c-33b9-4d4e-b967-daf24518c0b4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/voz-ai-voice-note-taker",
           "publishedOn": "2024-09-20T19:30:19.000Z",
-          "wordCount": 1826,
+          "wordCount": 1829,
           "title": "Voz AI Voice Note Taker",
           "imageUrl": "https://ph-files.imgix.net/517955a7-c4a8-479d-a545-23b280a86a58.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/powercharts",
           "publishedOn": "2024-09-20T13:02:55.000Z",
-          "wordCount": 1671,
+          "wordCount": 1674,
           "title": "PowerCharts",
           "imageUrl": "https://ph-files.imgix.net/3ece84e2-f685-46c7-aa82-9cfc2392ecf7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -63,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lyrcs",
           "publishedOn": "2024-09-20T11:10:49.000Z",
-          "wordCount": 1403,
+          "wordCount": 1396,
           "title": "Lyrcs",
           "imageUrl": "https://ph-files.imgix.net/9c1743e7-951b-4455-b8f1-dc051fc96b0b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -73,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lazyva",
           "publishedOn": "2024-09-20T08:24:35.000Z",
-          "wordCount": 1446,
+          "wordCount": 1449,
           "title": "Lazyva",
           "imageUrl": "https://ph-files.imgix.net/debad2d8-3ca5-4dbf-8c3b-4f80b1bb8f5b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -83,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/polyplan-2",
           "publishedOn": "2024-09-20T07:04:42.000Z",
-          "wordCount": 1748,
+          "wordCount": 1751,
           "title": "PolyPlan",
           "imageUrl": "https://ph-files.imgix.net/bd88d1ad-b75c-4949-a7c2-ec6fbf294769.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tplanz",
           "publishedOn": "2024-09-20T03:22:52.000Z",
-          "wordCount": 2027,
+          "wordCount": 2030,
           "title": "TPlanz",
           "imageUrl": "https://ph-files.imgix.net/c1f03758-0a2a-4939-ad40-8228124ff6ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -293,7 +303,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/qa-compass",
           "publishedOn": "2024-09-17T12:09:36.000Z",
-          "wordCount": 1313,
+          "wordCount": 1285,
           "title": "QA Compass",
           "imageUrl": "https://ph-files.imgix.net/1f183b18-0880-42b1-be1e-133a412047f9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -383,7 +393,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/future-agi",
           "publishedOn": "2024-09-16T10:38:37.000Z",
-          "wordCount": 1966,
+          "wordCount": 1994,
           "title": "Future AGI",
           "imageUrl": "https://ph-files.imgix.net/f8948f05-b5e9-4ddc-9ebf-1d4b980bd9a2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -416,16 +426,6 @@
           "wordCount": 1792,
           "title": "tonari",
           "imageUrl": "https://ph-files.imgix.net/5469ea86-a983-41a7-aaca-ad02861b4079.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/creem-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/creem-2",
-          "publishedOn": "2024-09-15T16:53:04.000Z",
-          "wordCount": 2502,
-          "title": "Creem",
-          "imageUrl": "https://ph-files.imgix.net/00d7d15a-fee9-4234-94fb-68520d0f5f6b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/there-2",
