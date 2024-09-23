@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/empty-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/empty-2-0",
+          "publishedOn": "2024-09-23T06:20:31.000Z",
+          "wordCount": 1142,
+          "title": "Empty 2.0",
+          "imageUrl": "https://ph-files.imgix.net/3950d2cc-eb45-45ad-99b6-eb80addaab6b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/vibrantsnap-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -113,9 +123,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/powercharts",
           "publishedOn": "2024-09-20T13:02:55.000Z",
-          "wordCount": 1668,
+          "wordCount": null,
           "title": "PowerCharts",
-          "imageUrl": "https://ph-files.imgix.net/3ece84e2-f685-46c7-aa82-9cfc2392ecf7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://www.producthunt.com/posts/coursezy",
@@ -213,9 +223,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/brzzy-weather",
           "publishedOn": "2024-09-19T17:30:15.000Z",
-          "wordCount": 2113,
+          "wordCount": null,
           "title": "Brzzy Weather",
-          "imageUrl": "https://ph-files.imgix.net/7f0f6086-305a-4b86-b910-bbbaf18c67d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://www.producthunt.com/posts/linear-mobile-2",
@@ -293,9 +303,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pagico-95979674-f9cb-4b6f-b240-02f170679841",
           "publishedOn": "2024-09-18T15:18:20.000Z",
-          "wordCount": 1664,
+          "wordCount": null,
           "title": "Pagico",
-          "imageUrl": "https://ph-files.imgix.net/ab6b5797-4f79-434f-97bd-a127b0a78515.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://www.producthunt.com/posts/ui-replicator",
@@ -333,9 +343,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/donzo-recorder",
           "publishedOn": "2024-09-17T16:43:50.000Z",
-          "wordCount": 1826,
+          "wordCount": null,
           "title": "Donzo Recorder",
-          "imageUrl": "https://ph-files.imgix.net/5fdac321-872c-4f73-8f36-498af9a5e35a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://www.producthunt.com/posts/crumb-3",
@@ -358,16 +368,6 @@
           "imageUrl": "https://ph-files.imgix.net/caa8e370-4e92-470c-a60d-6ee0e0a07289.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/devlogs-gg",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/devlogs-gg",
-          "publishedOn": "2024-09-16T13:39:55.000Z",
-          "wordCount": 1964,
-          "title": "devlogs.gg",
-          "imageUrl": "https://ph-files.imgix.net/7cae8c64-0a09-4dfc-8999-1fd3eb78620f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/future-agi",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -383,7 +383,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/feedmio",
           "publishedOn": "2024-09-16T08:14:22.000Z",
-          "wordCount": 1618,
+          "wordCount": 1628,
           "title": "Feedmio",
           "imageUrl": "https://ph-files.imgix.net/87b2c93d-8e93-4690-a18d-d4638726a607.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,9 +453,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rtranslator-2",
           "publishedOn": "2024-09-08T13:02:27.000Z",
-          "wordCount": 2121,
+          "wordCount": null,
           "title": "RTranslator",
-          "imageUrl": "https://ph-files.imgix.net/b542c5c9-4c39-4110-a78d-1bd19a8fcf1f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": null
         },
         {
           "id": "https://www.producthunt.com/posts/done-6",
