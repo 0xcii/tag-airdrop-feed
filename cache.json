@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/polymet-yc-s24",
           "publishedOn": "2024-09-23T21:50:57.000Z",
-          "wordCount": 1685,
+          "wordCount": 1680,
           "title": "Polymet (YC S24)",
           "imageUrl": "https://ph-files.imgix.net/2305dee7-9185-4ac6-9173-0b994c27dda0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nuvio",
           "publishedOn": "2024-09-23T09:10:21.000Z",
-          "wordCount": 1968,
+          "wordCount": 1971,
           "title": "Nuvio",
           "imageUrl": "https://ph-files.imgix.net/f0a1de41-2527-41e4-9413-79e9fa4f2054.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -103,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mount-fitness",
           "publishedOn": "2024-09-22T19:05:43.000Z",
-          "wordCount": 1827,
+          "wordCount": 1855,
           "title": "Mount Fitness",
           "imageUrl": "https://ph-files.imgix.net/d3902966-6493-4183-ac7d-b1141c201280.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -168,6 +168,16 @@
           "imageUrl": "https://ph-files.imgix.net/00ab9d1b-8e9c-4376-83d7-ffe200de5514.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/joycapture",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/joycapture",
+          "publishedOn": "2024-09-21T06:02:05.000Z",
+          "wordCount": 1718,
+          "title": "JoyCapture",
+          "imageUrl": "https://ph-files.imgix.net/e8300b96-84fc-413c-9e2a-77a4e38fb2f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/socialsignal-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -196,16 +206,6 @@
           "wordCount": 1779,
           "title": "Apply AI",
           "imageUrl": "https://ph-files.imgix.net/2f50d6fd-c3cb-4873-bf3f-eb516474b23b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/powercharts",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/powercharts",
-          "publishedOn": "2024-09-20T13:02:55.000Z",
-          "wordCount": 1668,
-          "title": "PowerCharts",
-          "imageUrl": "https://ph-files.imgix.net/3ece84e2-f685-46c7-aa82-9cfc2392ecf7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/coursezy",
@@ -248,16 +248,6 @@
           "imageUrl": "https://ph-files.imgix.net/3c1ac37d-814d-4b2c-bbf4-4e840e9a0337.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/lazyva",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/lazyva",
-          "publishedOn": "2024-09-20T08:24:35.000Z",
-          "wordCount": 1446,
-          "title": "Lazyva",
-          "imageUrl": "https://ph-files.imgix.net/debad2d8-3ca5-4dbf-8c3b-4f80b1bb8f5b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/polyplan-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -288,6 +278,16 @@
           "imageUrl": "https://ph-files.imgix.net/59688fed-69cc-4ef0-8e21-a472efcec0f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/tplanz",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tplanz",
+          "publishedOn": "2024-09-20T03:22:52.000Z",
+          "wordCount": 2030,
+          "title": "TPlanz",
+          "imageUrl": "https://ph-files.imgix.net/c1f03758-0a2a-4939-ad40-8228124ff6ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/bookselects",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -313,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kanai",
           "publishedOn": "2024-09-19T03:45:02.000Z",
-          "wordCount": 2455,
+          "wordCount": 2458,
           "title": "Kanai",
           "imageUrl": "https://ph-files.imgix.net/72e8db30-41a2-4f6b-96b2-372d8f1da6ca.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/small-hours",
           "publishedOn": "2024-09-12T17:36:25.000Z",
-          "wordCount": 2020,
+          "wordCount": 2023,
           "title": "Small Hours",
           "imageUrl": "https://ph-files.imgix.net/7a9185ca-af34-4786-ae91-636f042a2eae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -483,7 +483,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pinmy-2",
           "publishedOn": "2024-09-05T10:03:14.000Z",
-          "wordCount": 2277,
+          "wordCount": 2299,
           "title": "PinMy",
           "imageUrl": "https://ph-files.imgix.net/94f9422e-b9bd-49ec-890a-aa243de19379.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
