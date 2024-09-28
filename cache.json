@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/kodan",
@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kodan",
           "publishedOn": "2024-09-28T01:05:37.000Z",
-          "wordCount": 1248,
+          "wordCount": 1238,
           "title": "Kōdan",
           "imageUrl": "https://ph-files.imgix.net/da054fa6-baa8-4e7f-837d-61b5823c0543.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -203,7 +203,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/diff-text",
           "publishedOn": "2024-09-25T20:21:10.000Z",
-          "wordCount": 1656,
+          "wordCount": 1646,
           "title": "Diff Text",
           "imageUrl": "https://ph-files.imgix.net/cda51c0c-a2e0-44b3-9fd6-a6eb191054aa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -223,7 +223,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cheffie",
           "publishedOn": "2024-09-25T17:41:09.000Z",
-          "wordCount": 2008,
+          "wordCount": 1998,
           "title": "Cheffie",
           "imageUrl": "https://ph-files.imgix.net/4bab9ef6-e4ff-4574-823a-d89b1420d41a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -263,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hubform",
           "publishedOn": "2024-09-25T10:18:56.000Z",
-          "wordCount": 1721,
+          "wordCount": 1711,
           "title": "Hubform",
           "imageUrl": "https://ph-files.imgix.net/88c79ba0-4fb6-4596-ba64-a9ae0c00c563.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -313,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/y-pod",
           "publishedOn": "2024-09-24T08:34:14.000Z",
-          "wordCount": 1978,
+          "wordCount": 1968,
           "title": "Y-Pod",
           "imageUrl": "https://ph-files.imgix.net/be6863bb-d7b0-4f58-85fb-3bfa330763a6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ayraa-2-0",
           "publishedOn": "2024-09-21T02:32:44.000Z",
-          "wordCount": 1651,
+          "wordCount": 1641,
           "title": "ayraa 2.0",
           "imageUrl": "https://ph-files.imgix.net/cbaf8cc2-f937-4d36-a6c3-7c86c50850d2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -443,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/north-3",
           "publishedOn": "2024-09-16T16:11:19.000Z",
-          "wordCount": 2365,
+          "wordCount": 2355,
           "title": "North",
           "imageUrl": "https://ph-files.imgix.net/c52e545d-974d-47f0-9b22-53ae947d03fa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -483,17 +483,11 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/podsnap-ai",
           "publishedOn": "2024-08-30T10:25:56.000Z",
-          "wordCount": 2040,
+          "wordCount": 2037,
           "title": "PodSnap.AI",
           "imageUrl": "https://ph-files.imgix.net/e0cd6eac-615b-4362-80dc-166cc5ef46a5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
