@@ -123,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/url2tailwind",
           "publishedOn": "2024-09-27T06:05:51.000Z",
-          "wordCount": 1342,
+          "wordCount": 1309,
           "title": "URL2Tailwind",
           "imageUrl": "https://ph-files.imgix.net/eb059652-056c-4ed9-83a8-4096c7870203.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -443,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/north-3",
           "publishedOn": "2024-09-16T16:11:19.000Z",
-          "wordCount": 2388,
+          "wordCount": 2355,
           "title": "North",
           "imageUrl": "https://ph-files.imgix.net/c52e545d-974d-47f0-9b22-53ae947d03fa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -480,21 +480,10 @@
       ]
     },
     {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1831411316604772514",
-          "author": "Drops Earn",
-          "description": "💧New events on http://DropsEarn.com\n✔️.@defund_finance  Ambassador Program \n✔️.@0xSonicLabs  Bounty Program \n✔️.@nillionnetwork  Testnet Verifier Program \n🌐 http://dropsearn.com",
-          "link": "https://x.com/DropsEarn/status/1831411316604772514",
-          "publishedOn": "2024-09-04T19:17:38.000Z",
-          "wordCount": 6,
-          "title": "💧New events on http://DropsEarn.com ✔️.@defund_finance Ambassador Program ✔️.@0xSonicLabs Bounty Program ✔️.@nillionnetwork Testnet Verifier ...",
-          "imageUrl": null
-        }
-      ]
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
