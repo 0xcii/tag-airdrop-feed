@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tailwind-sync",
           "publishedOn": "2024-09-30T11:59:48.000Z",
-          "wordCount": 1586,
+          "wordCount": 1583,
           "title": "Tailwind Sync",
           "imageUrl": "https://ph-files.imgix.net/6fde2adf-44d9-4ede-88a2-08eff688d6f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/buildpad",
           "publishedOn": "2024-09-28T05:26:30.000Z",
-          "wordCount": 1838,
+          "wordCount": 1871,
           "title": "Buildpad",
           "imageUrl": "https://ph-files.imgix.net/a647499e-6d25-43bf-8be6-ba786c27b93c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/video-sdk-3-0",
           "publishedOn": "2024-09-25T10:10:55.000Z",
-          "wordCount": 1838,
+          "wordCount": 1819,
           "title": "Video SDK 3.0",
           "imageUrl": "https://ph-files.imgix.net/21e8565c-94aa-448c-9c16-f4e8145702a4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -356,16 +356,6 @@
           "wordCount": 2396,
           "title": "Antiquoted",
           "imageUrl": "https://ph-files.imgix.net/96ddaa97-e1ad-4f2e-9649-08fdb1ad717f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/panda-etl",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/panda-etl",
-          "publishedOn": "2024-09-24T06:59:22.000Z",
-          "wordCount": 1818,
-          "title": "panda{·}etl",
-          "imageUrl": "https://ph-files.imgix.net/c3cc6f69-14c2-4353-87b4-9bd9cb9b4671.svg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/temperstack",
@@ -413,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/graphite-reviewer",
           "publishedOn": "2024-09-20T16:34:25.000Z",
-          "wordCount": 2226,
+          "wordCount": 2253,
           "title": "Graphite Reviewer",
           "imageUrl": "https://ph-files.imgix.net/f2c983c7-f453-4101-8172-36615e9ae48d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -494,43 +484,6 @@
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1834198789147476438",
-          "author": "Drops Earn",
-          "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n 🌐 https://dropsearn.com/airdrops",
-          "link": "https://x.com/DropsEarn/status/1834198789147476438",
-          "publishedOn": "2024-09-12T11:54:03.000Z",
-          "wordCount": 6,
-          "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com 🌐 https://dropsearn.com/air...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1833904344632262970",
-          "author": "Drops Earn",
-          "description": "💧 New event on http://DropsEarn.com\nStarHeroes Ambassadors Program Phase 1\n.@StarHeroes_game launched Phase 1 of the StarHeroes Ambassadors Program\n🌐 https://dropsearn.com/events/starheroes-ambassador-1",
-          "link": "https://x.com/DropsEarn/status/1833904344632262970",
-          "publishedOn": "2024-09-11T16:24:02.000Z",
-          "wordCount": 6,
-          "title": "💧 New event on http://DropsEarn.com StarHeroes Ambassadors Program Phase 1 .@StarHeroes_game launched Phase 1 of the StarHeroes Ambassadors Program...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1831411316604772514",
-          "author": "Drops Earn",
-          "description": "💧New events on http://DropsEarn.com\n✔️.@defund_finance  Ambassador Program \n✔️.@0xSonicLabs  Bounty Program \n✔️.@nillionnetwork  Testnet Verifier Program \n🌐 http://dropsearn.com",
-          "link": "https://x.com/DropsEarn/status/1831411316604772514",
-          "publishedOn": "2024-09-04T19:17:38.000Z",
-          "wordCount": 6,
-          "title": "💧New events on http://DropsEarn.com ✔️.@defund_finance Ambassador Program ✔️.@0xSonicLabs Bounty Program ✔️.@nillionnetwork Testnet Verifier ...",
-          "imageUrl": null
-        }
-      ]
     }
   ],
   "cliVersion": "1.15.1"
