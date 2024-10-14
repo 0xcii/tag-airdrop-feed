@@ -26,7 +26,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/pumpanomics",
@@ -74,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sheetbot-ai",
           "publishedOn": "2024-10-14T02:05:34.000Z",
-          "wordCount": 1817,
+          "wordCount": 1784,
           "title": "SheetBot AI",
           "imageUrl": "https://ph-files.imgix.net/91c26bd5-737f-4b9f-a42a-479d4180c243.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -299,6 +299,16 @@
           "imageUrl": "https://ph-files.imgix.net/57c0e6c9-33ce-4d60-b876-e8205d3c3f3c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/fillout-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fillout-2-0",
+          "publishedOn": "2024-10-11T03:19:26.000Z",
+          "wordCount": 1642,
+          "title": "Fillout 2.0",
+          "imageUrl": "https://ph-files.imgix.net/52bbeb68-fe81-4933-b87d-1b5d0f710212.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/better-off",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -379,16 +389,6 @@
           "imageUrl": "https://ph-files.imgix.net/3e87a8ae-dd6a-4287-a156-c079a048393f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/flowbite-wysiwyg",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/flowbite-wysiwyg",
-          "publishedOn": "2024-10-10T06:58:50.000Z",
-          "wordCount": 1772,
-          "title": "Flowbite WYSIWYG",
-          "imageUrl": "https://ph-files.imgix.net/e402b5fc-9dec-4a87-a855-6bb4bb412e95.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/pricing-table-builder",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/llmware",
           "publishedOn": "2024-10-02T20:51:05.000Z",
-          "wordCount": 1944,
+          "wordCount": 1953,
           "title": "LLMWare",
           "imageUrl": "https://ph-files.imgix.net/ea545899-f5da-4ad3-bb78-4cd8f4cc5816.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -504,7 +504,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wps-office-3",
           "publishedOn": "2024-09-18T06:18:16.000Z",
-          "wordCount": 1881,
+          "wordCount": 1885,
           "title": "WPS Office",
           "imageUrl": "https://ph-files.imgix.net/836fe6f8-ac51-413d-a9cf-348ecbcd8fd2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
