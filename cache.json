@@ -39,6 +39,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/airtable-productcentral",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/airtable-productcentral",
+          "publishedOn": "2024-10-16T17:35:26.000Z",
+          "wordCount": 1788,
+          "title": "Airtable ProductCentral",
+          "imageUrl": "https://ph-files.imgix.net/4e65e001-a2cc-4e68-a864-07c3e7d0dfb0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/focus-buddy",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -114,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pan-php",
           "publishedOn": "2024-10-15T10:20:26.000Z",
-          "wordCount": 1745,
+          "wordCount": 1712,
           "title": "Pan PHP",
           "imageUrl": "https://ph-files.imgix.net/e6bba8ec-f720-479d-8fb2-8a4f97a9012e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -379,16 +389,6 @@
           "imageUrl": "https://ph-files.imgix.net/93ac915f-744b-4875-9b91-59b52a4041ce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/better-off",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/better-off",
-          "publishedOn": "2024-10-11T01:52:27.000Z",
-          "wordCount": 1908,
-          "title": "Better Off",
-          "imageUrl": "https://ph-files.imgix.net/d26753dc-8ad4-41ef-bed2-46e6992ed1c5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/amplitude-web-experimentation",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -509,12 +509,6 @@
           "imageUrl": "https://ph-files.imgix.net/e1e1b548-19e8-41e5-82b8-21e539652c1b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
