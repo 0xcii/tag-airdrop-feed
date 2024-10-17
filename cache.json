@@ -11,7 +11,7 @@
           "description": "Our profile page: https://link3.to/deficalendar",
           "link": "https://medium.com/@CalendarDefi/depin-ai-projects-gradient-nexus-and-vana-d1eca597a87d?source=rss-4949be3a0c7a------2",
           "publishedOn": "2024-10-15T22:31:36.000Z",
-          "wordCount": 998,
+          "wordCount": 997,
           "title": "DePIN & AI Projects — Gradient, Nexus and Vana",
           "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*suIGlznM2aMpgaiZ11Vxaw.png"
         },
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dji-air-3s",
           "publishedOn": "2024-10-15T13:31:48.000Z",
-          "wordCount": 1525,
+          "wordCount": 1522,
           "title": "DJI Air 3S",
           "imageUrl": "https://ph-files.imgix.net/0fe97215-d233-4cfd-972f-960ad9895c6a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -319,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/3ec16990-1d70-42bb-9da3-edb7071a5a60.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/gem-6031f563-beee-41c5-a6c4-34258c6b8ab7",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/gem-6031f563-beee-41c5-a6c4-34258c6b8ab7",
-          "publishedOn": "2024-10-14T04:34:09.000Z",
-          "wordCount": 1719,
-          "title": "Gem",
-          "imageUrl": "https://ph-files.imgix.net/1f7ec9ac-2433-4607-88d4-73d93e2b245f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/commandfor",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -347,6 +337,16 @@
           "wordCount": 1518,
           "title": "aPulse",
           "imageUrl": "https://ph-files.imgix.net/b3de38bc-c9b1-4a13-ba40-1a0271c33a03.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/swell-f3d50cba-8f2e-4608-97d5-41322eb13733",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/swell-f3d50cba-8f2e-4608-97d5-41322eb13733",
+          "publishedOn": "2024-10-12T09:41:32.000Z",
+          "wordCount": 1725,
+          "title": "Swell",
+          "imageUrl": "https://ph-files.imgix.net/2e372191-176d-4dda-809e-7e5abc676909.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/onlyshortcuts",
@@ -494,7 +494,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/scrintal",
           "publishedOn": "2024-09-20T13:26:21.000Z",
-          "wordCount": 2018,
+          "wordCount": 2051,
           "title": "Scrintal",
           "imageUrl": "https://ph-files.imgix.net/66b0af9b-94b9-4d7e-81ab-3264bf1d1ffd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -509,6 +509,18 @@
           "imageUrl": "https://ph-files.imgix.net/e1e1b548-19e8-41e5-82b8-21e539652c1b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
