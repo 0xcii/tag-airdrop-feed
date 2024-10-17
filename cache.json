@@ -94,7 +94,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/prismy-2",
           "publishedOn": "2024-10-16T15:21:38.000Z",
-          "wordCount": 1854,
+          "wordCount": 1827,
           "title": "Prismy",
           "imageUrl": "https://ph-files.imgix.net/8466e721-7e87-469f-a63b-4c2ddab3d587.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -199,22 +199,12 @@
           "imageUrl": "https://ph-files.imgix.net/4ce7b1fb-b0ba-4c03-ab78-772162524454.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/unwind-3-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/unwind-3-0",
-          "publishedOn": "2024-10-15T15:24:28.000Z",
-          "wordCount": 1947,
-          "title": "Unwind 3.0",
-          "imageUrl": "https://ph-files.imgix.net/c3c234e2-0948-4a64-847f-776618f13766.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/homebatteries-for-homekit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/homebatteries-for-homekit",
           "publishedOn": "2024-10-15T14:25:19.000Z",
-          "wordCount": 1934,
+          "wordCount": 1931,
           "title": "HomeBatteries for HomeKit",
           "imageUrl": "https://ph-files.imgix.net/d0350564-a03e-4076-8b58-4b6fd58fb6ef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -304,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/highperformr-for-teams-1",
           "publishedOn": "2024-10-15T05:18:53.000Z",
-          "wordCount": 2076,
+          "wordCount": 2101,
           "title": "Highperformr for Teams",
           "imageUrl": "https://ph-files.imgix.net/d39a6be6-c989-4a0d-bde3-c4d80bbdd008.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -364,9 +354,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ghostedd",
           "publishedOn": "2024-10-14T09:34:51.000Z",
-          "wordCount": 1332,
+          "wordCount": 1299,
           "title": "Ghostedd",
           "imageUrl": "https://ph-files.imgix.net/d847ede8-6362-4cd5-b757-bc4f98f353e0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/outset-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/outset-2",
+          "publishedOn": "2024-10-14T08:08:11.000Z",
+          "wordCount": 2395,
+          "title": "Outset",
+          "imageUrl": "https://ph-files.imgix.net/03607fdb-5ba4-4574-bfe2-fd193ed5c7c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/share-split",
@@ -394,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kick-3",
           "publishedOn": "2024-10-12T02:31:28.000Z",
-          "wordCount": 1973,
+          "wordCount": 2006,
           "title": "Kick",
           "imageUrl": "https://ph-files.imgix.net/fd942612-457e-4fa3-b918-6551acb8b224.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nango-auth",
           "publishedOn": "2024-10-09T09:54:57.000Z",
-          "wordCount": 1420,
+          "wordCount": 1390,
           "title": "Nango Auth",
           "imageUrl": "https://ph-files.imgix.net/7e779d24-f9cc-455a-85f2-88930f30835d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -484,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/codeant-ai-2",
           "publishedOn": "2024-10-02T16:56:31.000Z",
-          "wordCount": 2099,
+          "wordCount": 2111,
           "title": "CodeAnt AI",
           "imageUrl": "https://ph-files.imgix.net/fafe270f-65c9-44c0-b7ba-7cfd6be8a5c6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -514,12 +514,6 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
