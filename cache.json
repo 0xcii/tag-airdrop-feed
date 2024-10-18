@@ -36,8 +36,18 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/airport-lounge-list",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/airport-lounge-list",
+          "publishedOn": "2024-10-18T06:17:26.000Z",
+          "wordCount": 1826,
+          "title": "Airport Lounge List",
+          "imageUrl": "https://ph-files.imgix.net/468b2cbd-8715-4743-bcfb-b79aedb934ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/dynamic-grids-for-davinci-resolve",
           "author": null,
@@ -54,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cpm-newsletter-ads-by-beehiiv",
           "publishedOn": "2024-10-18T00:54:03.000Z",
-          "wordCount": 1774,
+          "wordCount": 1762,
           "title": "CPM Newsletter Ads by beehiiv",
           "imageUrl": "https://ph-files.imgix.net/8900f2f6-9d89-44f5-9521-61c8418514a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jsx-design",
           "publishedOn": "2024-10-17T22:15:34.000Z",
-          "wordCount": 2010,
+          "wordCount": 2007,
           "title": "JSX.Design",
           "imageUrl": "https://ph-files.imgix.net/0225dc0b-553e-42f7-b4ff-f784c4769d9f.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -249,14 +259,14 @@
           "imageUrl": "https://ph-files.imgix.net/7257fe7a-3c30-4ed1-8a61-e58691f305bd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/seyftai",
+          "id": "https://www.producthunt.com/posts/dropbox-dash-for-business",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/seyftai",
-          "publishedOn": "2024-10-15T17:48:41.000Z",
-          "wordCount": 1891,
-          "title": "SeyftAI",
-          "imageUrl": "https://ph-files.imgix.net/cd8e70c8-ec9b-4dfe-b8a5-53ca0a0bea68.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/dropbox-dash-for-business",
+          "publishedOn": "2024-10-15T17:40:37.000Z",
+          "wordCount": 1795,
+          "title": "Dropbox Dash for Business",
+          "imageUrl": "https://ph-files.imgix.net/4ce7b1fb-b0ba-4c03-ab78-772162524454.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/homebatteries-for-homekit",
@@ -277,6 +287,16 @@
           "wordCount": 1522,
           "title": "DJI Air 3S",
           "imageUrl": "https://ph-files.imgix.net/0fe97215-d233-4cfd-972f-960ad9895c6a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/schemamap-io",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/schemamap-io",
+          "publishedOn": "2024-10-15T11:02:07.000Z",
+          "wordCount": 1806,
+          "title": "Schemamap.io",
+          "imageUrl": "https://ph-files.imgix.net/8038ca44-995f-499e-97ee-47b270e6c4ac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/microsoft-azure-video-translation-api",
@@ -349,16 +369,6 @@
           "imageUrl": "https://ph-files.imgix.net/bff336a5-cc28-4d04-b39a-95eb1d515ffb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/wandpen",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/wandpen",
-          "publishedOn": "2024-10-14T11:03:59.000Z",
-          "wordCount": 1222,
-          "title": "Wandpen",
-          "imageUrl": "https://ph-files.imgix.net/f0354906-f72e-41a0-9536-7dba01ce1f0d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/outset-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -394,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kyzon-space",
           "publishedOn": "2024-10-12T03:01:12.000Z",
-          "wordCount": 1900,
+          "wordCount": 1933,
           "title": "KYZON Space",
           "imageUrl": "https://ph-files.imgix.net/beb6ae4b-54d2-42f5-8d3e-df16bcf1167c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -409,16 +419,6 @@
           "imageUrl": "https://ph-files.imgix.net/fd942612-457e-4fa3-b918-6551acb8b224.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/buildnplay",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/buildnplay",
-          "publishedOn": "2024-10-11T02:01:56.000Z",
-          "wordCount": 1877,
-          "title": "BuildnPlay",
-          "imageUrl": "https://ph-files.imgix.net/93ac915f-744b-4875-9b91-59b52a4041ce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/amplitude-web-experimentation",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -427,16 +427,6 @@
           "wordCount": 2115,
           "title": "Amplitude Web Experimentation",
           "imageUrl": "https://ph-files.imgix.net/4a781ec8-8da7-418d-8941-236d231c8cc6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/burogu-pro",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/burogu-pro",
-          "publishedOn": "2024-10-10T08:38:25.000Z",
-          "wordCount": 2170,
-          "title": "BUROGU.pro",
-          "imageUrl": "https://ph-files.imgix.net/5515873c-b74a-4cb2-b295-3c7d15ae2dea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/nango-auth",
@@ -519,6 +509,12 @@
           "imageUrl": "https://ph-files.imgix.net/e847bcdc-57da-4f2e-8e6b-bcce85228c71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
