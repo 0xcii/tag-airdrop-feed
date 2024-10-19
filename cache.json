@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/kompad",
@@ -124,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jsx-design",
           "publishedOn": "2024-10-17T22:15:34.000Z",
-          "wordCount": 2004,
+          "wordCount": 2037,
           "title": "JSX.Design",
           "imageUrl": "https://ph-files.imgix.net/0225dc0b-553e-42f7-b4ff-f784c4769d9f.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -349,6 +349,16 @@
           "imageUrl": "https://ph-files.imgix.net/d39a6be6-c989-4a0d-bde3-c4d80bbdd008.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/podcast-genie",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/podcast-genie",
+          "publishedOn": "2024-10-14T15:07:09.000Z",
+          "wordCount": 1942,
+          "title": "Podcast Genie",
+          "imageUrl": "https://ph-files.imgix.net/725f86cf-5e27-4b8b-a215-baa998ab232d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/inquisite",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -397,16 +407,6 @@
           "wordCount": 1897,
           "title": "KYZON Space",
           "imageUrl": "https://ph-files.imgix.net/beb6ae4b-54d2-42f5-8d3e-df16bcf1167c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/kick-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/kick-3",
-          "publishedOn": "2024-10-12T02:31:28.000Z",
-          "wordCount": 1976,
-          "title": "Kick",
-          "imageUrl": "https://ph-files.imgix.net/fd942612-457e-4fa3-b918-6551acb8b224.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/heybounce-io",
@@ -489,12 +489,6 @@
           "imageUrl": "https://ph-files.imgix.net/e847bcdc-57da-4f2e-8e6b-bcce85228c71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
