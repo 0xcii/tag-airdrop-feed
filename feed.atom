@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-19T17:12:40.243Z</id>
+    <id>urn:2024-10-19T18:17:19.512Z</id>
     <title>web3::cave</title>
-    <updated>2024-10-19T17:12:40.243Z</updated>
+    <updated>2024-10-19T18:17:19.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -376,18 +376,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podcast Genie]]></title>
-        <id>https://www.producthunt.com/posts/podcast-genie</id>
-        <link href="https://www.producthunt.com/posts/podcast-genie"/>
-        <updated>2024-10-14T15:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inquisite]]></title>
         <id>https://www.producthunt.com/posts/inquisite</id>
         <link href="https://www.producthunt.com/posts/inquisite"/>
@@ -498,6 +486,18 @@
         <id>https://www.producthunt.com/posts/sagalabs-ai</id>
         <link href="https://www.producthunt.com/posts/sagalabs-ai"/>
         <updated>2024-10-09T10:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nango Auth]]></title>
+        <id>https://www.producthunt.com/posts/nango-auth</id>
+        <link href="https://www.producthunt.com/posts/nango-auth"/>
+        <updated>2024-10-09T09:54:57.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
