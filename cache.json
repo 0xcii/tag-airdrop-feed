@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kompad",
           "publishedOn": "2024-10-19T04:28:32.000Z",
-          "wordCount": 1932,
+          "wordCount": 1899,
           "title": "Kompad",
           "imageUrl": "https://ph-files.imgix.net/e479acc5-ddad-42b2-92fe-962d7a06a8f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/copy-repo",
           "publishedOn": "2024-10-19T02:44:20.000Z",
-          "wordCount": 1700,
+          "wordCount": 1667,
           "title": "Copy Repo",
           "imageUrl": "https://ph-files.imgix.net/bc458a7c-7608-4e43-a60e-38f84673971e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -279,6 +279,16 @@
           "imageUrl": "https://ph-files.imgix.net/f532ab8a-7818-4bc3-b511-ffdae19c0af2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/smart-invoices",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/smart-invoices",
+          "publishedOn": "2024-10-16T07:48:02.000Z",
+          "wordCount": 1934,
+          "title": "Smart Invoices",
+          "imageUrl": "https://ph-files.imgix.net/47dc69f4-3dd0-49fd-a8c8-8a3524d790fa.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ai-transformations-by-imagekit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -347,16 +357,6 @@
           "wordCount": 1866,
           "title": "Inquisite",
           "imageUrl": "https://ph-files.imgix.net/bff336a5-cc28-4d04-b39a-95eb1d515ffb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/outset-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/outset-2",
-          "publishedOn": "2024-10-14T08:08:11.000Z",
-          "wordCount": 2360,
-          "title": "Outset",
-          "imageUrl": "https://ph-files.imgix.net/03607fdb-5ba4-4574-bfe2-fd193ed5c7c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/share-split",
@@ -489,6 +489,12 @@
           "imageUrl": "https://ph-files.imgix.net/e847bcdc-57da-4f2e-8e6b-bcce85228c71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
