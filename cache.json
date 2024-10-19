@@ -184,7 +184,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/snowseo",
           "publishedOn": "2024-10-17T03:38:14.000Z",
-          "wordCount": 1997,
+          "wordCount": 2030,
           "title": "SnowSEO",
           "imageUrl": "https://ph-files.imgix.net/1cbbdf17-4ab4-4c09-a0cb-2af74cd3a30f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -229,16 +229,6 @@
           "imageUrl": "https://ph-files.imgix.net/8466e721-7e87-469f-a63b-4c2ddab3d587.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/marqly-3-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/marqly-3-0",
-          "publishedOn": "2024-10-16T15:06:53.000Z",
-          "wordCount": 1306,
-          "title": "Marqly 3.0",
-          "imageUrl": "https://ph-files.imgix.net/e8b503d1-1b3e-4429-9a58-1538cfc8cb9d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/convo-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -259,16 +249,6 @@
           "imageUrl": "https://ph-files.imgix.net/671ffd66-8772-401e-9fe9-ec2337a90952.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/is-my-phone-safe-in-london",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/is-my-phone-safe-in-london",
-          "publishedOn": "2024-10-16T09:33:23.000Z",
-          "wordCount": 2114,
-          "title": "Is My Phone Safe In London?",
-          "imageUrl": "https://ph-files.imgix.net/f532ab8a-7818-4bc3-b511-ffdae19c0af2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/smart-invoices",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -277,6 +257,16 @@
           "wordCount": 1934,
           "title": "Smart Invoices",
           "imageUrl": "https://ph-files.imgix.net/47dc69f4-3dd0-49fd-a8c8-8a3524d790fa.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ai-transformations-by-imagekit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-transformations-by-imagekit",
+          "publishedOn": "2024-10-16T02:15:14.000Z",
+          "wordCount": 1816,
+          "title": "AI Transformations by ImageKit",
+          "imageUrl": "https://ph-files.imgix.net/b2b8b2f5-13ce-432c-9a43-ffed83f34da7.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/homebatteries-for-homekit",
@@ -424,7 +414,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sagalabs-ai",
           "publishedOn": "2024-10-09T10:40:58.000Z",
-          "wordCount": 1707,
+          "wordCount": 1714,
           "title": "SagaLabs AI",
           "imageUrl": "https://ph-files.imgix.net/75794358-9f74-4fda-8fcc-5da28f2ab96d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -437,6 +427,16 @@
           "wordCount": 1384,
           "title": "Nango Auth",
           "imageUrl": "https://ph-files.imgix.net/7e779d24-f9cc-455a-85f2-88930f30835d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/feta",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/feta",
+          "publishedOn": "2024-10-07T07:52:26.000Z",
+          "wordCount": 1658,
+          "title": "Feta",
+          "imageUrl": "https://ph-files.imgix.net/bcd45dbd-586e-4f03-bce7-9e374499eaea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/hey-papaya",
@@ -489,6 +489,18 @@
           "imageUrl": "https://ph-files.imgix.net/e847bcdc-57da-4f2e-8e6b-bcce85228c71.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
