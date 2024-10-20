@@ -124,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/doday",
           "publishedOn": "2024-10-18T22:54:40.000Z",
-          "wordCount": 1714,
+          "wordCount": 1747,
           "title": "Doday",
           "imageUrl": "https://ph-files.imgix.net/cedfb3b8-664c-4a3e-8bb2-d218de848de5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -254,7 +254,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/snowseo",
           "publishedOn": "2024-10-17T03:38:14.000Z",
-          "wordCount": 1994,
+          "wordCount": 2027,
           "title": "SnowSEO",
           "imageUrl": "https://ph-files.imgix.net/1cbbdf17-4ab4-4c09-a0cb-2af74cd3a30f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -369,16 +369,6 @@
           "imageUrl": "https://ph-files.imgix.net/03607fdb-5ba4-4574-bfe2-fd193ed5c7c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tokencounter",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tokencounter",
-          "publishedOn": "2024-10-13T21:15:49.000Z",
-          "wordCount": 1809,
-          "title": "TokenCounter",
-          "imageUrl": "https://ph-files.imgix.net/af943cec-fed6-4904-9383-08a250e07c93.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/finaura",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -449,6 +439,16 @@
           "imageUrl": "https://ph-files.imgix.net/75794358-9f74-4fda-8fcc-5da28f2ab96d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/nango-auth",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/nango-auth",
+          "publishedOn": "2024-10-09T09:54:57.000Z",
+          "wordCount": 1384,
+          "title": "Nango Auth",
+          "imageUrl": "https://ph-files.imgix.net/7e779d24-f9cc-455a-85f2-88930f30835d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/feta",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -489,12 +489,6 @@
           "imageUrl": "https://ph-files.imgix.net/65dba490-cde8-4296-86db-3e466650bad8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
