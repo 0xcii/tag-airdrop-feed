@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/patchcue",
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trag",
           "publishedOn": "2024-10-20T23:14:03.000Z",
-          "wordCount": 2110,
+          "wordCount": 2113,
           "title": "Trag",
           "imageUrl": "https://ph-files.imgix.net/e96bdcbf-0179-4a0e-a07a-454b65bb02a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -269,16 +269,6 @@
           "imageUrl": "https://ph-files.imgix.net/d6ca162c-aff2-406a-a312-b911593bd057.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/nextpress-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/nextpress-2",
-          "publishedOn": "2024-10-17T17:29:20.000Z",
-          "wordCount": 1733,
-          "title": "NextPress",
-          "imageUrl": "https://ph-files.imgix.net/538fee63-16d6-45cb-8d12-c6c457c36ff4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tabtimer-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -317,6 +307,16 @@
           "wordCount": 1498,
           "title": "Caverna",
           "imageUrl": "https://ph-files.imgix.net/18934a26-fbb2-46a1-b8dc-6d5ad95e7039.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cleanmymac-9128a446-f0cb-4ad0-bed1-90ccceedbb2a",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/cleanmymac-9128a446-f0cb-4ad0-bed1-90ccceedbb2a",
+          "publishedOn": "2024-10-17T07:03:27.000Z",
+          "wordCount": 2378,
+          "title": "CleanMyMac",
+          "imageUrl": "https://ph-files.imgix.net/d93f6d35-6faa-413f-9914-b7a251b52160.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/llama-life-2",
