@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/patchcue",
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trag",
           "publishedOn": "2024-10-20T23:14:03.000Z",
-          "wordCount": 2143,
+          "wordCount": 2110,
           "title": "Trag",
           "imageUrl": "https://ph-files.imgix.net/e96bdcbf-0179-4a0e-a07a-454b65bb02a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -239,16 +239,6 @@
           "imageUrl": "https://ph-files.imgix.net/b44a79f4-1dc3-46c4-b086-c2d5becb837e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/airport-lounge-list",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/airport-lounge-list",
-          "publishedOn": "2024-10-18T06:17:26.000Z",
-          "wordCount": 1823,
-          "title": "Airport Lounge List",
-          "imageUrl": "https://ph-files.imgix.net/468b2cbd-8715-4743-bcfb-b79aedb934ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/dynamic-grids-for-davinci-resolve",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -257,6 +247,16 @@
           "wordCount": 1850,
           "title": "Dynamic Grids for DaVinci Resolve",
           "imageUrl": "https://ph-files.imgix.net/cba41338-63fa-4152-b63d-7a29e122c4f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/jsx-design",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/jsx-design",
+          "publishedOn": "2024-10-17T22:15:34.000Z",
+          "wordCount": 2004,
+          "title": "JSX.Design",
+          "imageUrl": "https://ph-files.imgix.net/0225dc0b-553e-42f7-b4ff-f784c4769d9f.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/devpilot-2",
@@ -274,7 +274,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nextpress-2",
           "publishedOn": "2024-10-17T17:29:20.000Z",
-          "wordCount": 1766,
+          "wordCount": 1733,
           "title": "NextPress",
           "imageUrl": "https://ph-files.imgix.net/538fee63-16d6-45cb-8d12-c6c457c36ff4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cloudsoul-devops-agent",
           "publishedOn": "2024-10-02T18:26:49.000Z",
-          "wordCount": 1633,
+          "wordCount": 1600,
           "title": "CloudSoul DevOps Agent",
           "imageUrl": "https://ph-files.imgix.net/794f854d-1dd0-4efb-bf04-63eba81bb0a5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
