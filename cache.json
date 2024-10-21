@@ -164,7 +164,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kompad",
           "publishedOn": "2024-10-19T04:28:32.000Z",
-          "wordCount": 2012,
+          "wordCount": 1979,
           "title": "Kompad",
           "imageUrl": "https://ph-files.imgix.net/e479acc5-ddad-42b2-92fe-962d7a06a8f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -249,6 +249,16 @@
           "imageUrl": "https://ph-files.imgix.net/cba41338-63fa-4152-b63d-7a29e122c4f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/jsx-design",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/jsx-design",
+          "publishedOn": "2024-10-17T22:15:34.000Z",
+          "wordCount": 2004,
+          "title": "JSX.Design",
+          "imageUrl": "https://ph-files.imgix.net/0225dc0b-553e-42f7-b4ff-f784c4769d9f.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/devpilot-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -267,16 +277,6 @@
           "wordCount": 2186,
           "title": "TabTimer",
           "imageUrl": "https://ph-files.imgix.net/3949bab3-5594-4374-b171-f408b3ebadac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/changeloger-for-wordpress",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/changeloger-for-wordpress",
-          "publishedOn": "2024-10-17T14:16:42.000Z",
-          "wordCount": 1931,
-          "title": "Changeloger for WordPress",
-          "imageUrl": "https://ph-files.imgix.net/19d44fc1-8f7c-46ee-bceb-f515189420c2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/tempo-14",
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cloudsoul-devops-agent",
           "publishedOn": "2024-10-02T18:26:49.000Z",
-          "wordCount": 1627,
+          "wordCount": 1594,
           "title": "CloudSoul DevOps Agent",
           "imageUrl": "https://ph-files.imgix.net/794f854d-1dd0-4efb-bf04-63eba81bb0a5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -469,6 +469,12 @@
           "imageUrl": "https://ph-files.imgix.net/f79e17d2-d171-4451-aab2-8c55d01d3ab3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
