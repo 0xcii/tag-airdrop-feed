@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/patchcue",
@@ -104,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/webifier-io",
           "publishedOn": "2024-10-20T09:36:08.000Z",
-          "wordCount": 1419,
+          "wordCount": 1389,
           "title": "Webifier.io",
           "imageUrl": "https://ph-files.imgix.net/65fdfbf2-c364-4141-8caf-b8c6e5e6c06f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -204,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/roozna",
           "publishedOn": "2024-10-18T18:31:23.000Z",
-          "wordCount": 1790,
+          "wordCount": 1793,
           "title": "Roozna",
           "imageUrl": "https://ph-files.imgix.net/bb19d356-3e71-407a-a01d-613eb9f86161.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -484,6 +484,12 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
