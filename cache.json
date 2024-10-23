@@ -354,7 +354,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pawz",
           "publishedOn": "2024-10-21T05:06:16.000Z",
-          "wordCount": 1839,
+          "wordCount": 1806,
           "title": "Pawz",
           "imageUrl": "https://ph-files.imgix.net/bf2d0d4a-905a-4881-bf99-eef09b953002.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -399,6 +399,16 @@
           "imageUrl": "https://ph-files.imgix.net/ceca31e4-c8e1-42f3-9dfa-073a1269e14b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/bestinterest-for-coparents",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/bestinterest-for-coparents",
+          "publishedOn": "2024-10-19T00:22:58.000Z",
+          "wordCount": 2224,
+          "title": "BestInterest for Coparents",
+          "imageUrl": "https://ph-files.imgix.net/efe0192e-c5df-448b-aa4d-b4faf1416417.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/aixblock-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -407,16 +417,6 @@
           "wordCount": 2146,
           "title": "AIxBlock",
           "imageUrl": "https://ph-files.imgix.net/76a0a96f-b265-4aad-81e8-76db0db6ca7d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/softr-for-notion",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/softr-for-notion",
-          "publishedOn": "2024-10-16T20:57:37.000Z",
-          "wordCount": 1993,
-          "title": "Softr for Notion",
-          "imageUrl": "https://ph-files.imgix.net/b64dd867-0400-4895-ab79-c6d4e489c6e3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/averi",
@@ -454,19 +454,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/medusa-2-0",
           "publishedOn": "2024-10-16T09:22:15.000Z",
-          "wordCount": 1773,
+          "wordCount": 1769,
           "title": "Medusa 2.0",
           "imageUrl": "https://ph-files.imgix.net/2e099377-e88d-4236-be5e-2ef2a6005fc0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/getyoursize-app",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/getyoursize-app",
-          "publishedOn": "2024-10-16T08:44:20.000Z",
-          "wordCount": 1441,
-          "title": "GetYourSize.app",
-          "imageUrl": "https://ph-files.imgix.net/15fa30eb-ed48-45bd-87b5-6ad32625d181.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/legion-health",
@@ -509,6 +499,16 @@
           "imageUrl": "https://ph-files.imgix.net/a217b57d-2b5f-4413-a50c-4e928a2edfc5.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ai-dubbing-by-wavel",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-dubbing-by-wavel",
+          "publishedOn": "2024-10-13T18:59:52.000Z",
+          "wordCount": 2044,
+          "title": "AI Dubbing by Wavel",
+          "imageUrl": "https://ph-files.imgix.net/4d62273d-45bd-4b6a-9973-8e50da67a31f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/nextpress",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -519,12 +519,6 @@
           "imageUrl": "https://ph-files.imgix.net/50a049e8-e4aa-4e05-89aa-0f045603d511.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
