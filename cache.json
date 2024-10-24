@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/bloq-by-creatr",
@@ -299,6 +299,16 @@
           "imageUrl": "https://ph-files.imgix.net/f7a01398-15b5-4c54-94ce-f5b6c9c29631.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/precog-by-ubikai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/precog-by-ubikai",
+          "publishedOn": "2024-10-22T02:49:15.000Z",
+          "wordCount": 1838,
+          "title": "PreCog by UbikAI",
+          "imageUrl": "https://ph-files.imgix.net/7cb8a241-b504-4405-93f8-fef4f2e9d693.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/flexedit-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -327,16 +337,6 @@
           "wordCount": 1515,
           "title": "Vidify",
           "imageUrl": "https://ph-files.imgix.net/f69b1e71-a1bf-4344-872d-e9047a9354e0.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/social-trends-tracker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/social-trends-tracker",
-          "publishedOn": "2024-10-21T16:26:32.000Z",
-          "wordCount": 1784,
-          "title": "Social Trends Tracker",
-          "imageUrl": "https://ph-files.imgix.net/284ab01f-860e-4046-8a03-d9ab888f2e49.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/signature-supply",
@@ -419,6 +419,16 @@
           "imageUrl": "https://ph-files.imgix.net/b56133ac-aade-45c6-97df-6b8b809b2d42.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/github-issue-helper",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/github-issue-helper",
+          "publishedOn": "2024-10-20T09:31:30.000Z",
+          "wordCount": 1937,
+          "title": "Github Issue Helper",
+          "imageUrl": "https://ph-files.imgix.net/ce54e35a-e7f2-4cc3-8933-331a629f188f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/official-revenuecat-app-for-ios",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,14 +439,14 @@
           "imageUrl": "https://ph-files.imgix.net/ceca31e4-c8e1-42f3-9dfa-073a1269e14b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/aixblock-2",
+          "id": "https://www.producthunt.com/posts/softr-for-notion",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/aixblock-2",
-          "publishedOn": "2024-10-18T07:04:22.000Z",
-          "wordCount": 2146,
-          "title": "AIxBlock",
-          "imageUrl": "https://ph-files.imgix.net/76a0a96f-b265-4aad-81e8-76db0db6ca7d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/softr-for-notion",
+          "publishedOn": "2024-10-16T20:57:37.000Z",
+          "wordCount": 1989,
+          "title": "Softr for Notion",
+          "imageUrl": "https://ph-files.imgix.net/b64dd867-0400-4895-ab79-c6d4e489c6e3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/averi",
@@ -454,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/medusa-2-0",
           "publishedOn": "2024-10-16T09:22:15.000Z",
-          "wordCount": 1793,
+          "wordCount": 1766,
           "title": "Medusa 2.0",
           "imageUrl": "https://ph-files.imgix.net/2e099377-e88d-4236-be5e-2ef2a6005fc0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -479,16 +489,6 @@
           "imageUrl": "https://ph-files.imgix.net/f207ce75-7660-4c2d-9e65-caf04f54bfcb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/capgo-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/capgo-ai-2",
-          "publishedOn": "2024-10-15T13:37:46.000Z",
-          "wordCount": 1921,
-          "title": "CapGo.AI",
-          "imageUrl": "https://ph-files.imgix.net/3e8a7e7e-684b-42ca-b745-22dba13c6249.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/manicode",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -509,18 +509,6 @@
           "imageUrl": "https://ph-files.imgix.net/158d485a-e8c1-4f45-8a45-07394584e452.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
