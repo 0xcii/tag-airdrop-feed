@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/smashing",
           "publishedOn": "2024-10-24T17:29:52.000Z",
-          "wordCount": 1912,
+          "wordCount": 1909,
           "title": "Smashing",
           "imageUrl": "https://ph-files.imgix.net/2141f4c1-9860-4b07-8e60-fdd25089498e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -204,7 +204,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/unin",
           "publishedOn": "2024-10-23T17:46:34.000Z",
-          "wordCount": 1877,
+          "wordCount": 1844,
           "title": "Unin",
           "imageUrl": "https://ph-files.imgix.net/704117fe-fe6f-40a7-bb3d-c03cc906e09e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -339,24 +339,14 @@
           "imageUrl": "https://ph-files.imgix.net/2a32c2db-39d6-4e23-ad7d-75e8f2ebfedd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/squadron-ai",
+          "id": "https://www.producthunt.com/posts/condensa",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/squadron-ai",
-          "publishedOn": "2024-10-22T20:27:39.000Z",
-          "wordCount": 1673,
-          "title": "Squadron AI",
-          "imageUrl": "https://ph-files.imgix.net/39c42f14-77ae-4e3c-ac33-21c49536e7d7.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/rapidsubs-ai-captions-subtitles",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/rapidsubs-ai-captions-subtitles",
-          "publishedOn": "2024-10-22T19:47:01.000Z",
-          "wordCount": 1759,
-          "title": "RapidSubs: AI Captions & Subtitles",
-          "imageUrl": "https://ph-files.imgix.net/c5c13e9d-ba0d-486f-a56e-08f9f66887b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/condensa",
+          "publishedOn": "2024-10-22T16:28:17.000Z",
+          "wordCount": 1460,
+          "title": "Condensa",
+          "imageUrl": "https://ph-files.imgix.net/2c422454-63c6-4b65-a80a-be397767e1c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/cocolor",
@@ -374,7 +364,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/audiomatic-io",
           "publishedOn": "2024-10-22T14:03:56.000Z",
-          "wordCount": 1562,
+          "wordCount": 1601,
           "title": "AUDIOMATIC.IO",
           "imageUrl": "https://ph-files.imgix.net/21bcc579-04a8-4447-a272-57b2805b387f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -427,6 +417,16 @@
           "wordCount": 1925,
           "title": "My Good Week",
           "imageUrl": "https://ph-files.imgix.net/70a0f303-10d6-4fa3-a09e-55b6bf673906.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/truva-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/truva-ai",
+          "publishedOn": "2024-10-21T11:59:02.000Z",
+          "wordCount": 2103,
+          "title": "Truva AI",
+          "imageUrl": "https://ph-files.imgix.net/30f52c72-ba49-472a-9ddd-996e18a423d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/giddygiddy",
@@ -504,11 +504,17 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fumadocs",
           "publishedOn": "2024-09-27T07:35:13.000Z",
-          "wordCount": 1677,
+          "wordCount": 1671,
           "title": "Fumadocs",
           "imageUrl": "https://ph-files.imgix.net/c71e5c03-95d6-4246-9ce1-9e248e2b8edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
