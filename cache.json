@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/mineweather",
@@ -484,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/oat-x-tastytrade",
           "publishedOn": "2024-10-18T20:48:12.000Z",
-          "wordCount": 1843,
+          "wordCount": 2071,
           "title": "OAT X TastyTrade",
           "imageUrl": "https://ph-files.imgix.net/70cb77fd-0462-41ef-b28f-bc3f7fcfa69b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -529,12 +529,6 @@
           "imageUrl": "https://ph-files.imgix.net/c71e5c03-95d6-4246-9ce1-9e248e2b8edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
