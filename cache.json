@@ -419,6 +419,16 @@
           "imageUrl": "https://ph-files.imgix.net/f69b1e71-a1bf-4344-872d-e9047a9354e0.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/signature-supply",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/signature-supply",
+          "publishedOn": "2024-10-21T14:58:00.000Z",
+          "wordCount": 1896,
+          "title": "signature.supply",
+          "imageUrl": "https://ph-files.imgix.net/9e1f36bb-e630-472f-926f-a4d905e578f9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/my-good-week",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -489,16 +499,6 @@
           "imageUrl": "https://ph-files.imgix.net/70cb77fd-0462-41ef-b28f-bc3f7fcfa69b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/medusa-2-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/medusa-2-0",
-          "publishedOn": "2024-10-16T09:22:15.000Z",
-          "wordCount": 1766,
-          "title": "Medusa 2.0",
-          "imageUrl": "https://ph-files.imgix.net/2e099377-e88d-4236-be5e-2ef2a6005fc0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/aggrega",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -529,6 +529,18 @@
           "imageUrl": "https://ph-files.imgix.net/c71e5c03-95d6-4246-9ce1-9e248e2b8edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
