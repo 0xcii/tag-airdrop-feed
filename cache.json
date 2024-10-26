@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/lava-lamps-as-a-service",
@@ -319,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/39c42f14-77ae-4e3c-ac33-21c49536e7d7.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/rapidsubs-ai-captions-subtitles",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/rapidsubs-ai-captions-subtitles",
-          "publishedOn": "2024-10-22T19:47:01.000Z",
-          "wordCount": 1759,
-          "title": "RapidSubs: AI Captions & Subtitles",
-          "imageUrl": "https://ph-files.imgix.net/c5c13e9d-ba0d-486f-a56e-08f9f66887b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/condensa",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -367,6 +357,16 @@
           "wordCount": 1735,
           "title": "Dubly.AI",
           "imageUrl": "https://ph-files.imgix.net/426c8067-839a-4148-bf99-4f2e5b9470d3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/treblle-3-0-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/treblle-3-0-2",
+          "publishedOn": "2024-10-22T11:18:15.000Z",
+          "wordCount": 2101,
+          "title": "Treblle 3.0",
+          "imageUrl": "https://ph-files.imgix.net/ab2db3e3-c3e3-493f-b9d0-c73075f7cba3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/classify-anything",
@@ -519,12 +519,6 @@
           "imageUrl": "https://ph-files.imgix.net/c71e5c03-95d6-4246-9ce1-9e248e2b8edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
