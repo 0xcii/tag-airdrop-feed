@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/mineweather",
@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mineweather",
           "publishedOn": "2024-10-25T21:37:47.000Z",
-          "wordCount": 1785,
+          "wordCount": 1788,
           "title": "MineWeather",
           "imageUrl": "https://ph-files.imgix.net/91e0f901-f8cd-4d47-9d73-057d3ed76cb0.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/justbuildthings",
           "publishedOn": "2024-10-25T17:23:55.000Z",
-          "wordCount": 1162,
+          "wordCount": 1165,
           "title": "justbuildthings",
           "imageUrl": "https://ph-files.imgix.net/72c21910-684e-461b-b6a2-df10167062ba.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/untitled-636189b0-c193-4815-9fa4-902a30304f8c",
           "publishedOn": "2024-10-25T07:28:59.000Z",
-          "wordCount": 1306,
+          "wordCount": 1309,
           "title": "Untitled",
           "imageUrl": "https://ph-files.imgix.net/62000822-7c66-4b76-8b01-c5f8c002f2fc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -74,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mrrtracker",
           "publishedOn": "2024-10-25T01:21:33.000Z",
-          "wordCount": 1942,
+          "wordCount": 1945,
           "title": "MRRTracker",
           "imageUrl": "https://ph-files.imgix.net/de809020-f442-4228-9185-4691614ad9a6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -174,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/loomos",
           "publishedOn": "2024-10-24T09:56:33.000Z",
-          "wordCount": 1589,
+          "wordCount": 1562,
           "title": "Loomos",
           "imageUrl": "https://ph-files.imgix.net/2fd3bb98-fc50-45ff-b746-b1ce785379be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -194,7 +194,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/agenda-hero-magic-2-0",
           "publishedOn": "2024-10-24T07:13:27.000Z",
-          "wordCount": 1622,
+          "wordCount": 1625,
           "title": "Agenda Hero Magic 2.0",
           "imageUrl": "https://ph-files.imgix.net/ff9ab378-9f3b-40dc-84be-44241777d3e7.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -234,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/claude-computer-use",
           "publishedOn": "2024-10-23T18:58:00.000Z",
-          "wordCount": 1295,
+          "wordCount": 1268,
           "title": "Claude Computer use",
           "imageUrl": "https://ph-files.imgix.net/a2a3df00-9d87-40ae-8447-a62852e491af.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -294,7 +294,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/insta360-ace-pro-2",
           "publishedOn": "2024-10-23T14:42:44.000Z",
-          "wordCount": 1369,
+          "wordCount": 1372,
           "title": "Insta360 Ace Pro 2",
           "imageUrl": "https://ph-files.imgix.net/19e5f8de-7621-444e-b0f8-7fe435fe20e5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -474,7 +474,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/retail-connect-by-pietra",
           "publishedOn": "2024-10-19T00:13:25.000Z",
-          "wordCount": 1829,
+          "wordCount": 1832,
           "title": "Retail Connect by Pietra",
           "imageUrl": "https://ph-files.imgix.net/f3e9e9cc-bee5-4bac-bb22-0457121e24a6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -487,6 +487,16 @@
           "wordCount": 1843,
           "title": "OAT X TastyTrade",
           "imageUrl": "https://ph-files.imgix.net/70cb77fd-0462-41ef-b28f-bc3f7fcfa69b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/medusa-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/medusa-2-0",
+          "publishedOn": "2024-10-16T09:22:15.000Z",
+          "wordCount": 1766,
+          "title": "Medusa 2.0",
+          "imageUrl": "https://ph-files.imgix.net/2e099377-e88d-4236-be5e-2ef2a6005fc0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/aggrega",
