@@ -174,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/loomos",
           "publishedOn": "2024-10-24T09:56:33.000Z",
-          "wordCount": 1556,
+          "wordCount": 1589,
           "title": "Loomos",
           "imageUrl": "https://ph-files.imgix.net/2fd3bb98-fc50-45ff-b746-b1ce785379be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -234,7 +234,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/claude-computer-use",
           "publishedOn": "2024-10-23T18:58:00.000Z",
-          "wordCount": 1268,
+          "wordCount": 1295,
           "title": "Claude Computer use",
           "imageUrl": "https://ph-files.imgix.net/a2a3df00-9d87-40ae-8447-a62852e491af.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -349,16 +349,6 @@
           "imageUrl": "https://ph-files.imgix.net/12ed0f7b-5941-4bdf-8090-4cd533c86806.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/capturelinker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/capturelinker",
-          "publishedOn": "2024-10-23T06:40:43.000Z",
-          "wordCount": 1402,
-          "title": "CaptureLinker",
-          "imageUrl": "https://ph-files.imgix.net/051029ba-bbb9-4fcc-8019-ff5a3d28329f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/auditnow",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -369,16 +359,6 @@
           "imageUrl": "https://ph-files.imgix.net/2a32c2db-39d6-4e23-ad7d-75e8f2ebfedd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/squadron-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/squadron-ai",
-          "publishedOn": "2024-10-22T20:27:39.000Z",
-          "wordCount": 1673,
-          "title": "Squadron AI",
-          "imageUrl": "https://ph-files.imgix.net/39c42f14-77ae-4e3c-ac33-21c49536e7d7.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/condensa",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -387,6 +367,16 @@
           "wordCount": 1460,
           "title": "Condensa",
           "imageUrl": "https://ph-files.imgix.net/2c422454-63c6-4b65-a80a-be397767e1c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cocolor",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/cocolor",
+          "publishedOn": "2024-10-22T14:28:58.000Z",
+          "wordCount": 1898,
+          "title": "Cocolor",
+          "imageUrl": "https://ph-files.imgix.net/46cf5a7b-c945-4e31-90ef-f3b777469c12.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/audiomatic-io",
@@ -474,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tablesprint",
           "publishedOn": "2024-10-20T17:17:56.000Z",
-          "wordCount": 2589,
+          "wordCount": 2556,
           "title": "TableSprint",
           "imageUrl": "https://ph-files.imgix.net/f5258f4c-976c-4fcc-bc16-663c349be472.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -494,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/oat-x-tastytrade",
           "publishedOn": "2024-10-18T20:48:12.000Z",
-          "wordCount": 1840,
+          "wordCount": 1843,
           "title": "OAT X TastyTrade",
           "imageUrl": "https://ph-files.imgix.net/70cb77fd-0462-41ef-b28f-bc3f7fcfa69b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -529,6 +519,12 @@
           "imageUrl": "https://ph-files.imgix.net/c71e5c03-95d6-4246-9ce1-9e248e2b8edf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
