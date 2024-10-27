@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/justbuildthings",
           "publishedOn": "2024-10-25T17:23:55.000Z",
-          "wordCount": 1159,
+          "wordCount": 1192,
           "title": "justbuildthings",
           "imageUrl": "https://ph-files.imgix.net/72c21910-684e-461b-b6a2-df10167062ba.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -439,16 +439,6 @@
           "imageUrl": "https://ph-files.imgix.net/8e8a1c4b-c21e-4761-88ed-ddd5331ce799.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/openphone-api",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/openphone-api",
-          "publishedOn": "2024-10-21T05:36:25.000Z",
-          "wordCount": 2041,
-          "title": "OpenPhone API",
-          "imageUrl": "https://ph-files.imgix.net/5d7adb50-93a2-45d8-99ad-2619609add0a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/overlap-studio",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -509,6 +499,16 @@
           "imageUrl": "https://ph-files.imgix.net/5f257950-e8e8-4691-a211-a250b2f69d39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/legion-health",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/legion-health",
+          "publishedOn": "2024-10-15T20:06:22.000Z",
+          "wordCount": 2030,
+          "title": "Legion Health",
+          "imageUrl": "https://ph-files.imgix.net/f207ce75-7660-4c2d-9e65-caf04f54bfcb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/podlm",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -519,6 +519,12 @@
           "imageUrl": "https://ph-files.imgix.net/158d485a-e8c1-4f45-8a45-07394584e452.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
