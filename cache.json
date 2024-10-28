@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/fill-genius",
@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fill-genius",
           "publishedOn": "2024-10-26T22:49:25.000Z",
-          "wordCount": 1720,
+          "wordCount": 1717,
           "title": "Fill Genius",
           "imageUrl": "https://ph-files.imgix.net/708828ae-c7f0-45f6-a328-a88ef2d16a19.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pricing-maker",
           "publishedOn": "2024-10-26T20:36:26.000Z",
-          "wordCount": 1611,
+          "wordCount": 1608,
           "title": "Pricing Maker",
           "imageUrl": "https://ph-files.imgix.net/3ccac660-4ceb-4539-8acf-af8211c71fae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/supafit-2",
           "publishedOn": "2024-10-26T10:12:35.000Z",
-          "wordCount": 2173,
+          "wordCount": 2170,
           "title": "Supafit",
           "imageUrl": "https://ph-files.imgix.net/36c724c8-5f6b-4325-b82f-5f38e608d9f8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -174,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/justlearn",
           "publishedOn": "2024-10-24T15:08:11.000Z",
-          "wordCount": 1694,
+          "wordCount": 1691,
           "title": "JustLearn",
           "imageUrl": "https://ph-files.imgix.net/5e88ed9b-e8a1-49b1-8761-039dc20f9608.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -324,7 +324,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tikbox-io",
           "publishedOn": "2024-10-23T17:09:38.000Z",
-          "wordCount": 1785,
+          "wordCount": 1782,
           "title": "TikBox.io",
           "imageUrl": "https://ph-files.imgix.net/f1a0511f-9edb-430c-a4da-2133624e5daa.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -409,16 +409,6 @@
           "imageUrl": "https://ph-files.imgix.net/21bcc579-04a8-4447-a272-57b2805b387f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/classify-anything",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/classify-anything",
-          "publishedOn": "2024-10-22T10:31:41.000Z",
-          "wordCount": 1827,
-          "title": "Classify Anything",
-          "imageUrl": "https://ph-files.imgix.net/d1191ba7-e7ab-45ac-b8f6-039ac55a96a8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/jammy-c02bec36-8d3a-4e47-9a92-0e830caa4d64",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -489,6 +479,16 @@
           "imageUrl": "https://ph-files.imgix.net/70cb77fd-0462-41ef-b28f-bc3f7fcfa69b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/aggrega",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/aggrega",
+          "publishedOn": "2024-10-15T23:52:24.000Z",
+          "wordCount": 1948,
+          "title": "Aggrega",
+          "imageUrl": "https://ph-files.imgix.net/5f257950-e8e8-4691-a211-a250b2f69d39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/podlm",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -504,11 +504,23 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/smart-lead-magnet",
           "publishedOn": "2024-10-09T09:29:47.000Z",
-          "wordCount": 1818,
+          "wordCount": 1815,
           "title": "Smart Lead Magnet",
           "imageUrl": "https://ph-files.imgix.net/33435974-a92f-4c91-b0c7-dd5b6f1078f6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
