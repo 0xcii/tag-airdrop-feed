@@ -74,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wikiwand-2",
           "publishedOn": "2024-10-28T19:00:05.000Z",
-          "wordCount": 1863,
+          "wordCount": 1860,
           "title": "Wikiwand",
           "imageUrl": "https://ph-files.imgix.net/a3d560fa-2fc4-4e52-8954-a9d9471c0160.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sourcely",
           "publishedOn": "2024-10-28T18:19:46.000Z",
-          "wordCount": 1825,
+          "wordCount": 1828,
           "title": "Sourcely",
           "imageUrl": "https://ph-files.imgix.net/548d143e-0cc6-4c0e-9728-e5b5c8ec4599.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/horse",
           "publishedOn": "2024-10-28T13:06:33.000Z",
-          "wordCount": 1726,
+          "wordCount": 1723,
           "title": "Horse",
           "imageUrl": "https://ph-files.imgix.net/75a54b57-57d4-42bd-b1ec-c519d7be0b64.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -254,7 +254,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/smartrip-ai",
           "publishedOn": "2024-10-26T02:05:32.000Z",
-          "wordCount": 1732,
+          "wordCount": 1729,
           "title": "Smartrip AI",
           "imageUrl": "https://ph-files.imgix.net/96e28613-fa7f-4561-b202-c7bf459762d6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -354,7 +354,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/friends-fables",
           "publishedOn": "2024-10-24T07:16:51.000Z",
-          "wordCount": 1859,
+          "wordCount": 1862,
           "title": "Friends & Fables",
           "imageUrl": "https://ph-files.imgix.net/d230be08-fcf5-4ed8-9612-e68667fc0593.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -439,22 +439,12 @@
           "imageUrl": "https://ph-files.imgix.net/3c8ff93c-6afd-4e95-a559-d9f4fcc5a9f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/oat-x-tastytrade",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/oat-x-tastytrade",
-          "publishedOn": "2024-10-18T20:48:12.000Z",
-          "wordCount": 2068,
-          "title": "OAT X TastyTrade",
-          "imageUrl": "https://ph-files.imgix.net/70cb77fd-0462-41ef-b28f-bc3f7fcfa69b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tracy-43af4437-6df1-4fd2-9aab-e5d90270003e",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tracy-43af4437-6df1-4fd2-9aab-e5d90270003e",
           "publishedOn": "2024-10-17T08:58:07.000Z",
-          "wordCount": 1368,
+          "wordCount": 1371,
           "title": "Tracy",
           "imageUrl": "https://ph-files.imgix.net/f0a90118-cceb-43f4-a3c1-f97486540a72.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -504,11 +494,27 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bountyhub",
           "publishedOn": "2024-10-05T16:45:56.000Z",
-          "wordCount": 1907,
+          "wordCount": 1901,
           "title": "BountyHub",
           "imageUrl": "https://ph-files.imgix.net/f1113cb7-54da-4902-8601-4bee85b38f5c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/lasso-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/lasso-ai",
+          "publishedOn": "2024-10-04T02:14:54.000Z",
+          "wordCount": 2124,
+          "title": "Lasso AI",
+          "imageUrl": "https://ph-files.imgix.net/89a75a91-6381-4be1-a0e4-6023a5b3d9a2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
