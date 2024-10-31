@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/laminar-4",
@@ -134,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/browser-ai-kit",
           "publishedOn": "2024-10-30T14:10:44.000Z",
-          "wordCount": 1827,
+          "wordCount": 1824,
           "title": "Browser AI Kit",
           "imageUrl": "https://ph-files.imgix.net/4220aa92-e6d1-4b21-9f94-8c9b2b44015f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -154,7 +154,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/github-spark-ai",
           "publishedOn": "2024-10-30T11:31:43.000Z",
-          "wordCount": 1892,
+          "wordCount": 1880,
           "title": "GitHub Spark AI",
           "imageUrl": "https://ph-files.imgix.net/b321d6eb-ad63-490f-8871-af4c7afeb6e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -284,7 +284,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/autoemailed",
           "publishedOn": "2024-10-29T15:38:58.000Z",
-          "wordCount": 1393,
+          "wordCount": 1357,
           "title": "AutoEmailed",
           "imageUrl": "https://ph-files.imgix.net/7d5142f5-acc3-4d6b-ba7a-6d969716353c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wand-5",
           "publishedOn": "2024-10-25T12:07:16.000Z",
-          "wordCount": 1788,
+          "wordCount": 1755,
           "title": "Wand",
           "imageUrl": "https://ph-files.imgix.net/bfc5e29e-eb2f-495d-be06-7ab154779206.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dash0",
           "publishedOn": "2024-10-15T04:57:13.000Z",
-          "wordCount": 1758,
+          "wordCount": 1782,
           "title": "Dash0",
           "imageUrl": "https://ph-files.imgix.net/fb7fc3fa-2e1c-448b-ac85-5e2240ecc4b8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -484,7 +484,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sharefable",
           "publishedOn": "2024-10-09T01:44:08.000Z",
-          "wordCount": 2275,
+          "wordCount": 2389,
           "title": "Fable",
           "imageUrl": "https://ph-files.imgix.net/65dec161-2e5a-477d-8fa9-93f07ab93486.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -509,6 +509,12 @@
           "imageUrl": "https://ph-files.imgix.net/4d9e4d38-9d66-45e3-845a-55e9b3a3dec3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
