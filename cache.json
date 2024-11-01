@@ -124,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/readspark",
           "publishedOn": "2024-10-31T15:10:20.000Z",
-          "wordCount": 1317,
+          "wordCount": 1326,
           "title": "ReadSpark",
           "imageUrl": "https://ph-files.imgix.net/3940ff95-9526-421f-a9db-182b2cc3bd93.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -154,7 +154,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kliplab",
           "publishedOn": "2024-10-31T10:16:26.000Z",
-          "wordCount": 1655,
+          "wordCount": 1652,
           "title": "KlipLab",
           "imageUrl": "https://ph-files.imgix.net/d18d97cb-fd67-4b40-b91c-70b5513c2be9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -349,6 +349,16 @@
           "imageUrl": "https://ph-files.imgix.net/3f485aa0-8025-4dba-8cdf-8d013e76f4b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/dabarqus",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dabarqus",
+          "publishedOn": "2024-10-29T16:39:51.000Z",
+          "wordCount": 2010,
+          "title": "Dabarqus",
+          "imageUrl": "https://ph-files.imgix.net/fb7efdf0-8de8-484f-9fc9-f30c6758dba6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/autoemailed",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -409,14 +419,14 @@
           "imageUrl": "https://ph-files.imgix.net/bfc5e29e-eb2f-495d-be06-7ab154779206.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/jelly-7",
+          "id": "https://www.producthunt.com/posts/langtail-1-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/jelly-7",
-          "publishedOn": "2024-10-24T16:30:00.000Z",
-          "wordCount": 2009,
-          "title": "Jelly",
-          "imageUrl": "https://ph-files.imgix.net/69980317-8d22-44d1-bcd9-e5c297e5f138.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/langtail-1-0",
+          "publishedOn": "2024-10-24T07:56:03.000Z",
+          "wordCount": 2210,
+          "title": "Langtail 1.0",
+          "imageUrl": "https://ph-files.imgix.net/a604d28d-844a-4c70-91a2-1e0b79f545ff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ai-studios-2",
@@ -469,16 +479,6 @@
           "imageUrl": "https://ph-files.imgix.net/fb7fc3fa-2e1c-448b-ac85-5e2240ecc4b8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/trieve-sitesearch",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/trieve-sitesearch",
-          "publishedOn": "2024-10-10T19:07:34.000Z",
-          "wordCount": 1985,
-          "title": "Trieve Sitesearch",
-          "imageUrl": "https://ph-files.imgix.net/3d94f69b-0699-42c4-b58e-093fb30c3832.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/sharefable",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -509,12 +509,6 @@
           "imageUrl": "https://ph-files.imgix.net/4d9e4d38-9d66-45e3-845a-55e9b3a3dec3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
