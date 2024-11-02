@@ -409,6 +409,16 @@
           "imageUrl": "https://ph-files.imgix.net/243b8dd1-15ce-4df7-99f4-e65347e9b06f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/wand-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/wand-5",
+          "publishedOn": "2024-10-25T12:07:16.000Z",
+          "wordCount": 1755,
+          "title": "Wand",
+          "imageUrl": "https://ph-files.imgix.net/bfc5e29e-eb2f-495d-be06-7ab154779206.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/jelly-7",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -497,18 +507,14 @@
           "wordCount": 2227,
           "title": "Prelude Verify",
           "imageUrl": "https://ph-files.imgix.net/b8dc7b0f-ab94-47ae-b631-fc97268766f8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/shoppable-widget",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/shoppable-widget",
-          "publishedOn": "2024-10-08T11:38:43.000Z",
-          "wordCount": 1466,
-          "title": "Shoppable widget",
-          "imageUrl": "https://ph-files.imgix.net/4d9e4d38-9d66-45e3-845a-55e9b3a3dec3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
