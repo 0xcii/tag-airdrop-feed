@@ -319,16 +319,6 @@
           "imageUrl": "https://ph-files.imgix.net/cbe21bcc-1168-49df-a12f-ef13ee7854a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/istat-menus-7",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/istat-menus-7",
-          "publishedOn": "2024-10-31T00:19:58.000Z",
-          "wordCount": 1599,
-          "title": "iStat Menus 7",
-          "imageUrl": "https://ph-files.imgix.net/ba8bc3c3-bbff-4467-b80a-4320de6bad51.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/macbook-pro-with-m4-chip",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -347,6 +337,16 @@
           "wordCount": 1518,
           "title": "New Mac mini with M4 Pro Chip",
           "imageUrl": "https://ph-files.imgix.net/e03b28de-c7c2-4d96-818f-e69f74cd0233.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/universal-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/universal-2",
+          "publishedOn": "2024-10-30T19:52:22.000Z",
+          "wordCount": 1655,
+          "title": "Universal 2",
+          "imageUrl": "https://ph-files.imgix.net/30f37ed0-7e98-41b3-87b4-510019185245.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/scheduler-for-bluesky",
@@ -499,6 +499,12 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
