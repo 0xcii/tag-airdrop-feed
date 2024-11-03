@@ -39,12 +39,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/magicset",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/magicset",
+          "publishedOn": "2024-11-03T05:23:24.000Z",
+          "wordCount": 1824,
+          "title": "MagicSet",
+          "imageUrl": "https://ph-files.imgix.net/19b3617e-dc68-4852-9870-24c82d51d2c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/gyftpro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gyftpro",
           "publishedOn": "2024-11-02T15:42:27.000Z",
-          "wordCount": 2565,
+          "wordCount": 2556,
           "title": "GyftPro",
           "imageUrl": "https://ph-files.imgix.net/aba75577-5b95-4061-9581-43d7398e6386.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chess-scanner",
           "publishedOn": "2024-11-02T13:41:54.000Z",
-          "wordCount": 1701,
+          "wordCount": 1698,
           "title": "Chess Scanner",
           "imageUrl": "https://ph-files.imgix.net/903d3882-6d14-42f9-9ac1-9615a448b12d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -64,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/geoclick",
           "publishedOn": "2024-11-02T11:00:37.000Z",
-          "wordCount": 1724,
+          "wordCount": 1721,
           "title": "GeoClick",
           "imageUrl": "https://ph-files.imgix.net/c70732fa-5b91-459c-80a4-6ab43a41bbee.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -234,7 +244,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kling-ai-4",
           "publishedOn": "2024-10-31T13:58:43.000Z",
-          "wordCount": 1625,
+          "wordCount": 1619,
           "title": "KLING AI",
           "imageUrl": "https://ph-files.imgix.net/391927cf-7db3-4ee0-8b75-6806378cef6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -329,16 +339,6 @@
           "imageUrl": "https://ph-files.imgix.net/e03b28de-c7c2-4d96-818f-e69f74cd0233.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/scheduler-for-bluesky",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/scheduler-for-bluesky",
-          "publishedOn": "2024-10-30T15:17:38.000Z",
-          "wordCount": 1850,
-          "title": "Scheduler for Bluesky",
-          "imageUrl": "https://ph-files.imgix.net/10427b8e-5cec-4c23-8598-2585cd9c3875.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/roved",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -347,16 +347,6 @@
           "wordCount": 1595,
           "title": "Roved",
           "imageUrl": "https://ph-files.imgix.net/9fc8c875-3cad-4b01-8383-3fd412160af9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/browser-ai-kit",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/browser-ai-kit",
-          "publishedOn": "2024-10-30T14:10:44.000Z",
-          "wordCount": 1815,
-          "title": "Browser AI Kit",
-          "imageUrl": "https://ph-files.imgix.net/4220aa92-e6d1-4b21-9f94-8c9b2b44015f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/spafe-code",
@@ -424,7 +414,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/streamin",
           "publishedOn": "2024-10-26T11:11:19.000Z",
-          "wordCount": 1531,
+          "wordCount": 1522,
           "title": "Streamin",
           "imageUrl": "https://ph-files.imgix.net/ca041f94-ca5c-491a-ba41-a4a7b308d6ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -437,6 +427,16 @@
           "wordCount": 2091,
           "title": "WalkSmart.AI",
           "imageUrl": "https://ph-files.imgix.net/a26e4833-2ca4-4d32-9fa9-b3e73d063945.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/airtrac",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/airtrac",
+          "publishedOn": "2024-10-23T18:48:19.000Z",
+          "wordCount": 1366,
+          "title": "Airtrac",
+          "imageUrl": "https://ph-files.imgix.net/99a2a109-f388-4ff6-81d1-4b9d8d26b239.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/truva-ai",
@@ -484,16 +484,16 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openchangelog",
           "publishedOn": "2024-10-07T15:42:21.000Z",
-          "wordCount": 1537,
+          "wordCount": 1534,
           "title": "Openchangelog",
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
     {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
