@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/magicset",
@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/chess-scanner",
           "publishedOn": "2024-11-02T13:41:54.000Z",
-          "wordCount": 1698,
+          "wordCount": 1695,
           "title": "Chess Scanner",
           "imageUrl": "https://ph-files.imgix.net/903d3882-6d14-42f9-9ac1-9615a448b12d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -74,7 +74,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/geoclick",
           "publishedOn": "2024-11-02T11:00:37.000Z",
-          "wordCount": 1721,
+          "wordCount": 1718,
           "title": "GeoClick",
           "imageUrl": "https://ph-files.imgix.net/c70732fa-5b91-459c-80a4-6ab43a41bbee.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -299,6 +299,16 @@
           "imageUrl": "https://ph-files.imgix.net/cbe21bcc-1168-49df-a12f-ef13ee7854a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/laminar-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/laminar-4",
+          "publishedOn": "2024-10-31T03:23:59.000Z",
+          "wordCount": 2023,
+          "title": "Laminar",
+          "imageUrl": "https://ph-files.imgix.net/9fc579d3-ac8f-46b8-85df-c9675a2410e0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/stretch-it",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,32 +319,12 @@
           "imageUrl": "https://ph-files.imgix.net/806bdd43-dde4-45e3-bffa-93d9a4a2cb85.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/istat-menus-7",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/istat-menus-7",
-          "publishedOn": "2024-10-31T00:19:58.000Z",
-          "wordCount": 1599,
-          "title": "iStat Menus 7",
-          "imageUrl": "https://ph-files.imgix.net/ba8bc3c3-bbff-4467-b80a-4320de6bad51.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/macbook-pro-with-m4-chip",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/macbook-pro-with-m4-chip",
-          "publishedOn": "2024-10-30T20:39:21.000Z",
-          "wordCount": 1439,
-          "title": "MacBook Pro with M4 Chip",
-          "imageUrl": "https://ph-files.imgix.net/135586b7-d7f0-4781-8805-493c21071e7e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/new-mac-mini-with-m4-pro-chip",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/new-mac-mini-with-m4-pro-chip",
           "publishedOn": "2024-10-30T20:21:20.000Z",
-          "wordCount": 1518,
+          "wordCount": 1522,
           "title": "New Mac mini with M4 Pro Chip",
           "imageUrl": "https://ph-files.imgix.net/e03b28de-c7c2-4d96-818f-e69f74cd0233.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -349,14 +339,24 @@
           "imageUrl": "https://ph-files.imgix.net/9fc8c875-3cad-4b01-8383-3fd412160af9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/spafe-code",
+          "id": "https://www.producthunt.com/posts/browser-ai-kit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/spafe-code",
-          "publishedOn": "2024-10-30T12:23:29.000Z",
-          "wordCount": 1759,
-          "title": "Spafe Code",
-          "imageUrl": "https://ph-files.imgix.net/066498be-4469-41c6-8dec-8a4d4dde181c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/browser-ai-kit",
+          "publishedOn": "2024-10-30T14:10:44.000Z",
+          "wordCount": 1815,
+          "title": "Browser AI Kit",
+          "imageUrl": "https://ph-files.imgix.net/4220aa92-e6d1-4b21-9f94-8c9b2b44015f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/github-spark-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/github-spark-ai",
+          "publishedOn": "2024-10-30T11:31:43.000Z",
+          "wordCount": 1877,
+          "title": "GitHub Spark AI",
+          "imageUrl": "https://ph-files.imgix.net/b321d6eb-ad63-490f-8871-af4c7afeb6e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/monica-code",
@@ -389,16 +389,6 @@
           "imageUrl": "https://ph-files.imgix.net/c16ba613-b08f-4d79-a915-fa87616a7a33.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/autoemailed",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/autoemailed",
-          "publishedOn": "2024-10-29T15:38:58.000Z",
-          "wordCount": 1354,
-          "title": "AutoEmailed",
-          "imageUrl": "https://ph-files.imgix.net/7d5142f5-acc3-4d6b-ba7a-6d969716353c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/auto-rtl",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -414,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/streamin",
           "publishedOn": "2024-10-26T11:11:19.000Z",
-          "wordCount": 1532,
+          "wordCount": 1522,
           "title": "Streamin",
           "imageUrl": "https://ph-files.imgix.net/ca041f94-ca5c-491a-ba41-a4a7b308d6ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -434,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/airtrac",
           "publishedOn": "2024-10-23T18:48:19.000Z",
-          "wordCount": 1362,
+          "wordCount": 1359,
           "title": "Airtrac",
           "imageUrl": "https://ph-files.imgix.net/99a2a109-f388-4ff6-81d1-4b9d8d26b239.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -444,9 +434,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/truva-ai",
           "publishedOn": "2024-10-21T11:59:02.000Z",
-          "wordCount": 2092,
+          "wordCount": 2096,
           "title": "Truva AI",
           "imageUrl": "https://ph-files.imgix.net/30f52c72-ba49-472a-9ddd-996e18a423d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/zefi-1-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/zefi-1-0",
+          "publishedOn": "2024-10-17T13:43:09.000Z",
+          "wordCount": 2658,
+          "title": "Zefi 1.0",
+          "imageUrl": "https://ph-files.imgix.net/93e3a26c-9036-4cf9-af3c-968f7b934311.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/dash0",
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dash0",
           "publishedOn": "2024-10-15T04:57:13.000Z",
-          "wordCount": 1755,
+          "wordCount": 1759,
           "title": "Dash0",
           "imageUrl": "https://ph-files.imgix.net/fb7fc3fa-2e1c-448b-ac85-5e2240ecc4b8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
