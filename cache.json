@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/readhero",
           "publishedOn": "2024-11-03T15:47:05.000Z",
-          "wordCount": 1724,
+          "wordCount": 1739,
           "title": "ReadHero",
           "imageUrl": "https://ph-files.imgix.net/10c5a6db-c868-46bf-bbde-60c1f6de9308.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -249,16 +249,6 @@
           "imageUrl": "https://ph-files.imgix.net/afd3dab5-13d3-40c0-9d3e-b763bef605ed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/indielaunch-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/indielaunch-3",
-          "publishedOn": "2024-11-01T04:34:11.000Z",
-          "wordCount": 1675,
-          "title": "IndieLaunch",
-          "imageUrl": "https://ph-files.imgix.net/82fb9a05-4dde-45f3-921f-85fa99a8298f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/democrasee-io",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -274,7 +264,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/perseus-tube",
           "publishedOn": "2024-10-31T21:34:09.000Z",
-          "wordCount": 1359,
+          "wordCount": 1326,
           "title": "Perseus.Tube",
           "imageUrl": "https://ph-files.imgix.net/6960131b-202f-4979-9768-05673025ee81.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -314,9 +304,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kling-ai-4",
           "publishedOn": "2024-10-31T13:58:43.000Z",
-          "wordCount": 1631,
+          "wordCount": 1634,
           "title": "KLING AI",
           "imageUrl": "https://ph-files.imgix.net/391927cf-7db3-4ee0-8b75-6806378cef6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tesseract-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tesseract-2",
+          "publishedOn": "2024-10-31T13:39:19.000Z",
+          "wordCount": 1692,
+          "title": "Tesseract",
+          "imageUrl": "https://ph-files.imgix.net/208909a8-cdb6-44cd-82f4-897bb7aeb19c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/keywordmagic",
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/walksmart-ai",
           "publishedOn": "2024-10-25T16:44:43.000Z",
-          "wordCount": 2097,
+          "wordCount": 2100,
           "title": "WalkSmart.AI",
           "imageUrl": "https://ph-files.imgix.net/a26e4833-2ca4-4d32-9fa9-b3e73d063945.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -469,6 +469,12 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
