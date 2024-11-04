@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/readhero",
           "publishedOn": "2024-11-03T15:47:05.000Z",
-          "wordCount": 1727,
+          "wordCount": 1724,
           "title": "ReadHero",
           "imageUrl": "https://ph-files.imgix.net/10c5a6db-c868-46bf-bbde-60c1f6de9308.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -279,16 +279,6 @@
           "imageUrl": "https://ph-files.imgix.net/156b2681-6016-493d-81b9-5ae29fc7d900.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/chatgpt-search",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/chatgpt-search",
-          "publishedOn": "2024-10-31T17:23:11.000Z",
-          "wordCount": 1821,
-          "title": "ChatGPT search",
-          "imageUrl": "https://ph-files.imgix.net/3063d1ac-7e40-41bb-bbc0-5eaaad494540.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/weather-screen",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -317,6 +307,16 @@
           "wordCount": 1631,
           "title": "KLING AI",
           "imageUrl": "https://ph-files.imgix.net/391927cf-7db3-4ee0-8b75-6806378cef6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tesseract-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tesseract-2",
+          "publishedOn": "2024-10-31T13:39:19.000Z",
+          "wordCount": 1692,
+          "title": "Tesseract",
+          "imageUrl": "https://ph-files.imgix.net/208909a8-cdb6-44cd-82f4-897bb7aeb19c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/keywordmagic",
@@ -469,6 +469,12 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
