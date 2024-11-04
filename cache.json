@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/clean-me-2",
           "publishedOn": "2024-11-03T19:13:48.000Z",
-          "wordCount": 1750,
+          "wordCount": 1753,
           "title": "Clean Me",
           "imageUrl": "https://ph-files.imgix.net/74057c3e-5941-423f-8fb6-d5aa23f847fe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -104,7 +104,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/magicset",
           "publishedOn": "2024-11-03T05:23:24.000Z",
-          "wordCount": 1842,
+          "wordCount": 1823,
           "title": "MagicSet",
           "imageUrl": "https://ph-files.imgix.net/19b3617e-dc68-4852-9870-24c82d51d2c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -114,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/votegpt",
           "publishedOn": "2024-11-03T01:26:13.000Z",
-          "wordCount": 1699,
+          "wordCount": 1695,
           "title": "VoteGPT",
           "imageUrl": "https://ph-files.imgix.net/c2166f62-4dda-454a-ad0f-88dba763a775.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -124,7 +124,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/airjump",
           "publishedOn": "2024-11-02T17:46:38.000Z",
-          "wordCount": 1775,
+          "wordCount": 1771,
           "title": "AirJump",
           "imageUrl": "https://ph-files.imgix.net/2564f53e-204c-4155-975c-31b2531d270d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -279,16 +279,6 @@
           "imageUrl": "https://ph-files.imgix.net/156b2681-6016-493d-81b9-5ae29fc7d900.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/chatgpt-search",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/chatgpt-search",
-          "publishedOn": "2024-10-31T17:23:11.000Z",
-          "wordCount": 1821,
-          "title": "ChatGPT search",
-          "imageUrl": "https://ph-files.imgix.net/3063d1ac-7e40-41bb-bbc0-5eaaad494540.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/weather-screen",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -314,7 +304,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kling-ai-4",
           "publishedOn": "2024-10-31T13:58:43.000Z",
-          "wordCount": 1647,
+          "wordCount": 1628,
           "title": "KLING AI",
           "imageUrl": "https://ph-files.imgix.net/391927cf-7db3-4ee0-8b75-6806378cef6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -374,7 +364,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zero-setup-ai-coding-with-openhands",
           "publishedOn": "2024-10-30T10:13:42.000Z",
-          "wordCount": 2028,
+          "wordCount": 2061,
           "title": "Zero Setup AI Coding with OpenHands",
           "imageUrl": "https://ph-files.imgix.net/9e1d817d-c737-4b00-b50d-fbe9b9613332.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -459,6 +449,16 @@
           "imageUrl": "https://ph-files.imgix.net/99a2a109-f388-4ff6-81d1-4b9d8d26b239.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/truva-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/truva-ai",
+          "publishedOn": "2024-10-21T11:59:02.000Z",
+          "wordCount": 2092,
+          "title": "Truva AI",
+          "imageUrl": "https://ph-files.imgix.net/30f52c72-ba49-472a-9ddd-996e18a423d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/openchangelog",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -469,12 +469,6 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
