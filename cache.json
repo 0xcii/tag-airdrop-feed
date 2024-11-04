@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/rightfont-9-0",
           "publishedOn": "2024-11-04T04:17:56.000Z",
-          "wordCount": 1998,
+          "wordCount": 2001,
           "title": "RightFont 9.0",
           "imageUrl": "https://ph-files.imgix.net/cc311dcf-36c2-4c5e-8315-45e105c48fdb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -219,16 +219,6 @@
           "imageUrl": "https://ph-files.imgix.net/afd3dab5-13d3-40c0-9d3e-b763bef605ed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/indielaunch-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/indielaunch-3",
-          "publishedOn": "2024-11-01T04:34:11.000Z",
-          "wordCount": 1675,
-          "title": "IndieLaunch",
-          "imageUrl": "https://ph-files.imgix.net/82fb9a05-4dde-45f3-921f-85fa99a8298f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/democrasee-io",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -257,16 +247,6 @@
           "wordCount": 1778,
           "title": "NoteThisDown",
           "imageUrl": "https://ph-files.imgix.net/156b2681-6016-493d-81b9-5ae29fc7d900.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/claude-for-desktop",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/claude-for-desktop",
-          "publishedOn": "2024-10-31T17:47:36.000Z",
-          "wordCount": 1217,
-          "title": "Claude for Desktop",
-          "imageUrl": "https://ph-files.imgix.net/b955a27d-e8ad-4092-b447-9901909d8d8b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/chatgpt-search",
@@ -317,6 +297,16 @@
           "wordCount": 1692,
           "title": "Tesseract",
           "imageUrl": "https://ph-files.imgix.net/208909a8-cdb6-44cd-82f4-897bb7aeb19c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/keywordmagic",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/keywordmagic",
+          "publishedOn": "2024-10-31T10:25:28.000Z",
+          "wordCount": 1594,
+          "title": "KeywordMagic",
+          "imageUrl": "https://ph-files.imgix.net/3597884b-9cec-481c-be7b-f0c93a80bd12.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/geteles",
@@ -459,6 +449,16 @@
           "imageUrl": "https://ph-files.imgix.net/30f52c72-ba49-472a-9ddd-996e18a423d8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/journey-2b472eca-3148-4e6d-8021-d892c9d6d6b9",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/journey-2b472eca-3148-4e6d-8021-d892c9d6d6b9",
+          "publishedOn": "2024-10-08T20:46:46.000Z",
+          "wordCount": 1923,
+          "title": "Journey",
+          "imageUrl": "https://ph-files.imgix.net/b3010a16-f367-46c4-9c47-9c9442bbf009.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/openchangelog",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -469,12 +469,6 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
