@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/analytics-model",
@@ -389,16 +389,6 @@
           "imageUrl": "https://ph-files.imgix.net/ca041f94-ca5c-491a-ba41-a4a7b308d6ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/walksmart-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/walksmart-ai",
-          "publishedOn": "2024-10-25T16:44:43.000Z",
-          "wordCount": 2102,
-          "title": "WalkSmart.AI",
-          "imageUrl": "https://ph-files.imgix.net/a26e4833-2ca4-4d32-9fa9-b3e73d063945.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/dreammuse",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -454,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mindone-builder",
           "publishedOn": "2024-10-07T16:48:14.000Z",
-          "wordCount": 2093,
+          "wordCount": 2120,
           "title": "MindOne Builder",
           "imageUrl": "https://ph-files.imgix.net/bb4ab6b8-d4fb-48f9-bb79-025278d98d7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -469,6 +459,12 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
