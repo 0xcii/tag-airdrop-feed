@@ -64,7 +64,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/geniai-assist",
           "publishedOn": "2024-11-05T02:42:39.000Z",
-          "wordCount": 1501,
+          "wordCount": 1468,
           "title": "Geniai Assist",
           "imageUrl": "https://ph-files.imgix.net/7e5b33cd-9bca-4c8a-9e0a-bfe5db344220.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -174,7 +174,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/timetabled",
           "publishedOn": "2024-11-03T08:05:15.000Z",
-          "wordCount": 1270,
+          "wordCount": 1273,
           "title": "TimeTabled",
           "imageUrl": "https://ph-files.imgix.net/2ecc5310-2aac-44ac-b720-be85ad1e1a00.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -247,16 +247,6 @@
           "wordCount": 1717,
           "title": "GeoClick",
           "imageUrl": "https://ph-files.imgix.net/c70732fa-5b91-459c-80a4-6ab43a41bbee.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/suno-personas",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/suno-personas",
-          "publishedOn": "2024-11-01T19:44:01.000Z",
-          "wordCount": 1418,
-          "title": "Suno Personas",
-          "imageUrl": "https://ph-files.imgix.net/c3961d42-8851-4c28-a95a-8e4ce5a7ac2f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/electmap-usa",
@@ -344,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kakrola",
           "publishedOn": "2024-10-30T11:50:05.000Z",
-          "wordCount": 1766,
+          "wordCount": 1772,
           "title": "Kakrola",
           "imageUrl": "https://ph-files.imgix.net/0113b005-462f-41c6-bc83-1b37aa7bd875.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -384,7 +374,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fullcontext",
           "publishedOn": "2024-10-27T18:13:48.000Z",
-          "wordCount": 1834,
+          "wordCount": 1838,
           "title": "FullContext",
           "imageUrl": "https://ph-files.imgix.net/50c40e9d-f1f5-4dd9-8f1e-c01e6291330b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -397,6 +387,16 @@
           "wordCount": 1527,
           "title": "Streamin",
           "imageUrl": "https://ph-files.imgix.net/ca041f94-ca5c-491a-ba41-a4a7b308d6ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/walksmart-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/walksmart-ai",
+          "publishedOn": "2024-10-25T16:44:43.000Z",
+          "wordCount": 2102,
+          "title": "WalkSmart.AI",
+          "imageUrl": "https://ph-files.imgix.net/a26e4833-2ca4-4d32-9fa9-b3e73d063945.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/dreammuse",
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/listy-2",
           "publishedOn": "2024-10-18T11:12:42.000Z",
-          "wordCount": 2033,
+          "wordCount": 2060,
           "title": "Listy+",
           "imageUrl": "https://ph-files.imgix.net/6b4dfcb5-8b98-4c63-bf2e-7d14f38811c5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mindone-builder",
           "publishedOn": "2024-10-07T16:48:14.000Z",
-          "wordCount": 2120,
+          "wordCount": 2093,
           "title": "MindOne Builder",
           "imageUrl": "https://ph-files.imgix.net/bb4ab6b8-d4fb-48f9-bb79-025278d98d7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -469,6 +469,12 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
