@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/analytics-model",
           "publishedOn": "2024-11-05T07:11:44.000Z",
-          "wordCount": 1390,
+          "wordCount": 1387,
           "title": "Analytics Model",
           "imageUrl": "https://ph-files.imgix.net/150728f7-2bf4-46df-a9f5-083569fac9b5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/getaway-direct",
           "publishedOn": "2024-11-05T07:05:19.000Z",
-          "wordCount": 1726,
+          "wordCount": 1729,
           "title": "Getaway.direct",
           "imageUrl": "https://ph-files.imgix.net/3b86baa2-b88a-4531-9165-47edd4047077.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -239,6 +239,16 @@
           "imageUrl": "https://ph-files.imgix.net/c70732fa-5b91-459c-80a4-6ab43a41bbee.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/eero-outdoor-7",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/eero-outdoor-7",
+          "publishedOn": "2024-11-01T23:25:33.000Z",
+          "wordCount": 1377,
+          "title": "eero Outdoor 7",
+          "imageUrl": "https://ph-files.imgix.net/9d4cfaee-06fb-4ae7-a793-7771408dd975.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/suno-personas",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -334,7 +344,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kakrola",
           "publishedOn": "2024-10-30T11:50:05.000Z",
-          "wordCount": 1763,
+          "wordCount": 1760,
           "title": "Kakrola",
           "imageUrl": "https://ph-files.imgix.net/0113b005-462f-41c6-bc83-1b37aa7bd875.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -359,22 +369,12 @@
           "imageUrl": "https://ph-files.imgix.net/9e1d817d-c737-4b00-b50d-fbe9b9613332.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/monica-code",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/monica-code",
-          "publishedOn": "2024-10-30T03:42:06.000Z",
-          "wordCount": 1782,
-          "title": "Monica Code",
-          "imageUrl": "https://ph-files.imgix.net/5c2cace7-3e5e-45ba-b392-8eb7ed464074.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/sigmaremote",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sigmaremote",
           "publishedOn": "2024-10-30T02:31:24.000Z",
-          "wordCount": 1925,
+          "wordCount": 1928,
           "title": "SigmaRemote",
           "imageUrl": "https://ph-files.imgix.net/1c21bc63-dc6b-4cfe-b3a6-05412e52d31a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -434,7 +434,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/listy-2",
           "publishedOn": "2024-10-18T11:12:42.000Z",
-          "wordCount": 2060,
+          "wordCount": 2033,
           "title": "Listy+",
           "imageUrl": "https://ph-files.imgix.net/6b4dfcb5-8b98-4c63-bf2e-7d14f38811c5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -454,7 +454,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mindone-builder",
           "publishedOn": "2024-10-07T16:48:14.000Z",
-          "wordCount": 2093,
+          "wordCount": 2120,
           "title": "MindOne Builder",
           "imageUrl": "https://ph-files.imgix.net/bb4ab6b8-d4fb-48f9-bb79-025278d98d7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -469,18 +469,6 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
