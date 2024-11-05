@@ -36,7 +36,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/rightfont-9-0",
@@ -114,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/votegpt",
           "publishedOn": "2024-11-03T01:26:13.000Z",
-          "wordCount": 1697,
+          "wordCount": 1730,
           "title": "VoteGPT",
           "imageUrl": "https://ph-files.imgix.net/c2166f62-4dda-454a-ad0f-88dba763a775.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -279,16 +279,6 @@
           "imageUrl": "https://ph-files.imgix.net/156b2681-6016-493d-81b9-5ae29fc7d900.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/chatgpt-search",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/chatgpt-search",
-          "publishedOn": "2024-10-31T17:23:11.000Z",
-          "wordCount": 1823,
-          "title": "ChatGPT search",
-          "imageUrl": "https://ph-files.imgix.net/3063d1ac-7e40-41bb-bbc0-5eaaad494540.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/weather-screen",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -317,6 +307,16 @@
           "wordCount": 1636,
           "title": "KLING AI",
           "imageUrl": "https://ph-files.imgix.net/391927cf-7db3-4ee0-8b75-6806378cef6b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/keywordmagic",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/keywordmagic",
+          "publishedOn": "2024-10-31T10:25:28.000Z",
+          "wordCount": 1596,
+          "title": "KeywordMagic",
+          "imageUrl": "https://ph-files.imgix.net/3597884b-9cec-481c-be7b-f0c93a80bd12.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/geteles",
