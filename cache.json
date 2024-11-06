@@ -224,7 +224,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/winday",
           "publishedOn": "2024-11-02T14:23:52.000Z",
-          "wordCount": 2080,
+          "wordCount": 2047,
           "title": "Winday",
           "imageUrl": "https://ph-files.imgix.net/b085e527-3f20-4b8a-be54-4953358473ae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -279,6 +279,16 @@
           "imageUrl": "https://ph-files.imgix.net/8acddb10-9ec3-45d0-a47b-0c6ca9eb1d14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/font-guesser",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/font-guesser",
+          "publishedOn": "2024-11-01T14:18:27.000Z",
+          "wordCount": 1817,
+          "title": "Font Guesser",
+          "imageUrl": "https://ph-files.imgix.net/a0a70d80-0acb-439b-9c7f-2b7602a1f99d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/confi-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -304,7 +314,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/therapyai-2",
           "publishedOn": "2024-10-31T22:27:48.000Z",
-          "wordCount": 2060,
+          "wordCount": 2027,
           "title": "TherapyAI",
           "imageUrl": "https://ph-files.imgix.net/ed928307-8aba-4b45-954f-eff2ae59afab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -324,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/kakrola",
           "publishedOn": "2024-10-30T11:50:05.000Z",
-          "wordCount": 1802,
+          "wordCount": 1769,
           "title": "Kakrola",
           "imageUrl": "https://ph-files.imgix.net/0113b005-462f-41c6-bc83-1b37aa7bd875.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -347,16 +357,6 @@
           "wordCount": 2042,
           "title": "Zero Setup AI Coding with OpenHands",
           "imageUrl": "https://ph-files.imgix.net/9e1d817d-c737-4b00-b50d-fbe9b9613332.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/monica-code",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/monica-code",
-          "publishedOn": "2024-10-30T03:42:06.000Z",
-          "wordCount": 1782,
-          "title": "Monica Code",
-          "imageUrl": "https://ph-files.imgix.net/5c2cace7-3e5e-45ba-b392-8eb7ed464074.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sigmaremote",
@@ -444,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/alta-2-0",
           "publishedOn": "2024-10-18T08:24:33.000Z",
-          "wordCount": 1663,
+          "wordCount": 1666,
           "title": "Alta 2.0",
           "imageUrl": "https://ph-files.imgix.net/a94eab1e-071f-417c-8913-4afb39d90d7d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -457,24 +457,8 @@
           "wordCount": 2090,
           "title": "MindOne Builder",
           "imageUrl": "https://ph-files.imgix.net/bb4ab6b8-d4fb-48f9-bb79-025278d98d7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/openchangelog",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/openchangelog",
-          "publishedOn": "2024-10-07T15:42:21.000Z",
-          "wordCount": 1536,
-          "title": "Openchangelog",
-          "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
