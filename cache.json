@@ -249,6 +249,16 @@
           "imageUrl": "https://ph-files.imgix.net/c70732fa-5b91-459c-80a4-6ab43a41bbee.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/suno-personas",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/suno-personas",
+          "publishedOn": "2024-11-01T19:44:01.000Z",
+          "wordCount": 1418,
+          "title": "Suno Personas",
+          "imageUrl": "https://ph-files.imgix.net/c3961d42-8851-4c28-a95a-8e4ce5a7ac2f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/capable-for-confluence",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -289,22 +299,12 @@
           "imageUrl": "https://ph-files.imgix.net/2ab4e9d6-081a-4c53-b846-9f101c24fe4f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/x-to-voice",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/x-to-voice",
-          "publishedOn": "2024-11-01T09:25:44.000Z",
-          "wordCount": 1781,
-          "title": "X to Voice",
-          "imageUrl": "https://ph-files.imgix.net/afd3dab5-13d3-40c0-9d3e-b763bef605ed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/therapyai-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/therapyai-2",
           "publishedOn": "2024-10-31T22:27:48.000Z",
-          "wordCount": 2027,
+          "wordCount": 2060,
           "title": "TherapyAI",
           "imageUrl": "https://ph-files.imgix.net/ed928307-8aba-4b45-954f-eff2ae59afab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -414,7 +414,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/orbit-ai-by-nifty",
           "publishedOn": "2024-10-22T18:59:42.000Z",
-          "wordCount": 2112,
+          "wordCount": 2085,
           "title": "Orbit AI by Nifty",
           "imageUrl": "https://ph-files.imgix.net/fb372987-de70-49f3-9914-bd2b2c71c393.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -459,6 +459,12 @@
           "imageUrl": "https://ph-files.imgix.net/45a7dee5-795b-4126-9492-da77d4ec77b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
