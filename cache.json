@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/slice-of-music",
           "publishedOn": "2024-11-06T18:16:24.000Z",
-          "wordCount": 1988,
+          "wordCount": 1985,
           "title": "Slice of Music",
           "imageUrl": "https://ph-files.imgix.net/e5245d88-3898-4b14-96b5-91bfcc690ef3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -229,16 +229,6 @@
           "imageUrl": "https://ph-files.imgix.net/3b86baa2-b88a-4531-9165-47edd4047077.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/ai-linter",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ai-linter",
-          "publishedOn": "2024-11-04T23:08:36.000Z",
-          "wordCount": 1827,
-          "title": "AI Linter",
-          "imageUrl": "https://ph-files.imgix.net/5ebbee6c-bc16-4b8d-aa6a-a09afd8647de.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/mybaby-help",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -294,7 +284,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/quorini",
           "publishedOn": "2024-11-02T21:59:10.000Z",
-          "wordCount": 2769,
+          "wordCount": 2810,
           "title": "Quorini",
           "imageUrl": "https://ph-files.imgix.net/6a6b6d1c-2f3d-41ca-b67c-94e3460c7dc8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -419,6 +409,16 @@
           "imageUrl": "https://ph-files.imgix.net/63bdf4bf-6bc0-42fa-985e-a29e14dd8c7c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/orbit-ai-by-nifty",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/orbit-ai-by-nifty",
+          "publishedOn": "2024-10-22T18:59:42.000Z",
+          "wordCount": 2097,
+          "title": "Orbit AI by Nifty",
+          "imageUrl": "https://ph-files.imgix.net/fb372987-de70-49f3-9914-bd2b2c71c393.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/poppop-ai-vocal-remover",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -504,7 +504,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/copilotkit-feat-coagents",
           "publishedOn": "2024-10-18T08:29:25.000Z",
-          "wordCount": 1722,
+          "wordCount": 1733,
           "title": "CopilotKit (feat. CoAgents)",
           "imageUrl": "https://ph-files.imgix.net/4d39f2a5-5dc8-4eca-9a6b-5c87446b6cff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -519,12 +519,6 @@
           "imageUrl": "https://ph-files.imgix.net/922e2bc1-7e8f-45c7-9d3a-13adcf305c02.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
