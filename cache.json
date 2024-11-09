@@ -299,16 +299,6 @@
           "imageUrl": "https://ph-files.imgix.net/d597b6ec-a506-4a5c-9846-5f15f1644d70.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/notclass",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/notclass",
-          "publishedOn": "2024-11-04T08:50:03.000Z",
-          "wordCount": 1802,
-          "title": "notclass",
-          "imageUrl": "https://ph-files.imgix.net/906d4e7a-64f7-4515-a881-dbe70861f0be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/voxa-pro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -344,7 +334,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/commerce-pro-by-capcut",
           "publishedOn": "2024-11-02T01:48:06.000Z",
-          "wordCount": 1682,
+          "wordCount": 1644,
           "title": "Commerce Pro by CapCut",
           "imageUrl": "https://ph-files.imgix.net/7e81c647-7522-40d1-9604-d06d470235c0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -519,6 +509,18 @@
           "imageUrl": "https://ph-files.imgix.net/5497da01-95bc-4172-aebb-2f9eccbee199.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
