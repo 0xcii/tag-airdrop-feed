@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/quitly-sober-days-counter",
           "publishedOn": "2024-11-09T03:22:00.000Z",
-          "wordCount": 1942,
+          "wordCount": 1933,
           "title": "Quitly: Sober Days Counter",
           "imageUrl": "https://ph-files.imgix.net/e3ce76d7-1cb1-444b-bac3-e0790187b2e0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -54,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/aimi-sync",
           "publishedOn": "2024-11-08T21:40:37.000Z",
-          "wordCount": 1578,
+          "wordCount": 1581,
           "title": "Aimi Sync",
           "imageUrl": "https://ph-files.imgix.net/00e13b9c-e315-446f-a530-b5ad8f000f2b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/clipboard-canvas",
           "publishedOn": "2024-11-08T12:00:25.000Z",
-          "wordCount": 1829,
+          "wordCount": 1826,
           "title": "Clipboard Canvas",
           "imageUrl": "https://ph-files.imgix.net/61d3ccbc-b5a2-40a3-a6fc-a8bee0c7c514.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -134,7 +134,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flowscraper",
           "publishedOn": "2024-11-07T15:28:39.000Z",
-          "wordCount": 1971,
+          "wordCount": 1974,
           "title": "FlowScraper",
           "imageUrl": "https://ph-files.imgix.net/a8056409-4e2a-40a2-8758-7770bfac33ad.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -329,6 +329,16 @@
           "imageUrl": "https://ph-files.imgix.net/f74d3dc2-4dc8-45bc-ab21-002c9f2dc17a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/youtube-playlist-calculator",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/youtube-playlist-calculator",
+          "publishedOn": "2024-11-05T10:39:34.000Z",
+          "wordCount": 1611,
+          "title": "YouTube Playlist Calculator",
+          "imageUrl": "https://ph-files.imgix.net/d597b6ec-a506-4a5c-9846-5f15f1644d70.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/voxa-pro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -364,7 +374,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/maibrain",
           "publishedOn": "2024-11-02T07:56:26.000Z",
-          "wordCount": 1618,
+          "wordCount": 1627,
           "title": "Maibrain",
           "imageUrl": "https://ph-files.imgix.net/12cf982a-274b-41e8-83fb-f9aeaef8936b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -427,16 +437,6 @@
           "wordCount": 1630,
           "title": "PaperGen",
           "imageUrl": "https://ph-files.imgix.net/8317ae43-c175-45a9-a108-c53e681cb8fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/poppop-ai-vocal-remover",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/poppop-ai-vocal-remover",
-          "publishedOn": "2024-10-22T08:09:22.000Z",
-          "wordCount": 1919,
-          "title": "PopPop AI Vocal Remover",
-          "imageUrl": "https://ph-files.imgix.net/07e6bc07-6ccf-40da-8036-dd39a05e7911.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/butter-scenes",
@@ -509,12 +509,6 @@
           "imageUrl": "https://ph-files.imgix.net/5497da01-95bc-4172-aebb-2f9eccbee199.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
