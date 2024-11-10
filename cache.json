@@ -239,16 +239,6 @@
           "imageUrl": "https://ph-files.imgix.net/28451782-fe4f-4cc1-8248-fdcddf0e9bb1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/slice-of-music",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/slice-of-music",
-          "publishedOn": "2024-11-06T18:16:24.000Z",
-          "wordCount": 1985,
-          "title": "Slice of Music",
-          "imageUrl": "https://ph-files.imgix.net/e5245d88-3898-4b14-96b5-91bfcc690ef3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/balance-miner",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -409,6 +399,16 @@
           "imageUrl": "https://ph-files.imgix.net/bcbf891e-5395-4342-8a0f-3f48bb5f2d20.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/papergen",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/papergen",
+          "publishedOn": "2024-10-22T22:15:31.000Z",
+          "wordCount": 1630,
+          "title": "PaperGen",
+          "imageUrl": "https://ph-files.imgix.net/8317ae43-c175-45a9-a108-c53e681cb8fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/sliceshare",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -494,6 +494,12 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
