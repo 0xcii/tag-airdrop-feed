@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/sweet-lemon",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sweet-lemon",
+          "publishedOn": "2024-11-12T07:45:14.000Z",
+          "wordCount": 1580,
+          "title": "Sweet Lemon",
+          "imageUrl": "https://ph-files.imgix.net/71cefc8e-9a1a-4a90-8053-5ee2915ce637.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/draft-27844448-74c3-451d-919b-116c24c23098",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -44,7 +54,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cosmunity-io",
           "publishedOn": "2024-11-11T12:50:59.000Z",
-          "wordCount": 1700,
+          "wordCount": 1694,
           "title": "cosmunity.io",
           "imageUrl": "https://ph-files.imgix.net/300ffe2d-ed63-4cfa-b373-a92f097779e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -104,7 +114,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tooljet-3-0",
           "publishedOn": "2024-11-10T17:51:01.000Z",
-          "wordCount": 1777,
+          "wordCount": 1803,
           "title": "ToolJet 3.0",
           "imageUrl": "https://ph-files.imgix.net/8c75e633-42af-4792-b439-ae7675b59b66.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -254,7 +264,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/luqo-ai",
           "publishedOn": "2024-11-08T07:36:12.000Z",
-          "wordCount": 1957,
+          "wordCount": 1954,
           "title": "Luqo AI",
           "imageUrl": "https://ph-files.imgix.net/d717c821-3ba6-4882-94bb-9ba776638558.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -307,16 +317,6 @@
           "wordCount": 1705,
           "title": "Elon Jump",
           "imageUrl": "https://ph-files.imgix.net/9f75b30e-1c1d-4a16-bdd7-6e2857a7dfef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/lazyanimator",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/lazyanimator",
-          "publishedOn": "2024-11-05T18:37:11.000Z",
-          "wordCount": 1622,
-          "title": "LazyAnimator",
-          "imageUrl": "https://ph-files.imgix.net/287cca68-c8a5-4e42-a90c-d66ec3d4cb9c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/univerbal",
@@ -464,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/segwise",
           "publishedOn": "2024-10-21T11:38:44.000Z",
-          "wordCount": 2081,
+          "wordCount": 2078,
           "title": "Segwise",
           "imageUrl": "https://ph-files.imgix.net/f153c6bd-55d7-488f-810b-1011bb709790.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -479,6 +479,12 @@
           "imageUrl": "https://ph-files.imgix.net/c0164f22-96dd-4d68-9d77-12831c9eb6ef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
