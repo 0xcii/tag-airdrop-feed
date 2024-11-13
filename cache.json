@@ -84,7 +84,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/caffeinelog",
           "publishedOn": "2024-11-12T08:02:53.000Z",
-          "wordCount": 1685,
+          "wordCount": 1682,
           "title": "CaffeineLog",
           "imageUrl": "https://ph-files.imgix.net/2688db33-702f-4284-a6b4-cdee68ddbd3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -239,16 +239,6 @@
           "imageUrl": "https://ph-files.imgix.net/0033bf68-388c-44f3-bc7f-d6151760609c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/eyepilot-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/eyepilot-2",
-          "publishedOn": "2024-11-09T20:55:06.000Z",
-          "wordCount": 1792,
-          "title": "EyePilot",
-          "imageUrl": "https://ph-files.imgix.net/c4aaa936-de21-4caa-bb96-0e0a6df2a58c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/launchgun-1",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -379,12 +369,22 @@
           "imageUrl": "https://ph-files.imgix.net/23fe09c8-8a1e-4c69-96c1-35643079d402.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/blitzwizmap",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/blitzwizmap",
+          "publishedOn": "2024-11-03T09:14:10.000Z",
+          "wordCount": 2463,
+          "title": "BlitzWizMap",
+          "imageUrl": "https://ph-files.imgix.net/b670853c-a994-47e1-ab92-1a018118d0d0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/agree-com-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/agree-com-2",
           "publishedOn": "2024-11-02T21:57:28.000Z",
-          "wordCount": 1991,
+          "wordCount": 2003,
           "title": "Agree.com",
           "imageUrl": "https://ph-files.imgix.net/22c2ac05-90ee-4ec2-a034-ea119c9c4c5d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -464,7 +464,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/segwise",
           "publishedOn": "2024-10-21T11:38:44.000Z",
-          "wordCount": 2092,
+          "wordCount": 2095,
           "title": "Segwise",
           "imageUrl": "https://ph-files.imgix.net/f153c6bd-55d7-488f-810b-1011bb709790.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -479,12 +479,6 @@
           "imageUrl": "https://ph-files.imgix.net/0778d435-03bb-4493-a5d7-c75f2dca0e7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
