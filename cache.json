@@ -224,7 +224,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dokploy-cloud",
           "publishedOn": "2024-11-10T06:18:14.000Z",
-          "wordCount": 1780,
+          "wordCount": 1804,
           "title": "Dokploy Cloud",
           "imageUrl": "https://ph-files.imgix.net/06e930c7-ab5c-4507-922d-4c113570ea80.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -247,6 +247,16 @@
           "wordCount": 1792,
           "title": "EyePilot",
           "imageUrl": "https://ph-files.imgix.net/c4aaa936-de21-4caa-bb96-0e0a6df2a58c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/launchgun-1",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/launchgun-1",
+          "publishedOn": "2024-11-09T19:30:55.000Z",
+          "wordCount": 1796,
+          "title": "LaunchGun",
+          "imageUrl": "https://ph-files.imgix.net/6d705049-9639-4910-9858-22cd534629d0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sincerely-karen",
@@ -434,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dashbreeze",
           "publishedOn": "2024-10-27T03:47:06.000Z",
-          "wordCount": 1893,
+          "wordCount": 1896,
           "title": "Dashbreeze",
           "imageUrl": "https://ph-files.imgix.net/5a34141e-6610-44ae-bf59-c318cd820f4e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -447,16 +457,6 @@
           "wordCount": 1752,
           "title": "KROCK 2.0",
           "imageUrl": "https://ph-files.imgix.net/82cbe080-4730-4a65-b80c-7d8d4c9afbae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sliceshare",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sliceshare",
-          "publishedOn": "2024-10-22T21:25:32.000Z",
-          "wordCount": 1775,
-          "title": "SliceShare",
-          "imageUrl": "https://ph-files.imgix.net/b35639f2-1e72-4eaa-a9e4-4a12aacd375c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/segwise",
@@ -474,17 +474,11 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/koncile",
           "publishedOn": "2024-10-15T10:45:26.000Z",
-          "wordCount": 1807,
+          "wordCount": 1797,
           "title": "Koncile",
           "imageUrl": "https://ph-files.imgix.net/0778d435-03bb-4493-a5d7-c75f2dca0e7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
