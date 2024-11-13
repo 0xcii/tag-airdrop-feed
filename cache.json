@@ -199,16 +199,6 @@
           "imageUrl": "https://ph-files.imgix.net/25b958ab-f4a8-4551-a1d7-8238db619ae5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/quitly-sober-days-counter",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/quitly-sober-days-counter",
-          "publishedOn": "2024-11-09T03:22:00.000Z",
-          "wordCount": 1939,
-          "title": "Quitly: Sober Days Counter",
-          "imageUrl": "https://ph-files.imgix.net/e3ce76d7-1cb1-444b-bac3-e0790187b2e0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/aimi-sync",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -227,6 +217,16 @@
           "wordCount": 1515,
           "title": "Aimi Player Pro",
           "imageUrl": "https://ph-files.imgix.net/4962fa2c-26ba-4652-af3f-4b47f591422f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/habit-light",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/habit-light",
+          "publishedOn": "2024-11-08T19:49:03.000Z",
+          "wordCount": 1599,
+          "title": "Habit Light",
+          "imageUrl": "https://ph-files.imgix.net/2406c38d-e3f9-4c52-9c89-1779b99b462c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pubky-core",
@@ -479,6 +479,12 @@
           "imageUrl": "https://ph-files.imgix.net/c0164f22-96dd-4d68-9d77-12831c9eb6ef.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
