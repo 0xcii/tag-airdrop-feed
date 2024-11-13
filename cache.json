@@ -29,6 +29,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/rename-tabs-with-f2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/rename-tabs-with-f2",
+          "publishedOn": "2024-11-13T07:44:52.000Z",
+          "wordCount": 1187,
+          "title": "Rename Tabs with F2",
+          "imageUrl": "https://ph-files.imgix.net/2f6c14f5-e7d2-4c97-b57e-137645719cb7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/particle-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -69,13 +79,13 @@
           "imageUrl": "https://ph-files.imgix.net/5a2edebe-0b7b-4c3f-b8f6-66d623a87e22.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/caffeinelog-track-caffeine",
+          "id": "https://www.producthunt.com/posts/caffeinelog",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/caffeinelog-track-caffeine",
+          "link": "https://www.producthunt.com/posts/caffeinelog",
           "publishedOn": "2024-11-12T08:02:53.000Z",
-          "wordCount": 1748,
-          "title": "CaffeineLog - Track Caffeine",
+          "wordCount": 1679,
+          "title": "CaffeineLog",
           "imageUrl": "https://ph-files.imgix.net/2688db33-702f-4284-a6b4-cdee68ddbd3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -224,29 +234,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vocera",
           "publishedOn": "2024-11-09T22:47:21.000Z",
-          "wordCount": 1893,
+          "wordCount": 1896,
           "title": "Vocera",
           "imageUrl": "https://ph-files.imgix.net/0033bf68-388c-44f3-bc7f-d6151760609c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/eyepilot-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/eyepilot-2",
-          "publishedOn": "2024-11-09T20:55:06.000Z",
-          "wordCount": 1792,
-          "title": "EyePilot",
-          "imageUrl": "https://ph-files.imgix.net/c4aaa936-de21-4caa-bb96-0e0a6df2a58c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/launchgun-1",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/launchgun-1",
-          "publishedOn": "2024-11-09T19:30:55.000Z",
-          "wordCount": 1796,
-          "title": "LaunchGun",
-          "imageUrl": "https://ph-files.imgix.net/6d705049-9639-4910-9858-22cd534629d0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sincerely-karen",
@@ -264,7 +254,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/locationchecker",
           "publishedOn": "2024-11-09T14:01:15.000Z",
-          "wordCount": 2057,
+          "wordCount": 2060,
           "title": "LocationChecker",
           "imageUrl": "https://ph-files.imgix.net/130a30c0-5cc3-47c3-b8c4-9f4362080586.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -369,6 +359,16 @@
           "imageUrl": "https://ph-files.imgix.net/23fe09c8-8a1e-4c69-96c1-35643079d402.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/blitzwizmap",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/blitzwizmap",
+          "publishedOn": "2024-11-03T09:14:10.000Z",
+          "wordCount": 2463,
+          "title": "BlitzWizMap",
+          "imageUrl": "https://ph-files.imgix.net/b670853c-a994-47e1-ab92-1a018118d0d0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/agree-com-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -424,7 +424,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/genbler",
           "publishedOn": "2024-10-29T23:15:50.000Z",
-          "wordCount": 1890,
+          "wordCount": 1896,
           "title": "Genbler",
           "imageUrl": "https://ph-files.imgix.net/59d9ceb4-e523-40bf-8abb-0adba4ebfe26.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -474,16 +474,16 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/koncile",
           "publishedOn": "2024-10-15T10:45:26.000Z",
-          "wordCount": 1785,
+          "wordCount": 1782,
           "title": "Koncile",
           "imageUrl": "https://ph-files.imgix.net/0778d435-03bb-4493-a5d7-c75f2dca0e7a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
     {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
     }
   ],
