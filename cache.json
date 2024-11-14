@@ -249,6 +249,16 @@
           "imageUrl": "https://ph-files.imgix.net/0033bf68-388c-44f3-bc7f-d6151760609c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/eyepilot-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/eyepilot-2",
+          "publishedOn": "2024-11-09T20:55:06.000Z",
+          "wordCount": 1792,
+          "title": "EyePilot",
+          "imageUrl": "https://ph-files.imgix.net/c4aaa936-de21-4caa-bb96-0e0a6df2a58c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/sincerely-karen",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -394,7 +404,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/arch-3",
           "publishedOn": "2024-11-01T16:33:42.000Z",
-          "wordCount": 2080,
+          "wordCount": 2050,
           "title": "Arch",
           "imageUrl": "https://ph-files.imgix.net/f7c8dfdc-45fd-4326-81f9-4042d92b1575.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -469,6 +479,18 @@
           "imageUrl": "https://ph-files.imgix.net/f153c6bd-55d7-488f-810b-1011bb709790.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
