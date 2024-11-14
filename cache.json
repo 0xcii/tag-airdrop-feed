@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/speek-ai",
           "publishedOn": "2024-11-13T19:32:56.000Z",
-          "wordCount": 1925,
+          "wordCount": 1895,
           "title": "Speek AI",
           "imageUrl": "https://ph-files.imgix.net/718fe64a-2685-4ec4-a63a-cdd585a237c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -103,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/projects-by-elevenlabs",
           "publishedOn": "2024-11-13T14:12:41.000Z",
-          "wordCount": 1565,
+          "wordCount": 1541,
           "title": "Projects by ElevenLabs",
           "imageUrl": "https://ph-files.imgix.net/03cab851-0adb-4c8f-a586-5da566bc18eb.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -248,16 +248,6 @@
           "imageUrl": "https://ph-files.imgix.net/eaeedb54-f029-47d4-8ae0-5867bc2b8f5b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/curiosityxr",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/curiosityxr",
-          "publishedOn": "2024-11-10T19:45:14.000Z",
-          "wordCount": 2042,
-          "title": "CuriosityXR",
-          "imageUrl": "https://ph-files.imgix.net/3aaa3270-2c4b-4024-a12b-d4dd2c30f412.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/65x24",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -343,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zepic",
           "publishedOn": "2024-11-05T14:31:27.000Z",
-          "wordCount": 1786,
+          "wordCount": 1789,
           "title": "ZEPIC",
           "imageUrl": "https://ph-files.imgix.net/2a984db7-5429-4f03-9f38-11147acfdabd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -396,6 +386,16 @@
           "wordCount": 2047,
           "title": "Arch",
           "imageUrl": "https://ph-files.imgix.net/f7c8dfdc-45fd-4326-81f9-4042d92b1575.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cerebrium",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/cerebrium",
+          "publishedOn": "2024-11-01T13:13:00.000Z",
+          "wordCount": 2101,
+          "title": "Cerebrium",
+          "imageUrl": "https://ph-files.imgix.net/df08a1f6-cdb7-4c29-9031-76ef5c9241a3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/argil-article-to-video",
@@ -463,17 +463,11 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/futudo",
           "publishedOn": "2024-10-18T17:12:58.000Z",
-          "wordCount": 2154,
+          "wordCount": 2178,
           "title": "Futudo",
           "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
