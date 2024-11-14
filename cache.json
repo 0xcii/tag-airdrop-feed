@@ -44,7 +44,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/particle-5",
           "publishedOn": "2024-11-13T00:55:19.000Z",
-          "wordCount": 2182,
+          "wordCount": 2212,
           "title": "Particle",
           "imageUrl": "https://ph-files.imgix.net/6cdbb580-18b0-4a93-9015-d75a4afbabe8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -394,7 +394,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/arch-3",
           "publishedOn": "2024-11-01T16:33:42.000Z",
-          "wordCount": 2047,
+          "wordCount": 2050,
           "title": "Arch",
           "imageUrl": "https://ph-files.imgix.net/f7c8dfdc-45fd-4326-81f9-4042d92b1575.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -419,6 +419,16 @@
           "imageUrl": "https://ph-files.imgix.net/24298afa-6e42-450b-b66e-ba93006b6437.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/genbler",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/genbler",
+          "publishedOn": "2024-10-29T23:15:50.000Z",
+          "wordCount": 1890,
+          "title": "Genbler",
+          "imageUrl": "https://ph-files.imgix.net/59d9ceb4-e523-40bf-8abb-0adba4ebfe26.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ai-app-generator",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -434,7 +444,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dashbreeze",
           "publishedOn": "2024-10-27T03:47:06.000Z",
-          "wordCount": 1893,
+          "wordCount": 1896,
           "title": "Dashbreeze",
           "imageUrl": "https://ph-files.imgix.net/5a34141e-6610-44ae-bf59-c318cd820f4e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -449,16 +459,6 @@
           "imageUrl": "https://ph-files.imgix.net/82cbe080-4730-4a65-b80c-7d8d4c9afbae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/sliceshare",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sliceshare",
-          "publishedOn": "2024-10-22T21:25:32.000Z",
-          "wordCount": 1775,
-          "title": "SliceShare",
-          "imageUrl": "https://ph-files.imgix.net/b35639f2-1e72-4eaa-a9e4-4a12aacd375c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/segwise",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -469,6 +469,12 @@
           "imageUrl": "https://ph-files.imgix.net/f153c6bd-55d7-488f-810b-1011bb709790.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
