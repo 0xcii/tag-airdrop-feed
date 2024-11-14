@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jazon-2-0",
           "publishedOn": "2024-11-14T03:49:19.000Z",
-          "wordCount": 1998,
+          "wordCount": 2019,
           "title": "Jazon 2.0",
           "imageUrl": "https://ph-files.imgix.net/f62117f3-e281-49d0-b00c-166f28e7f523.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-slides-to-video-presentation-maker",
           "publishedOn": "2024-11-13T16:17:55.000Z",
-          "wordCount": 1883,
+          "wordCount": 1898,
           "title": "AI Slides to Video Presentation Maker",
           "imageUrl": "https://ph-files.imgix.net/ef125832-231e-4d1c-9079-6ddb26859331.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -223,7 +223,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pearai",
           "publishedOn": "2024-11-11T17:30:32.000Z",
-          "wordCount": 1829,
+          "wordCount": 1859,
           "title": "PearAI",
           "imageUrl": "https://ph-files.imgix.net/14a9e46a-20db-41d3-8e92-88cdd4d368fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -273,7 +273,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tooljet-3-0",
           "publishedOn": "2024-11-10T17:51:01.000Z",
-          "wordCount": 1821,
+          "wordCount": 1845,
           "title": "ToolJet 3.0",
           "imageUrl": "https://ph-files.imgix.net/8c75e633-42af-4792-b439-ae7675b59b66.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zepic",
           "publishedOn": "2024-11-05T14:31:27.000Z",
-          "wordCount": 1816,
+          "wordCount": 1786,
           "title": "ZEPIC",
           "imageUrl": "https://ph-files.imgix.net/2a984db7-5429-4f03-9f38-11147acfdabd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -368,6 +368,16 @@
           "imageUrl": "https://ph-files.imgix.net/1083207b-0ce6-48f3-b181-98311690f052.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/agree-com-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/agree-com-2",
+          "publishedOn": "2024-11-02T21:57:28.000Z",
+          "wordCount": 2003,
+          "title": "Agree.com",
+          "imageUrl": "https://ph-files.imgix.net/22c2ac05-90ee-4ec2-a034-ea119c9c4c5d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/inquir",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -383,19 +393,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/arch-3",
           "publishedOn": "2024-11-01T16:33:42.000Z",
-          "wordCount": 2051,
+          "wordCount": 2047,
           "title": "Arch",
           "imageUrl": "https://ph-files.imgix.net/f7c8dfdc-45fd-4326-81f9-4042d92b1575.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/cerebrium",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/cerebrium",
-          "publishedOn": "2024-11-01T13:13:00.000Z",
-          "wordCount": 2131,
-          "title": "Cerebrium",
-          "imageUrl": "https://ph-files.imgix.net/df08a1f6-cdb7-4c29-9031-76ef5c9241a3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/argil-article-to-video",
@@ -468,12 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
