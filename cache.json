@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/friend-com",
@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tailwind-scanner",
           "publishedOn": "2024-11-14T12:48:19.000Z",
-          "wordCount": 1740,
+          "wordCount": 1743,
           "title": "Tailwind Scanner",
           "imageUrl": "https://ph-files.imgix.net/fac5ae4a-efcd-4a69-ae48-faebe7051537.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/output-media-api-by-recall-ai",
           "publishedOn": "2024-11-08T00:31:38.000Z",
-          "wordCount": 1740,
+          "wordCount": 1764,
           "title": "Output Media API by Recall.ai",
           "imageUrl": "https://ph-files.imgix.net/23ede1a8-e672-4f54-82b6-3f79041af24f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
