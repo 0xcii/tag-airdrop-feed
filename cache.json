@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/friend-com",
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zeno",
           "publishedOn": "2024-11-14T10:39:37.000Z",
-          "wordCount": 1611,
+          "wordCount": 1614,
           "title": "Zeno",
           "imageUrl": "https://ph-files.imgix.net/d9875d37-1941-42e6-987b-f214b4aee32a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -278,6 +278,16 @@
           "imageUrl": "https://ph-files.imgix.net/71cefc8e-9a1a-4a90-8053-5ee2915ce637.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/draft-27844448-74c3-451d-919b-116c24c23098",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/draft-27844448-74c3-451d-919b-116c24c23098",
+          "publishedOn": "2024-11-11T17:31:09.000Z",
+          "wordCount": 1183,
+          "title": "Draft",
+          "imageUrl": "https://ph-files.imgix.net/da366e1b-3958-4414-92af-e44cc45f7e7d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/pearai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -316,16 +326,6 @@
           "wordCount": 1711,
           "title": "65×24",
           "imageUrl": "https://ph-files.imgix.net/654f4bfb-1b6d-486c-b0c4-3f7a65961d60.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/dokploy-cloud",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dokploy-cloud",
-          "publishedOn": "2024-11-10T06:18:14.000Z",
-          "wordCount": 1780,
-          "title": "Dokploy Cloud",
-          "imageUrl": "https://ph-files.imgix.net/06e930c7-ab5c-4507-922d-4c113570ea80.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/vocera",
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/output-media-api-by-recall-ai",
           "publishedOn": "2024-11-08T00:31:38.000Z",
-          "wordCount": 1764,
+          "wordCount": 1740,
           "title": "Output Media API by Recall.ai",
           "imageUrl": "https://ph-files.imgix.net/23ede1a8-e672-4f54-82b6-3f79041af24f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/venga-app",
           "publishedOn": "2024-10-29T10:48:22.000Z",
-          "wordCount": 2332,
+          "wordCount": 2302,
           "title": "Venga App",
           "imageUrl": "https://ph-files.imgix.net/2e4f6e54-d31f-4e1e-a118-ec4cabaf756e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
