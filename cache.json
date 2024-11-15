@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zeno",
           "publishedOn": "2024-11-14T10:39:37.000Z",
-          "wordCount": 1611,
+          "wordCount": 1614,
           "title": "Zeno",
           "imageUrl": "https://ph-files.imgix.net/d9875d37-1941-42e6-987b-f214b4aee32a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,6 +268,16 @@
           "imageUrl": "https://ph-files.imgix.net/2688db33-702f-4284-a6b4-cdee68ddbd3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/sweet-lemon",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sweet-lemon",
+          "publishedOn": "2024-11-12T07:45:14.000Z",
+          "wordCount": 1583,
+          "title": "Sweet Lemon",
+          "imageUrl": "https://ph-files.imgix.net/71cefc8e-9a1a-4a90-8053-5ee2915ce637.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/pearai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -318,13 +328,13 @@
           "imageUrl": "https://ph-files.imgix.net/0033bf68-388c-44f3-bc7f-d6151760609c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/sre-ai",
+          "id": "https://www.producthunt.com/posts/sre-ai-yc-f24",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sre-ai",
+          "link": "https://www.producthunt.com/posts/sre-ai-yc-f24",
           "publishedOn": "2024-11-09T22:33:02.000Z",
-          "wordCount": 1665,
-          "title": "SRE.ai",
+          "wordCount": 1709,
+          "title": "SRE.ai (YC F24)",
           "imageUrl": "https://ph-files.imgix.net/ab077c14-7f20-4371-82d7-14842a925640.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -398,16 +408,6 @@
           "imageUrl": "https://ph-files.imgix.net/13ac21b3-9710-483b-a9ef-404a711900cf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/agree-com-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/agree-com-2",
-          "publishedOn": "2024-11-02T21:57:28.000Z",
-          "wordCount": 2003,
-          "title": "Agree.com",
-          "imageUrl": "https://ph-files.imgix.net/22c2ac05-90ee-4ec2-a034-ea119c9c4c5d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/arch-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -478,6 +478,18 @@
           "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
