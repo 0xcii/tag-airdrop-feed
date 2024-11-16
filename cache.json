@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/friend-com",
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zeno",
           "publishedOn": "2024-11-14T10:39:37.000Z",
-          "wordCount": 1608,
+          "wordCount": 1638,
           "title": "Zeno",
           "imageUrl": "https://ph-files.imgix.net/d9875d37-1941-42e6-987b-f214b4aee32a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,14 +268,24 @@
           "imageUrl": "https://ph-files.imgix.net/2688db33-702f-4284-a6b4-cdee68ddbd3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/sweet-lemon",
+          "id": "https://www.producthunt.com/posts/endgame-2-0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sweet-lemon",
-          "publishedOn": "2024-11-12T07:45:14.000Z",
-          "wordCount": 1583,
-          "title": "Sweet Lemon",
-          "imageUrl": "https://ph-files.imgix.net/71cefc8e-9a1a-4a90-8053-5ee2915ce637.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/endgame-2-0",
+          "publishedOn": "2024-11-12T03:00:23.000Z",
+          "wordCount": 1959,
+          "title": "Endgame 2.0",
+          "imageUrl": "https://ph-files.imgix.net/6a1d4ce0-e745-461b-bdf7-bebb469895d6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/draft-27844448-74c3-451d-919b-116c24c23098",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/draft-27844448-74c3-451d-919b-116c24c23098",
+          "publishedOn": "2024-11-11T17:31:09.000Z",
+          "wordCount": 1183,
+          "title": "Draft",
+          "imageUrl": "https://ph-files.imgix.net/da366e1b-3958-4414-92af-e44cc45f7e7d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pearai",
@@ -316,6 +326,16 @@
           "wordCount": 1711,
           "title": "65×24",
           "imageUrl": "https://ph-files.imgix.net/654f4bfb-1b6d-486c-b0c4-3f7a65961d60.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dokploy-cloud",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dokploy-cloud",
+          "publishedOn": "2024-11-10T06:18:14.000Z",
+          "wordCount": 1780,
+          "title": "Dokploy Cloud",
+          "imageUrl": "https://ph-files.imgix.net/06e930c7-ab5c-4507-922d-4c113570ea80.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/vocera",
@@ -378,16 +398,6 @@
           "imageUrl": "https://ph-files.imgix.net/23ede1a8-e672-4f54-82b6-3f79041af24f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/slay-school",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/slay-school",
-          "publishedOn": "2024-11-07T23:31:19.000Z",
-          "wordCount": 1980,
-          "title": "Slay School",
-          "imageUrl": "https://ph-files.imgix.net/bbe6927d-0767-4b81-8123-b3cecafc54d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/zepic",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -406,16 +416,6 @@
           "wordCount": 1986,
           "title": "Engram Translator",
           "imageUrl": "https://ph-files.imgix.net/13ac21b3-9710-483b-a9ef-404a711900cf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/inquir",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/inquir",
-          "publishedOn": "2024-11-01T21:45:16.000Z",
-          "wordCount": 1681,
-          "title": "Inquir",
-          "imageUrl": "https://ph-files.imgix.net/2e9bf68f-b67a-4352-903e-00ac5371aeac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/arch-3",
@@ -483,12 +483,6 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
