@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/protego-for-reddit",
           "publishedOn": "2024-11-15T23:54:21.000Z",
-          "wordCount": 1979,
+          "wordCount": 1973,
           "title": "Protego for Reddit",
           "imageUrl": "https://ph-files.imgix.net/bb6893db-e7d1-482a-a45e-27998c8038fb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/snippetx",
           "publishedOn": "2024-11-15T12:35:30.000Z",
-          "wordCount": 1717,
+          "wordCount": 1723,
           "title": "SnippetX",
           "imageUrl": "https://ph-files.imgix.net/59abc7ee-e7a3-4368-9874-c2aa50be7415.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/react-scan",
           "publishedOn": "2024-11-15T02:30:04.000Z",
-          "wordCount": 1562,
+          "wordCount": 1592,
           "title": "React Scan",
           "imageUrl": "https://ph-files.imgix.net/9ecc236a-4b42-4b20-b123-6125306e2fc7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -143,7 +143,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/the-windsurf-editor",
           "publishedOn": "2024-11-14T04:50:42.000Z",
-          "wordCount": 1954,
+          "wordCount": 1984,
           "title": "The Windsurf Editor",
           "imageUrl": "https://ph-files.imgix.net/23af8f9c-55b8-452c-8865-126f7be76126.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -283,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/alcove-2",
           "publishedOn": "2024-11-12T10:16:59.000Z",
-          "wordCount": 1109,
+          "wordCount": 1079,
           "title": "Alcove",
           "imageUrl": "https://ph-files.imgix.net/190d4afa-60a5-4255-b74c-d98a08cbd6f2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -306,6 +306,16 @@
           "wordCount": 1679,
           "title": "CaffeineLog",
           "imageUrl": "https://ph-files.imgix.net/2688db33-702f-4284-a6b4-cdee68ddbd3f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pearai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pearai",
+          "publishedOn": "2024-11-11T17:30:32.000Z",
+          "wordCount": 1829,
+          "title": "PearAI",
+          "imageUrl": "https://ph-files.imgix.net/14a9e46a-20db-41d3-8e92-88cdd4d368fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/audience-radar-by-goaudience",
@@ -363,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/output-media-api-by-recall-ai",
           "publishedOn": "2024-11-08T00:31:38.000Z",
-          "wordCount": 1740,
+          "wordCount": 1764,
           "title": "Output Media API by Recall.ai",
           "imageUrl": "https://ph-files.imgix.net/23ede1a8-e672-4f54-82b6-3f79041af24f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -393,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/engram-translator",
           "publishedOn": "2024-11-05T02:17:14.000Z",
-          "wordCount": 1986,
+          "wordCount": 2010,
           "title": "Engram Translator",
           "imageUrl": "https://ph-files.imgix.net/13ac21b3-9710-483b-a9ef-404a711900cf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -468,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
