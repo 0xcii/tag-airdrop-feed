@@ -208,16 +208,6 @@
           "imageUrl": "https://ph-files.imgix.net/2974ecd3-f5c5-467f-bd8c-cdcb79c5a152.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/kalavai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/kalavai",
-          "publishedOn": "2024-11-13T22:20:53.000Z",
-          "wordCount": 1873,
-          "title": "Kalavai",
-          "imageUrl": "https://ph-files.imgix.net/95796fc6-04ea-4dd7-ad8e-a6477646aba1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/bucket-flags",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -323,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nfrt",
           "publishedOn": "2024-11-10T08:00:50.000Z",
-          "wordCount": 1837,
+          "wordCount": 1834,
           "title": "NFRT",
           "imageUrl": "https://ph-files.imgix.net/e6f48743-edae-4e89-a6f6-4554daf199d0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/momen",
           "publishedOn": "2024-11-08T15:35:47.000Z",
-          "wordCount": 1822,
+          "wordCount": 1832,
           "title": "Momen",
           "imageUrl": "https://ph-files.imgix.net/dc297a3b-b655-48ba-84df-a6bcc1628d2b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -396,6 +386,16 @@
           "wordCount": 1783,
           "title": "ZEPIC",
           "imageUrl": "https://ph-files.imgix.net/2a984db7-5429-4f03-9f38-11147acfdabd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/engram-translator",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/engram-translator",
+          "publishedOn": "2024-11-05T02:17:14.000Z",
+          "wordCount": 1986,
+          "title": "Engram Translator",
+          "imageUrl": "https://ph-files.imgix.net/13ac21b3-9710-483b-a9ef-404a711900cf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/kidtivity-lab",
@@ -468,18 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/d86a5a8f-efba-423c-86d9-d231292bb52b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
