@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/protego-for-reddit",
@@ -238,6 +238,16 @@
           "imageUrl": "https://ph-files.imgix.net/2f6c14f5-e7d2-4c97-b57e-137645719cb7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/particle-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/particle-5",
+          "publishedOn": "2024-11-13T00:55:19.000Z",
+          "wordCount": 2182,
+          "title": "Particle",
+          "imageUrl": "https://ph-files.imgix.net/6cdbb580-18b0-4a93-9015-d75a4afbabe8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/learn-about",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -256,6 +266,16 @@
           "wordCount": 1783,
           "title": "AstroSafe Search",
           "imageUrl": "https://ph-files.imgix.net/f00a92fd-6a40-47df-b900-b4907c7440f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tab-dock",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tab-dock",
+          "publishedOn": "2024-11-12T11:38:36.000Z",
+          "wordCount": 2019,
+          "title": "Tab Dock",
+          "imageUrl": "https://ph-files.imgix.net/685f8d79-c2dc-4d16-90fe-9e00a56c6331.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/alcove-2",
@@ -398,16 +418,6 @@
           "imageUrl": "https://ph-files.imgix.net/13ac21b3-9710-483b-a9ef-404a711900cf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/arch-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/arch-3",
-          "publishedOn": "2024-11-01T16:33:42.000Z",
-          "wordCount": 2047,
-          "title": "Arch",
-          "imageUrl": "https://ph-files.imgix.net/f7c8dfdc-45fd-4326-81f9-4042d92b1575.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/herodot-ai-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -456,18 +466,20 @@
           "wordCount": 1343,
           "title": "Middleman",
           "imageUrl": "https://ph-files.imgix.net/d86a5a8f-efba-423c-86d9-d231292bb52b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/futudo",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/futudo",
-          "publishedOn": "2024-10-18T17:12:58.000Z",
-          "wordCount": 2151,
-          "title": "Futudo",
-          "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
