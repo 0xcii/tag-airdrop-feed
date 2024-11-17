@@ -343,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vocera",
           "publishedOn": "2024-11-09T22:47:21.000Z",
-          "wordCount": 1899,
+          "wordCount": 1929,
           "title": "Vocera",
           "imageUrl": "https://ph-files.imgix.net/0033bf68-388c-44f3-bc7f-d6151760609c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -353,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sre-ai",
           "publishedOn": "2024-11-09T22:33:02.000Z",
-          "wordCount": 1683,
+          "wordCount": 1653,
           "title": "SRE.ai",
           "imageUrl": "https://ph-files.imgix.net/ab077c14-7f20-4371-82d7-14842a925640.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -458,6 +458,16 @@
           "imageUrl": "https://ph-files.imgix.net/aa37b645-96cd-4a1c-899b-e4f217b06cca.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/dashbreeze",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dashbreeze",
+          "publishedOn": "2024-10-27T03:47:06.000Z",
+          "wordCount": 1888,
+          "title": "Dashbreeze",
+          "imageUrl": "https://ph-files.imgix.net/5a34141e-6610-44ae-bf59-c318cd820f4e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/middleman-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -478,6 +488,18 @@
           "imageUrl": "https://ph-files.imgix.net/3474a523-6e20-4e57-803c-41fac4785cbc.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
