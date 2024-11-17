@@ -288,16 +288,6 @@
           "imageUrl": "https://ph-files.imgix.net/fbcfc426-93e0-449d-b7cc-884fb1e7b0a5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/sharbo",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sharbo",
-          "publishedOn": "2024-11-11T20:17:49.000Z",
-          "wordCount": 1904,
-          "title": "Sharbo",
-          "imageUrl": "https://ph-files.imgix.net/e2158ebf-b4b1-43de-8f93-2e187f3af50a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/audience-radar-by-goaudience",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -353,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/momen",
           "publishedOn": "2024-11-08T15:35:47.000Z",
-          "wordCount": 1852,
+          "wordCount": 1822,
           "title": "Momen",
           "imageUrl": "https://ph-files.imgix.net/dc297a3b-b655-48ba-84df-a6bcc1628d2b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -383,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/velocity-lapse",
           "publishedOn": "2024-11-05T21:22:52.000Z",
-          "wordCount": 1743,
+          "wordCount": 1749,
           "title": "Velocity Lapse",
           "imageUrl": "https://ph-files.imgix.net/d2c71172-a73f-46e9-9d3c-6ca44df1cd53.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +413,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/herodot-ai-2",
           "publishedOn": "2024-10-31T09:25:22.000Z",
-          "wordCount": 2199,
+          "wordCount": 2198,
           "title": "Herodot AI",
           "imageUrl": "https://ph-files.imgix.net/bd27796f-889b-4d57-8925-6a53b55fc748.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mikrotakt",
           "publishedOn": "2024-10-24T15:52:52.000Z",
-          "wordCount": 1952,
+          "wordCount": 1919,
           "title": "Mikrotakt",
           "imageUrl": "https://ph-files.imgix.net/a26e7974-0f99-47a7-b505-8b47380280e5.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,6 +468,18 @@
           "imageUrl": "https://ph-files.imgix.net/d86a5a8f-efba-423c-86d9-d231292bb52b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
