@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/wins-2-5",
@@ -358,6 +358,16 @@
           "imageUrl": "https://ph-files.imgix.net/dc297a3b-b655-48ba-84df-a6bcc1628d2b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/output-media-api-by-recall-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/output-media-api-by-recall-ai",
+          "publishedOn": "2024-11-08T00:31:38.000Z",
+          "wordCount": 1740,
+          "title": "Output Media API by Recall.ai",
+          "imageUrl": "https://ph-files.imgix.net/23ede1a8-e672-4f54-82b6-3f79041af24f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/side-space",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -376,16 +386,6 @@
           "wordCount": 1755,
           "title": "Velocity Lapse",
           "imageUrl": "https://ph-files.imgix.net/d2c71172-a73f-46e9-9d3c-6ca44df1cd53.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/zepic",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/zepic",
-          "publishedOn": "2024-11-05T14:31:27.000Z",
-          "wordCount": 1783,
-          "title": "ZEPIC",
-          "imageUrl": "https://ph-files.imgix.net/2a984db7-5429-4f03-9f38-11147acfdabd.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/engram-translator",
