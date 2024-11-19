@@ -228,16 +228,6 @@
           "imageUrl": "https://ph-files.imgix.net/2502af63-d477-4f54-ba54-9e82d0f1ccb3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/the-windsurf-editor",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/the-windsurf-editor",
-          "publishedOn": "2024-11-14T04:50:42.000Z",
-          "wordCount": 1954,
-          "title": "The Windsurf Editor",
-          "imageUrl": "https://ph-files.imgix.net/23af8f9c-55b8-452c-8865-126f7be76126.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/speek-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -246,6 +236,16 @@
           "wordCount": 1883,
           "title": "Speek AI",
           "imageUrl": "https://ph-files.imgix.net/718fe64a-2685-4ec4-a63a-cdd585a237c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ai-slides-to-video-presentation-maker",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-slides-to-video-presentation-maker",
+          "publishedOn": "2024-11-13T16:17:55.000Z",
+          "wordCount": 1880,
+          "title": "AI Slides to Video Presentation Maker",
+          "imageUrl": "https://ph-files.imgix.net/ef125832-231e-4d1c-9079-6ddb26859331.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/astrosafe-search",
@@ -478,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/d86a5a8f-efba-423c-86d9-d231292bb52b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
