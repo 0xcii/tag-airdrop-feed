@@ -188,16 +188,6 @@
           "imageUrl": "https://ph-files.imgix.net/bb6893db-e7d1-482a-a45e-27998c8038fb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/snippetx",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/snippetx",
-          "publishedOn": "2024-11-15T12:35:30.000Z",
-          "wordCount": 1789,
-          "title": "SnippetX",
-          "imageUrl": "https://ph-files.imgix.net/59abc7ee-e7a3-4368-9874-c2aa50be7415.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/sendsheets",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -288,6 +278,16 @@
           "imageUrl": "https://ph-files.imgix.net/38e45a70-06b8-47e4-8487-72d0db82a5d6.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/alcove-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/alcove-2",
+          "publishedOn": "2024-11-12T10:16:59.000Z",
+          "wordCount": 1162,
+          "title": "Alcove",
+          "imageUrl": "https://ph-files.imgix.net/190d4afa-60a5-4255-b74c-d98a08cbd6f2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/pitchquick-co",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zilliz-cloud-serverless",
           "publishedOn": "2024-11-09T20:25:33.000Z",
-          "wordCount": 2043,
+          "wordCount": 2045,
           "title": "Zilliz Cloud Serverless",
           "imageUrl": "https://ph-files.imgix.net/25b1d29b-c684-4149-99c2-1cf92ee7077b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -498,6 +498,12 @@
           "imageUrl": "https://ph-files.imgix.net/599009e6-83a0-4efb-a9f5-5f0165e6b7dd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
