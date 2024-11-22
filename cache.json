@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jamcorder",
           "publishedOn": "2024-11-21T22:02:24.000Z",
-          "wordCount": 2015,
+          "wordCount": 2018,
           "title": "Jamcorder",
           "imageUrl": "https://ph-files.imgix.net/c6097d09-021e-4a30-adb9-cd2796e098d1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -143,7 +143,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trieve-vector-inference",
           "publishedOn": "2024-11-20T00:20:52.000Z",
-          "wordCount": 2087,
+          "wordCount": 2088,
           "title": "Trieve Vector Inference",
           "imageUrl": "https://ph-files.imgix.net/770ebb39-dc8b-4875-bed5-3bc4499da47c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -273,7 +273,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/integral",
           "publishedOn": "2024-11-18T05:41:04.000Z",
-          "wordCount": 2158,
+          "wordCount": 2162,
           "title": "Integral",
           "imageUrl": "https://ph-files.imgix.net/7cce0eff-5d83-4a56-a8ee-1f317229d564.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sulu",
           "publishedOn": "2024-11-16T04:46:13.000Z",
-          "wordCount": 1910,
+          "wordCount": 1905,
           "title": "Sulu",
           "imageUrl": "https://ph-files.imgix.net/b2e6e3b9-2a22-4095-aecb-4f2bfc94e3a1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -428,6 +428,16 @@
           "imageUrl": "https://ph-files.imgix.net/3a61df92-4622-4284-af65-d44113bdf862.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/lightscreen-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/lightscreen-ai",
+          "publishedOn": "2024-11-13T04:13:35.000Z",
+          "wordCount": 2119,
+          "title": "Lightscreen AI",
+          "imageUrl": "https://ph-files.imgix.net/38e45a70-06b8-47e4-8487-72d0db82a5d6.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/postiz",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -446,16 +456,6 @@
           "wordCount": 1933,
           "title": "Data Labeling Platform",
           "imageUrl": "https://ph-files.imgix.net/a8380a62-a026-47cf-8fa0-160e8dacd0bb.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/vozo-video-translator",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/vozo-video-translator",
-          "publishedOn": "2024-11-11T10:51:13.000Z",
-          "wordCount": 2184,
-          "title": "Vozo Video Translator",
-          "imageUrl": "https://ph-files.imgix.net/c9ff9479-5586-4a9e-bb55-0416a458fd4b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/zilliz-cloud-serverless",
@@ -498,6 +498,12 @@
           "imageUrl": "https://ph-files.imgix.net/2819232c-6e99-4121-9b4e-4eba86f6e330.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
