@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/phantomy",
           "publishedOn": "2024-11-22T21:13:10.000Z",
-          "wordCount": 1812,
+          "wordCount": 1809,
           "title": "Phantomy",
           "imageUrl": "https://ph-files.imgix.net/e027ee9c-a1a2-4ec6-a9e7-1e3f4b406e09.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -248,6 +248,16 @@
           "imageUrl": "https://ph-files.imgix.net/421cffac-6143-49d0-8b2a-a73964879294.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/moon-finder",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/moon-finder",
+          "publishedOn": "2024-11-18T21:02:50.000Z",
+          "wordCount": 1598,
+          "title": "moon finder",
+          "imageUrl": "https://ph-files.imgix.net/79f4de78-f364-42c9-aa6f-fd1b0cb9314e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/desktop-recording-sdk-by-recall-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -263,7 +273,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/autoflow-studio",
           "publishedOn": "2024-11-18T13:39:58.000Z",
-          "wordCount": 2019,
+          "wordCount": 2022,
           "title": "AutoFlow Studio",
           "imageUrl": "https://ph-files.imgix.net/1ef21f56-9b59-401f-a1a1-25e3ce4d6b02.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -398,16 +408,6 @@
           "imageUrl": "https://ph-files.imgix.net/be969379-349b-4e6e-a6a3-71a0ac056f86.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/betterbugs-io",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/betterbugs-io",
-          "publishedOn": "2024-11-14T12:13:05.000Z",
-          "wordCount": 2085,
-          "title": "BetterBugs.io",
-          "imageUrl": "https://ph-files.imgix.net/e24eb422-ba28-459b-9272-aeb121107683.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/langfuse-prompt-experiments",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -498,6 +498,12 @@
           "imageUrl": "https://ph-files.imgix.net/c5768fc2-7563-4056-8fef-606f9b87113e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
