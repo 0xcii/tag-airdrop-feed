@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/free-sourcing-extension-by-dover",
@@ -228,6 +228,16 @@
           "imageUrl": "https://ph-files.imgix.net/6ce9f705-d82c-48fe-8b30-dd92776ad3d9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/second-sense",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/second-sense",
+          "publishedOn": "2024-11-20T22:26:51.000Z",
+          "wordCount": 1837,
+          "title": "Second Sense",
+          "imageUrl": "https://ph-files.imgix.net/4faf7861-f1ea-4b4b-b2da-b770f703ce27.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/zyng-ai-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -246,26 +256,6 @@
           "wordCount": 1598,
           "title": "Kann",
           "imageUrl": "https://ph-files.imgix.net/3afaf24f-ca4e-46c2-830a-62ed4e625d7e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/taurin",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/taurin",
-          "publishedOn": "2024-11-20T11:51:06.000Z",
-          "wordCount": 1850,
-          "title": "Taurin",
-          "imageUrl": "https://ph-files.imgix.net/49a629e5-c3f6-4ffd-8abb-3e070314817f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/humanlayer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/humanlayer",
-          "publishedOn": "2024-11-20T06:57:33.000Z",
-          "wordCount": 1678,
-          "title": "HumanLayer",
-          "imageUrl": "https://ph-files.imgix.net/8f16bdc6-cd02-4d6e-ae00-711b08fc3b43.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pine-15",
@@ -488,6 +478,16 @@
           "imageUrl": "https://ph-files.imgix.net/a8de430c-1571-4e20-a525-823f485e5a38.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/databar-v3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/databar-v3",
+          "publishedOn": "2024-10-31T16:06:07.000Z",
+          "wordCount": 1928,
+          "title": "Databar v3",
+          "imageUrl": "https://ph-files.imgix.net/a61e86ad-c572-443d-8fd9-5a4ba2064c61.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/formstory-io",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -503,7 +503,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/planyway-for-jira-2-0",
           "publishedOn": "2024-10-30T01:54:12.000Z",
-          "wordCount": 1788,
+          "wordCount": 1793,
           "title": "Planyway for Jira 2.0",
           "imageUrl": "https://ph-files.imgix.net/6cc71a39-86b0-4d30-9ca4-238672e5f049.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
