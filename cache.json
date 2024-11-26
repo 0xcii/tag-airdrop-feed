@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sandcrab",
           "publishedOn": "2024-11-25T23:14:40.000Z",
-          "wordCount": 1695,
+          "wordCount": 1692,
           "title": "SandCrab",
           "imageUrl": "https://ph-files.imgix.net/77bdc8b7-40cd-454d-b5ff-2df20e0c4bfb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pureanim",
           "publishedOn": "2024-11-25T17:59:10.000Z",
-          "wordCount": 1594,
+          "wordCount": 1597,
           "title": "PureAnim",
           "imageUrl": "https://ph-files.imgix.net/b992e236-e321-4b34-af14-7c821a255ca9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -208,6 +208,16 @@
           "imageUrl": "https://ph-files.imgix.net/c6097d09-021e-4a30-adb9-cd2796e098d1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/sentence-studio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sentence-studio",
+          "publishedOn": "2024-11-21T19:03:45.000Z",
+          "wordCount": 1462,
+          "title": "Sentence Studio",
+          "imageUrl": "https://ph-files.imgix.net/3e9c758d-9cad-4e9d-be6e-4dca60302223.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/cheapfeedback",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -246,16 +256,6 @@
           "wordCount": 1926,
           "title": "ClockZones",
           "imageUrl": "https://ph-files.imgix.net/4520fb2a-fc5f-4dcb-8ac6-c9578d9d12b1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/julep-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/julep-ai",
-          "publishedOn": "2024-11-21T07:26:29.000Z",
-          "wordCount": 2201,
-          "title": "Julep AI",
-          "imageUrl": "https://ph-files.imgix.net/b7eb3b19-2cc0-4a13-baf0-c6167bb59303.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ceejay",
@@ -393,19 +393,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/yc-interview-simulator-2-0",
           "publishedOn": "2024-11-16T11:19:59.000Z",
-          "wordCount": 1952,
+          "wordCount": 1976,
           "title": "YC Interview Simulator 2.0",
           "imageUrl": "https://ph-files.imgix.net/8784e18c-e0a6-47b8-b66e-c1e9570dfe7d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sulu",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sulu",
-          "publishedOn": "2024-11-16T04:46:13.000Z",
-          "wordCount": 1849,
-          "title": "Sulu",
-          "imageUrl": "https://ph-files.imgix.net/b2e6e3b9-2a22-4095-aecb-4f2bfc94e3a1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/langfuse-prompt-experiments",
@@ -426,6 +416,16 @@
           "wordCount": 2054,
           "title": "TwinMind",
           "imageUrl": "https://ph-files.imgix.net/05d51045-ba73-46e1-b026-6bdee8ab42b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/data-labeling-platform",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/data-labeling-platform",
+          "publishedOn": "2024-11-12T08:40:18.000Z",
+          "wordCount": 1880,
+          "title": "Data Labeling Platform",
+          "imageUrl": "https://ph-files.imgix.net/a8380a62-a026-47cf-8fa0-160e8dacd0bb.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/getanalyzr",
@@ -493,11 +493,17 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/oneshot-2",
           "publishedOn": "2024-10-30T00:12:14.000Z",
-          "wordCount": 1793,
+          "wordCount": 1790,
           "title": "Oneshot",
           "imageUrl": "https://ph-files.imgix.net/d24d4c76-d3e8-4530-a126-0d34a154a33d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
