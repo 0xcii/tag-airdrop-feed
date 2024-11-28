@@ -308,16 +308,6 @@
           "imageUrl": "https://ph-files.imgix.net/d2978efc-3ab2-4e34-91d5-a33eb61cbfab.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tabtab-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tabtab-2",
-          "publishedOn": "2024-11-24T07:38:26.000Z",
-          "wordCount": 1769,
-          "title": "TabTab",
-          "imageUrl": "https://ph-files.imgix.net/2a94ff01-3394-4944-824f-8769ba465cce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/cheapfeedback",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -363,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/offergenie",
           "publishedOn": "2024-11-20T12:39:27.000Z",
-          "wordCount": 2059,
+          "wordCount": 2089,
           "title": "OfferGenie",
           "imageUrl": "https://ph-files.imgix.net/d56c368c-ba6e-4716-9e1b-8bea0cb17605.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -456,14 +446,18 @@
           "wordCount": 1967,
           "title": "SongCleaner",
           "imageUrl": "https://ph-files.imgix.net/04659f9c-8def-4f21-b30e-afbcd29c0c10.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sparkbase",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sparkbase",
+          "publishedOn": "2024-11-06T08:25:57.000Z",
+          "wordCount": 2031,
+          "title": "Sparkbase",
+          "imageUrl": "https://ph-files.imgix.net/52d66501-e1ce-42d5-96e3-4b2718ed692a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
