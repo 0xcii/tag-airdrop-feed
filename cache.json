@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/perplexity-shopping",
@@ -308,16 +308,6 @@
           "imageUrl": "https://ph-files.imgix.net/d2978efc-3ab2-4e34-91d5-a33eb61cbfab.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/lune-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/lune-ai-2",
-          "publishedOn": "2024-11-22T23:17:46.000Z",
-          "wordCount": 2084,
-          "title": "Lune AI",
-          "imageUrl": "https://ph-files.imgix.net/42d2420d-8b39-41e7-9b8a-4a8870761b4a.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/cheapfeedback",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -338,6 +328,16 @@
           "imageUrl": "https://ph-files.imgix.net/30238646-19aa-435e-b1a0-417a34cb3b97.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ceejay",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ceejay",
+          "publishedOn": "2024-11-21T06:18:16.000Z",
+          "wordCount": 1854,
+          "title": "Ceejay",
+          "imageUrl": "https://ph-files.imgix.net/002b3605-cab3-42ca-941f-de532d4c0c35.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/nfig-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -356,16 +356,6 @@
           "wordCount": 2059,
           "title": "OfferGenie",
           "imageUrl": "https://ph-files.imgix.net/d56c368c-ba6e-4716-9e1b-8bea0cb17605.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/kann-1",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/kann-1",
-          "publishedOn": "2024-11-20T12:21:17.000Z",
-          "wordCount": 1595,
-          "title": "Kann",
-          "imageUrl": "https://ph-files.imgix.net/3afaf24f-ca4e-46c2-830a-62ed4e625d7e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/agora-d2acb308-1893-4d39-a445-a4d899a3d417",
@@ -466,6 +456,16 @@
           "wordCount": 2060,
           "title": "TwinMind",
           "imageUrl": "https://ph-files.imgix.net/05d51045-ba73-46e1-b026-6bdee8ab42b7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sparkbase",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sparkbase",
+          "publishedOn": "2024-11-06T08:25:57.000Z",
+          "wordCount": 2031,
+          "title": "Sparkbase",
+          "imageUrl": "https://ph-files.imgix.net/52d66501-e1ce-42d5-96e3-4b2718ed692a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     }
