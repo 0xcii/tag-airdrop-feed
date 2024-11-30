@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/xbeast",
@@ -328,16 +328,6 @@
           "imageUrl": "https://ph-files.imgix.net/8eca8939-f40f-470c-9934-ed398174dbab.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/spiral-9",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/spiral-9",
-          "publishedOn": "2024-11-24T21:25:52.000Z",
-          "wordCount": 2064,
-          "title": "Spiral",
-          "imageUrl": "https://ph-files.imgix.net/8c2aff3d-dc74-464b-a313-7be14f6a0d9b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/saas-tool-insights-by-beams",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -396,6 +386,16 @@
           "wordCount": 2065,
           "title": "OfferGenie",
           "imageUrl": "https://ph-files.imgix.net/d56c368c-ba6e-4716-9e1b-8bea0cb17605.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/agora-d2acb308-1893-4d39-a445-a4d899a3d417",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/agora-d2acb308-1893-4d39-a445-a4d899a3d417",
+          "publishedOn": "2024-11-19T23:08:35.000Z",
+          "wordCount": 2140,
+          "title": "Agora",
+          "imageUrl": "https://ph-files.imgix.net/e5901ae9-5ce9-4d18-b5dc-c44c8e5cc9b2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/analyzesphere",
