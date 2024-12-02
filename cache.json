@@ -238,6 +238,16 @@
           "imageUrl": "https://ph-files.imgix.net/023e7198-ec8f-41ec-b443-ddc41f079fa3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/foundry-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/foundry-3",
+          "publishedOn": "2024-11-27T02:29:03.000Z",
+          "wordCount": 1477,
+          "title": "Foundry",
+          "imageUrl": "https://ph-files.imgix.net/06069583-4f5b-40cc-b858-a722cb99f23e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/runway-frames",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -246,6 +256,16 @@
           "wordCount": 1744,
           "title": "Runway Frames",
           "imageUrl": "https://ph-files.imgix.net/ffd349ac-8865-424f-9e18-532ed3275c77.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/yenbek",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/yenbek",
+          "publishedOn": "2024-11-26T17:30:35.000Z",
+          "wordCount": 1888,
+          "title": "Yenbek",
+          "imageUrl": "https://ph-files.imgix.net/3bcee6c3-efb6-4496-b07f-57a5f82cefa9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/rooms-3-0-2",
@@ -338,16 +358,6 @@
           "imageUrl": "https://ph-files.imgix.net/850eaec3-94b0-43e2-a441-1225f7d3716c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/saas-tool-insights-by-beams",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/saas-tool-insights-by-beams",
-          "publishedOn": "2024-11-21T15:21:34.000Z",
-          "wordCount": 2178,
-          "title": "SaaS tool insights by beams",
-          "imageUrl": "https://ph-files.imgix.net/30238646-19aa-435e-b1a0-417a34cb3b97.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/neu-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -378,16 +388,6 @@
           "imageUrl": "https://ph-files.imgix.net/447fabc2-60c4-4962-9b58-63ee42adc238.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/offergenie",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/offergenie",
-          "publishedOn": "2024-11-20T12:39:27.000Z",
-          "wordCount": 2065,
-          "title": "OfferGenie",
-          "imageUrl": "https://ph-files.imgix.net/d56c368c-ba6e-4716-9e1b-8bea0cb17605.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/analyzesphere",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/muku-ai-2",
           "publishedOn": "2024-11-18T06:23:29.000Z",
-          "wordCount": 1848,
+          "wordCount": 1845,
           "title": "Muku.ai",
           "imageUrl": "https://ph-files.imgix.net/3c616599-03c9-4f49-8918-35caf0856d38.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -468,6 +468,12 @@
           "imageUrl": "https://ph-files.imgix.net/a7284966-d043-4c3e-9399-1bbc97d4b63d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
