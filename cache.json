@@ -208,16 +208,6 @@
           "imageUrl": "https://ph-files.imgix.net/66b14190-1c7e-41ef-a063-ba0dc893d2d6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tabbuddy",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tabbuddy",
-          "publishedOn": "2024-11-30T16:52:46.000Z",
-          "wordCount": 2263,
-          "title": "TabBuddy",
-          "imageUrl": "https://ph-files.imgix.net/69749471-3bf4-49e3-9c5d-c05defcc6b6c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/supabase-ai-assistant",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -243,7 +233,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dial8",
           "publishedOn": "2024-11-30T04:10:54.000Z",
-          "wordCount": 1688,
+          "wordCount": 1691,
           "title": "Dial8",
           "imageUrl": "https://ph-files.imgix.net/d37b5931-5d42-4d20-844e-0205ebaa5320.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -263,7 +253,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trigger-dev-realtime-ai",
           "publishedOn": "2024-11-29T19:14:37.000Z",
-          "wordCount": 1828,
+          "wordCount": 1834,
           "title": "Trigger.dev Realtime AI",
           "imageUrl": "https://ph-files.imgix.net/7704da0b-809c-4dbe-8c4d-a9a481a2bab9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,9 +313,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/vela-os",
           "publishedOn": "2024-11-28T15:49:20.000Z",
-          "wordCount": 2187,
+          "wordCount": 2210,
           "title": "Vela OS",
           "imageUrl": "https://ph-files.imgix.net/e5404519-9c0b-4cd4-935b-e574b85d7bb7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/sihai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sihai",
+          "publishedOn": "2024-11-28T09:06:14.000Z",
+          "wordCount": 1409,
+          "title": "Sihai",
+          "imageUrl": "https://ph-files.imgix.net/59d19a95-3568-4ab9-842d-dbe7388ac010.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/paccgo",
@@ -353,7 +353,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/y-sweet-by-jamsocket-1",
           "publishedOn": "2024-11-27T21:36:04.000Z",
-          "wordCount": 1977,
+          "wordCount": 1974,
           "title": "Y-Sweet by Jamsocket",
           "imageUrl": "https://ph-files.imgix.net/38556358-8225-4517-a27c-eee7ff60976e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/cloudy-2",
           "publishedOn": "2024-11-25T20:45:13.000Z",
-          "wordCount": 1567,
+          "wordCount": 1570,
           "title": "Cloudy",
           "imageUrl": "https://ph-files.imgix.net/d479663c-bf5e-4b89-9711-b471335ccf8c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -473,7 +473,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/radon-ide",
           "publishedOn": "2024-11-15T11:24:39.000Z",
-          "wordCount": 1928,
+          "wordCount": 1931,
           "title": "Radon IDE",
           "imageUrl": "https://ph-files.imgix.net/4847d8d5-4e98-44bd-b6e2-4f89c7fb37c2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -488,12 +488,6 @@
           "imageUrl": "https://ph-files.imgix.net/a7284966-d043-4c3e-9399-1bbc97d4b63d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
