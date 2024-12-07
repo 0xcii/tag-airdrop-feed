@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/wishfultree",
@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wishfultree",
           "publishedOn": "2024-12-06T12:35:02.000Z",
-          "wordCount": 1822,
+          "wordCount": 1828,
           "title": "Wishfultree",
           "imageUrl": "https://ph-files.imgix.net/04393032-032b-4ba9-9cc9-94f0d9982572.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/billover",
           "publishedOn": "2024-12-06T12:02:00.000Z",
-          "wordCount": 1308,
+          "wordCount": 1314,
           "title": "Billover",
           "imageUrl": "https://ph-files.imgix.net/3a6cc0e7-b419-43a1-9694-fe646f3c3180.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -183,7 +183,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/spotify-wrapped-2024-2",
           "publishedOn": "2024-12-04T18:04:23.000Z",
-          "wordCount": 1944,
+          "wordCount": 1949,
           "title": "Spotify Wrapped 2024",
           "imageUrl": "https://ph-files.imgix.net/3a04d3d7-a225-40fb-8df1-35e400dfb835.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,16 +268,6 @@
           "imageUrl": "https://ph-files.imgix.net/ef5d1bfa-a3e6-4337-8b6f-73182ef13058.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/openint-lw24",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/openint-lw24",
-          "publishedOn": "2024-12-03T14:32:42.000Z",
-          "wordCount": 1839,
-          "title": "OpenInt [LW24]",
-          "imageUrl": "https://ph-files.imgix.net/1ce6ddb5-254b-4424-882d-c75e31043f84.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/documenso-platform-plan",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -293,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/project-neo-beta-by-adobe",
           "publishedOn": "2024-12-03T08:49:39.000Z",
-          "wordCount": 1452,
+          "wordCount": 1457,
           "title": "Project Neo (Beta) by Adobe",
           "imageUrl": "https://ph-files.imgix.net/78facad5-6694-42fc-967f-454363632219.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -308,6 +298,16 @@
           "imageUrl": "https://ph-files.imgix.net/de3f497e-4c0a-46f6-9079-a116e6d18980.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/clave-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/clave-3",
+          "publishedOn": "2024-12-03T03:25:28.000Z",
+          "wordCount": 1576,
+          "title": "Clave",
+          "imageUrl": "https://ph-files.imgix.net/6bbf1e32-48fe-4e94-b49e-246a095c62d5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/hypelist-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -318,24 +318,24 @@
           "imageUrl": "https://ph-files.imgix.net/44272c12-1227-4699-829b-411a574c72d3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/advent-of-no-code-2024",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/advent-of-no-code-2024",
-          "publishedOn": "2024-12-03T00:45:10.000Z",
-          "wordCount": 1684,
-          "title": "Advent of No-Code 2024",
-          "imageUrl": "https://ph-files.imgix.net/35bd4d40-c36a-4b5f-901d-0ab1dba2fabe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/lzero",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/lzero",
           "publishedOn": "2024-12-02T20:51:39.000Z",
-          "wordCount": 1731,
+          "wordCount": 1736,
           "title": "LZero",
           "imageUrl": "https://ph-files.imgix.net/3aae3cf4-0237-4110-906f-94b157399330.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/vscode-pokemon",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/vscode-pokemon",
+          "publishedOn": "2024-12-02T15:24:27.000Z",
+          "wordCount": 1431,
+          "title": "vscode-pokemon",
+          "imageUrl": "https://ph-files.imgix.net/b66de685-fd56-4f55-8266-95bcc6de2b0c.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pollo-ai",
@@ -368,26 +368,6 @@
           "imageUrl": "https://ph-files.imgix.net/996efc4d-6487-41a6-ab9a-2877e82a99bf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/potis-2-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/potis-2-0",
-          "publishedOn": "2024-12-01T22:14:42.000Z",
-          "wordCount": 1715,
-          "title": "Potis 2.0",
-          "imageUrl": "https://ph-files.imgix.net/6e201561-4e2d-48b4-a9c5-e363cc896119.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/trigger-dev-realtime-ai-lw24",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/trigger-dev-realtime-ai-lw24",
-          "publishedOn": "2024-11-29T19:14:37.000Z",
-          "wordCount": 1728,
-          "title": "Trigger.dev Realtime AI [LW24]",
-          "imageUrl": "https://ph-files.imgix.net/7704da0b-809c-4dbe-8c4d-a9a481a2bab9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/quiebro-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -416,6 +396,16 @@
           "wordCount": 1848,
           "title": "Coval",
           "imageUrl": "https://ph-files.imgix.net/c303b6d2-2f50-4aa7-85fc-f32838aeaafe.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/superads-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/superads-2",
+          "publishedOn": "2024-11-27T08:46:15.000Z",
+          "wordCount": 1775,
+          "title": "Superads",
+          "imageUrl": "https://ph-files.imgix.net/4c77d482-aa24-4a60-ac0d-38b13537be56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/tables-by-playmaker",
