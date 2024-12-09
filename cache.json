@@ -153,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/martin-3",
           "publishedOn": "2024-12-05T18:19:40.000Z",
-          "wordCount": 1502,
+          "wordCount": 1478,
           "title": "Martin",
           "imageUrl": "https://ph-files.imgix.net/51c16c5d-cb6c-4b8f-a57c-ab2c848631c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,16 +268,6 @@
           "imageUrl": "https://ph-files.imgix.net/952d4986-fc28-443a-b53b-f86f1bc2c3ee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/spotify-wrapped-2024-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/spotify-wrapped-2024-2",
-          "publishedOn": "2024-12-04T18:04:23.000Z",
-          "wordCount": 1944,
-          "title": "Spotify Wrapped 2024",
-          "imageUrl": "https://ph-files.imgix.net/3a04d3d7-a225-40fb-8df1-35e400dfb835.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/run10k-trainer",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -338,6 +328,16 @@
           "imageUrl": "https://ph-files.imgix.net/1d3be444-b4b0-4f32-b37b-de7d263ce96f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/fidforward-s-company-values-generator",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/fidforward-s-company-values-generator",
+          "publishedOn": "2024-12-03T14:53:47.000Z",
+          "wordCount": 1670,
+          "title": "FidForward's Company Values Generator",
+          "imageUrl": "https://ph-files.imgix.net/ef5d1bfa-a3e6-4337-8b6f-73182ef13058.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/documenso-platform-plan",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -393,7 +393,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tables-by-playmaker",
           "publishedOn": "2024-11-26T08:42:59.000Z",
-          "wordCount": 1843,
+          "wordCount": 1867,
           "title": "Tables by Playmaker",
           "imageUrl": "https://ph-files.imgix.net/d94a5fc6-0fff-4834-87d0-55675e91e256.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/d602c60f-e49a-4b35-bd45-b568f1bd9195.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
