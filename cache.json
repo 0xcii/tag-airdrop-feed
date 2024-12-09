@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/wirechat",
@@ -193,7 +193,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/roastmywrapped-com",
           "publishedOn": "2024-12-05T09:03:12.000Z",
-          "wordCount": 1769,
+          "wordCount": 1739,
           "title": "RoastMyWrapped.com",
           "imageUrl": "https://ph-files.imgix.net/2b97a072-22d8-426a-8cfd-65efeedfe81b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -393,7 +393,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tables-by-playmaker",
           "publishedOn": "2024-11-26T08:42:59.000Z",
-          "wordCount": 1867,
+          "wordCount": 1843,
           "title": "Tables by Playmaker",
           "imageUrl": "https://ph-files.imgix.net/d94a5fc6-0fff-4834-87d0-55675e91e256.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,12 +478,6 @@
           "imageUrl": "https://ph-files.imgix.net/d602c60f-e49a-4b35-bd45-b568f1bd9195.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
