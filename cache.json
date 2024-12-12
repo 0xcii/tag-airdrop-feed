@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/claude-folder-upload",
@@ -248,6 +248,16 @@
           "imageUrl": "https://ph-files.imgix.net/5e2990ec-9a8d-4c7b-b995-7724f562a1bc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/1beatclub",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/1beatclub",
+          "publishedOn": "2024-12-07T17:23:07.000Z",
+          "wordCount": 1715,
+          "title": "1BeatClub",
+          "imageUrl": "https://ph-files.imgix.net/59a77ff6-321e-4b1d-b41f-ae3c8ec10512.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/suno-android-v4-ga",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -273,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592",
           "publishedOn": "2024-12-07T06:06:25.000Z",
-          "wordCount": 2902,
+          "wordCount": 2899,
           "title": "Bricks",
           "imageUrl": "https://ph-files.imgix.net/2c64d100-3a23-42be-8ae5-fba12eb90469.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -296,16 +306,6 @@
           "wordCount": 1790,
           "title": "Urso 1.0",
           "imageUrl": "https://ph-files.imgix.net/9140a231-6e67-4110-a179-1a84a2b4ab94.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/bookmarkx",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/bookmarkx",
-          "publishedOn": "2024-12-06T11:58:09.000Z",
-          "wordCount": 1528,
-          "title": "Bookmarkx",
-          "imageUrl": "https://ph-files.imgix.net/4615b707-ac20-48d3-9b4f-e465e95f472c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/listadum",
@@ -376,16 +376,6 @@
           "wordCount": 1652,
           "title": "Run10K Trainer",
           "imageUrl": "https://ph-files.imgix.net/5c38f5b1-8379-4e42-ba13-19fa57ec04de.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/plus-ai-for-powerpoint",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/plus-ai-for-powerpoint",
-          "publishedOn": "2024-12-03T21:47:14.000Z",
-          "wordCount": 1803,
-          "title": "Plus AI for PowerPoint",
-          "imageUrl": "https://ph-files.imgix.net/6e637b78-e2a7-438e-9228-d5a32267d069.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/firstleaf",
@@ -468,6 +458,16 @@
           "imageUrl": "https://ph-files.imgix.net/7e6e76f3-b700-452b-bdac-fff6650a5147.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/jenium",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/jenium",
+          "publishedOn": "2024-11-24T14:42:36.000Z",
+          "wordCount": 1525,
+          "title": "Jenium",
+          "imageUrl": "https://ph-files.imgix.net/c2daf863-d9d4-4612-867d-3d5a7c2b8123.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/affiliate-from-lasso-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -498,6 +498,12 @@
           "imageUrl": "https://ph-files.imgix.net/8b118010-2b57-474c-862f-b7403d87196f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
