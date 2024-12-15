@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/vesse-food-tracker",
@@ -333,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/defang",
           "publishedOn": "2024-12-09T18:31:48.000Z",
-          "wordCount": 1815,
+          "wordCount": 1785,
           "title": "Defang",
           "imageUrl": "https://ph-files.imgix.net/bdf75cdd-5727-4903-b22d-04b72b8cd328.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -488,12 +488,6 @@
           "imageUrl": "https://ph-files.imgix.net/27d05543-c117-443c-955e-4d5e498cc7c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
