@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/google-notebooklm-plus",
@@ -113,7 +113,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mozi-3",
           "publishedOn": "2024-12-13T02:04:40.000Z",
-          "wordCount": 1297,
+          "wordCount": 1301,
           "title": "Mozi",
           "imageUrl": "https://ph-files.imgix.net/c6574b9d-9940-4aa2-8118-48affef067bf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -328,16 +328,6 @@
           "imageUrl": "https://ph-files.imgix.net/6afe674b-3af5-47ba-bf4f-29970424b2e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/bright-data",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/bright-data",
-          "publishedOn": "2024-12-10T15:02:56.000Z",
-          "wordCount": 1371,
-          "title": "Bright Data",
-          "imageUrl": "https://ph-files.imgix.net/707fbc02-1b87-4d42-944b-4e2714597205.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/llama-3-3-70b",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -346,6 +336,16 @@
           "wordCount": 1590,
           "title": "Llama 3.3 70B",
           "imageUrl": "https://ph-files.imgix.net/5b121eaf-260b-4ddf-bc74-189ee2d862a5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/killerstudy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/killerstudy",
+          "publishedOn": "2024-12-10T14:54:19.000Z",
+          "wordCount": 1363,
+          "title": "KillerStudy",
+          "imageUrl": "https://ph-files.imgix.net/683766f6-6256-4824-82bc-56a3a0d8e937.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/shortcut-3642bed8-d9b3-407e-8d5f-ea57036fe14b",
