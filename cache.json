@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sibyl",
           "publishedOn": "2024-12-15T01:37:41.000Z",
-          "wordCount": 1585,
+          "wordCount": 1590,
           "title": "Sibyl",
           "imageUrl": "https://ph-files.imgix.net/4e6bb970-49a8-421c-bd67-e69e88660656.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/reddit-answers",
           "publishedOn": "2024-12-14T17:59:13.000Z",
-          "wordCount": 1743,
+          "wordCount": 1746,
           "title": "Reddit Answers",
           "imageUrl": "https://ph-files.imgix.net/52a5dc53-9d5d-408a-b1e2-bf94f71138ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,16 +268,6 @@
           "imageUrl": "https://ph-files.imgix.net/9899318e-fbb4-4076-9e2b-9ff4b036aeee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/claude-folder-upload",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/claude-folder-upload",
-          "publishedOn": "2024-12-11T02:41:17.000Z",
-          "wordCount": 1620,
-          "title": "Claude Folder Upload",
-          "imageUrl": "https://ph-files.imgix.net/124eed85-3b8c-4cc9-85cc-3433482a63e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/ai-santa-by-tavus",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -393,7 +383,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
           "publishedOn": "2024-12-09T14:08:59.000Z",
-          "wordCount": 2063,
+          "wordCount": 2039,
           "title": "Pitch Perfect - VC Pitch",
           "imageUrl": "https://ph-files.imgix.net/f9578d28-99ac-4828-87fe-39f36e6946ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -418,16 +408,6 @@
           "imageUrl": "https://ph-files.imgix.net/2ba1f840-d138-46e0-a53e-674b6fbb0bb0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/bricks-7d28cd1e-2d96-478a-ae15-66d2cd0cf592",
-          "publishedOn": "2024-12-07T06:06:25.000Z",
-          "wordCount": 2900,
-          "title": "Bricks",
-          "imageUrl": "https://ph-files.imgix.net/2c64d100-3a23-42be-8ae5-fba12eb90469.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/animate-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -436,6 +416,16 @@
           "wordCount": 1836,
           "title": "Animate AI",
           "imageUrl": "https://ph-files.imgix.net/5abdeb51-0f16-4b39-8ba0-bd05e02efd62.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/smythos",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/smythos",
+          "publishedOn": "2024-12-02T21:59:14.000Z",
+          "wordCount": 3945,
+          "title": "SmythOS",
+          "imageUrl": "https://ph-files.imgix.net/a16e0b64-93e1-4bef-82bb-b5dbedc10832.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/agora-merchants",
@@ -478,18 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/27d05543-c117-443c-955e-4d5e498cc7c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
