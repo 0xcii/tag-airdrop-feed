@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/amazon-nova",
           "publishedOn": "2024-12-16T02:28:42.000Z",
-          "wordCount": 1509,
+          "wordCount": 1506,
           "title": "Amazon Nova",
           "imageUrl": "https://ph-files.imgix.net/50beddce-9e1a-45df-9e8f-f0ec6e286d90.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fitycal-3d-body-scan-tracker",
           "publishedOn": "2024-12-15T18:33:09.000Z",
-          "wordCount": 1466,
+          "wordCount": 1463,
           "title": "FITYCAL - 3D Body Scan Tracker",
           "imageUrl": "https://ph-files.imgix.net/89d3cf27-d9ed-40c1-afd3-f924d66079bc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/eden-8",
           "publishedOn": "2024-12-15T11:55:59.000Z",
-          "wordCount": 1730,
+          "wordCount": 1706,
           "title": "Eden",
           "imageUrl": "https://ph-files.imgix.net/e8fc0d31-7a88-4199-ba45-e8bc60834956.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -143,7 +143,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/quitsugar",
           "publishedOn": "2024-12-13T17:37:25.000Z",
-          "wordCount": 3033,
+          "wordCount": 3027,
           "title": "QuitSugar",
           "imageUrl": "https://ph-files.imgix.net/62b435a7-1d2d-46c6-9e0a-93032b67c557.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -328,6 +328,16 @@
           "imageUrl": "https://ph-files.imgix.net/437b53e7-dc71-4486-96dd-070e0cc5b382.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/whatsapp-crm-by-dex",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/whatsapp-crm-by-dex",
+          "publishedOn": "2024-12-10T18:40:58.000Z",
+          "wordCount": 1689,
+          "title": "WhatsApp CRM by Dex",
+          "imageUrl": "https://ph-files.imgix.net/9d1c74e3-6c63-4760-aa35-21268ea583ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/reach-from-salesstream-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -336,16 +346,6 @@
           "wordCount": 2358,
           "title": "Reach from SalesStream.ai",
           "imageUrl": "https://ph-files.imgix.net/ce4cb351-1d63-487f-a695-2645018bfb98.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/deta-surf",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/deta-surf",
-          "publishedOn": "2024-12-10T15:36:01.000Z",
-          "wordCount": 1491,
-          "title": "Deta Surf",
-          "imageUrl": "https://ph-files.imgix.net/6afe674b-3af5-47ba-bf4f-29970424b2e8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/llama-3-3-70b",
@@ -403,7 +403,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/steer-2-0",
           "publishedOn": "2024-12-06T11:32:28.000Z",
-          "wordCount": 1728,
+          "wordCount": 1731,
           "title": "Steer 2.0",
           "imageUrl": "https://ph-files.imgix.net/16943066-9725-4f6f-9562-befa26b68a92.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/animate-ai",
           "publishedOn": "2024-12-03T07:45:39.000Z",
-          "wordCount": 1850,
+          "wordCount": 1880,
           "title": "Animate AI",
           "imageUrl": "https://ph-files.imgix.net/5abdeb51-0f16-4b39-8ba0-bd05e02efd62.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -458,12 +458,6 @@
           "imageUrl": "https://ph-files.imgix.net/27d05543-c117-443c-955e-4d5e498cc7c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
