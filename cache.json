@@ -103,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/depth-ai",
           "publishedOn": "2024-12-13T11:37:50.000Z",
-          "wordCount": 1972,
+          "wordCount": 1969,
           "title": "Depth AI",
           "imageUrl": "https://ph-files.imgix.net/075ec8f1-f484-418b-85d9-faeb030b952c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -163,9 +163,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/speedmoji",
           "publishedOn": "2024-12-12T18:57:12.000Z",
-          "wordCount": null,
+          "wordCount": 1909,
           "title": "Speedmoji",
-          "imageUrl": null
+          "imageUrl": "https://ph-files.imgix.net/d04dea83-2f8b-43d1-9e3b-70a20e35e030.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/jaunt-5",
@@ -383,7 +383,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
           "publishedOn": "2024-12-09T14:08:59.000Z",
-          "wordCount": 2039,
+          "wordCount": 2063,
           "title": "Pitch Perfect - VC Pitch",
           "imageUrl": "https://ph-files.imgix.net/f9578d28-99ac-4828-87fe-39f36e6946ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -478,6 +478,12 @@
           "imageUrl": "https://ph-files.imgix.net/27d05543-c117-443c-955e-4d5e498cc7c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
