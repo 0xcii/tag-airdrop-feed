@@ -278,14 +278,14 @@
           "imageUrl": "https://ph-files.imgix.net/2b36bfc6-89d1-423a-b396-c7d307317fd1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/opentok",
+          "id": "https://www.producthunt.com/posts/better-call-santa",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/opentok",
-          "publishedOn": "2024-12-11T17:27:11.000Z",
-          "wordCount": 1906,
-          "title": "OpenTok",
-          "imageUrl": "https://ph-files.imgix.net/ec965841-25f5-4f57-a506-b68e5975be4f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/better-call-santa",
+          "publishedOn": "2024-12-12T05:53:31.000Z",
+          "wordCount": 2225,
+          "title": "Better Call Santa",
+          "imageUrl": "https://ph-files.imgix.net/e8507177-6eb5-4da0-9a1a-3b82a68bebc3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/rememberall",
@@ -296,6 +296,16 @@
           "wordCount": 1474,
           "title": "Rememberall",
           "imageUrl": "https://ph-files.imgix.net/6873d551-015e-4974-9c5b-afefba1d5a77.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mantel-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mantel-2",
+          "publishedOn": "2024-12-11T12:40:41.000Z",
+          "wordCount": 1513,
+          "title": "Mantel",
+          "imageUrl": "https://ph-files.imgix.net/9899318e-fbb4-4076-9e2b-9ff4b036aeee.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ai-santa-by-tavus",
@@ -346,16 +356,6 @@
           "wordCount": 1478,
           "title": "AdventAI",
           "imageUrl": "https://ph-files.imgix.net/76e7d213-97a3-4f7f-821d-1472fa6e6020.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/timemap",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/timemap",
-          "publishedOn": "2024-12-09T14:58:52.000Z",
-          "wordCount": 2314,
-          "title": "TimeMap",
-          "imageUrl": "https://ph-files.imgix.net/f043180d-8ec8-4699-8112-aa565044daae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
@@ -448,6 +448,18 @@
           "imageUrl": "https://ph-files.imgix.net/27d05543-c117-443c-955e-4d5e498cc7c6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
