@@ -73,7 +73,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/otterly-ai-2",
           "publishedOn": "2024-12-17T12:33:38.000Z",
-          "wordCount": 1634,
+          "wordCount": 1655,
           "title": "Otterly.AI",
           "imageUrl": "https://ph-files.imgix.net/dc6a3b5e-b722-46db-9c75-986b9ddf8dbf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -193,7 +193,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/radio-llm",
           "publishedOn": "2024-12-16T11:54:55.000Z",
-          "wordCount": 1631,
+          "wordCount": 1628,
           "title": "Radio LLM",
           "imageUrl": "https://ph-files.imgix.net/19564912-5e1e-450c-a0a8-c64c806bb268.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -268,16 +268,6 @@
           "imageUrl": "https://ph-files.imgix.net/26645fc9-586e-4d12-a345-3f67e5720f67.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/reddit-answers",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/reddit-answers",
-          "publishedOn": "2024-12-14T17:59:13.000Z",
-          "wordCount": 1746,
-          "title": "Reddit Answers",
-          "imageUrl": "https://ph-files.imgix.net/52a5dc53-9d5d-408a-b1e2-bf94f71138ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/straighty-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -303,7 +293,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/boldvoice-accent-oracle-2",
           "publishedOn": "2024-12-13T00:03:52.000Z",
-          "wordCount": 1985,
+          "wordCount": 2015,
           "title": "BoldVoice Accent Oracle",
           "imageUrl": "https://ph-files.imgix.net/10089576-704a-42c7-abf4-a193474ed237.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -333,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/mashapp-music-2",
           "publishedOn": "2024-12-11T02:50:29.000Z",
-          "wordCount": 1815,
+          "wordCount": 1785,
           "title": "MashApp Music",
           "imageUrl": "https://ph-files.imgix.net/2a35808f-e1af-4675-9d71-9b23dec82af9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -403,7 +393,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tempolor-2",
           "publishedOn": "2024-12-05T03:04:52.000Z",
-          "wordCount": 1874,
+          "wordCount": 1871,
           "title": "TemPolor",
           "imageUrl": "https://ph-files.imgix.net/ad624c13-ff4e-48a5-9016-51e660f6c02a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -416,6 +406,16 @@
           "wordCount": 2197,
           "title": "MagicMail: AI email generator",
           "imageUrl": "https://ph-files.imgix.net/0788629c-b325-4a7d-b460-8d612baea9dc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/animate-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/animate-ai",
+          "publishedOn": "2024-12-03T07:45:39.000Z",
+          "wordCount": 1850,
+          "title": "Animate AI",
+          "imageUrl": "https://ph-files.imgix.net/5abdeb51-0f16-4b39-8ba0-bd05e02efd62.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ask-dovetail",
@@ -468,12 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/45cb6456-4421-4ba7-93d1-84e3fcb156df.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
