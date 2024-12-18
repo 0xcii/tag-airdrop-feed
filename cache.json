@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/jetson-orin-nano-super-developer-kit",
           "publishedOn": "2024-12-17T18:23:22.000Z",
-          "wordCount": 1537,
+          "wordCount": 1541,
           "title": "Jetson Orin Nano Super Developer Kit",
           "imageUrl": "https://ph-files.imgix.net/92691715-e249-4bbb-88d4-1d40acb5102b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/soothe-4",
           "publishedOn": "2024-12-17T17:06:48.000Z",
-          "wordCount": 1137,
+          "wordCount": 1164,
           "title": "Soothe",
           "imageUrl": "https://ph-files.imgix.net/e0346ffc-485a-4934-ba7b-59029b624d06.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -278,6 +278,16 @@
           "imageUrl": "https://ph-files.imgix.net/4e6bb970-49a8-421c-bd67-e69e88660656.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/reddit-answers",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/reddit-answers",
+          "publishedOn": "2024-12-14T17:59:13.000Z",
+          "wordCount": 1746,
+          "title": "Reddit Answers",
+          "imageUrl": "https://ph-files.imgix.net/52a5dc53-9d5d-408a-b1e2-bf94f71138ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/straighty-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -313,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tempo-labs",
           "publishedOn": "2024-12-12T20:07:41.000Z",
-          "wordCount": 2113,
+          "wordCount": 2136,
           "title": "Tempo Labs",
           "imageUrl": "https://ph-files.imgix.net/c8e17a8f-6fb2-4fc6-bd02-00cbecdf398c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -333,7 +343,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/crtd-v2-0",
           "publishedOn": "2024-12-10T23:28:04.000Z",
-          "wordCount": 1648,
+          "wordCount": 1652,
           "title": "crtd v2.0",
           "imageUrl": "https://ph-files.imgix.net/b120e894-6e8c-4ef9-820e-299fddab0454.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -346,6 +356,16 @@
           "wordCount": 2381,
           "title": "Reach from SalesStream.ai",
           "imageUrl": "https://ph-files.imgix.net/ce4cb351-1d63-487f-a695-2645018bfb98.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
+          "publishedOn": "2024-12-09T14:08:59.000Z",
+          "wordCount": 2040,
+          "title": "Pitch Perfect - VC Pitch",
+          "imageUrl": "https://ph-files.imgix.net/f9578d28-99ac-4828-87fe-39f36e6946ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/unicorns-club-2",
@@ -398,16 +418,6 @@
           "imageUrl": "https://ph-files.imgix.net/0788629c-b325-4a7d-b460-8d612baea9dc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/animate-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/animate-ai",
-          "publishedOn": "2024-12-03T07:45:39.000Z",
-          "wordCount": 1850,
-          "title": "Animate AI",
-          "imageUrl": "https://ph-files.imgix.net/5abdeb51-0f16-4b39-8ba0-bd05e02efd62.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/ask-dovetail",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -458,6 +468,12 @@
           "imageUrl": "https://ph-files.imgix.net/45cb6456-4421-4ba7-93d1-84e3fcb156df.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
