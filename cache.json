@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flipboard-surf",
           "publishedOn": "2024-12-18T19:46:01.000Z",
-          "wordCount": 1564,
+          "wordCount": 1573,
           "title": "Flipboard Surf",
           "imageUrl": "https://ph-files.imgix.net/f93c81f3-c779-4700-bfe7-49a237c6853b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -223,7 +223,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/2024-linkedin-rewind-2",
           "publishedOn": "2024-12-17T05:15:01.000Z",
-          "wordCount": 1964,
+          "wordCount": 1994,
           "title": "2024 LinkedIn Rewind",
           "imageUrl": "https://ph-files.imgix.net/026061c1-3efd-4866-bd02-a4a4e0c3ebe6.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -438,16 +438,6 @@
           "imageUrl": "https://ph-files.imgix.net/27b4d0f7-af8a-4e76-9a08-1e5dc322ebbf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/unicorns-club-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/unicorns-club-2",
-          "publishedOn": "2024-12-07T04:59:08.000Z",
-          "wordCount": 1860,
-          "title": "Unicorns Club",
-          "imageUrl": "https://ph-files.imgix.net/7e033c3a-8ff7-4cf6-a4c6-5a092e43f723.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tempolor-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -478,6 +468,16 @@
           "imageUrl": "https://ph-files.imgix.net/196ee9c9-9473-49df-acb0-50b8c0fb486e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ask-dovetail",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ask-dovetail",
+          "publishedOn": "2024-11-26T00:20:04.000Z",
+          "wordCount": 1698,
+          "title": "Ask Dovetail",
+          "imageUrl": "https://ph-files.imgix.net/004a2d3d-fe72-427c-a275-914e1decfce5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/opencord-ai-mobile",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -488,26 +488,22 @@
           "imageUrl": "https://ph-files.imgix.net/90b3edca-955d-4869-a89a-aa2535fad254.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/newoaks-ai-phone-agent",
+          "id": "https://www.producthunt.com/posts/aimfox",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/newoaks-ai-phone-agent",
-          "publishedOn": "2024-11-25T03:12:35.000Z",
-          "wordCount": 1942,
-          "title": "NewOaks AI Phone Agent",
-          "imageUrl": "https://ph-files.imgix.net/f9cd1883-0d99-4741-a141-f45f892e0be9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/nora-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/nora-3",
-          "publishedOn": "2024-11-20T22:07:36.000Z",
-          "wordCount": 1587,
-          "title": "Nora",
-          "imageUrl": "https://ph-files.imgix.net/fb04e49b-3ab3-4620-a433-2114af412b17.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/aimfox",
+          "publishedOn": "2024-11-20T17:42:49.000Z",
+          "wordCount": 2183,
+          "title": "Aimfox",
+          "imageUrl": "https://ph-files.imgix.net/45cb6456-4421-4ba7-93d1-84e3fcb156df.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
