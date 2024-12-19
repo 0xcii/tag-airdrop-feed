@@ -313,9 +313,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tempo-labs",
           "publishedOn": "2024-12-12T20:07:41.000Z",
-          "wordCount": 2103,
+          "wordCount": 2133,
           "title": "Tempo Labs",
           "imageUrl": "https://ph-files.imgix.net/c8e17a8f-6fb2-4fc6-bd02-00cbecdf398c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/doctronic-ai-human-doctors",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/doctronic-ai-human-doctors",
+          "publishedOn": "2024-12-12T08:06:06.000Z",
+          "wordCount": 1889,
+          "title": "Doctronic AI + Human Doctors",
+          "imageUrl": "https://ph-files.imgix.net/2b36bfc6-89d1-423a-b396-c7d307317fd1.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/mashapp-music-2",
@@ -346,16 +356,6 @@
           "wordCount": 2381,
           "title": "Reach from SalesStream.ai",
           "imageUrl": "https://ph-files.imgix.net/ce4cb351-1d63-487f-a695-2645018bfb98.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pitch-perfect-vc-pitch",
-          "publishedOn": "2024-12-09T14:08:59.000Z",
-          "wordCount": 2036,
-          "title": "Pitch Perfect - VC Pitch",
-          "imageUrl": "https://ph-files.imgix.net/f9578d28-99ac-4828-87fe-39f36e6946ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/unicorns-club-2",
@@ -468,12 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/45cb6456-4421-4ba7-93d1-84e3fcb156df.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
