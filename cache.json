@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/edexia-2",
@@ -328,16 +328,6 @@
           "imageUrl": "https://ph-files.imgix.net/12af95de-59b9-4542-a4a5-89131961b4f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/geekbot-polls",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/geekbot-polls",
-          "publishedOn": "2024-12-18T15:21:03.000Z",
-          "wordCount": 1441,
-          "title": "Geekbot Polls",
-          "imageUrl": "https://ph-files.imgix.net/6459dc27-7467-45c4-be6e-b7b8eb0963d3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/virtual-trumpet-trombone",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -346,6 +336,16 @@
           "wordCount": 1269,
           "title": "Virtual Trumpet & Trombone",
           "imageUrl": "https://ph-files.imgix.net/d69bd9fe-a1cb-4fbc-a152-8f696b868848.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/trickle-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/trickle-5",
+          "publishedOn": "2024-12-18T05:06:35.000Z",
+          "wordCount": 1405,
+          "title": "Trickle",
+          "imageUrl": "https://ph-files.imgix.net/6ef9be3a-4003-4038-a29f-20e28afea1f9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/rubbrband-movies",
