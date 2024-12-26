@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/hume-octave",
@@ -358,16 +358,6 @@
           "imageUrl": "https://ph-files.imgix.net/0a17ba6d-a342-41ca-9e84-2c03159ac28e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/openai-o1-api",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/openai-o1-api",
-          "publishedOn": "2024-12-19T22:07:51.000Z",
-          "wordCount": 1263,
-          "title": "OpenAI o1 API",
-          "imageUrl": "https://ph-files.imgix.net/19359dee-0f7d-4ed7-be77-a56cad7f3656.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/picwordify",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -436,6 +426,16 @@
           "wordCount": 1263,
           "title": "Messages Wrapped",
           "imageUrl": "https://ph-files.imgix.net/3c693966-b3e0-431f-b2e9-fbbd73ae80e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tickerbar",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tickerbar",
+          "publishedOn": "2024-12-13T15:56:40.000Z",
+          "wordCount": 1109,
+          "title": "TickerBar",
+          "imageUrl": "https://ph-files.imgix.net/e39d15a0-a202-4e87-bea4-22b45b047075.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/gratitudebuddy",
