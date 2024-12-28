@@ -15,15 +15,75 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/kindly-ink",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/kindly-ink",
+          "publishedOn": "2024-12-28T05:30:05.000Z",
+          "wordCount": 1234,
+          "title": "Kindly Ink",
+          "imageUrl": "https://ph-files.imgix.net/2c4d40ab-53d5-48b7-b435-fa6b4ec5c8cf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/databackfill",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/databackfill",
+          "publishedOn": "2024-12-27T20:24:46.000Z",
+          "wordCount": 1146,
+          "title": "DataBackfill",
+          "imageUrl": "https://ph-files.imgix.net/701e9660-25e6-43cf-a3bc-73f7538f2d3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/folio-fm",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/folio-fm",
+          "publishedOn": "2024-12-27T14:23:10.000Z",
+          "wordCount": 1245,
+          "title": "Folio.fm",
+          "imageUrl": "https://ph-files.imgix.net/67d12832-d6da-4981-8a23-c7b235912e4d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/underlayx",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/underlayx",
+          "publishedOn": "2024-12-27T12:37:58.000Z",
+          "wordCount": 1175,
+          "title": "UnderlayX",
+          "imageUrl": "https://ph-files.imgix.net/4f1ba3c0-d532-4b49-85da-78018ae9af36.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/reactai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/reactai",
+          "publishedOn": "2024-12-27T12:22:23.000Z",
+          "wordCount": 1303,
+          "title": "ReactAI",
+          "imageUrl": "https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/bodystate",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/bodystate",
+          "publishedOn": "2024-12-27T10:45:55.000Z",
+          "wordCount": 1338,
+          "title": "BodyState",
+          "imageUrl": "https://ph-files.imgix.net/fb5ad841-557f-41b7-9552-4182e04fc0d7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/trellis-3d-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/trellis-3d-ai",
           "publishedOn": "2024-12-27T06:25:54.000Z",
-          "wordCount": 1117,
+          "wordCount": 1119,
           "title": "TRELLIS 3D AI",
           "imageUrl": "https://ph-files.imgix.net/7b771267-164e-4553-a021-0c4536a114d2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,7 +103,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/presentation-mode-for-notion",
           "publishedOn": "2024-12-26T21:38:49.000Z",
-          "wordCount": 1453,
+          "wordCount": 1455,
           "title": "Presentation Mode for Notion",
           "imageUrl": "https://ph-files.imgix.net/b8b265be-8672-403a-97fe-ea9e07202aa8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -73,7 +133,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/seobot",
           "publishedOn": "2024-12-26T04:53:07.000Z",
-          "wordCount": 1374,
+          "wordCount": 1372,
           "title": "SEObot",
           "imageUrl": "https://ph-files.imgix.net/25a67937-d3e8-41b6-ae4c-68fd4f34b2d4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -368,16 +428,6 @@
           "imageUrl": "https://ph-files.imgix.net/a46453aa-2970-4809-8dad-bd3872591489.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/synthesys-ai-voice-generator",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/synthesys-ai-voice-generator",
-          "publishedOn": "2024-12-21T13:59:11.000Z",
-          "wordCount": 1255,
-          "title": "Synthesys AI Voice Generator",
-          "imageUrl": "https://ph-files.imgix.net/2f558b46-822a-4e0c-be57-aa4a91dbad21.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/github-wrapped-2024-your-year-in-code",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -386,26 +436,6 @@
           "wordCount": 1461,
           "title": "GitHub Wrapped 2024 – Your Year in Code!",
           "imageUrl": "https://ph-files.imgix.net/dabce3fc-01a4-4315-98d1-bebf854d367f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/websparks",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/websparks",
-          "publishedOn": "2024-12-21T11:20:20.000Z",
-          "wordCount": 1442,
-          "title": "Websparks",
-          "imageUrl": "https://ph-files.imgix.net/0fb6f039-0b07-4c7a-8253-e953fef0719c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/shortcutter",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/shortcutter",
-          "publishedOn": "2024-12-21T09:15:28.000Z",
-          "wordCount": 1195,
-          "title": "Shortcutter",
-          "imageUrl": "https://ph-files.imgix.net/e46ce6ba-57ab-4105-a982-4350f23d0bea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/assistive24",
@@ -446,26 +476,6 @@
           "wordCount": 1263,
           "title": "Messages Wrapped",
           "imageUrl": "https://ph-files.imgix.net/3c693966-b3e0-431f-b2e9-fbbd73ae80e7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/gratitudebuddy",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/gratitudebuddy",
-          "publishedOn": "2024-12-12T21:18:18.000Z",
-          "wordCount": 1219,
-          "title": "GratitudeBuddy",
-          "imageUrl": "https://ph-files.imgix.net/c85c11b0-180d-4139-b670-07cefc87f773.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/ghost-jobs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ghost-jobs",
-          "publishedOn": "2024-12-11T02:31:56.000Z",
-          "wordCount": 1335,
-          "title": "Ghost Jobs",
-          "imageUrl": "https://ph-files.imgix.net/24e7233d-f87a-4904-a729-b30f702928f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/lambda-4",
@@ -518,16 +528,6 @@
           "publishedOn": "2024-11-29T12:15:09.000Z",
           "wordCount": 6,
           "title": "💧 New event on http://DropsEarn.com Mitosis Game of Mito Testnet .@MitosisOrg Testnet is the final step before the official mainnet launch — you c...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1862227826708971936",
-          "author": "Drops Earn",
-          "description": "💧Our new daily update: new airdrops have been added!\n 💰Start your cryptocurrency journey with http://Dropsearn.com \n 🌐 https://dropsearn.com/airdrops",
-          "link": "https://x.com/DropsEarn/status/1862227826708971936",
-          "publishedOn": "2024-11-28T20:11:27.000Z",
-          "wordCount": 6,
-          "title": "💧Our new daily update: new airdrops have been added! 💰Start your cryptocurrency journey with http://Dropsearn.com 🌐 https://dropsearn.com/air...",
           "imageUrl": null
         }
       ]
