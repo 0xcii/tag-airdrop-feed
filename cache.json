@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/kindly-ink",
@@ -388,6 +388,16 @@
           "imageUrl": "https://ph-files.imgix.net/2316c5b3-a214-4a35-a302-b9f24ed6b827.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ai-santa-claus",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ai-santa-claus",
+          "publishedOn": "2024-12-22T19:15:34.000Z",
+          "wordCount": 1689,
+          "title": "AI Santa Claus",
+          "imageUrl": "https://ph-files.imgix.net/a4a309f2-164d-4e25-9d90-5c1fa5a07edd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/lets-finally-meet",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -416,16 +426,6 @@
           "wordCount": 1517,
           "title": "Bright OS",
           "imageUrl": "https://ph-files.imgix.net/a46453aa-2970-4809-8dad-bd3872591489.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/github-wrapped-2024-your-year-in-code",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/github-wrapped-2024-your-year-in-code",
-          "publishedOn": "2024-12-21T13:26:26.000Z",
-          "wordCount": 1461,
-          "title": "GitHub Wrapped 2024 – Your Year in Code!",
-          "imageUrl": "https://ph-files.imgix.net/dabce3fc-01a4-4315-98d1-bebf854d367f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/assistive24",
