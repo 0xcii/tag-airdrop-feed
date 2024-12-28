@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/trellis-3d-ai",
@@ -123,7 +123,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/clipbook",
           "publishedOn": "2024-12-25T16:12:03.000Z",
-          "wordCount": 1320,
+          "wordCount": 1289,
           "title": "ClipBook",
           "imageUrl": "https://ph-files.imgix.net/2b19723a-1ec3-480e-a8cd-18d1ad1a386a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -408,16 +408,6 @@
           "imageUrl": "https://ph-files.imgix.net/e46ce6ba-57ab-4105-a982-4350f23d0bea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/home-assistant-voice",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/home-assistant-voice",
-          "publishedOn": "2024-12-20T18:40:16.000Z",
-          "wordCount": 1133,
-          "title": "Home Assistant Voice",
-          "imageUrl": "https://ph-files.imgix.net/10f5ca46-5d5c-4450-aaa6-92579d9ccfff.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/assistive24",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -466,6 +456,16 @@
           "wordCount": 1219,
           "title": "GratitudeBuddy",
           "imageUrl": "https://ph-files.imgix.net/c85c11b0-180d-4139-b670-07cefc87f773.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/ghost-jobs",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ghost-jobs",
+          "publishedOn": "2024-12-11T02:31:56.000Z",
+          "wordCount": 1335,
+          "title": "Ghost Jobs",
+          "imageUrl": "https://ph-files.imgix.net/24e7233d-f87a-4904-a729-b30f702928f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/lambda-4",
