@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/debate-ai",
@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/debate-ai",
           "publishedOn": "2024-12-31T06:12:41.000Z",
-          "wordCount": 1348,
+          "wordCount": 1378,
           "title": "debate AI",
           "imageUrl": "https://ph-files.imgix.net/9c424a26-efe2-4003-b228-e7f941d72a30.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -43,19 +43,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/synth-stream",
           "publishedOn": "2024-12-30T21:21:12.000Z",
-          "wordCount": 1167,
+          "wordCount": 1163,
           "title": "synth.stream",
           "imageUrl": "https://ph-files.imgix.net/0d5d6988-00b3-4159-8fd2-2763ae8b405c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/designly-2",
+          "id": "https://www.producthunt.com/posts/firstversion",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/designly-2",
-          "publishedOn": "2024-12-30T18:35:35.000Z",
-          "wordCount": 972,
-          "title": "Designly",
-          "imageUrl": "https://ph-files.imgix.net/d76c5fb2-44d3-41ce-8da4-afab533e34df.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/firstversion",
+          "publishedOn": "2024-12-30T08:31:39.000Z",
+          "wordCount": 1460,
+          "title": "FirstVersion",
+          "imageUrl": "https://ph-files.imgix.net/26219870-2580-4615-b97a-50334c22cce9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/findviral",
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/wrapped-dev",
           "publishedOn": "2024-12-29T19:59:57.000Z",
-          "wordCount": 1508,
+          "wordCount": 1517,
           "title": "wrapped.dev",
           "imageUrl": "https://ph-files.imgix.net/f1725f19-ae9f-450a-8ab6-4502ac817b8b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -148,6 +148,16 @@
           "imageUrl": "https://ph-files.imgix.net/81676dc6-ba86-4fb0-8eae-2fa9bcaef6f9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/makerstower",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/makerstower",
+          "publishedOn": "2024-12-28T14:31:55.000Z",
+          "wordCount": 1196,
+          "title": "MakersTower",
+          "imageUrl": "https://ph-files.imgix.net/c2f03661-f930-474d-b741-f9eb7ca74d5e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/kindly-ink",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -176,6 +186,16 @@
           "wordCount": 1089,
           "title": "cobalt",
           "imageUrl": "https://ph-files.imgix.net/0df0e923-1ff6-4083-a65d-aa1692345c42.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dummyforms",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dummyforms",
+          "publishedOn": "2024-12-27T15:03:30.000Z",
+          "wordCount": 1284,
+          "title": "DummyForms",
+          "imageUrl": "https://ph-files.imgix.net/e99ef8d0-b0a5-4e5a-ad28-94eebf624a2a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/storylegend",
@@ -408,36 +428,6 @@
           "imageUrl": "https://ph-files.imgix.net/1d3c9bf5-aeba-4a34-b8a7-e0d4a4de94a2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/secret-santa-gifting-network",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/secret-santa-gifting-network",
-          "publishedOn": "2024-12-24T11:35:39.000Z",
-          "wordCount": 1486,
-          "title": "Secret Santa Gifting Network",
-          "imageUrl": "https://ph-files.imgix.net/e947c937-2941-447a-b46a-51ea254f21fd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/tutor-lms-3-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tutor-lms-3-0",
-          "publishedOn": "2024-12-24T09:20:40.000Z",
-          "wordCount": 1150,
-          "title": "Tutor LMS 3.0",
-          "imageUrl": "https://ph-files.imgix.net/8dcc4cb3-0164-4cb0-96f6-2129a98fe81d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/legalcheckpro",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/legalcheckpro",
-          "publishedOn": "2024-12-24T09:18:25.000Z",
-          "wordCount": 1389,
-          "title": "LegalCheckPro",
-          "imageUrl": "https://ph-files.imgix.net/3a86ed6c-aea6-4934-b949-c732dc48fa65.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/ayapo",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -446,6 +436,16 @@
           "wordCount": 1312,
           "title": "Ayapo",
           "imageUrl": "https://ph-files.imgix.net/359d1e63-c784-4ca8-9de9-ac7185fb07d9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/easylang-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/easylang-ai",
+          "publishedOn": "2024-12-23T09:31:04.000Z",
+          "wordCount": 1475,
+          "title": "EasyLang AI",
+          "imageUrl": "https://ph-files.imgix.net/b44df379-f302-40b5-a380-d4b3bd48d0c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/shutout",
