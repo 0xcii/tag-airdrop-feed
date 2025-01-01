@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/erayaha-ai",
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/waitless-2",
           "publishedOn": "2024-12-31T20:56:19.000Z",
-          "wordCount": 1194,
+          "wordCount": 1224,
           "title": "Waitless",
           "imageUrl": "https://ph-files.imgix.net/c23284e7-d43f-453d-ba33-620d4f3bc77f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -373,7 +373,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/nextjob",
           "publishedOn": "2024-12-27T12:31:03.000Z",
-          "wordCount": 1027,
+          "wordCount": 1058,
           "title": "NextJob",
           "imageUrl": "https://ph-files.imgix.net/5e223b8a-e075-4870-8283-ee08fe32cbd2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -438,6 +438,16 @@
           "imageUrl": "https://ph-files.imgix.net/7c338fa2-8ce6-44c0-885e-69aaccff3bb7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/ghostty",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/ghostty",
+          "publishedOn": "2024-12-26T20:48:53.000Z",
+          "wordCount": 1208,
+          "title": "Ghostty",
+          "imageUrl": "https://ph-files.imgix.net/9c0f3e67-6038-405c-8fc2-f1048fa2629c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/roster-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -456,16 +466,6 @@
           "wordCount": 1378,
           "title": "SEObot",
           "imageUrl": "https://ph-files.imgix.net/25a67937-d3e8-41b6-ae4c-68fd4f34b2d4.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/quillflow",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/quillflow",
-          "publishedOn": "2024-12-25T21:36:08.000Z",
-          "wordCount": 1106,
-          "title": "QuillFlow",
-          "imageUrl": "https://ph-files.imgix.net/247d7ced-79bf-48a4-9505-99e24cab261b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/appstorys",
