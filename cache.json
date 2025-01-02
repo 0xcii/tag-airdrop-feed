@@ -18,12 +18,22 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/gitpodcast",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/gitpodcast",
+          "publishedOn": "2025-01-02T07:11:25.000Z",
+          "wordCount": 1278,
+          "title": "GitPodcast",
+          "imageUrl": "https://ph-files.imgix.net/89b7fcfe-31eb-4723-a9c9-4b076a8d3ea0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/unideck",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/unideck",
           "publishedOn": "2025-01-01T13:05:48.000Z",
-          "wordCount": 1620,
+          "wordCount": 1653,
           "title": "UniDeck",
           "imageUrl": "https://ph-files.imgix.net/84334933-8f51-4fff-9e7a-5334506f21c5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -33,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/selfiestory",
           "publishedOn": "2025-01-01T12:40:42.000Z",
-          "wordCount": 1531,
+          "wordCount": 1529,
           "title": "SelfieStory",
           "imageUrl": "https://ph-files.imgix.net/d213f4fa-3a7b-4bce-b6ca-109f144572b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -123,7 +133,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/brand-api-2-0-1",
           "publishedOn": "2024-12-31T16:09:54.000Z",
-          "wordCount": 1312,
+          "wordCount": 1310,
           "title": "Brand API 2.0",
           "imageUrl": "https://ph-files.imgix.net/ec90a309-f20d-4734-9466-0e22a20df5c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -416,16 +426,6 @@
           "wordCount": 1309,
           "title": "ReactAI",
           "imageUrl": "https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/bodystate",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/bodystate",
-          "publishedOn": "2024-12-27T10:45:55.000Z",
-          "wordCount": 1342,
-          "title": "BodyState",
-          "imageUrl": "https://ph-files.imgix.net/fb5ad841-557f-41b7-9552-4182e04fc0d7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/testlabs",
