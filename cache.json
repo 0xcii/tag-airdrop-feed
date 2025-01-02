@@ -18,16 +18,6 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
-          "id": "https://www.producthunt.com/posts/gitpodcast",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/gitpodcast",
-          "publishedOn": "2025-01-02T07:11:25.000Z",
-          "wordCount": 1278,
-          "title": "GitPodcast",
-          "imageUrl": "https://ph-files.imgix.net/89b7fcfe-31eb-4723-a9c9-4b076a8d3ea0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/unideck",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -43,7 +33,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/selfiestory",
           "publishedOn": "2025-01-01T12:40:42.000Z",
-          "wordCount": 1559,
+          "wordCount": 1531,
           "title": "SelfieStory",
           "imageUrl": "https://ph-files.imgix.net/d213f4fa-3a7b-4bce-b6ca-109f144572b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -273,7 +263,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hifutureself",
           "publishedOn": "2024-12-30T04:01:12.000Z",
-          "wordCount": 1710,
+          "wordCount": 1698,
           "title": "HiFutureSelf",
           "imageUrl": "https://ph-files.imgix.net/933ed1d1-5663-4efc-a567-2a3ddbb31074.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -428,6 +418,16 @@
           "imageUrl": "https://ph-files.imgix.net/b355a109-8cbe-4351-8c0d-ee4aa1772d1e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/bodystate",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/bodystate",
+          "publishedOn": "2024-12-27T10:45:55.000Z",
+          "wordCount": 1342,
+          "title": "BodyState",
+          "imageUrl": "https://ph-files.imgix.net/fb5ad841-557f-41b7-9552-4182e04fc0d7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/testlabs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -503,11 +503,23 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/automaticall",
           "publishedOn": "2024-12-07T12:30:41.000Z",
-          "wordCount": 1380,
+          "wordCount": 1382,
           "title": "Automaticall",
           "imageUrl": "https://ph-files.imgix.net/715efc75-dcf6-4244-bbaa-8e8bca1c58c3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
