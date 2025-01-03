@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/outpost-4",
@@ -23,7 +23,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/outpost-4",
           "publishedOn": "2025-01-03T01:26:31.000Z",
-          "wordCount": 1259,
+          "wordCount": 1271,
           "title": "Outpost",
           "imageUrl": "https://ph-files.imgix.net/7eca4739-fcb2-4363-8002-5dfe5379d768.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -53,7 +53,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/flowdrafter",
           "publishedOn": "2025-01-02T15:04:47.000Z",
-          "wordCount": 1355,
+          "wordCount": 1385,
           "title": "Flowdrafter",
           "imageUrl": "https://ph-files.imgix.net/c9d32359-a22b-437c-9fd2-f8e39dd55aac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -283,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/griply-2",
           "publishedOn": "2024-12-30T16:01:47.000Z",
-          "wordCount": 1317,
+          "wordCount": 1319,
           "title": "Griply",
           "imageUrl": "https://ph-files.imgix.net/87fcbb1d-7d61-4ce5-8f0b-1efcd2ee7001.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -326,16 +326,6 @@
           "wordCount": 1153,
           "title": "FindViral",
           "imageUrl": "https://ph-files.imgix.net/14b4d556-59c8-4ce2-9312-bf9a5467a940.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/hifutureself",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/hifutureself",
-          "publishedOn": "2024-12-30T04:01:12.000Z",
-          "wordCount": 1698,
-          "title": "HiFutureSelf",
-          "imageUrl": "https://ph-files.imgix.net/933ed1d1-5663-4efc-a567-2a3ddbb31074.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/nicky-codes",
@@ -456,6 +446,16 @@
           "wordCount": 1028,
           "title": "NextJob",
           "imageUrl": "https://ph-files.imgix.net/5e223b8a-e075-4870-8283-ee08fe32cbd2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/snowball-700e3f06-2cd9-469e-a1f3-0bbf51a1136a",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/snowball-700e3f06-2cd9-469e-a1f3-0bbf51a1136a",
+          "publishedOn": "2024-12-27T12:10:01.000Z",
+          "wordCount": 1335,
+          "title": "Snowball",
+          "imageUrl": "https://ph-files.imgix.net/21717c01-ac66-4237-829c-0ae7852d9e08.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/datamorf-2",
