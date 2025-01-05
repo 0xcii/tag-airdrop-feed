@@ -43,7 +43,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/epigram",
           "publishedOn": "2025-01-04T06:10:30.000Z",
-          "wordCount": 1158,
+          "wordCount": 1187,
           "title": "Epigram",
           "imageUrl": "https://ph-files.imgix.net/8521a6bd-7640-487b-abd6-29b9f65fee32.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -328,6 +328,16 @@
           "imageUrl": "https://ph-files.imgix.net/9da8944d-d590-427f-857f-988c3d02c4f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/debate-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/debate-ai",
+          "publishedOn": "2024-12-31T06:12:41.000Z",
+          "wordCount": 1350,
+          "title": "debate AI",
+          "imageUrl": "https://ph-files.imgix.net/9c424a26-efe2-4003-b228-e7f941d72a30.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/reputation-monitor-for-online-stores",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -378,26 +388,6 @@
           "imageUrl": "https://ph-files.imgix.net/8f62528a-d6c6-4804-9af5-c56644135235.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/firstversion",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/firstversion",
-          "publishedOn": "2024-12-30T08:31:39.000Z",
-          "wordCount": 1458,
-          "title": "FirstVersion",
-          "imageUrl": "https://ph-files.imgix.net/26219870-2580-4615-b97a-50334c22cce9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/wrapped-dev",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/wrapped-dev",
-          "publishedOn": "2024-12-29T19:59:57.000Z",
-          "wordCount": 1535,
-          "title": "wrapped.dev",
-          "imageUrl": "https://ph-files.imgix.net/f1725f19-ae9f-450a-8ab6-4502ac817b8b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/symphony-7",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -416,6 +406,16 @@
           "wordCount": 1447,
           "title": "Paul Graham Essay Tracker",
           "imageUrl": "https://ph-files.imgix.net/05a940db-4bbb-4920-a892-f460da678f14.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/makerstower",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/makerstower",
+          "publishedOn": "2024-12-28T14:31:55.000Z",
+          "wordCount": 1196,
+          "title": "MakersTower",
+          "imageUrl": "https://ph-files.imgix.net/c2f03661-f930-474d-b741-f9eb7ca74d5e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/nextjob",
@@ -493,6 +493,12 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
