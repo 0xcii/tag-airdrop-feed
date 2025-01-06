@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-06T07:13:56.095Z</id>
+    <id>urn:2025-01-06T08:18:32.155Z</id>
     <title>web3::cave</title>
-    <updated>2025-01-06T07:13:56.095Z</updated>
+    <updated>2025-01-06T08:18:32.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Allwyse]]></title>
+        <id>https://www.producthunt.com/posts/allwyse</id>
+        <link href="https://www.producthunt.com/posts/allwyse"/>
+        <updated>2025-01-04T23:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Infinite Convo]]></title>
         <id>https://www.producthunt.com/posts/infinite-convo</id>
@@ -34,6 +46,18 @@
         <id>https://www.producthunt.com/posts/epigram</id>
         <link href="https://www.producthunt.com/posts/epigram"/>
         <updated>2025-01-04T06:10:30.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scratchboard.io]]></title>
+        <id>https://www.producthunt.com/posts/scratchboard-io</id>
+        <link href="https://www.producthunt.com/posts/scratchboard-io"/>
+        <updated>2025-01-04T00:16:12.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -138,10 +162,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Add to Sheets Chrome Extension]]></title>
+        <id>https://www.producthunt.com/posts/add-to-sheets-chrome-extension</id>
+        <link href="https://www.producthunt.com/posts/add-to-sheets-chrome-extension"/>
+        <updated>2025-01-02T15:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Flowdrafter]]></title>
         <id>https://www.producthunt.com/posts/flowdrafter</id>
         <link href="https://www.producthunt.com/posts/flowdrafter"/>
         <updated>2025-01-02T15:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitQuest]]></title>
+        <id>https://www.producthunt.com/posts/gitquest</id>
+        <link href="https://www.producthunt.com/posts/gitquest"/>
+        <updated>2025-01-02T14:29:28.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -222,10 +270,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lecca.io]]></title>
-        <id>https://www.producthunt.com/posts/lecca-io</id>
-        <link href="https://www.producthunt.com/posts/lecca-io"/>
-        <updated>2024-12-31T23:43:06.000Z</updated>
+        <title type="html"><![CDATA[Bakery By Bagel]]></title>
+        <id>https://www.producthunt.com/posts/bakery-by-bagel</id>
+        <link href="https://www.producthunt.com/posts/bakery-by-bagel"/>
+        <updated>2025-01-01T03:51:29.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -234,10 +282,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MailTock]]></title>
-        <id>https://www.producthunt.com/posts/mailtock</id>
-        <link href="https://www.producthunt.com/posts/mailtock"/>
-        <updated>2024-12-31T23:15:41.000Z</updated>
+        <title type="html"><![CDATA[Lecca.io]]></title>
+        <id>https://www.producthunt.com/posts/lecca-io</id>
+        <link href="https://www.producthunt.com/posts/lecca-io"/>
+        <updated>2024-12-31T23:43:06.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -270,18 +318,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASCII New Year's Eve Fireworks Show]]></title>
-        <id>https://www.producthunt.com/posts/ascii-new-year-s-eve-fireworks-show</id>
-        <link href="https://www.producthunt.com/posts/ascii-new-year-s-eve-fireworks-show"/>
-        <updated>2024-12-31T17:54:16.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dreamina]]></title>
         <id>https://www.producthunt.com/posts/dreamina</id>
         <link href="https://www.producthunt.com/posts/dreamina"/>
@@ -294,46 +330,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Resolution Coach]]></title>
-        <id>https://www.producthunt.com/posts/ai-resolution-coach</id>
-        <link href="https://www.producthunt.com/posts/ai-resolution-coach"/>
-        <updated>2024-12-31T16:14:06.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Brand API 2.0]]></title>
         <id>https://www.producthunt.com/posts/brand-api-2-0-1</id>
         <link href="https://www.producthunt.com/posts/brand-api-2-0-1"/>
         <updated>2024-12-31T16:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Remote Terminal]]></title>
-        <id>https://www.producthunt.com/posts/web-remote-terminal</id>
-        <link href="https://www.producthunt.com/posts/web-remote-terminal"/>
-        <updated>2024-12-31T15:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Github Resume Generator]]></title>
-        <id>https://www.producthunt.com/posts/github-resume-generator</id>
-        <link href="https://www.producthunt.com/posts/github-resume-generator"/>
-        <updated>2024-12-31T12:36:38.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -378,46 +378,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[debate AI]]></title>
-        <id>https://www.producthunt.com/posts/debate-ai</id>
-        <link href="https://www.producthunt.com/posts/debate-ai"/>
-        <updated>2024-12-31T06:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZapZipped]]></title>
-        <id>https://www.producthunt.com/posts/zapzipped</id>
-        <link href="https://www.producthunt.com/posts/zapzipped"/>
-        <updated>2024-12-30T23:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Reputation Monitor for Online Stores]]></title>
         <id>https://www.producthunt.com/posts/reputation-monitor-for-online-stores</id>
         <link href="https://www.producthunt.com/posts/reputation-monitor-for-online-stores"/>
         <updated>2024-12-30T22:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[synth.stream]]></title>
-        <id>https://www.producthunt.com/posts/synth-stream</id>
-        <link href="https://www.producthunt.com/posts/synth-stream"/>
-        <updated>2024-12-30T21:21:12.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -474,34 +438,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DummyForms]]></title>
-        <id>https://www.producthunt.com/posts/dummyforms</id>
-        <link href="https://www.producthunt.com/posts/dummyforms"/>
-        <updated>2024-12-27T15:03:30.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NextJob]]></title>
-        <id>https://www.producthunt.com/posts/nextjob</id>
-        <link href="https://www.producthunt.com/posts/nextjob"/>
-        <updated>2024-12-27T12:31:03.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Snowball]]></title>
         <id>https://www.producthunt.com/posts/snowball-700e3f06-2cd9-469e-a1f3-0bbf51a1136a</id>
         <link href="https://www.producthunt.com/posts/snowball-700e3f06-2cd9-469e-a1f3-0bbf51a1136a"/>
         <updated>2024-12-27T12:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MenuBarGrid]]></title>
+        <id>https://www.producthunt.com/posts/menubargrid</id>
+        <link href="https://www.producthunt.com/posts/menubargrid"/>
+        <updated>2024-12-26T15:27:22.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -534,10 +486,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AppStorys]]></title>
-        <id>https://www.producthunt.com/posts/appstorys</id>
-        <link href="https://www.producthunt.com/posts/appstorys"/>
-        <updated>2024-12-25T14:14:09.000Z</updated>
+        <title type="html"><![CDATA[Ragie Connect]]></title>
+        <id>https://www.producthunt.com/posts/ragie-connect</id>
+        <link href="https://www.producthunt.com/posts/ragie-connect"/>
+        <updated>2024-12-20T17:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnyParser Pro]]></title>
+        <id>https://www.producthunt.com/posts/anyparser-pro</id>
+        <link href="https://www.producthunt.com/posts/anyparser-pro"/>
+        <updated>2024-12-18T17:50:29.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -550,6 +514,30 @@
         <id>https://www.producthunt.com/posts/cure-ai-2</id>
         <link href="https://www.producthunt.com/posts/cure-ai-2"/>
         <updated>2024-12-17T11:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swallow]]></title>
+        <id>https://www.producthunt.com/posts/swallow-2</id>
+        <link href="https://www.producthunt.com/posts/swallow-2"/>
+        <updated>2024-12-13T12:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sitelifter]]></title>
+        <id>https://www.producthunt.com/posts/sitelifter</id>
+        <link href="https://www.producthunt.com/posts/sitelifter"/>
+        <updated>2024-12-10T12:52:17.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
