@@ -373,9 +373,9 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/snowball-700e3f06-2cd9-469e-a1f3-0bbf51a1136a",
           "publishedOn": "2024-12-27T12:10:01.000Z",
-          "wordCount": 1845,
+          "wordCount": 1334,
           "title": "Snowball",
-          "imageUrl": "https://ph-files.imgix.net/28b163e5-d380-403a-a94c-f07d2d4547f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "imageUrl": "https://ph-files.imgix.net/21717c01-ac66-4237-829c-0ae7852d9e08.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/menubargrid",
@@ -468,6 +468,18 @@
           "imageUrl": "https://ph-files.imgix.net/543c184e-9c39-468c-93fd-55594691657f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
