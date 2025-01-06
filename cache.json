@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/allwyse",
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/that-s-rank",
           "publishedOn": "2025-01-03T16:25:47.000Z",
-          "wordCount": 1229,
+          "wordCount": 1235,
           "title": "That's Rank!",
           "imageUrl": "https://ph-files.imgix.net/1427a76e-f56f-4568-b679-71428acc4d1b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -288,6 +288,16 @@
           "imageUrl": "https://ph-files.imgix.net/ec90a309-f20d-4734-9466-0e22a20df5c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/web-remote-terminal",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/web-remote-terminal",
+          "publishedOn": "2024-12-31T15:26:44.000Z",
+          "wordCount": 1210,
+          "title": "Web Remote Terminal",
+          "imageUrl": "https://ph-files.imgix.net/5cd2b2f6-34ac-4d18-aa15-bee9223d3731.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/github-resume-generator",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -316,16 +326,6 @@
           "wordCount": 1210,
           "title": "Instant3d.ai",
           "imageUrl": "https://ph-files.imgix.net/a732e5b7-e6a8-4195-98d4-e4377fd8031d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/monkt",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/monkt",
-          "publishedOn": "2024-12-31T07:56:30.000Z",
-          "wordCount": 1401,
-          "title": "Monkt",
-          "imageUrl": "https://ph-files.imgix.net/9da8944d-d590-427f-857f-988c3d02c4f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/griply-2",
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ragie-connect",
           "publishedOn": "2024-12-20T17:17:15.000Z",
-          "wordCount": 1660,
+          "wordCount": 1664,
           "title": "Ragie Connect",
           "imageUrl": "https://ph-files.imgix.net/cc72c8df-bb6b-487c-9fa0-84f2c06d7e20.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -433,7 +433,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/anyparser-pro",
           "publishedOn": "2024-12-18T17:50:29.000Z",
-          "wordCount": 1185,
+          "wordCount": 1195,
           "title": "AnyParser Pro",
           "imageUrl": "https://ph-files.imgix.net/34f5dc90-91e1-4df3-9176-b43ebc3a3be8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
