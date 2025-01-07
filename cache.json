@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/jellypod-3",
@@ -83,7 +83,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/progressforge",
           "publishedOn": "2025-01-04T20:49:36.000Z",
-          "wordCount": 1354,
+          "wordCount": 1356,
           "title": "ProgressForge",
           "imageUrl": "https://ph-files.imgix.net/6819fad6-fa31-40bb-8890-097576419b44.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -283,9 +283,19 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/screentreat",
           "publishedOn": "2025-01-01T15:05:18.000Z",
-          "wordCount": 1461,
+          "wordCount": 1463,
           "title": "ScreenTreat",
           "imageUrl": "https://ph-files.imgix.net/5e1b545e-ab29-40c1-86fe-b9249cf6305a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/unideck",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/unideck",
+          "publishedOn": "2025-01-01T13:05:48.000Z",
+          "wordCount": 1625,
+          "title": "UniDeck",
+          "imageUrl": "https://ph-files.imgix.net/84334933-8f51-4fff-9e7a-5334506f21c5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/tempstr",
@@ -313,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/socra-2",
           "publishedOn": "2025-01-01T01:09:42.000Z",
-          "wordCount": 1186,
+          "wordCount": 1226,
           "title": "socra",
           "imageUrl": "https://ph-files.imgix.net/2a5776ed-6f33-4419-b630-c632a95b2252.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -336,16 +346,6 @@
           "wordCount": 1309,
           "title": "Brand API 2.0",
           "imageUrl": "https://ph-files.imgix.net/ec90a309-f20d-4734-9466-0e22a20df5c8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/griply-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/griply-2",
-          "publishedOn": "2024-12-30T16:01:47.000Z",
-          "wordCount": 1319,
-          "title": "Griply",
-          "imageUrl": "https://ph-files.imgix.net/87fcbb1d-7d61-4ce5-8f0b-1efcd2ee7001.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pie-menu",
@@ -423,7 +423,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/marketeam",
           "publishedOn": "2024-12-25T12:02:49.000Z",
-          "wordCount": 1500,
+          "wordCount": 1498,
           "title": "Marketeam",
           "imageUrl": "https://ph-files.imgix.net/8207e5ba-3c08-4391-a548-d99f839fdcc0.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
