@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/allwyse",
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/scratchboard-io",
           "publishedOn": "2025-01-04T00:16:12.000Z",
-          "wordCount": 1539,
+          "wordCount": 1565,
           "title": "Scratchboard.io",
           "imageUrl": "https://ph-files.imgix.net/62b71f14-feae-40b4-8e18-3b6ac3debe1d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -248,6 +248,26 @@
           "imageUrl": "https://ph-files.imgix.net/3318cf8b-a518-4e42-83e2-a53f12a2281b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/lecca-io",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/lecca-io",
+          "publishedOn": "2024-12-31T23:43:06.000Z",
+          "wordCount": 1212,
+          "title": "Lecca.io",
+          "imageUrl": "https://ph-files.imgix.net/3778491e-4d51-47ca-8574-99a5c5c64656.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/mailtock",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mailtock",
+          "publishedOn": "2024-12-31T23:15:41.000Z",
+          "wordCount": 1676,
+          "title": "MailTock",
+          "imageUrl": "https://ph-files.imgix.net/d751959b-b196-4138-b63e-7e0656c7f966.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/grok-button",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -276,16 +296,6 @@
           "wordCount": 1230,
           "title": "Dreamina",
           "imageUrl": "https://ph-files.imgix.net/4d83550a-6c3e-4e0f-9f2a-215d0ccb1a13.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/ai-resolution-coach",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/ai-resolution-coach",
-          "publishedOn": "2024-12-31T16:14:06.000Z",
-          "wordCount": 1179,
-          "title": "AI Resolution Coach",
-          "imageUrl": "https://ph-files.imgix.net/04d81804-1830-430f-a673-642bb42e1192.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/brand-api-2-0-1",
@@ -326,16 +336,6 @@
           "wordCount": 1210,
           "title": "Instant3d.ai",
           "imageUrl": "https://ph-files.imgix.net/a732e5b7-e6a8-4195-98d4-e4377fd8031d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/monkt",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/monkt",
-          "publishedOn": "2024-12-31T07:56:30.000Z",
-          "wordCount": 1401,
-          "title": "Monkt",
-          "imageUrl": "https://ph-files.imgix.net/9da8944d-d590-427f-857f-988c3d02c4f7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/griply-2",
@@ -443,7 +443,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/anyparser-pro",
           "publishedOn": "2024-12-18T17:50:29.000Z",
-          "wordCount": 1194,
+          "wordCount": 1196,
           "title": "AnyParser Pro",
           "imageUrl": "https://ph-files.imgix.net/34f5dc90-91e1-4df3-9176-b43ebc3a3be8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
