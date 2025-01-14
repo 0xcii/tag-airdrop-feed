@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/crtrdg",
@@ -368,16 +368,6 @@
           "imageUrl": "https://ph-files.imgix.net/0dbda14a-b22f-4b2e-acb5-7366c8db9efa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/1-bit-day",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/1-bit-day",
-          "publishedOn": "2025-01-09T09:57:00.000Z",
-          "wordCount": 963,
-          "title": "1-bit.day",
-          "imageUrl": "https://ph-files.imgix.net/5b36e98a-0887-4ab8-bc40-eb9e2dff2760.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/wallstreet-wrapped",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -446,6 +436,16 @@
           "wordCount": 1231,
           "title": "Meetor",
           "imageUrl": "https://ph-files.imgix.net/41da6c5e-a084-4bff-9753-f71cd286254e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/leetle",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/leetle",
+          "publishedOn": "2025-01-02T08:37:22.000Z",
+          "wordCount": 1156,
+          "title": "Leetle",
+          "imageUrl": "https://ph-files.imgix.net/d6655895-bc8b-42a1-a60a-ba0c2e569970.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/taplo",
