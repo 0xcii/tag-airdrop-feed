@@ -18,6 +18,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/chatgpt-task",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/chatgpt-task",
+          "publishedOn": "2025-01-15T14:26:56.000Z",
+          "wordCount": 1250,
+          "title": "ChatGPT Task",
+          "imageUrl": "https://ph-files.imgix.net/a29c06d0-c95c-4be2-99d8-0b4d4d8c1c75.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/stractiai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -313,7 +323,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/drymerge-2",
           "publishedOn": "2025-01-10T22:06:29.000Z",
-          "wordCount": 1455,
+          "wordCount": 1453,
           "title": "DryMerge",
           "imageUrl": "https://ph-files.imgix.net/264643b5-03bb-4317-9d21-92f190ad2d07.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -323,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/sort",
           "publishedOn": "2025-01-10T20:56:05.000Z",
-          "wordCount": 1704,
+          "wordCount": 1702,
           "title": "Sort",
           "imageUrl": "https://ph-files.imgix.net/ba136ebc-545d-451f-90c7-67cf86966b39.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -406,16 +416,6 @@
           "wordCount": 1447,
           "title": "21st.dev",
           "imageUrl": "https://ph-files.imgix.net/2b5ed17a-176b-4672-b6d2-21e444de7859.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/watch-duty",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/watch-duty",
-          "publishedOn": "2025-01-09T20:06:16.000Z",
-          "wordCount": 1034,
-          "title": "Watch Duty",
-          "imageUrl": "https://ph-files.imgix.net/12f0bc49-2461-42ec-aa96-9d00fd616851.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/quizzes-by-humbo",
@@ -508,6 +508,18 @@
           "imageUrl": "https://ph-files.imgix.net/d0418863-f3f6-4429-acc1-20d8622766be.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
