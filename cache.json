@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/doctor-droid",
@@ -133,7 +133,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/voicezap-ai",
           "publishedOn": "2025-01-14T13:28:08.000Z",
-          "wordCount": 1102,
+          "wordCount": 1071,
           "title": "Voicezap AI",
           "imageUrl": "https://ph-files.imgix.net/3b98059d-a5b2-41ed-9ba0-8f62962748d7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -503,12 +503,6 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
