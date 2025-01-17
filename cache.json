@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/doctor-droid",
@@ -388,22 +388,12 @@
           "imageUrl": "https://ph-files.imgix.net/8b262088-42e7-4577-81de-52155ae06e48.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/quizzes-by-humbo",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/quizzes-by-humbo",
-          "publishedOn": "2025-01-09T17:28:48.000Z",
-          "wordCount": 1367,
-          "title": "Quizzes by Humbo",
-          "imageUrl": "https://ph-files.imgix.net/fb4f8a99-dd9b-4451-bd50-d4e2ec21b96c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/side-notepad",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/side-notepad",
           "publishedOn": "2025-01-09T17:01:05.000Z",
-          "wordCount": 1310,
+          "wordCount": 1312,
           "title": "Side Notepad",
           "imageUrl": "https://ph-files.imgix.net/590ecd09-054c-4b44-9e46-18458d0d5858.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -456,6 +446,16 @@
           "wordCount": 1219,
           "title": "Magic Inbox",
           "imageUrl": "https://ph-files.imgix.net/088d20cf-4e9e-448d-9659-d7e173dc5219.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/reset-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/reset-3",
+          "publishedOn": "2025-01-03T18:48:39.000Z",
+          "wordCount": 1304,
+          "title": "Reset",
+          "imageUrl": "https://ph-files.imgix.net/84d11748-ef85-4fbd-9430-b1c48fd6054f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/taplo",
