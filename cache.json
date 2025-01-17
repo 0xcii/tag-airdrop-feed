@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/doctor-droid",
@@ -413,7 +413,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openlit-2-0",
           "publishedOn": "2025-01-09T08:52:20.000Z",
-          "wordCount": 1422,
+          "wordCount": 1394,
           "title": "OpenLIT 2.0",
           "imageUrl": "https://ph-files.imgix.net/853d3278-21b5-41e2-8068-1dc3978e4748.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -453,7 +453,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/reset-3",
           "publishedOn": "2025-01-03T18:48:39.000Z",
-          "wordCount": 1332,
+          "wordCount": 1304,
           "title": "Reset",
           "imageUrl": "https://ph-files.imgix.net/84d11748-ef85-4fbd-9430-b1c48fd6054f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -503,6 +503,12 @@
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
       "articles": []
     }
   ],
