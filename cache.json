@@ -288,16 +288,6 @@
           "imageUrl": "https://ph-files.imgix.net/6a18be99-8bf4-4f91-9558-b4bee576e900.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/pom",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pom",
-          "publishedOn": "2025-01-14T02:57:30.000Z",
-          "wordCount": 1448,
-          "title": "pom",
-          "imageUrl": "https://ph-files.imgix.net/2d0dd25a-169a-4e45-bc8d-dc66eb3b32c1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/eververse-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -326,6 +316,16 @@
           "wordCount": 1378,
           "title": "Sketch It!",
           "imageUrl": "https://ph-files.imgix.net/503cfba9-5bf9-4ad5-9d3d-cd85ddd865d2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/shapen",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/shapen",
+          "publishedOn": "2025-01-12T07:26:16.000Z",
+          "wordCount": 937,
+          "title": "Shapen",
+          "imageUrl": "https://ph-files.imgix.net/5815a329-ac79-4080-84a2-2970ac75e3ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/getwebsite-report-2-0",
@@ -468,18 +468,6 @@
           "imageUrl": "https://ph-files.imgix.net/c162e36e-4962-46a8-9f65-f5c5a1668250.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
