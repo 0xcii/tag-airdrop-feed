@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://extension.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/supadex",
@@ -278,6 +278,16 @@
           "imageUrl": "https://ph-files.imgix.net/bfa5f5af-2d72-4db1-b597-80a17ca47db2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/tuneful-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tuneful-2",
+          "publishedOn": "2025-01-27T17:41:27.000Z",
+          "wordCount": 1279,
+          "title": "Tuneful",
+          "imageUrl": "https://ph-files.imgix.net/89d54178-262d-42e1-99f0-b19dbe5e8e5b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/slicker",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -316,16 +326,6 @@
           "wordCount": 1122,
           "title": "TabBoo",
           "imageUrl": "https://ph-files.imgix.net/b88f30e5-dcef-48a1-bf01-35cbdd587765.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/devleague",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/devleague",
-          "publishedOn": "2025-01-27T13:21:21.000Z",
-          "wordCount": 1279,
-          "title": "DevLeague",
-          "imageUrl": "https://ph-files.imgix.net/15a4ecea-4429-46bd-8bce-b75126144966.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/real-time-notes-action-items",
