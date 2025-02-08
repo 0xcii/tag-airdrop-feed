@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/krea-chat-2",
@@ -248,6 +248,16 @@
           "imageUrl": "https://ph-files.imgix.net/bf24f78a-086c-4fc3-a6b8-91972146123d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/sendbird-ai-agent-for-customer-service",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/sendbird-ai-agent-for-customer-service",
+          "publishedOn": "2025-02-03T22:13:15.000Z",
+          "wordCount": 1390,
+          "title": "Sendbird AI agent for customer service",
+          "imageUrl": "https://ph-files.imgix.net/16e89339-0210-44a5-9e2b-18c4fc0e0100.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/airtop-auth-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -386,16 +396,6 @@
           "wordCount": 1620,
           "title": "Basejump AI",
           "imageUrl": "https://ph-files.imgix.net/2fe85802-9e1d-4772-85da-3687d938b02c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/omniflow-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/omniflow-2",
-          "publishedOn": "2025-01-19T23:13:32.000Z",
-          "wordCount": 1351,
-          "title": "Omniflow",
-          "imageUrl": "https://ph-files.imgix.net/c57b294b-ffde-4421-83c8-1e78d0e952fa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pressdeck",
