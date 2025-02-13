@@ -153,7 +153,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/visionagent",
           "publishedOn": "2025-02-10T04:33:28.000Z",
-          "wordCount": 1035,
+          "wordCount": 1033,
           "title": "VisionAgent",
           "imageUrl": "https://ph-files.imgix.net/96ef1bf4-c388-44b7-93c0-1e7ffb420192.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -448,6 +448,18 @@
           "imageUrl": "https://ph-files.imgix.net/11e402c1-1601-43a0-b0d8-b42f4ecf0610.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
