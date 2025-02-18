@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-17T23:12:26.919Z</id>
+    <id>urn:2025-02-18T01:04:41.565Z</id>
     <title>web3::cave</title>
-    <updated>2025-02-17T23:12:26.919Z</updated>
+    <updated>2025-02-18T01:04:41.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -342,10 +342,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alice.tech]]></title>
-        <id>https://www.producthunt.com/posts/alice-tech</id>
-        <link href="https://www.producthunt.com/posts/alice-tech"/>
-        <updated>2025-02-12T19:39:14.000Z</updated>
+        <title type="html"><![CDATA[Bolt + Expo]]></title>
+        <id>https://www.producthunt.com/posts/bolt-expo</id>
+        <link href="https://www.producthunt.com/posts/bolt-expo"/>
+        <updated>2025-02-13T02:00:10.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -358,18 +358,6 @@
         <id>https://www.producthunt.com/posts/koast-ai</id>
         <link href="https://www.producthunt.com/posts/koast-ai"/>
         <updated>2025-02-12T18:31:04.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HelcimPay.js]]></title>
-        <id>https://www.producthunt.com/posts/helcimpay-js</id>
-        <link href="https://www.producthunt.com/posts/helcimpay-js"/>
-        <updated>2025-02-12T18:28:27.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -454,6 +442,18 @@
         <id>https://www.producthunt.com/posts/seo-ai-agent</id>
         <link href="https://www.producthunt.com/posts/seo-ai-agent"/>
         <updated>2025-02-11T18:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chirp: AI for Apple Watch]]></title>
+        <id>https://www.producthunt.com/posts/chirp-ai-for-apple-watch</id>
+        <link href="https://www.producthunt.com/posts/chirp-ai-for-apple-watch"/>
+        <updated>2025-02-11T12:00:57.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
