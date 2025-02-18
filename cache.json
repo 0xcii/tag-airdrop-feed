@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/snipblr",
@@ -63,7 +63,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/notlink",
           "publishedOn": "2025-02-17T12:07:09.000Z",
-          "wordCount": 1453,
+          "wordCount": 1449,
           "title": "notlink",
           "imageUrl": "https://ph-files.imgix.net/4c75ca15-ded7-457e-8d7e-fa3dd0d1ead3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -498,12 +498,6 @@
           "imageUrl": "https://ph-files.imgix.net/4224517b-29e4-4944-98c9-2eee59374870.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     },
     {
       "title": "Twitter @Drops Earn",
