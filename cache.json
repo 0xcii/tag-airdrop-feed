@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/signature-generator-pro",
@@ -93,7 +93,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/forms-in-email",
           "publishedOn": "2025-02-24T13:04:55.000Z",
-          "wordCount": 1118,
+          "wordCount": 1120,
           "title": "Forms in Email",
           "imageUrl": "https://ph-files.imgix.net/d7d1ccaf-13a5-482a-b34b-f094340fbb5d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -308,6 +308,16 @@
           "imageUrl": "https://ph-files.imgix.net/07626454-3db6-4ffe-90de-c883c3c41920.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/nvidia-geforce-rtx-5070-ti",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/nvidia-geforce-rtx-5070-ti",
+          "publishedOn": "2025-02-20T20:48:29.000Z",
+          "wordCount": 1142,
+          "title": "NVIDIA Geforce RTX 5070 Ti",
+          "imageUrl": "https://ph-files.imgix.net/9302b758-e680-4acf-8985-84f9e03995db.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/zapier-agents",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -323,7 +333,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/deep-lake-ai-knowledge-agent",
           "publishedOn": "2025-02-20T15:24:04.000Z",
-          "wordCount": 1604,
+          "wordCount": 1602,
           "title": "Deep Lake - AI Knowledge Agent",
           "imageUrl": "https://ph-files.imgix.net/27ecdb4b-d955-47af-9253-063bab37adb3.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -336,16 +346,6 @@
           "wordCount": 1535,
           "title": "Zario Screen Time AI",
           "imageUrl": "https://ph-files.imgix.net/3fec72fb-6f37-4551-9008-1cf2cc8e67d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/rabbit-android-agent",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/rabbit-android-agent",
-          "publishedOn": "2025-02-20T11:03:37.000Z",
-          "wordCount": 1097,
-          "title": "Rabbit Android Agent",
-          "imageUrl": "https://ph-files.imgix.net/52d20e94-d0de-4003-8f8c-72c0cd6c163e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/lemonfox-ai-2",
