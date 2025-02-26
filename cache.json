@@ -173,7 +173,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/fabi-ai-analyst-agent",
           "publishedOn": "2025-02-24T23:04:40.000Z",
-          "wordCount": 1272,
+          "wordCount": 1268,
           "title": "Fabi.ai Analyst Agent",
           "imageUrl": "https://ph-files.imgix.net/2253e665-90e4-4270-96cf-896cfe8e7b56.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -188,16 +188,6 @@
           "imageUrl": "https://ph-files.imgix.net/37fff223-9297-4ccc-9ddc-1de3d3abc601.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/build-y-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/build-y-3",
-          "publishedOn": "2025-02-24T15:03:39.000Z",
-          "wordCount": 960,
-          "title": "Build Y",
-          "imageUrl": "https://ph-files.imgix.net/db1f5fa7-71e3-4e39-b0b1-b90d11619a8f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/pixverse-v4-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -206,6 +196,16 @@
           "wordCount": 1089,
           "title": "PixVerse V4",
           "imageUrl": "https://ph-files.imgix.net/6c10957c-0729-43b6-a327-4672ab735de1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/forms-in-email",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/forms-in-email",
+          "publishedOn": "2025-02-24T13:04:55.000Z",
+          "wordCount": 1119,
+          "title": "Forms in Email",
+          "imageUrl": "https://ph-files.imgix.net/d7d1ccaf-13a5-482a-b34b-f094340fbb5d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/wan-2-1",
@@ -243,7 +243,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/forage-mail",
           "publishedOn": "2025-02-24T04:58:23.000Z",
-          "wordCount": 1362,
+          "wordCount": 1368,
           "title": "Forage Mail",
           "imageUrl": "https://ph-files.imgix.net/4ba300b8-9982-4207-b6d3-5822f382398b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -283,7 +283,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/poweragentsai",
           "publishedOn": "2025-02-22T08:02:20.000Z",
-          "wordCount": 1363,
+          "wordCount": 1357,
           "title": "PowerAgentsAI",
           "imageUrl": "https://ph-files.imgix.net/3068a3eb-550f-46cc-b973-7fb7a324c60f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -303,7 +303,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/saywise",
           "publishedOn": "2025-02-21T20:54:24.000Z",
-          "wordCount": 1427,
+          "wordCount": 1429,
           "title": "Saywise",
           "imageUrl": "https://ph-files.imgix.net/dc5f6bfd-794a-43bd-a8c5-2cee0c70413c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -483,11 +483,23 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/basalt-1",
           "publishedOn": "2025-01-30T11:28:18.000Z",
-          "wordCount": 1537,
+          "wordCount": 1535,
           "title": "Basalt",
           "imageUrl": "https://ph-files.imgix.net/d2aedc15-8489-4f48-8c36-816422c6bf73.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
