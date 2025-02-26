@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/pinch-4",
@@ -238,6 +238,16 @@
           "imageUrl": "https://ph-files.imgix.net/bb90eea4-554e-441f-84b3-8bbad9cfc918.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/codenearby",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/codenearby",
+          "publishedOn": "2025-02-24T08:17:25.000Z",
+          "wordCount": 1442,
+          "title": "CodeNearby",
+          "imageUrl": "https://ph-files.imgix.net/a7828409-a434-4dda-80e1-9915c1a985d9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/forage-mail",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -303,7 +313,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/saywise",
           "publishedOn": "2025-02-21T20:54:24.000Z",
-          "wordCount": 1415,
+          "wordCount": 1423,
           "title": "Saywise",
           "imageUrl": "https://ph-files.imgix.net/dc5f6bfd-794a-43bd-a8c5-2cee0c70413c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -466,16 +476,6 @@
           "wordCount": 1290,
           "title": "Thunder Compute (YC S24)",
           "imageUrl": "https://ph-files.imgix.net/7bb0cf1b-610c-4f98-8f59-107fada9c814.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/captiwate",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/captiwate",
-          "publishedOn": "2025-02-07T08:59:08.000Z",
-          "wordCount": 1166,
-          "title": "Captiwate",
-          "imageUrl": "https://ph-files.imgix.net/1ba9bdb6-6753-4b23-96b0-229abe2f0b3f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/basalt-1",
