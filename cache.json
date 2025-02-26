@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/pinch-4",
@@ -293,7 +293,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/poweragentsai",
           "publishedOn": "2025-02-22T08:02:20.000Z",
-          "wordCount": 1345,
+          "wordCount": 1363,
           "title": "PowerAgentsAI",
           "imageUrl": "https://ph-files.imgix.net/3068a3eb-550f-46cc-b973-7fb7a324c60f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -428,16 +428,6 @@
           "imageUrl": "https://ph-files.imgix.net/112a0d52-660d-4c0d-a68d-ea1b375bd32b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/silo-team",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/silo-team",
-          "publishedOn": "2025-02-14T04:38:22.000Z",
-          "wordCount": 1326,
-          "title": "Silo Team",
-          "imageUrl": "https://ph-files.imgix.net/b387dd9a-76a7-4291-8876-e5ea2e9f65af.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/permit-ai-access-control",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -478,12 +468,22 @@
           "imageUrl": "https://ph-files.imgix.net/7bb0cf1b-610c-4f98-8f59-107fada9c814.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/captiwate",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/captiwate",
+          "publishedOn": "2025-02-07T08:59:08.000Z",
+          "wordCount": 1166,
+          "title": "Captiwate",
+          "imageUrl": "https://ph-files.imgix.net/1ba9bdb6-6753-4b23-96b0-229abe2f0b3f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/basalt-1",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/basalt-1",
           "publishedOn": "2025-01-30T11:28:18.000Z",
-          "wordCount": 1531,
+          "wordCount": 1537,
           "title": "Basalt",
           "imageUrl": "https://ph-files.imgix.net/d2aedc15-8489-4f48-8c36-816422c6bf73.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
