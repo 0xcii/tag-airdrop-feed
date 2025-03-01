@@ -15,7 +15,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/explaingithub",
@@ -268,16 +268,6 @@
           "imageUrl": "https://ph-files.imgix.net/fd17ed9c-e8ce-48f6-8efd-b407a8057483.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/pinch-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pinch-4",
-          "publishedOn": "2025-02-26T01:38:45.000Z",
-          "wordCount": 1221,
-          "title": "Pinch",
-          "imageUrl": "https://ph-files.imgix.net/d06d5a6f-6298-4b0e-858d-4747bac2716d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/monocle-6",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -326,6 +316,16 @@
           "wordCount": 1103,
           "title": "Gemini Code Assist",
           "imageUrl": "https://ph-files.imgix.net/81f726e6-a2d4-4fab-acfc-6cb4bee71e4c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/cliprun",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/cliprun",
+          "publishedOn": "2025-02-25T12:01:18.000Z",
+          "wordCount": 1289,
+          "title": "Cliprun",
+          "imageUrl": "https://ph-files.imgix.net/5285b227-2afb-4671-b95d-822675c265dc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/gibberlink",
