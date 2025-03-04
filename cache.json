@@ -258,16 +258,6 @@
           "imageUrl": "https://ph-files.imgix.net/ceb419f9-d7db-475d-a1f2-8b94f0d50be3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/magma",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/magma",
-          "publishedOn": "2025-02-27T02:59:55.000Z",
-          "wordCount": 1098,
-          "title": "Magma",
-          "imageUrl": "https://ph-files.imgix.net/2f18281a-f27c-4e55-9fb0-ad25b4fdae5f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/zcal-36b8b3b4-fdbd-45bf-a858-2bb16de516a6",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -398,6 +388,16 @@
           "imageUrl": "https://ph-files.imgix.net/d3865873-365e-43ab-bb04-496116b34a0f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/leaf-albums",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/leaf-albums",
+          "publishedOn": "2025-02-24T17:07:58.000Z",
+          "wordCount": 1327,
+          "title": "leaf Albums",
+          "imageUrl": "https://ph-files.imgix.net/b754ac72-88dc-4746-a13f-b4c9e11aa9f3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/protoclone",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -446,18 +446,20 @@
           "wordCount": 1120,
           "title": "Unsloth",
           "imageUrl": "https://ph-files.imgix.net/f5210b51-a656-451a-8dd8-da9ef0120bdc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/helix-7",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/helix-7",
-          "publishedOn": "2025-02-02T17:08:52.000Z",
-          "wordCount": 1297,
-          "title": "Helix",
-          "imageUrl": "https://ph-files.imgix.net/4f599178-b3a2-41f2-959d-1a4b659c9f63.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
