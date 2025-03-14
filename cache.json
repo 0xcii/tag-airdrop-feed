@@ -6,6 +6,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/posts/pi-digits-challenge",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pi-digits-challenge",
+          "publishedOn": "2025-03-14T08:16:39.000Z",
+          "wordCount": 1210,
+          "title": "Pi Digits Challenge",
+          "imageUrl": "https://ph-files.imgix.net/66de87f3-a54b-43de-bb98-0f6708a71054.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/proxy-deepwork",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -16,12 +26,22 @@
           "imageUrl": "https://ph-files.imgix.net/a2091d74-2b68-44f9-9e33-4cdbfd87c981.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/pi-6",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/pi-6",
+          "publishedOn": "2025-03-14T01:39:28.000Z",
+          "wordCount": 1438,
+          "title": "Pi",
+          "imageUrl": "https://ph-files.imgix.net/36f01ba3-cb85-4709-a7a4-13c84163a5e9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/charmbar",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/charmbar",
           "publishedOn": "2025-03-14T00:24:43.000Z",
-          "wordCount": 1143,
+          "wordCount": 1147,
           "title": "CharmBar",
           "imageUrl": "https://ph-files.imgix.net/fdea0b2c-64c9-4b61-ad34-b2d6a50e3284.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -31,7 +51,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/ai-agents-for-machines",
           "publishedOn": "2025-03-13T21:25:01.000Z",
-          "wordCount": 1318,
+          "wordCount": 1322,
           "title": "Ai Agents for Machines",
           "imageUrl": "https://ph-files.imgix.net/70dcd141-67ae-4bbb-8937-67489f13c116.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -41,7 +61,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hal9-reply",
           "publishedOn": "2025-03-13T20:01:33.000Z",
-          "wordCount": 1175,
+          "wordCount": 1177,
           "title": "Hal9 Reply",
           "imageUrl": "https://ph-files.imgix.net/f30eeda2-8b12-4353-b882-5c8e06f788e9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -61,7 +81,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/amiry-ai-powered-smart-city-routes",
           "publishedOn": "2025-03-13T17:50:46.000Z",
-          "wordCount": 1363,
+          "wordCount": 1355,
           "title": "Amiry – AI-Powered Smart City Routes",
           "imageUrl": "https://ph-files.imgix.net/b76036d7-d8ac-44d2-9cb7-2262a09a9865.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -121,7 +141,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/zuni",
           "publishedOn": "2025-03-12T20:03:45.000Z",
-          "wordCount": 1279,
+          "wordCount": 1277,
           "title": "Zuni",
           "imageUrl": "https://ph-files.imgix.net/1c939b90-b499-4408-ab47-facaaa0dd387.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -226,16 +246,6 @@
           "imageUrl": "https://ph-files.imgix.net/f98f6e86-ec12-4ecb-99cb-db11661ea2d4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/openai-responses-api-and-agents-sdk",
-          "publishedOn": "2025-03-11T20:06:03.000Z",
-          "wordCount": 1205,
-          "title": "OpenAI Responses API and Agents SDK",
-          "imageUrl": "https://ph-files.imgix.net/0ed8ac7c-0505-42fc-9ae8-10049f2bc3d9.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/wiki-hover",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -326,16 +336,6 @@
           "imageUrl": "https://ph-files.imgix.net/e9bf6076-780a-48af-bd35-c41d563f3147.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/superwall",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/superwall",
-          "publishedOn": "2025-03-10T20:41:35.000Z",
-          "wordCount": 1523,
-          "title": "Superwall",
-          "imageUrl": "https://ph-files.imgix.net/7883338a-1165-4108-aa28-b0bb2ca23866.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/focusnudge",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -366,14 +366,14 @@
           "imageUrl": "https://ph-files.imgix.net/8b6440b3-ee6b-43b0-97f4-ef1dc478de33.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/search-copilot",
+          "id": "https://www.producthunt.com/posts/sahha-archetypes",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/search-copilot",
-          "publishedOn": "2025-03-06T17:52:00.000Z",
-          "wordCount": 1301,
-          "title": "Search Copilot",
-          "imageUrl": "https://ph-files.imgix.net/77278947-d969-46ec-a83d-f4d25deda636.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/sahha-archetypes",
+          "publishedOn": "2025-03-08T20:12:58.000Z",
+          "wordCount": 1403,
+          "title": "Sahha Archetypes",
+          "imageUrl": "https://ph-files.imgix.net/8efa63b5-3698-4e89-87e2-a937a889511d.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/eddie-ai-2-0",
@@ -391,7 +391,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/agbr",
           "publishedOn": "2025-03-04T22:15:08.000Z",
-          "wordCount": 1320,
+          "wordCount": 1316,
           "title": "AgBr",
           "imageUrl": "https://ph-files.imgix.net/8503582c-638f-40e1-bc8f-599e623608f0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -481,7 +481,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/factory-fm",
           "publishedOn": "2025-02-17T14:54:18.000Z",
-          "wordCount": 1328,
+          "wordCount": 1330,
           "title": "Factory.fm",
           "imageUrl": "https://ph-files.imgix.net/8d9255c9-be40-447f-b85d-b68617e82529.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
