@@ -246,16 +246,6 @@
           "imageUrl": "https://ph-files.imgix.net/bb4b3776-f54c-427e-a867-66af4f62e84c.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/yaps-dot-chat",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/yaps-dot-chat",
-          "publishedOn": "2025-03-17T16:03:28.000Z",
-          "wordCount": 1266,
-          "title": "yaps[dot]chat",
-          "imageUrl": "https://ph-files.imgix.net/e0d4189b-8588-474e-9542-9d3870378029.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/tweek-8a8a67dd-c5ef-4ded-8401-912bb6ba6ba3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -456,6 +446,16 @@
           "imageUrl": "https://ph-files.imgix.net/008bc65b-dccb-4af2-b77c-4c73d64be411.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/shorty",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/shorty",
+          "publishedOn": "2025-02-28T16:00:38.000Z",
+          "wordCount": 1372,
+          "title": "Shorty",
+          "imageUrl": "https://ph-files.imgix.net/1ca13cd2-8fae-44fb-aed6-6ce66f5bec60.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/aha-6",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -486,6 +486,18 @@
           "imageUrl": "https://ph-files.imgix.net/8918dc6b-fc09-4862-a4ec-de33c7b49e86.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
