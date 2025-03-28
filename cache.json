@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/supavoice",
@@ -186,16 +186,6 @@
           "imageUrl": "https://ph-files.imgix.net/5a353153-8de2-4f10-84c4-71f1ca79950a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/gemini-2-5",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/gemini-2-5",
-          "publishedOn": "2025-03-25T20:31:26.000Z",
-          "wordCount": 1095,
-          "title": "Gemini 2.5",
-          "imageUrl": "https://ph-files.imgix.net/ab0255b2-3e9a-4072-957a-0da993b2ecff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/openai-4o-image-generation",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -204,16 +194,6 @@
           "wordCount": 1081,
           "title": "OpenAI 4o Image Generation",
           "imageUrl": "https://ph-files.imgix.net/2080aa91-9a86-47f5-b621-855102339361.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/dj-with-apple-music",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dj-with-apple-music",
-          "publishedOn": "2025-03-25T17:51:35.000Z",
-          "wordCount": 1694,
-          "title": "DJ with Apple Music",
-          "imageUrl": "https://ph-files.imgix.net/1c53c5df-f91a-4aef-90ad-737b3e158017.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/nodeflow-ai-2",
@@ -226,14 +206,24 @@
           "imageUrl": "https://ph-files.imgix.net/b2c86fce-14f9-4d61-b5cc-9179a753873c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/open-agent-kit",
+          "id": "https://www.producthunt.com/posts/tiptap-ai-suggestion",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/open-agent-kit",
-          "publishedOn": "2025-03-25T16:48:36.000Z",
-          "wordCount": 1448,
-          "title": "Open Agent Kit",
-          "imageUrl": "https://ph-files.imgix.net/7713d249-6ae4-4d78-9227-9fcc1d0a2a31.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/tiptap-ai-suggestion",
+          "publishedOn": "2025-03-25T16:51:41.000Z",
+          "wordCount": 1300,
+          "title": "Tiptap AI Suggestion",
+          "imageUrl": "https://ph-files.imgix.net/d3ffddf6-0c9e-4607-84e4-37f37132b2ca.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/product-guesser",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/product-guesser",
+          "publishedOn": "2025-03-25T13:12:13.000Z",
+          "wordCount": 1025,
+          "title": "Product Guesser",
+          "imageUrl": "https://ph-files.imgix.net/5a4b73d5-fe37-43bd-80f3-918791bb93df.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/waitlist-guide",
@@ -276,24 +266,24 @@
           "imageUrl": "https://ph-files.imgix.net/f3562584-7b6f-4271-bb8c-153d82badcce.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/the-analysis-tool-in-claude-ai",
+          "id": "https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/the-analysis-tool-in-claude-ai",
-          "publishedOn": "2025-03-24T09:48:13.000Z",
-          "wordCount": 1264,
-          "title": "The Analysis tool in Claude.ai",
-          "imageUrl": "https://ph-files.imgix.net/81d25330-1842-4039-87ae-c6ac8e8883b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch",
+          "publishedOn": "2025-03-24T18:09:07.000Z",
+          "wordCount": 1544,
+          "title": "Pulse for Elasticsearch and OpenSearch",
+          "imageUrl": "https://ph-files.imgix.net/2fc42146-ae29-4a9c-bc97-f1afa20c78b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/dropgala",
+          "id": "https://www.producthunt.com/posts/fenn",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dropgala",
-          "publishedOn": "2025-03-22T20:00:42.000Z",
-          "wordCount": 1443,
-          "title": "Dropgala",
-          "imageUrl": "https://ph-files.imgix.net/fae60839-1198-424a-bbce-225d2151b879.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/fenn",
+          "publishedOn": "2025-03-24T14:04:54.000Z",
+          "wordCount": 1367,
+          "title": "Fenn",
+          "imageUrl": "https://ph-files.imgix.net/75825399-4971-4795-8694-3305bce2eb8f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ememeai",
@@ -324,6 +314,16 @@
           "wordCount": 1233,
           "title": "Effie",
           "imageUrl": "https://ph-files.imgix.net/ef24a499-7f7e-4f14-862e-5198e1f3c1f2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/baselight",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/baselight",
+          "publishedOn": "2025-03-19T18:18:36.000Z",
+          "wordCount": 1443,
+          "title": "Baselight",
+          "imageUrl": "https://ph-files.imgix.net/146b289e-2b67-4140-b8a0-f48909949a2e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/easylisting",
@@ -396,6 +396,16 @@
           "imageUrl": "https://ph-files.imgix.net/0efb2c89-840f-4bd6-b00b-d2229f95aa52.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/solver-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/solver-2",
+          "publishedOn": "2025-03-13T23:06:37.000Z",
+          "wordCount": 1530,
+          "title": "Solver",
+          "imageUrl": "https://ph-files.imgix.net/1d32665b-8920-4119-8352-7cae099ce9a1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/kilo-code-for-vs-code",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -446,12 +456,6 @@
           "imageUrl": "https://ph-files.imgix.net/00f89b47-64d4-42e1-95fe-10c552fa62f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     },
     {
       "title": "Twitter @Drops Earn",
