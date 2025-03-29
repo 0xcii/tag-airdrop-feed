@@ -236,6 +236,36 @@
           "imageUrl": "https://ph-files.imgix.net/13fff13f-09ad-4b81-88fc-1e504a3ed80c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/gemini-2-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/gemini-2-5",
+          "publishedOn": "2025-03-25T20:31:26.000Z",
+          "wordCount": 1095,
+          "title": "Gemini 2.5",
+          "imageUrl": "https://ph-files.imgix.net/ab0255b2-3e9a-4072-957a-0da993b2ecff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/openai-4o-image-generation",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/openai-4o-image-generation",
+          "publishedOn": "2025-03-25T20:08:18.000Z",
+          "wordCount": 1081,
+          "title": "OpenAI 4o Image Generation",
+          "imageUrl": "https://ph-files.imgix.net/2080aa91-9a86-47f5-b621-855102339361.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/open-agent-kit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/open-agent-kit",
+          "publishedOn": "2025-03-25T16:48:36.000Z",
+          "wordCount": 1448,
+          "title": "Open Agent Kit",
+          "imageUrl": "https://ph-files.imgix.net/7713d249-6ae4-4d78-9227-9fcc1d0a2a31.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/deepcord",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -244,16 +274,6 @@
           "wordCount": 1252,
           "title": "Deepcord",
           "imageUrl": "https://ph-files.imgix.net/fa177e00-6071-43d0-9423-a485f8778283.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/waitlist-guide",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/waitlist-guide",
-          "publishedOn": "2025-03-25T11:47:38.000Z",
-          "wordCount": 1099,
-          "title": "Waitlist Guide",
-          "imageUrl": "https://ph-files.imgix.net/95a82bd3-b9be-48e5-a686-ac4d21085684.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/meshifai",
@@ -274,16 +294,6 @@
           "wordCount": 1045,
           "title": "SyncTasks",
           "imageUrl": "https://ph-files.imgix.net/d779c8b3-b4ac-42cd-8ea9-ed1d5d78c6c9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch",
-          "publishedOn": "2025-03-24T18:09:07.000Z",
-          "wordCount": 1544,
-          "title": "Pulse for Elasticsearch and OpenSearch",
-          "imageUrl": "https://ph-files.imgix.net/2fc42146-ae29-4a9c-bc97-f1afa20c78b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/the-analysis-tool-in-claude-ai",
@@ -314,16 +324,6 @@
           "wordCount": 1292,
           "title": "Mini Cozy Room : Lo-Fi",
           "imageUrl": "https://ph-files.imgix.net/189bf141-f958-4f69-b50e-4fc39c43f639.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/effie-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/effie-4",
-          "publishedOn": "2025-03-20T05:23:40.000Z",
-          "wordCount": 1233,
-          "title": "Effie",
-          "imageUrl": "https://ph-files.imgix.net/ef24a499-7f7e-4f14-862e-5198e1f3c1f2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/easylisting",
@@ -446,18 +446,6 @@
           "imageUrl": "https://ph-files.imgix.net/00f89b47-64d4-42e1-95fe-10c552fa62f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
