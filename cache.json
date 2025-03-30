@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/hcb",
@@ -286,16 +286,6 @@
           "imageUrl": "https://ph-files.imgix.net/51d18af8-834a-4b04-98c7-d14edc47fad7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/docko",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/docko",
-          "publishedOn": "2025-03-26T08:01:01.000Z",
-          "wordCount": 954,
-          "title": "Docko",
-          "imageUrl": "https://ph-files.imgix.net/79629c89-56b3-4ff0-be2e-ea3136c0ee07.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/researcher-analyst-in-m365-copilot",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -366,6 +356,16 @@
           "imageUrl": "https://ph-files.imgix.net/39160be4-641a-4d20-a8ed-1784ba8ebc8e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/actionkit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/actionkit",
+          "publishedOn": "2025-03-17T20:43:56.000Z",
+          "wordCount": 1430,
+          "title": "ActionKit",
+          "imageUrl": "https://ph-files.imgix.net/3bc58b5b-3997-4918-9efe-1ea288de467d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/moio-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -411,7 +411,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/gapflow-io",
           "publishedOn": "2025-03-12T17:58:45.000Z",
-          "wordCount": 1373,
+          "wordCount": 1371,
           "title": "Gapflow.io",
           "imageUrl": "https://ph-files.imgix.net/b6fb0a8f-2373-4ee2-ae01-c8fabeeb19a0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
