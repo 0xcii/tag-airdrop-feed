@@ -11,7 +11,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/hcb",
           "publishedOn": "2025-03-29T22:45:46.000Z",
-          "wordCount": 1345,
+          "wordCount": 1347,
           "title": "HCB",
           "imageUrl": "https://ph-files.imgix.net/88122758-9d96-4120-b884-a3d9016d4742.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -31,7 +31,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openspot-3",
           "publishedOn": "2025-03-29T16:58:16.000Z",
-          "wordCount": 1450,
+          "wordCount": 1452,
           "title": "Openspot",
           "imageUrl": "https://ph-files.imgix.net/e87edad7-fe3a-4fea-a1b7-d7e821520064.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -151,7 +151,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/graphfast",
           "publishedOn": "2025-03-27T19:21:23.000Z",
-          "wordCount": 1198,
+          "wordCount": 1200,
           "title": "GraphFast",
           "imageUrl": "https://ph-files.imgix.net/0be7b62c-1c8d-4691-864a-c012fe4d78f5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -276,16 +276,6 @@
           "imageUrl": "https://ph-files.imgix.net/51d18af8-834a-4b04-98c7-d14edc47fad7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/docko",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/docko",
-          "publishedOn": "2025-03-26T08:01:01.000Z",
-          "wordCount": 954,
-          "title": "Docko",
-          "imageUrl": "https://ph-files.imgix.net/79629c89-56b3-4ff0-be2e-ea3136c0ee07.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/researcher-analyst-in-m365-copilot",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -301,7 +291,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/deepcord",
           "publishedOn": "2025-03-25T14:36:12.000Z",
-          "wordCount": 1251,
+          "wordCount": 1253,
           "title": "Deepcord",
           "imageUrl": "https://ph-files.imgix.net/fa177e00-6071-43d0-9423-a485f8778283.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -364,6 +354,16 @@
           "wordCount": 1408,
           "title": "Moio",
           "imageUrl": "https://ph-files.imgix.net/db4302e0-97eb-45fd-8305-af468c5a0773.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/r2r",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/r2r",
+          "publishedOn": "2025-03-16T15:54:26.000Z",
+          "wordCount": 1229,
+          "title": "R2R",
+          "imageUrl": "https://ph-files.imgix.net/4f50328f-466c-499a-b599-82ee9a8f37fc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/atlas-co-2-0",
@@ -446,6 +446,18 @@
           "imageUrl": "https://ph-files.imgix.net/784ee717-c3b0-4ae0-93fe-53121da7e996.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
+    },
+    {
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
