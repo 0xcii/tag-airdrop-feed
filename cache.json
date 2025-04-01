@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/dockflow",
@@ -11,7 +11,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/dockflow",
           "publishedOn": "2025-03-30T19:12:18.000Z",
-          "wordCount": 1312,
+          "wordCount": 1311,
           "title": "DockFlow",
           "imageUrl": "https://ph-files.imgix.net/ea1aa455-e08f-4cee-9498-df7b221f86c2.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -51,7 +51,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/formsanitizer",
           "publishedOn": "2025-03-29T13:32:54.000Z",
-          "wordCount": 1325,
+          "wordCount": 1324,
           "title": "FormSanitizer",
           "imageUrl": "https://ph-files.imgix.net/06c298fa-f99c-40c8-b0e6-6f5c0d41535d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -81,7 +81,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/peeknote",
           "publishedOn": "2025-03-29T07:17:45.000Z",
-          "wordCount": 1159,
+          "wordCount": 1158,
           "title": "PeekNote",
           "imageUrl": "https://ph-files.imgix.net/457e51f2-64ef-474c-92fd-0cbda4888212.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -131,7 +131,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/heroui-chat",
           "publishedOn": "2025-03-28T02:00:32.000Z",
-          "wordCount": 1468,
+          "wordCount": 1467,
           "title": "HeroUI Chat",
           "imageUrl": "https://ph-files.imgix.net/2f9bcd9f-8139-4f47-8658-00e3a7744bd9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -191,7 +191,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/openbnb",
           "publishedOn": "2025-03-27T20:18:27.000Z",
-          "wordCount": 1016,
+          "wordCount": 1015,
           "title": "OpenBnB",
           "imageUrl": "https://ph-files.imgix.net/0f84d0b9-7667-4add-9896-bf5b20bc5913.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -211,7 +211,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/purposeful-poop",
           "publishedOn": "2025-03-27T18:31:55.000Z",
-          "wordCount": 1072,
+          "wordCount": 1071,
           "title": "Purposeful Poop",
           "imageUrl": "https://ph-files.imgix.net/5aa6ecd1-7543-4d05-b868-c86ee3b7b8ab.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -284,6 +284,16 @@
           "wordCount": 1131,
           "title": "Mureka O1",
           "imageUrl": "https://ph-files.imgix.net/8120ecb9-b134-4abf-b9a4-2797155a9ae5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/kanban-kanban",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/kanban-kanban",
+          "publishedOn": "2025-03-26T15:14:25.000Z",
+          "wordCount": 1225,
+          "title": "Kanban Kanban",
+          "imageUrl": "https://ph-files.imgix.net/4be347e9-a968-4904-ab1e-195d74cbb299.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/zenkan",
@@ -446,16 +456,6 @@
           "imageUrl": "https://ph-files.imgix.net/92a9bf61-2687-4792-bd39-a3497efde867.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/simplai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/simplai",
-          "publishedOn": "2025-03-11T11:10:23.000Z",
-          "wordCount": 1700,
-          "title": "SimplAI",
-          "imageUrl": "https://ph-files.imgix.net/684ea987-345c-4273-837d-a7580913d925.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/vocao-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -466,12 +466,6 @@
           "imageUrl": "https://ph-files.imgix.net/4763ca10-1227-4b44-92ad-a6f132bc3c2b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
-    },
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
     },
     {
       "title": "Twitter @Drops Earn",
