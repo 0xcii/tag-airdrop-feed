@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/birdtab",
@@ -11,7 +11,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/birdtab",
           "publishedOn": "2025-04-09T06:37:50.000Z",
-          "wordCount": 1408,
+          "wordCount": 1414,
           "title": "BirdTab",
           "imageUrl": "https://ph-files.imgix.net/772a934c-8766-4e00-8f4a-7dd7b3e5c177.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -41,7 +41,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/metigan",
           "publishedOn": "2025-04-08T20:31:18.000Z",
-          "wordCount": 1193,
+          "wordCount": 1199,
           "title": "Metigan",
           "imageUrl": "https://ph-files.imgix.net/dfbc9b9d-a17d-4a42-ab62-7a7c0768d189.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -71,7 +71,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/github-mcp-server",
           "publishedOn": "2025-04-08T13:04:54.000Z",
-          "wordCount": 1044,
+          "wordCount": 1050,
           "title": "GitHub MCP Server",
           "imageUrl": "https://ph-files.imgix.net/23867c4d-b6fe-4619-afbe-f4be4ade6f33.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -366,16 +366,6 @@
           "imageUrl": "https://ph-files.imgix.net/bad1e21c-7a90-4f87-accb-3be3cdc88d21.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/httl-project",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/httl-project",
-          "publishedOn": "2025-04-03T14:36:27.000Z",
-          "wordCount": 1174,
-          "title": "HTTL Project",
-          "imageUrl": "https://ph-files.imgix.net/b70f95ff-58d2-441b-a0a5-63632dca1f9a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/sherlock-22ca6fdc-45ee-48ff-8169-955198c7e247",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -424,6 +414,16 @@
           "wordCount": 1250,
           "title": "chatWise",
           "imageUrl": "https://ph-files.imgix.net/6f981689-0dc8-4864-9feb-8de541e1bb84.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dayo-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dayo-2",
+          "publishedOn": "2025-03-28T16:46:05.000Z",
+          "wordCount": 1314,
+          "title": "Dayo",
+          "imageUrl": "https://ph-files.imgix.net/02fd2727-6e0e-4dc1-8b07-e894cff96f2c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/amurex",
