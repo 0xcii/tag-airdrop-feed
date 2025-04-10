@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/miosn",
@@ -316,26 +316,6 @@
           "imageUrl": "https://ph-files.imgix.net/b3626a41-6eb9-487c-8374-079ecba618b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/dialx",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dialx",
-          "publishedOn": "2025-04-07T23:08:55.000Z",
-          "wordCount": 1122,
-          "title": "Dialx",
-          "imageUrl": "https://ph-files.imgix.net/a3f1b62f-9a6f-4811-967d-29d6ddc212be.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/vibe-codebook",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/vibe-codebook",
-          "publishedOn": "2025-04-07T20:00:41.000Z",
-          "wordCount": 1136,
-          "title": "Vibe Codebook",
-          "imageUrl": "https://ph-files.imgix.net/e46c806c-377f-4bab-b4ec-0e8302c00934.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/haystack-code-reviewer",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -344,6 +324,16 @@
           "wordCount": 1385,
           "title": "Haystack Code Reviewer",
           "imageUrl": "https://ph-files.imgix.net/9fc10974-6aec-4d55-a02c-0d718755fdaa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/the-accept-button",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/the-accept-button",
+          "publishedOn": "2025-04-07T14:08:22.000Z",
+          "wordCount": 1301,
+          "title": "The Accept Button",
+          "imageUrl": "https://ph-files.imgix.net/4e3eea40-0c7f-4e93-b794-8e1aac5f5cac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/agno",
@@ -356,14 +346,24 @@
           "imageUrl": "https://ph-files.imgix.net/93cf03e0-a1c5-4e73-8004-ecbaf2d1fcc8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/breww-beta-for-macos",
+          "id": "https://www.producthunt.com/posts/the-repeater",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/breww-beta-for-macos",
-          "publishedOn": "2025-04-07T09:46:24.000Z",
-          "wordCount": 1325,
-          "title": "Breww Beta for MacOS",
-          "imageUrl": "https://ph-files.imgix.net/f7ffdcd3-f348-4228-96e8-7b5087b41cf9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/the-repeater",
+          "publishedOn": "2025-04-07T11:11:55.000Z",
+          "wordCount": 1244,
+          "title": "The Repeater",
+          "imageUrl": "https://ph-files.imgix.net/35692064-86b4-4734-88bb-cc07704b2ee5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/klic",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/klic",
+          "publishedOn": "2025-04-06T20:25:27.000Z",
+          "wordCount": 1057,
+          "title": "Klic",
+          "imageUrl": "https://ph-files.imgix.net/4d6a360f-253e-492e-8443-4e7895e731c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/kive-studios",
@@ -444,6 +444,16 @@
           "wordCount": 1595,
           "title": "Metabase Embedded Analytics",
           "imageUrl": "https://ph-files.imgix.net/f0107178-e869-41b0-ae71-c450d9d00a25.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/clarisign",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/clarisign",
+          "publishedOn": "2025-03-23T19:00:50.000Z",
+          "wordCount": 1410,
+          "title": "Clarisign",
+          "imageUrl": "https://ph-files.imgix.net/f25c4567-2af7-44af-9b5d-9ed1042dc8c5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/helix-9",
