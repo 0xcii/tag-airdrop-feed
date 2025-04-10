@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/miosn",
@@ -96,13 +96,13 @@
           "imageUrl": "https://ph-files.imgix.net/19fecdf5-2e1d-45de-b05b-4d34efc3c22d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/crono-rewrite-with-ai",
+          "id": "https://www.producthunt.com/posts/crono-8",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/crono-rewrite-with-ai",
+          "link": "https://www.producthunt.com/posts/crono-8",
           "publishedOn": "2025-04-09T16:55:19.000Z",
-          "wordCount": 2436,
-          "title": "Crono - Rewrite with AI",
+          "wordCount": 2360,
+          "title": "Crono",
           "imageUrl": "https://ph-files.imgix.net/76fb0046-8ea9-40a4-b0fb-46c2009c9b77.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
@@ -296,16 +296,6 @@
           "imageUrl": "https://ph-files.imgix.net/0220535f-bd6e-46a0-a61d-e40923f1ba34.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/timmy-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/timmy-4",
-          "publishedOn": "2025-04-08T01:51:21.000Z",
-          "wordCount": 1175,
-          "title": "Timmy",
-          "imageUrl": "https://ph-files.imgix.net/fbd0e4e1-4887-4438-acba-8cc4aace7b92.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/zight-customer-support-hub",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -314,6 +304,16 @@
           "wordCount": 1297,
           "title": "Zight Customer Support Hub",
           "imageUrl": "https://ph-files.imgix.net/b3626a41-6eb9-487c-8374-079ecba618b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/elevenlabs-mcp",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/elevenlabs-mcp",
+          "publishedOn": "2025-04-07T19:37:50.000Z",
+          "wordCount": 1215,
+          "title": "Elevenlabs MCP",
+          "imageUrl": "https://ph-files.imgix.net/da50b5fe-2ae2-49ca-bd3f-beb5dfa11283.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/haystack-code-reviewer",
@@ -336,6 +336,16 @@
           "imageUrl": "https://ph-files.imgix.net/4e3eea40-0c7f-4e93-b794-8e1aac5f5cac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/datasafe-encrypted-messages-via-hotkey",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/datasafe-encrypted-messages-via-hotkey",
+          "publishedOn": "2025-04-07T11:37:59.000Z",
+          "wordCount": 1441,
+          "title": "DataSafe – Encrypted messages via hotkey",
+          "imageUrl": "https://ph-files.imgix.net/55382877-1662-4a62-b361-9dd0b61da09f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/agno",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -346,24 +356,14 @@
           "imageUrl": "https://ph-files.imgix.net/93cf03e0-a1c5-4e73-8004-ecbaf2d1fcc8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/the-repeater",
+          "id": "https://www.producthunt.com/posts/breww-beta-for-macos",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/the-repeater",
-          "publishedOn": "2025-04-07T11:11:55.000Z",
-          "wordCount": 1244,
-          "title": "The Repeater",
-          "imageUrl": "https://ph-files.imgix.net/35692064-86b4-4734-88bb-cc07704b2ee5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/klic",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/klic",
-          "publishedOn": "2025-04-06T20:25:27.000Z",
-          "wordCount": 1057,
-          "title": "Klic",
-          "imageUrl": "https://ph-files.imgix.net/4d6a360f-253e-492e-8443-4e7895e731c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/breww-beta-for-macos",
+          "publishedOn": "2025-04-07T09:46:24.000Z",
+          "wordCount": 1325,
+          "title": "Breww Beta for MacOS",
+          "imageUrl": "https://ph-files.imgix.net/f7ffdcd3-f348-4228-96e8-7b5087b41cf9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/kive-studios",
@@ -386,14 +386,14 @@
           "imageUrl": "https://ph-files.imgix.net/633a2a37-d11c-42ec-8653-5dc655e7d58a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/oura-advisor",
+          "id": "https://www.producthunt.com/posts/taatoo",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/oura-advisor",
-          "publishedOn": "2025-04-04T05:49:25.000Z",
-          "wordCount": 1108,
-          "title": "ŌURA Advisor",
-          "imageUrl": "https://ph-files.imgix.net/27aa6773-10e0-4b94-a3da-4e9dc2b283bf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/taatoo",
+          "publishedOn": "2025-04-04T13:58:55.000Z",
+          "wordCount": 1249,
+          "title": "taatoo",
+          "imageUrl": "https://ph-files.imgix.net/48652530-6d55-4aa5-be83-084ba119c463.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/superflex-2-0",
@@ -444,16 +444,6 @@
           "wordCount": 1595,
           "title": "Metabase Embedded Analytics",
           "imageUrl": "https://ph-files.imgix.net/f0107178-e869-41b0-ae71-c450d9d00a25.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/clarisign",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/clarisign",
-          "publishedOn": "2025-03-23T19:00:50.000Z",
-          "wordCount": 1410,
-          "title": "Clarisign",
-          "imageUrl": "https://ph-files.imgix.net/f25c4567-2af7-44af-9b5d-9ed1042dc8c5.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/helix-9",
