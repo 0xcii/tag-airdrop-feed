@@ -3,8 +3,128 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/posts/a2a-protocol",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/a2a-protocol",
+          "publishedOn": "2025-04-10T04:00:41.000Z",
+          "wordCount": 1037,
+          "title": "A2A Protocol",
+          "imageUrl": "https://ph-files.imgix.net/cce7658c-a3ab-470d-b3f0-c41d4c052bbf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/grok-3-api",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/grok-3-api",
+          "publishedOn": "2025-04-10T04:00:27.000Z",
+          "wordCount": 1289,
+          "title": "Grok 3 API",
+          "imageUrl": "https://ph-files.imgix.net/50a026c8-5ba1-4dcd-944d-5265bc01a88c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/clay-9",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/clay-9",
+          "publishedOn": "2025-04-10T01:40:39.000Z",
+          "wordCount": 1279,
+          "title": "Clay",
+          "imageUrl": "https://ph-files.imgix.net/c2716136-0940-4aed-ac1a-f1e8ebd7d9b0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/theya-for-business",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/theya-for-business",
+          "publishedOn": "2025-04-10T01:10:40.000Z",
+          "wordCount": 1422,
+          "title": "Theya for Business",
+          "imageUrl": "https://ph-files.imgix.net/3ac98333-13ec-48e4-aa95-a7c5c21b9cd9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/indexflow",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/indexflow",
+          "publishedOn": "2025-04-09T20:04:16.000Z",
+          "wordCount": 1100,
+          "title": "IndexFlow",
+          "imageUrl": "https://ph-files.imgix.net/be171997-2aa1-49b4-985b-263eace2166e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/airtable-ai-assistant",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/airtable-ai-assistant",
+          "publishedOn": "2025-04-09T18:40:01.000Z",
+          "wordCount": 1548,
+          "title": "Airtable AI Assistant",
+          "imageUrl": "https://ph-files.imgix.net/fd0b4fdd-8ebf-49cc-a819-4be2cd853e2b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/google-firebase-studio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/google-firebase-studio",
+          "publishedOn": "2025-04-09T18:32:14.000Z",
+          "wordCount": 1101,
+          "title": "Google Firebase Studio",
+          "imageUrl": "https://ph-files.imgix.net/a504bc66-17ae-45bc-bc9f-39b12f66a41f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/firebase-studio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/firebase-studio",
+          "publishedOn": "2025-04-09T18:15:55.000Z",
+          "wordCount": 1168,
+          "title": "Firebase Studio",
+          "imageUrl": "https://ph-files.imgix.net/e99a72af-a891-40c1-bcc7-5db2229bca36.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/analyticbridge-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/analyticbridge-2",
+          "publishedOn": "2025-04-09T17:09:57.000Z",
+          "wordCount": 1135,
+          "title": "AnalyticBridge",
+          "imageUrl": "https://ph-files.imgix.net/19fecdf5-2e1d-45de-b05b-4d34efc3c22d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/crono-8",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/crono-8",
+          "publishedOn": "2025-04-09T16:55:19.000Z",
+          "wordCount": 2361,
+          "title": "Crono",
+          "imageUrl": "https://ph-files.imgix.net/76fb0046-8ea9-40a4-b0fb-46c2009c9b77.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/voicenotes-pages",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/voicenotes-pages",
+          "publishedOn": "2025-04-09T16:19:58.000Z",
+          "wordCount": 1373,
+          "title": "Voicenotes Pages",
+          "imageUrl": "https://ph-files.imgix.net/d01690d3-06de-44a8-87ca-8c86425aa66a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/helpedby-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/helpedby-ai",
+          "publishedOn": "2025-04-09T14:09:36.000Z",
+          "wordCount": 1371,
+          "title": "Helpedby AI",
+          "imageUrl": "https://ph-files.imgix.net/e878b180-bfe6-46d9-922f-d59979be63ec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
         {
           "id": "https://www.producthunt.com/posts/birdtab",
           "author": null,
@@ -34,6 +154,16 @@
           "wordCount": 1586,
           "title": "AI Command Bar",
           "imageUrl": "https://ph-files.imgix.net/19f12cb9-5c2b-4646-bcc7-278d499ca34c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/numi-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/numi-4",
+          "publishedOn": "2025-04-08T21:56:01.000Z",
+          "wordCount": 1108,
+          "title": "NUMI",
+          "imageUrl": "https://ph-files.imgix.net/a9a080bf-7719-4d88-8c7e-b1747237be61.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/metigan",
@@ -76,6 +206,16 @@
           "imageUrl": "https://ph-files.imgix.net/23867c4d-b6fe-4619-afbe-f4be4ade6f33.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/synthetiq",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/synthetiq",
+          "publishedOn": "2025-04-08T11:50:32.000Z",
+          "wordCount": 1368,
+          "title": "Synthetiq",
+          "imageUrl": "https://ph-files.imgix.net/85c7cc99-1125-48ac-9d87-e78ba62a3756.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/ibm-z17",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -104,26 +244,6 @@
           "wordCount": 1176,
           "title": "Cua",
           "imageUrl": "https://ph-files.imgix.net/7efa4b4b-8028-4bef-9988-85b8a0709ced.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/timmy-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/timmy-4",
-          "publishedOn": "2025-04-08T01:51:21.000Z",
-          "wordCount": 1175,
-          "title": "Timmy",
-          "imageUrl": "https://ph-files.imgix.net/fbd0e4e1-4887-4438-acba-8cc4aace7b92.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/updates-podcast-player",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/updates-podcast-player",
-          "publishedOn": "2025-04-07T23:56:52.000Z",
-          "wordCount": 1475,
-          "title": "Updates: Podcast Player",
-          "imageUrl": "https://ph-files.imgix.net/c8a05529-9e21-4319-bfb7-93a368cbbb00.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/dialx",
@@ -156,16 +276,6 @@
           "imageUrl": "https://ph-files.imgix.net/e46c806c-377f-4bab-b4ec-0e8302c00934.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/elevenlabs-mcp",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/elevenlabs-mcp",
-          "publishedOn": "2025-04-07T19:37:50.000Z",
-          "wordCount": 1215,
-          "title": "Elevenlabs MCP",
-          "imageUrl": "https://ph-files.imgix.net/da50b5fe-2ae2-49ca-bd3f-beb5dfa11283.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/glasp-ai-clone-learning-memory",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -174,6 +284,16 @@
           "wordCount": 1746,
           "title": "Glasp AI Clone: Learning Memory",
           "imageUrl": "https://ph-files.imgix.net/a9a05658-785e-47aa-ae2c-e3193b217f7f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/haystack-code-reviewer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/haystack-code-reviewer",
+          "publishedOn": "2025-04-07T17:15:02.000Z",
+          "wordCount": 1388,
+          "title": "Haystack Code Reviewer",
+          "imageUrl": "https://ph-files.imgix.net/9fc10974-6aec-4d55-a02c-0d718755fdaa.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/apphalt",
@@ -191,7 +311,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/the-accept-button",
           "publishedOn": "2025-04-07T14:08:22.000Z",
-          "wordCount": 1304,
+          "wordCount": 1301,
           "title": "The Accept Button",
           "imageUrl": "https://ph-files.imgix.net/4e3eea40-0c7f-4e93-b794-8e1aac5f5cac.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -246,44 +366,14 @@
           "imageUrl": "https://ph-files.imgix.net/f7ffdcd3-f348-4228-96e8-7b5087b41cf9.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/synchora",
+          "id": "https://www.producthunt.com/posts/kive-studios",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/synchora",
-          "publishedOn": "2025-04-06T22:37:08.000Z",
-          "wordCount": 1226,
-          "title": "Synchora",
-          "imageUrl": "https://ph-files.imgix.net/9bcafbff-0ff7-4f86-99d9-651d3920eab8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/mergify-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/mergify-2",
-          "publishedOn": "2025-04-06T21:23:38.000Z",
-          "wordCount": 1162,
-          "title": "Mergify",
-          "imageUrl": "https://ph-files.imgix.net/47e10c71-11e8-452f-aed5-b7c333c7c39e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/klic",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/klic",
-          "publishedOn": "2025-04-06T20:25:27.000Z",
-          "wordCount": 1057,
-          "title": "Klic",
-          "imageUrl": "https://ph-files.imgix.net/4d6a360f-253e-492e-8443-4e7895e731c8.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/llama-4-5",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/llama-4-5",
-          "publishedOn": "2025-04-05T23:23:10.000Z",
-          "wordCount": 1211,
-          "title": "Llama 4",
-          "imageUrl": "https://ph-files.imgix.net/44208b61-f7ee-4588-8ac9-496747a111a4.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/kive-studios",
+          "publishedOn": "2025-04-06T18:50:15.000Z",
+          "wordCount": 1268,
+          "title": "Kive Studios",
+          "imageUrl": "https://ph-files.imgix.net/138b97f3-87aa-4297-a5be-8abff5eefe0e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/drooid-3",
@@ -296,16 +386,6 @@
           "imageUrl": "https://ph-files.imgix.net/633a2a37-d11c-42ec-8653-5dc655e7d58a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/the-new-microsoft-copilot",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/the-new-microsoft-copilot",
-          "publishedOn": "2025-04-05T16:30:25.000Z",
-          "wordCount": 1103,
-          "title": "The New Microsoft Copilot",
-          "imageUrl": "https://ph-files.imgix.net/3890b8c9-79d5-4a38-90d6-84fa4197e55a.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/taatoo",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -314,16 +394,6 @@
           "wordCount": 1249,
           "title": "taatoo",
           "imageUrl": "https://ph-files.imgix.net/48652530-6d55-4aa5-be83-084ba119c463.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/oura-advisor",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/oura-advisor",
-          "publishedOn": "2025-04-04T05:49:25.000Z",
-          "wordCount": 1108,
-          "title": "ŌURA Advisor",
-          "imageUrl": "https://ph-files.imgix.net/27aa6773-10e0-4b94-a3da-4e9dc2b283bf.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/superflex-2-0",
@@ -336,16 +406,6 @@
           "imageUrl": "https://ph-files.imgix.net/84197256-fd42-4a2b-82cf-429aeb569d7a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/evertutor-live",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/evertutor-live",
-          "publishedOn": "2025-04-04T02:41:04.000Z",
-          "wordCount": 1560,
-          "title": "EverTutor Live",
-          "imageUrl": "https://ph-files.imgix.net/040eee27-aee2-4d42-9b19-4cda3a9b486b.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/soarsql-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -354,16 +414,6 @@
           "wordCount": 1056,
           "title": "soarSQL",
           "imageUrl": "https://ph-files.imgix.net/b9d80d37-4a6c-40f5-b9b3-579344a106db.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/sweep-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sweep-ai-2",
-          "publishedOn": "2025-04-03T16:51:20.000Z",
-          "wordCount": 1359,
-          "title": "Sweep AI",
-          "imageUrl": "https://ph-files.imgix.net/bad1e21c-7a90-4f87-accb-3be3cdc88d21.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/sherlock-22ca6fdc-45ee-48ff-8169-955198c7e247",
@@ -376,36 +426,6 @@
           "imageUrl": "https://ph-files.imgix.net/8e4f5f2b-c37a-48f0-bcc4-4c3a917d5a21.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/update-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/update-3",
-          "publishedOn": "2025-04-02T18:29:56.000Z",
-          "wordCount": 1065,
-          "title": "Update",
-          "imageUrl": "https://ph-files.imgix.net/686e359e-e789-4636-9df4-ab5f2155c3bc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/blakebill",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/blakebill",
-          "publishedOn": "2025-04-01T23:28:44.000Z",
-          "wordCount": 1953,
-          "title": "blakebill",
-          "imageUrl": "https://ph-files.imgix.net/3ae881ee-0586-4fd9-a5d6-d35a4b4c902c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/refgrow-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/refgrow-2",
-          "publishedOn": "2025-04-01T16:15:10.000Z",
-          "wordCount": 1329,
-          "title": "Refgrow",
-          "imageUrl": "https://ph-files.imgix.net/6b0890a1-5d13-4e20-865e-010cb3c5cf11.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/chatwise-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -416,24 +436,14 @@
           "imageUrl": "https://ph-files.imgix.net/6f981689-0dc8-4864-9feb-8de541e1bb84.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/dayo-2",
+          "id": "https://www.producthunt.com/posts/blnk-finance",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/dayo-2",
-          "publishedOn": "2025-03-28T16:46:05.000Z",
-          "wordCount": 1314,
-          "title": "Dayo",
-          "imageUrl": "https://ph-files.imgix.net/02fd2727-6e0e-4dc1-8b07-e894cff96f2c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/amurex",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/amurex",
-          "publishedOn": "2025-03-27T07:54:11.000Z",
-          "wordCount": 1335,
-          "title": "Amurex",
-          "imageUrl": "https://ph-files.imgix.net/02ecf6d7-0625-4482-9eea-da969e4570d2.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/blnk-finance",
+          "publishedOn": "2025-03-31T04:30:59.000Z",
+          "wordCount": 1209,
+          "title": "Blnk Finance",
+          "imageUrl": "https://ph-files.imgix.net/124d8ced-fa5e-4a90-a330-497d4296acd0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/metabase-embedded-analytics",
@@ -464,6 +474,16 @@
           "wordCount": 1408,
           "title": "Helix",
           "imageUrl": "https://ph-files.imgix.net/432b3980-9c14-4798-8ab2-61e0a77d703c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/liquidindex-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/liquidindex-2-0",
+          "publishedOn": "2025-03-11T22:18:00.000Z",
+          "wordCount": 1325,
+          "title": "LiquidIndex 2.0",
+          "imageUrl": "https://ph-files.imgix.net/cf6d09cd-7652-4804-bb4e-8a30be4cbd11.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
