@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/once-human",
@@ -226,16 +226,6 @@
           "imageUrl": "https://ph-files.imgix.net/a81d2d59-a807-4eef-b50d-3c9cbe14c2df.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/wayko",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/wayko",
-          "publishedOn": "2025-04-23T14:06:17.000Z",
-          "wordCount": 1394,
-          "title": "WayKo",
-          "imageUrl": "https://ph-files.imgix.net/82148565-3f2e-4fd1-8462-4b9ef7399a12.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/pagetest-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -244,16 +234,6 @@
           "wordCount": 1528,
           "title": "PageTest.AI",
           "imageUrl": "https://ph-files.imgix.net/98d33bce-d0a6-40dc-a9b0-5fe1c0c632c9.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/subtiled-com",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/subtiled-com",
-          "publishedOn": "2025-04-23T11:31:12.000Z",
-          "wordCount": 1309,
-          "title": "Subtiled.com",
-          "imageUrl": "https://ph-files.imgix.net/2a49e699-8219-4f2f-aa85-0691386601b8.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/avatarfx-by-character-ai",
@@ -274,6 +254,16 @@
           "wordCount": 1290,
           "title": "Gutenberg Books EPUB Search",
           "imageUrl": "https://ph-files.imgix.net/1f0ee279-aa56-4cf3-91ec-e7231b977266.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/text-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/text-ai",
+          "publishedOn": "2025-04-23T07:02:17.000Z",
+          "wordCount": 1377,
+          "title": "text.ai",
+          "imageUrl": "https://ph-files.imgix.net/f877743d-d062-4cdf-b367-c81bd83ebcdb.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/ai-presentation-narrator",
