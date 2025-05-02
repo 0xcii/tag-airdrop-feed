@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/snapshot-on-apple",
@@ -236,6 +236,16 @@
           "imageUrl": "https://ph-files.imgix.net/46142b46-3f3a-4fc2-b1e1-978fc504185b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/mimo-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/mimo-3",
+          "publishedOn": "2025-04-30T06:32:00.000Z",
+          "wordCount": 1100,
+          "title": "MiMo",
+          "imageUrl": "https://ph-files.imgix.net/ba121c75-54e5-4e07-bd07-0c02f1f5e1dd.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/retrieve-tools",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -244,16 +254,6 @@
           "wordCount": 1321,
           "title": "retrieve.tools",
           "imageUrl": "https://ph-files.imgix.net/3c861276-8a96-48d2-90a4-ccae67a3ee35.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/praise-jar",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/praise-jar",
-          "publishedOn": "2025-04-29T23:22:27.000Z",
-          "wordCount": 1455,
-          "title": "Praise Jar",
-          "imageUrl": "https://ph-files.imgix.net/ff12061e-76cf-430e-96f3-97d8bb82b58f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/podpod",
@@ -276,16 +276,6 @@
           "imageUrl": "https://ph-files.imgix.net/b4f66c92-67ee-428c-a1b1-db0c5c22d204.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/cnify",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/cnify",
-          "publishedOn": "2025-04-29T18:29:08.000Z",
-          "wordCount": 1403,
-          "title": "Cnify",
-          "imageUrl": "https://ph-files.imgix.net/ea2c3d7f-4eb1-4841-b155-d59589388360.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/meta-ai-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -294,6 +284,16 @@
           "wordCount": 1540,
           "title": "Meta AI App",
           "imageUrl": "https://ph-files.imgix.net/921d3a5a-4152-4356-8c15-77d71cf082c5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/gym-spatial",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/gym-spatial",
+          "publishedOn": "2025-04-29T17:12:30.000Z",
+          "wordCount": 1667,
+          "title": "Gym Spatial",
+          "imageUrl": "https://ph-files.imgix.net/cda18582-070b-4e0e-bd26-9185baf089a5.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/clocks-for-ios",
@@ -364,6 +364,16 @@
           "wordCount": 1179,
           "title": "Lyreka",
           "imageUrl": "https://ph-files.imgix.net/d4cdde4c-9745-451d-9d1f-afda64de993a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/synthanswer-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/synthanswer-ai",
+          "publishedOn": "2025-04-27T11:38:00.000Z",
+          "wordCount": 1192,
+          "title": "SynthAnswer AI",
+          "imageUrl": "https://ph-files.imgix.net/805d63d5-3706-42b0-bd5c-219c80fcbcc6.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/suprr",
