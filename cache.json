@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/reef-2",
@@ -336,26 +336,6 @@
           "imageUrl": "https://ph-files.imgix.net/acaf83be-85e9-48a2-8a1e-8ccdc42060a3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/retrieve-tools",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/retrieve-tools",
-          "publishedOn": "2025-04-30T05:24:39.000Z",
-          "wordCount": 1321,
-          "title": "retrieve.tools",
-          "imageUrl": "https://ph-files.imgix.net/3c861276-8a96-48d2-90a4-ccae67a3ee35.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/podpod",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/podpod",
-          "publishedOn": "2025-04-29T20:46:28.000Z",
-          "wordCount": 1469,
-          "title": "Podpod",
-          "imageUrl": "https://ph-files.imgix.net/3daced7e-bcd1-4797-b382-90596833e3ff.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/postiz-v2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -364,6 +344,16 @@
           "wordCount": 1244,
           "title": "Postiz v2",
           "imageUrl": "https://ph-files.imgix.net/83225eb1-5aac-41f4-9ea5-4ae17ff5cf2b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/promptrepo",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/promptrepo",
+          "publishedOn": "2025-04-29T11:04:21.000Z",
+          "wordCount": 1688,
+          "title": "Promptrepo",
+          "imageUrl": "https://ph-files.imgix.net/376a7c78-2e8c-4b48-b946-cef7bfad04ea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/blooming-2",
@@ -424,6 +414,16 @@
           "wordCount": 1290,
           "title": "Bulk AI Image Generation by table.studio",
           "imageUrl": "https://ph-files.imgix.net/4e5413b6-7cb1-4e95-a553-fc60e9e7b059.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/macwhisper-for-ios",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/macwhisper-for-ios",
+          "publishedOn": "2025-04-24T23:49:11.000Z",
+          "wordCount": 1292,
+          "title": "MacWhisper for iOS",
+          "imageUrl": "https://ph-files.imgix.net/26307555-aa6c-4159-b706-2b1c73b51a0a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/playgent",
