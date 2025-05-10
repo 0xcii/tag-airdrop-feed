@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/finetuner",
@@ -326,24 +326,14 @@
           "imageUrl": "https://ph-files.imgix.net/de43b94e-abd2-44e8-af5d-743b94cfe768.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/motherboard-2",
+          "id": "https://www.producthunt.com/posts/virallyst",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/motherboard-2",
-          "publishedOn": "2025-05-06T14:38:43.000Z",
-          "wordCount": 1427,
-          "title": "Motherboard",
-          "imageUrl": "https://ph-files.imgix.net/f2887597-8f25-4cc1-aba9-80a1baeca004.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/calldock",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/calldock",
-          "publishedOn": "2025-05-05T18:41:21.000Z",
-          "wordCount": 1626,
-          "title": "Calldock",
-          "imageUrl": "https://ph-files.imgix.net/e7b8b9cc-9d35-4abd-b978-1b94ff8b796a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/virallyst",
+          "publishedOn": "2025-05-06T08:17:24.000Z",
+          "wordCount": 1385,
+          "title": "Virallyst",
+          "imageUrl": "https://ph-files.imgix.net/85998be5-5bce-48ee-916a-dd42fdea2bfe.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/alpaca-chat",
@@ -396,16 +386,6 @@
           "imageUrl": "https://ph-files.imgix.net/ac95558a-926d-4d17-968e-a7ad48615cb3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/sagehood-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sagehood-ai-2",
-          "publishedOn": "2025-05-02T18:58:32.000Z",
-          "wordCount": 1744,
-          "title": "Sagehood AI",
-          "imageUrl": "https://ph-files.imgix.net/b9410ebf-7b67-4da3-812a-8c277683c68f.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/telebugs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -424,6 +404,16 @@
           "wordCount": 1434,
           "title": "Promptify",
           "imageUrl": "https://ph-files.imgix.net/ff6e8b11-3595-482a-a7a4-c75bdc2623f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/zapier-mcp-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/zapier-mcp-2-0",
+          "publishedOn": "2025-05-02T13:47:21.000Z",
+          "wordCount": 1555,
+          "title": "Zapier MCP 2.0",
+          "imageUrl": "https://ph-files.imgix.net/66d9912b-84db-4ae1-87ad-4d197396c170.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pipedream-mcp",
@@ -466,14 +456,14 @@
           "imageUrl": "https://ph-files.imgix.net/ebcccd2c-5aba-4a1d-bf4c-e0e98fc0fa4e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/intercom-fin-ai-agent-for-startups",
+          "id": "https://www.producthunt.com/posts/hedy-2-0-macos-app",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/intercom-fin-ai-agent-for-startups",
-          "publishedOn": "2025-04-21T23:18:14.000Z",
-          "wordCount": 1520,
-          "title": "Intercom + Fin AI Agent for Startups",
-          "imageUrl": "https://ph-files.imgix.net/f0e0a028-dab4-48ea-8135-71bb9dfab777.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/hedy-2-0-macos-app",
+          "publishedOn": "2025-04-22T15:35:55.000Z",
+          "wordCount": 1703,
+          "title": "Hedy 2.0 MacOS App",
+          "imageUrl": "https://ph-files.imgix.net/a00e0e12-9ddd-445c-b536-40b937189ff0.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
       ]
     },
@@ -483,12 +473,22 @@
       "siteUrl": "https://coinowo.com/",
       "articles": [
         {
+          "id": "https://coinowo.com/?p=6870",
+          "author": "admin",
+          "description": "闲置GPU和CPU又有去处了，可以挖矿。 Tari 是一个以数字资产为中心的区块链协议，它是用 Rust 构建的，默认情况下是隐私的、开源的，并且正在被设计为与 Monero 合并挖矿的侧链。Tari 使创作者能够设计新型故事和体验，数字稀...\n闲置GPU和CPU挖Tari的代币教程最先出现在coinowo。",
+          "link": "https://coinowo.com/archives/6870",
+          "publishedOn": "2025-05-10T03:23:03.000Z",
+          "wordCount": 276,
+          "title": "闲置GPU和CPU挖Tari的代币教程",
+          "imageUrl": "https://coinowo.com/wp-content/uploads/2025/05/bab72d1b7063e10.png"
+        },
+        {
           "id": "https://coinowo.com/?p=6861",
           "author": "admin",
           "description": "最近一直在弄Binance Alpha 积分，吃了也有好几波IDO，不过空投没吃到几次，都是积分差一点。就目前这个撸空投的环境，一般的项目真的没什么撸的必要，除非是工作室批量上号，散户反撸居多，精品撸收益可能也行，短期收益最高的就是Alph...\nBinance撸Alpha积分空投教程最先出现在coinowo。",
           "link": "https://coinowo.com/archives/6861",
           "publishedOn": "2025-05-07T14:56:15.000Z",
-          "wordCount": 338,
+          "wordCount": 339,
           "title": "Binance撸Alpha积分空投教程",
           "imageUrl": "https://coinowo.com/wp-content/uploads/2025/05/af0b82ce501f1b8.png"
         }
