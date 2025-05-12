@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/snek",
@@ -191,7 +191,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/deckspeed",
           "publishedOn": "2025-05-08T13:34:22.000Z",
-          "wordCount": 1243,
+          "wordCount": 1269,
           "title": "DeckSpeed",
           "imageUrl": "https://ph-files.imgix.net/0d0e2137-9a91-478f-bcfd-7d45d6839288.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -226,24 +226,24 @@
           "imageUrl": "https://ph-files.imgix.net/0c74f64c-bc3e-4036-90d7-4d89b432178e.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/truelink",
+          "id": "https://www.producthunt.com/posts/the-new-netflix-tv-experience",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/truelink",
-          "publishedOn": "2025-05-08T03:49:02.000Z",
-          "wordCount": 1819,
-          "title": "Truelink",
-          "imageUrl": "https://ph-files.imgix.net/31fbb861-dff8-411a-a4ff-3506b694be87.webp?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/the-new-netflix-tv-experience",
+          "publishedOn": "2025-05-07T19:44:16.000Z",
+          "wordCount": 1423,
+          "title": "The New Netflix TV Experience",
+          "imageUrl": "https://ph-files.imgix.net/27d76060-ee47-4370-be8a-3255c20280ac.gif?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/sarv",
+          "id": "https://www.producthunt.com/posts/gemini-2-5-pro-i-o-edition-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/sarv",
-          "publishedOn": "2025-05-07T18:56:28.000Z",
-          "wordCount": 1430,
-          "title": "Sarv",
-          "imageUrl": "https://ph-files.imgix.net/fc66f480-5b05-4b80-92ea-45d0585dc1c7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/gemini-2-5-pro-i-o-edition-2",
+          "publishedOn": "2025-05-07T19:38:29.000Z",
+          "wordCount": 1171,
+          "title": "Gemini 2.5 Pro (I/O edition)",
+          "imageUrl": "https://ph-files.imgix.net/580d26e8-0df8-4f2a-bde0-c794a5e922cc.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/rockpic",
@@ -276,16 +276,6 @@
           "imageUrl": "https://ph-files.imgix.net/5e92352b-ba28-45ea-8149-c9a3797c815f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/meta-perception-encoder",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/meta-perception-encoder",
-          "publishedOn": "2025-05-07T09:26:13.000Z",
-          "wordCount": 1295,
-          "title": "Meta Perception Encoder",
-          "imageUrl": "https://ph-files.imgix.net/7a1e30c4-7526-44eb-9f11-cf031f5224a7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/direct-r",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -294,6 +284,16 @@
           "wordCount": 1254,
           "title": "Direct'r",
           "imageUrl": "https://ph-files.imgix.net/6706aefe-311e-4194-814e-f34992466be7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/hazumi-news-3-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/hazumi-news-3-0",
+          "publishedOn": "2025-05-07T07:31:24.000Z",
+          "wordCount": 1460,
+          "title": "Hazumi News 3.0",
+          "imageUrl": "https://ph-files.imgix.net/9a95f503-22df-4335-a73a-8c4afffbd6c7.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pixelglow",
@@ -376,16 +376,6 @@
           "imageUrl": "https://ph-files.imgix.net/7ff9d4c4-95e0-4554-8fd4-29602a9dfeec.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tasktree",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tasktree",
-          "publishedOn": "2025-05-03T07:15:35.000Z",
-          "wordCount": 1390,
-          "title": "TaskTree",
-          "imageUrl": "https://ph-files.imgix.net/d79ae98a-143e-47eb-99e3-6353e6411888.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/ai-knowledge-search-by-amurex",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -406,14 +396,14 @@
           "imageUrl": "https://ph-files.imgix.net/ac95558a-926d-4d17-968e-a7ad48615cb3.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/promptify-5",
+          "id": "https://www.producthunt.com/posts/telebugs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/promptify-5",
-          "publishedOn": "2025-05-02T15:48:51.000Z",
-          "wordCount": 1434,
-          "title": "Promptify",
-          "imageUrl": "https://ph-files.imgix.net/ff6e8b11-3595-482a-a7a4-c75bdc2623f1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/telebugs",
+          "publishedOn": "2025-05-02T16:18:09.000Z",
+          "wordCount": 1398,
+          "title": "Telebugs",
+          "imageUrl": "https://ph-files.imgix.net/caba50ca-f260-45f0-8614-c9f416cca255.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/pipedream-mcp",
