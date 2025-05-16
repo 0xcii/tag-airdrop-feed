@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/surfchat",
@@ -236,6 +236,16 @@
           "imageUrl": "https://ph-files.imgix.net/4a803fb2-2b26-4e53-97fd-2f831485dc9d.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/better-off-2-0",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/better-off-2-0",
+          "publishedOn": "2025-05-13T18:05:26.000Z",
+          "wordCount": 1636,
+          "title": "Better Off 2.0",
+          "imageUrl": "https://ph-files.imgix.net/e886a06b-6009-4759-a023-15e259ad5a3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/basin-mcp",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -286,16 +296,6 @@
           "imageUrl": "https://ph-files.imgix.net/4f7ba10e-47e6-4bed-8920-a77c1c0654ff.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/unitor",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/unitor",
-          "publishedOn": "2025-05-13T04:04:20.000Z",
-          "wordCount": 1589,
-          "title": "Unitor",
-          "imageUrl": "https://ph-files.imgix.net/9f21c699-a2ae-43ea-bdcb-abed55733acf.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/joyn-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -336,22 +336,12 @@
           "imageUrl": "https://ph-files.imgix.net/9ac3429b-85ca-48df-b893-b01ba9cf157e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/tokenomy-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/tokenomy-ai",
-          "publishedOn": "2025-05-09T21:46:09.000Z",
-          "wordCount": 1461,
-          "title": "Tokenomy.ai",
-          "imageUrl": "https://ph-files.imgix.net/426bfc9e-4fa6-4193-ad8c-dec33f527582.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/note-api-connector",
           "author": null,
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/note-api-connector",
           "publishedOn": "2025-05-09T16:36:54.000Z",
-          "wordCount": 1334,
+          "wordCount": 1339,
           "title": "Note API Connector",
           "imageUrl": "https://ph-files.imgix.net/4c219d9d-2caf-40da-b359-0336e6550d53.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -404,6 +394,16 @@
           "wordCount": 1475,
           "title": "Pixelagent",
           "imageUrl": "https://ph-files.imgix.net/edf4e59f-838b-4ef3-a65c-671a4442605b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/timesible",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/timesible",
+          "publishedOn": "2025-05-06T14:13:58.000Z",
+          "wordCount": 1514,
+          "title": "Timesible",
+          "imageUrl": "https://ph-files.imgix.net/6aeff075-b213-4d2d-adc4-9b507f14a6b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/surrealist",
