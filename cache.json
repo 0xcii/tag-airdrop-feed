@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/surfchat",
@@ -246,6 +246,16 @@
           "imageUrl": "https://ph-files.imgix.net/e886a06b-6009-4759-a023-15e259ad5a3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
+          "id": "https://www.producthunt.com/posts/generated-assets",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/generated-assets",
+          "publishedOn": "2025-05-13T17:00:20.000Z",
+          "wordCount": 1482,
+          "title": "Generated Assets",
+          "imageUrl": "https://ph-files.imgix.net/3268df64-cc61-4b78-be3d-7c43069939b1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
           "id": "https://www.producthunt.com/posts/basin-mcp",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -254,16 +264,6 @@
           "wordCount": 1615,
           "title": "Basin MCP",
           "imageUrl": "https://ph-files.imgix.net/2c56b68d-54c6-442b-bff7-55fa62630134.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/life-the-human-network",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/life-the-human-network",
-          "publishedOn": "2025-05-13T11:49:40.000Z",
-          "wordCount": 1341,
-          "title": "Life, The Human Network",
-          "imageUrl": "https://ph-files.imgix.net/87832bdd-8d9b-418e-9e87-770f21174054.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/flowise",
@@ -311,7 +311,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/tensorlake",
           "publishedOn": "2025-05-12T23:18:07.000Z",
-          "wordCount": 1679,
+          "wordCount": 1696,
           "title": "Tensorlake",
           "imageUrl": "https://ph-files.imgix.net/0dc1de06-ad7a-4127-ae66-9f544ae08666.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -334,6 +334,16 @@
           "wordCount": 1524,
           "title": "The360Me",
           "imageUrl": "https://ph-files.imgix.net/9ac3429b-85ca-48df-b893-b01ba9cf157e.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/tokenomy-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/tokenomy-ai",
+          "publishedOn": "2025-05-09T21:46:09.000Z",
+          "wordCount": 1461,
+          "title": "Tokenomy.ai",
+          "imageUrl": "https://ph-files.imgix.net/426bfc9e-4fa6-4193-ad8c-dec33f527582.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/note-api-connector",
@@ -431,7 +441,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/queryinside",
           "publishedOn": "2025-04-30T10:28:52.000Z",
-          "wordCount": 1328,
+          "wordCount": 1323,
           "title": "queryinside",
           "imageUrl": "https://ph-files.imgix.net/2964b187-f4de-49dc-9165-5a7cb2fb306f.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
