@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/posts/notato",
@@ -61,7 +61,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/codex-by-chatgpt",
           "publishedOn": "2025-05-16T15:27:22.000Z",
-          "wordCount": 1322,
+          "wordCount": 1326,
           "title": "Codex by ChatGPT",
           "imageUrl": "https://ph-files.imgix.net/58cde328-a965-423a-8024-ff9e237300ea.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -71,7 +71,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/thryve-wellness",
           "publishedOn": "2025-05-16T12:44:19.000Z",
-          "wordCount": 1336,
+          "wordCount": 1334,
           "title": "Thryve Wellness",
           "imageUrl": "https://ph-files.imgix.net/35c3b268-7efd-45b3-90b3-154a44c12f28.jpeg?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
@@ -306,14 +306,24 @@
           "imageUrl": "https://ph-files.imgix.net/00f07472-2502-483c-8bce-df5e5804ecae.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/better-off-2-0",
+          "id": "https://www.producthunt.com/posts/generated-assets",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/better-off-2-0",
-          "publishedOn": "2025-05-13T18:05:26.000Z",
-          "wordCount": 1636,
-          "title": "Better Off 2.0",
-          "imageUrl": "https://ph-files.imgix.net/e886a06b-6009-4759-a023-15e259ad5a3a.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+          "link": "https://www.producthunt.com/posts/generated-assets",
+          "publishedOn": "2025-05-13T17:00:20.000Z",
+          "wordCount": 1482,
+          "title": "Generated Assets",
+          "imageUrl": "https://ph-files.imgix.net/3268df64-cc61-4b78-be3d-7c43069939b1.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/basin-mcp",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/basin-mcp",
+          "publishedOn": "2025-05-13T13:36:38.000Z",
+          "wordCount": 1615,
+          "title": "Basin MCP",
+          "imageUrl": "https://ph-files.imgix.net/2c56b68d-54c6-442b-bff7-55fa62630134.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/flowise",
@@ -354,6 +364,16 @@
           "wordCount": 1286,
           "title": "1Stroke",
           "imageUrl": "https://ph-files.imgix.net/568c77f9-8ace-4ee7-84ce-412921ef3bed.png?auto=format&fit=crop&frame=1&h=512&w=1024"
+        },
+        {
+          "id": "https://www.producthunt.com/posts/dolphin-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/posts/dolphin-ai",
+          "publishedOn": "2025-05-11T18:56:18.000Z",
+          "wordCount": 1474,
+          "title": "Dolphin AI",
+          "imageUrl": "https://ph-files.imgix.net/22c39160-ad39-42e9-8df0-02b8e2c7381c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
           "id": "https://www.producthunt.com/posts/the360me",
@@ -436,26 +456,6 @@
           "imageUrl": "https://ph-files.imgix.net/edf4e59f-838b-4ef3-a65c-671a4442605b.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         },
         {
-          "id": "https://www.producthunt.com/posts/timesible",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/timesible",
-          "publishedOn": "2025-05-06T14:13:58.000Z",
-          "wordCount": 1514,
-          "title": "Timesible",
-          "imageUrl": "https://ph-files.imgix.net/6aeff075-b213-4d2d-adc4-9b507f14a6b3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
-          "id": "https://www.producthunt.com/posts/webifier-io-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/posts/webifier-io-2",
-          "publishedOn": "2025-05-05T06:58:35.000Z",
-          "wordCount": 1181,
-          "title": "Webifier.io",
-          "imageUrl": "https://ph-files.imgix.net/34b30090-969a-480f-9332-faeb6c702de3.png?auto=format&fit=crop&frame=1&h=512&w=1024"
-        },
-        {
           "id": "https://www.producthunt.com/posts/surrealist",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -481,7 +481,7 @@
           "description": "Discussion\n            |\n            Link",
           "link": "https://www.producthunt.com/posts/quick-mock-2-0",
           "publishedOn": "2025-04-23T18:00:53.000Z",
-          "wordCount": 1539,
+          "wordCount": 1544,
           "title": "Quick Mock 2.0",
           "imageUrl": "https://ph-files.imgix.net/3995ea94-2f0b-4318-a9b8-d628f16b186c.png?auto=format&fit=crop&frame=1&h=512&w=1024"
         }
@@ -515,91 +515,10 @@
       ]
     },
     {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1921801153890705888",
-          "author": "Drops Earn",
-          "description": "🚀 @0xMiden is a ZK-rollup L2 on Ethereum — private, scalable smart contracts. 💰 Raised $25M (a16z, 1kx, Hack VC)\nTestnet live. Do tasks, get early status, farm the drop.\nhttps://dropsearn.com/activities/miden/",
-          "link": "https://x.com/DropsEarn/status/1921801153890705888",
-          "publishedOn": "2025-05-12T05:34:35.000Z",
-          "wordCount": null,
-          "title": "🚀 @0xMiden is a ZK-rollup L2 on Ethereum — private, scalable smart contracts. 💰 Raised $25M (a16z, 1kx, Hack VC) Testnet live. Do tasks, get ea...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1919599537649295725",
-          "author": "Drops Earn",
-          "description": "Alpha Recap🔥\n@opensea – fewer users now, good time to grind.\n@LineaBuild – token leak suggests TGE this month.\n@townsxyz – sent 0.05 ETH to wallets. Farming and trading.\n@monad_xyz – testnet may end by summer.\nGuides here 👇\nhttps://dropsearn.com/",
-          "link": "https://x.com/DropsEarn/status/1919599537649295725",
-          "publishedOn": "2025-05-06T03:46:08.000Z",
-          "wordCount": null,
-          "title": "Alpha Recap🔥 @opensea – fewer users now, good time to grind. @LineaBuild – token leak suggests TGE this month. @townsxyz – sent 0.05 ETH to wall...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1917779752913403996",
-          "author": "Drops Earn",
-          "description": "Quick alpha 🔥\n@opensea  – XP boxes coming Fri/Sat.\n @burnt_xion  – claim $XMT, deadline May 5, TGE May 8.\n @monad_xyz  – Warpcast now supports Monad apps.\n @megaeth_labs  – new testnet mints live.\n @townsxyz  – still farming, more updates soon.\nGuides👇\nhttps://dropsearn.com/",
-          "link": "https://x.com/DropsEarn/status/1917779752913403996",
-          "publishedOn": "2025-05-01T03:14:58.000Z",
-          "wordCount": null,
-          "title": "Quick alpha 🔥 @opensea – XP boxes coming Fri/Sat. @burnt_xion – claim $XMT, deadline May 5, TGE May 8. @monad_xyz – Warpcast now supports Monad ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1916717789294821511",
-          "author": "Drops Earn",
-          "description": "Quick updates 🔥\n@opensea – teased a new cross-chain mint airdrop\n@farcaster_xyz – wallet open for most countries\n@townsxyz – new feature: add moderators\n@getgrass_io – season 2 farming live\nAll guides here👇\nhttps://dropsearn.com",
-          "link": "https://x.com/DropsEarn/status/1916717789294821511",
-          "publishedOn": "2025-04-28T04:55:06.000Z",
-          "wordCount": null,
-          "title": "Quick updates 🔥 @opensea – teased a new cross-chain mint airdrop @farcaster_xyz – wallet open for most countries @townsxyz – new feature: add mo...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1915242508420018620",
-          "author": "Drops Earn",
-          "description": "Complete verification for @hemi_xyz (raised $15M) ✅\nGuide for farming + verification:\nhttps://dropsearn.com/activities/hemi-network/",
-          "link": "https://x.com/DropsEarn/status/1915242508420018620",
-          "publishedOn": "2025-04-24T03:12:52.000Z",
-          "wordCount": null,
-          "title": "Complete verification for @hemi_xyz (raised $15M) ✅ Guide for farming + verification: https://dropsearn.com/activities/hemi-network/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1914201666439590230",
-          "author": "Drops Earn",
-          "description": "One click = mining $ON tokens in your browser \n⛏️\n@OrochiNetwork mining started just 5 days ago —  Grab your leaderboard spot before it’s too late\n⏱️ Just 5 minutes — full guide with pics here:\n https://dropsearn.com/activities/orochi-network/",
-          "link": "https://x.com/DropsEarn/status/1914201666439590230",
-          "publishedOn": "2025-04-21T06:16:56.000Z",
-          "wordCount": null,
-          "title": "One click = mining $ON tokens in your browser ⛏️ @OrochiNetwork mining started just 5 days ago — Grab your leaderboard spot before it’s too late ...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1914198194491105573",
-          "author": "Drops Earn",
-          "description": "Free Galxe tasks 🔥\nGet \"OG\" Role in @get_optimum (💰$12M)\nGet “Allo Bull” & “RWA Expert” Roles in @allo_xyz (💎$102M)\nGuides 👇\nhttps://dropsearn.com/activities/optimum/\nhttps://dropsearn.com/activities/allo/",
-          "link": "https://x.com/DropsEarn/status/1914198194491105573",
-          "publishedOn": "2025-04-21T06:03:08.000Z",
-          "wordCount": null,
-          "title": "Free Galxe tasks 🔥 Get \"OG\" Role in @get_optimum (💰$12M) Get “Allo Bull” & “RWA Expert” Roles in @allo_xyz (💎$102M) Guides 👇 https://d...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1913135308826161493",
-          "author": "Drops Earn",
-          "description": "🚨 Super early stage, $12M raised. Free tasks — max 10 min.\n@linera_io just shared its 2025 roadmap: 2 more testnet phases, then mainnet. Reminder: L1s always launch tokens before mainnet — so expect the drop this year\nBest guide👇\nhttps://dropsearn.com/activities/linera/",
-          "link": "https://x.com/DropsEarn/status/1913135308826161493",
-          "publishedOn": "2025-04-18T07:39:36.000Z",
-          "wordCount": null,
-          "title": "🚨 Super early stage, $12M raised. Free tasks — max 10 min. @linera_io just shared its 2025 roadmap: 2 more testnet phases, then mainnet. Reminder:...",
-          "imageUrl": null
-        }
-      ]
+      "title": "Twitter @Airdrop Alert",
+      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
+      "siteUrl": "https://x.com/AirdropAlert",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
