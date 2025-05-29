@@ -1,10 +1,94 @@
 {
   "sources": [
     {
+      "title": "coinowo",
+      "feedUrl": "https://coinowo.com/feed",
+      "siteUrl": "https://coinowo.com/",
+      "articles": [
+        {
+          "id": "https://coinowo.com/?p=6874",
+          "author": "admin",
+          "description": "Aster ($AST) 是为所有人打造的下一代去中心化永久交易所。 继 2024 年底 Astherus 与 APX Finance 合并之后，这个新身份不仅仅是名称的改变。我们正在彻底改变人们在去中心化世界中交易永久合约和利用资产的方式...\nCZ明面支持的链上future平台Aster交互指南最先出现在coinowo。",
+          "link": "https://coinowo.com/archives/6874",
+          "publishedOn": "2025-05-17T12:07:32.000Z",
+          "wordCount": 266,
+          "title": "CZ明面支持的链上future平台Aster交互指南",
+          "imageUrl": "https://coinowo.com/wp-content/uploads/2025/05/39c452605f37f64.jpg"
+        },
+        {
+          "id": "https://coinowo.com/?p=6870",
+          "author": "admin",
+          "description": "闲置GPU和CPU又有去处了，可以挖矿。 Tari 是一个以数字资产为中心的区块链协议，它是用 Rust 构建的，默认情况下是隐私的、开源的，并且正在被设计为与 Monero 合并挖矿的侧链。Tari 使创作者能够设计新型故事和体验，数字稀...\n闲置GPU和CPU挖Tari的代币教程最先出现在coinowo。",
+          "link": "https://coinowo.com/archives/6870",
+          "publishedOn": "2025-05-10T03:23:03.000Z",
+          "wordCount": 277,
+          "title": "闲置GPU和CPU挖Tari的代币教程",
+          "imageUrl": "https://coinowo.com/wp-content/uploads/2025/05/bab72d1b7063e10.png"
+        },
+        {
+          "id": "https://coinowo.com/?p=6861",
+          "author": "admin",
+          "description": "最近一直在弄Binance Alpha 积分，吃了也有好几波IDO，不过空投没吃到几次，都是积分差一点。就目前这个撸空投的环境，一般的项目真的没什么撸的必要，除非是工作室批量上号，散户反撸居多，精品撸收益可能也行，短期收益最高的就是Alph...\nBinance撸Alpha积分空投教程最先出现在coinowo。",
+          "link": "https://coinowo.com/archives/6861",
+          "publishedOn": "2025-05-07T14:56:15.000Z",
+          "wordCount": 339,
+          "title": "Binance撸Alpha积分空投教程",
+          "imageUrl": "https://coinowo.com/wp-content/uploads/2025/05/af0b82ce501f1b8.png"
+        }
+      ]
+    },
+    {
       "title": "Twitter @Airdrop Alert",
       "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
       "siteUrl": "https://x.com/AirdropAlert",
       "articles": []
+    },
+    {
+      "title": "Twitter @Drops Earn",
+      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
+      "siteUrl": "https://x.com/DropsEarn",
+      "articles": [
+        {
+          "id": "https://twitter.com/DropsEarn/status/1926216016712892477",
+          "author": "Drops Earn",
+          "description": "New guide! @MagicNewton is a network of aggregated blockchains secured by Ethereum, with $82.9M raised.\nFinish the guide in 10 minutes 👇\nhttps://dropsearn.com/activities/newton/",
+          "link": "https://x.com/DropsEarn/status/1926216016712892477",
+          "publishedOn": "2025-05-24T09:57:40.000Z",
+          "wordCount": null,
+          "title": "New guide! @MagicNewton is a network of aggregated blockchains secured by Ethereum, with $82.9M raised. Finish the guide in 10 minutes 👇 https://dr...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1921801153890705888",
+          "author": "Drops Earn",
+          "description": "🚀 @0xMiden is a ZK-rollup L2 on Ethereum — private, scalable smart contracts. 💰 Raised $25M (a16z, 1kx, Hack VC)\nTestnet live. Do tasks, get early status, farm the drop.\nhttps://dropsearn.com/activities/miden/",
+          "link": "https://x.com/DropsEarn/status/1921801153890705888",
+          "publishedOn": "2025-05-12T05:34:35.000Z",
+          "wordCount": null,
+          "title": "🚀 @0xMiden is a ZK-rollup L2 on Ethereum — private, scalable smart contracts. 💰 Raised $25M (a16z, 1kx, Hack VC) Testnet live. Do tasks, get ea...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1919599537649295725",
+          "author": "Drops Earn",
+          "description": "Alpha Recap🔥\n@opensea – fewer users now, good time to grind.\n@LineaBuild – token leak suggests TGE this month.\n@townsxyz – sent 0.05 ETH to wallets. Farming and trading.\n@monad_xyz – testnet may end by summer.\nGuides here 👇\nhttps://dropsearn.com/",
+          "link": "https://x.com/DropsEarn/status/1919599537649295725",
+          "publishedOn": "2025-05-06T03:46:08.000Z",
+          "wordCount": null,
+          "title": "Alpha Recap🔥 @opensea – fewer users now, good time to grind. @LineaBuild – token leak suggests TGE this month. @townsxyz – sent 0.05 ETH to wall...",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/DropsEarn/status/1917779752913403996",
+          "author": "Drops Earn",
+          "description": "Quick alpha 🔥\n@opensea  – XP boxes coming Fri/Sat.\n @burnt_xion  – claim $XMT, deadline May 5, TGE May 8.\n @monad_xyz  – Warpcast now supports Monad apps.\n @megaeth_labs  – new testnet mints live.\n @townsxyz  – still farming, more updates soon.\nGuides👇\nhttps://dropsearn.com/",
+          "link": "https://x.com/DropsEarn/status/1917779752913403996",
+          "publishedOn": "2025-05-01T03:14:58.000Z",
+          "wordCount": null,
+          "title": "Quick alpha 🔥 @opensea – XP boxes coming Fri/Sat. @burnt_xion – claim $XMT, deadline May 5, TGE May 8. @monad_xyz – Warpcast now supports Monad ...",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
