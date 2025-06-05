@@ -1,48 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Twitter @Airdrop Alert",
-      "feedUrl": "https://rsshub.app/twitter/user/Airdropalert",
-      "siteUrl": "https://x.com/AirdropAlert",
-      "articles": []
-    },
-    {
-      "title": "Twitter @Drops Earn",
-      "feedUrl": "https://rsshub.app/twitter/user/DropsEarn",
-      "siteUrl": "https://x.com/DropsEarn",
-      "articles": [
-        {
-          "id": "https://twitter.com/DropsEarn/status/1928293861052366926",
-          "author": "Drops Earn",
-          "description": "Alright then. @opensea has updated their Reward program. Now you need to farm XP by completing clear tasks.\nThe guide is here 👇\nhttps://dropsearn.com/activities/opensea/",
-          "link": "https://x.com/DropsEarn/status/1928293861052366926",
-          "publishedOn": "2025-05-30T03:34:17.000Z",
-          "wordCount": null,
-          "title": "Alright then. @opensea has updated their Reward program. Now you need to farm XP by completing clear tasks. The guide is here 👇 https://dropsearn.c...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1926216016712892477",
-          "author": "Drops Earn",
-          "description": "New guide! @MagicNewton is a network of aggregated blockchains secured by Ethereum, with $82.9M raised.\nFinish the guide in 10 minutes 👇\nhttps://dropsearn.com/activities/newton/",
-          "link": "https://x.com/DropsEarn/status/1926216016712892477",
-          "publishedOn": "2025-05-24T09:57:40.000Z",
-          "wordCount": null,
-          "title": "New guide! @MagicNewton is a network of aggregated blockchains secured by Ethereum, with $82.9M raised. Finish the guide in 10 minutes 👇 https://dr...",
-          "imageUrl": null
-        },
-        {
-          "id": "https://twitter.com/DropsEarn/status/1921801153890705888",
-          "author": "Drops Earn",
-          "description": "🚀 @0xMiden is a ZK-rollup L2 on Ethereum — private, scalable smart contracts. 💰 Raised $25M (a16z, 1kx, Hack VC)\nTestnet live. Do tasks, get early status, farm the drop.\nhttps://dropsearn.com/activities/miden/",
-          "link": "https://x.com/DropsEarn/status/1921801153890705888",
-          "publishedOn": "2025-05-12T05:34:35.000Z",
-          "wordCount": null,
-          "title": "🚀 @0xMiden is a ZK-rollup L2 on Ethereum — private, scalable smart contracts. 💰 Raised $25M (a16z, 1kx, Hack VC) Testnet live. Do tasks, get ea...",
-          "imageUrl": null
-        }
-      ]
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
