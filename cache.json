@@ -1,4 +1,32 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "coinowo",
+      "feedUrl": "https://coinowo.com/feed",
+      "siteUrl": "https://coinowo.com/",
+      "articles": [
+        {
+          "id": "https://coinowo.com/?p=6882",
+          "author": "admin",
+          "description": "Noya 项目概览 Noya 是一个面向去中心化金融（DeFi）的创新平台，由 AI 驱动，利用零知识机器学习（ZKML）构建跨链流动性与策略优化系统 medium.com+10docs.noya.ai+10docs.noya.ai+10。...\nAI 驱动的跨链流动性与策略优化系统Noya交互教程最先出现在coinowo。",
+          "link": "https://coinowo.com/archives/6882",
+          "publishedOn": "2025-06-12T04:25:35.000Z",
+          "wordCount": 359,
+          "title": "AI 驱动的跨链流动性与策略优化系统Noya交互教程",
+          "imageUrl": "https://coinowo.com/wp-content/uploads/2025/06/611236056f827a1.png"
+        },
+        {
+          "id": "https://coinowo.com/?p=6874",
+          "author": "admin",
+          "description": "Aster ($AST) 是为所有人打造的下一代去中心化永久交易所。 继 2024 年底 Astherus 与 APX Finance 合并之后，这个新身份不仅仅是名称的改变。我们正在彻底改变人们在去中心化世界中交易永久合约和利用资产的方式...\nCZ明面支持的链上future平台Aster交互指南最先出现在coinowo。",
+          "link": "https://coinowo.com/archives/6874",
+          "publishedOn": "2025-05-17T12:07:32.000Z",
+          "wordCount": 268,
+          "title": "CZ明面支持的链上future平台Aster交互指南",
+          "imageUrl": "https://coinowo.com/wp-content/uploads/2025/05/39c452605f37f64.jpg"
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
