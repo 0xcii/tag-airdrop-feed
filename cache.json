@@ -1,4 +1,472 @@
 {
-  "sources": [],
+  "sources": [
+    {
+      "title": "Product Hunt — The best new products, every day",
+      "feedUrl": "https://www.producthunt.com/feed",
+      "siteUrl": "https://www.producthunt.com",
+      "articles": [
+        {
+          "id": "https://www.producthunt.com/products/pulse-24",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pulse-24",
+          "publishedOn": "2025-10-07T02:32:01.000Z",
+          "wordCount": null,
+          "title": "Pulse",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ticktag",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ticktag",
+          "publishedOn": "2025-10-06T21:43:23.000Z",
+          "wordCount": null,
+          "title": "TickTag",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/promptcompose",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/promptcompose",
+          "publishedOn": "2025-10-06T21:12:40.000Z",
+          "wordCount": null,
+          "title": "PromptCompose",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/openai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/openai",
+          "publishedOn": "2025-10-06T18:48:03.000Z",
+          "wordCount": null,
+          "title": "Apps in ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/runclauderun",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/runclauderun",
+          "publishedOn": "2025-10-06T17:47:26.000Z",
+          "wordCount": null,
+          "title": "runCLAUDErun",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/bullet-so-build-websites-from-notion",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bullet-so-build-websites-from-notion",
+          "publishedOn": "2025-10-06T13:31:56.000Z",
+          "wordCount": null,
+          "title": "Bullet.so-AI website builder for Notion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/rovvi",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/rovvi",
+          "publishedOn": "2025-10-06T12:06:14.000Z",
+          "wordCount": null,
+          "title": "rovvi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/hands-off",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hands-off",
+          "publishedOn": "2025-10-06T10:11:24.000Z",
+          "wordCount": null,
+          "title": "Hands Off",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/turbobuild",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/turbobuild",
+          "publishedOn": "2025-10-06T10:09:44.000Z",
+          "wordCount": null,
+          "title": "Turbobuild αlpha",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/convert-compress",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/convert-compress",
+          "publishedOn": "2025-10-06T07:45:13.000Z",
+          "wordCount": null,
+          "title": "Convert & Compress",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/saveclip",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/saveclip",
+          "publishedOn": "2025-10-06T06:55:56.000Z",
+          "wordCount": null,
+          "title": "Saveclip",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/truewellness",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/truewellness",
+          "publishedOn": "2025-10-06T00:10:21.000Z",
+          "wordCount": null,
+          "title": "TrueWellness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/extrovert",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/extrovert",
+          "publishedOn": "2025-10-05T22:35:29.000Z",
+          "wordCount": null,
+          "title": "Extrovert",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ascend-io",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ascend-io",
+          "publishedOn": "2025-10-05T18:57:39.000Z",
+          "wordCount": null,
+          "title": "Ascend.io",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/timefly-dev",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/timefly-dev",
+          "publishedOn": "2025-10-05T15:47:09.000Z",
+          "wordCount": null,
+          "title": "TimeFly Dev",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nibi",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nibi",
+          "publishedOn": "2025-10-05T14:53:52.000Z",
+          "wordCount": null,
+          "title": "nibi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nothing-phone-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nothing-phone-3",
+          "publishedOn": "2025-10-05T06:19:03.000Z",
+          "wordCount": null,
+          "title": "Nothing Playground",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/scaloom-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/scaloom-2",
+          "publishedOn": "2025-10-05T04:27:55.000Z",
+          "wordCount": null,
+          "title": "Scaloom",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/partisyn",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/partisyn",
+          "publishedOn": "2025-10-04T20:46:25.000Z",
+          "wordCount": null,
+          "title": "Partisyn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/casio-moflin",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/casio-moflin",
+          "publishedOn": "2025-10-04T00:41:32.000Z",
+          "wordCount": null,
+          "title": "Casio Moflin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ghost-note",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ghost-note",
+          "publishedOn": "2025-10-03T20:48:15.000Z",
+          "wordCount": null,
+          "title": "Ghost Note",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/enhance-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/enhance-3",
+          "publishedOn": "2025-10-03T16:19:37.000Z",
+          "wordCount": null,
+          "title": "Enhance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/dropstone-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/dropstone-2",
+          "publishedOn": "2025-10-03T15:27:24.000Z",
+          "wordCount": null,
+          "title": "Dropstone",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/spit-notes",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/spit-notes",
+          "publishedOn": "2025-10-03T11:01:32.000Z",
+          "wordCount": null,
+          "title": "Spit Notes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/snippetly",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/snippetly",
+          "publishedOn": "2025-10-03T10:16:39.000Z",
+          "wordCount": null,
+          "title": "Snippetly",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/planby-now",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/planby-now",
+          "publishedOn": "2025-10-03T09:21:08.000Z",
+          "wordCount": null,
+          "title": "Planby Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/rightnow-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/rightnow-ai",
+          "publishedOn": "2025-10-03T09:20:41.000Z",
+          "wordCount": null,
+          "title": "RightNow AI Code Editor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ziyo",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ziyo",
+          "publishedOn": "2025-10-03T08:30:32.000Z",
+          "wordCount": null,
+          "title": "Ziyo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nexion-for-windows-open-source",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nexion-for-windows-open-source",
+          "publishedOn": "2025-10-03T07:55:51.000Z",
+          "wordCount": null,
+          "title": "Nexion - For Windows & Open Source",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/lfm2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lfm2",
+          "publishedOn": "2025-10-03T00:49:24.000Z",
+          "wordCount": null,
+          "title": "LFM2-Audio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/strix-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/strix-2",
+          "publishedOn": "2025-10-02T22:29:35.000Z",
+          "wordCount": null,
+          "title": "Strix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/solveit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/solveit",
+          "publishedOn": "2025-10-02T22:02:38.000Z",
+          "wordCount": null,
+          "title": "solveit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ssenseless",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ssenseless",
+          "publishedOn": "2025-10-02T01:16:37.000Z",
+          "wordCount": null,
+          "title": "SSENSELESS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fruitful",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fruitful",
+          "publishedOn": "2025-10-01T17:29:07.000Z",
+          "wordCount": null,
+          "title": "Fruitful",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/bunny-net",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bunny-net",
+          "publishedOn": "2025-10-01T15:04:04.000Z",
+          "wordCount": null,
+          "title": "hop.js",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/sorce",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/sorce",
+          "publishedOn": "2025-10-01T04:39:30.000Z",
+          "wordCount": null,
+          "title": "Sorce",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/plus-ai-presentations-api",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/plus-ai-presentations-api",
+          "publishedOn": "2025-09-30T23:10:48.000Z",
+          "wordCount": null,
+          "title": "Plus AI Presentations API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/crazzy-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/crazzy-2",
+          "publishedOn": "2025-09-30T14:11:27.000Z",
+          "wordCount": null,
+          "title": "Crazzy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/promptsignal",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/promptsignal",
+          "publishedOn": "2025-09-30T11:52:28.000Z",
+          "wordCount": null,
+          "title": "PromptSignal",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/t-rex-label",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/t-rex-label",
+          "publishedOn": "2025-09-30T07:09:18.000Z",
+          "wordCount": null,
+          "title": "AI Mask Labeling by T-Rex Label",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/langlime",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/langlime",
+          "publishedOn": "2025-09-27T10:33:55.000Z",
+          "wordCount": null,
+          "title": "LangLime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/shadcn-ui",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/shadcn-ui",
+          "publishedOn": "2025-09-25T22:31:30.000Z",
+          "wordCount": null,
+          "title": "shadcn CLI 3.0 and MCP Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nuxt-ui",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nuxt-ui",
+          "publishedOn": "2025-09-25T22:28:16.000Z",
+          "wordCount": null,
+          "title": "Nuxt UI v4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/mailtester-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/mailtester-ai",
+          "publishedOn": "2025-09-23T13:06:03.000Z",
+          "wordCount": null,
+          "title": "MailTester.AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/freshly-squeezed",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/freshly-squeezed",
+          "publishedOn": "2025-09-22T21:46:51.000Z",
+          "wordCount": null,
+          "title": "Freshly Squeezed",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/maia-your-ai-co-worker",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/maia-your-ai-co-worker",
+          "publishedOn": "2025-09-17T21:09:50.000Z",
+          "wordCount": null,
+          "title": "maia.is your AI that gets things done",
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
   "cliVersion": "1.15.1"
 }
