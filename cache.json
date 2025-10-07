@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/pulse-24",
@@ -296,6 +296,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/solveit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/solveit",
+          "publishedOn": "2025-10-02T22:02:38.000Z",
+          "wordCount": null,
+          "title": "solveit",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/whereflight",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -303,16 +313,6 @@
           "publishedOn": "2025-10-02T15:01:33.000Z",
           "wordCount": null,
           "title": "WhereFlight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/krisp",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/krisp",
-          "publishedOn": "2025-10-02T08:00:50.000Z",
-          "wordCount": null,
-          "title": "Krisp AI Note Taker",
           "imageUrl": null
         },
         {
