@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/undoomed",
@@ -266,16 +266,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/ticktag",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ticktag",
-          "publishedOn": "2025-10-06T21:43:23.000Z",
-          "wordCount": null,
-          "title": "TickTag",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/retool",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -283,16 +273,6 @@
           "publishedOn": "2025-10-06T20:17:47.000Z",
           "wordCount": null,
           "title": "AI AppGen in Retool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/openai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/openai",
-          "publishedOn": "2025-10-06T18:48:03.000Z",
-          "wordCount": null,
-          "title": "Apps in ChatGPT",
           "imageUrl": null
         },
         {
@@ -326,6 +306,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/hands-off",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hands-off",
+          "publishedOn": "2025-10-06T10:11:24.000Z",
+          "wordCount": null,
+          "title": "Hands Off",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/the-brief-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -336,23 +326,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/extrovert",
+          "id": "https://www.producthunt.com/products/bunny-net",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/extrovert",
-          "publishedOn": "2025-10-05T22:35:29.000Z",
+          "link": "https://www.producthunt.com/products/bunny-net",
+          "publishedOn": "2025-10-01T15:04:04.000Z",
           "wordCount": null,
-          "title": "Extrovert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/planby-now",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/planby-now",
-          "publishedOn": "2025-10-03T09:21:08.000Z",
-          "wordCount": null,
-          "title": "Planby Now",
+          "title": "hop.js",
           "imageUrl": null
         },
         {
@@ -376,13 +356,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/crazzy-2",
+          "id": "https://www.producthunt.com/products/t-rex-label",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/crazzy-2",
-          "publishedOn": "2025-09-30T14:11:27.000Z",
+          "link": "https://www.producthunt.com/products/t-rex-label",
+          "publishedOn": "2025-09-30T07:09:18.000Z",
           "wordCount": null,
-          "title": "Crazzy",
+          "title": "AI Mask Labeling by T-Rex Label",
           "imageUrl": null
         },
         {
@@ -423,6 +403,16 @@
           "publishedOn": "2025-09-24T09:10:55.000Z",
           "wordCount": null,
           "title": "QA.tech 1.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/freshly-squeezed",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/freshly-squeezed",
+          "publishedOn": "2025-09-22T21:46:51.000Z",
+          "wordCount": null,
+          "title": "Freshly Squeezed",
           "imageUrl": null
         },
         {
