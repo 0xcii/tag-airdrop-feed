@@ -6,6 +6,36 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/products/orchids",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/orchids",
+          "publishedOn": "2025-10-13T06:15:09.000Z",
+          "wordCount": null,
+          "title": "Orchids",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/trupeer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/trupeer",
+          "publishedOn": "2025-10-12T07:29:56.000Z",
+          "wordCount": null,
+          "title": "Trupeer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/inputlock",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/inputlock",
+          "publishedOn": "2025-10-12T03:16:38.000Z",
+          "wordCount": null,
+          "title": "InputLock",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/undoomed",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -13,6 +43,16 @@
           "publishedOn": "2025-10-11T15:19:53.000Z",
           "wordCount": null,
           "title": "UNDOOMED",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/bloxie",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bloxie",
+          "publishedOn": "2025-10-11T14:49:48.000Z",
+          "wordCount": null,
+          "title": "Bloxie",
           "imageUrl": null
         },
         {
@@ -266,36 +306,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/retool",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/retool",
-          "publishedOn": "2025-10-06T20:17:47.000Z",
-          "wordCount": null,
-          "title": "AI AppGen in Retool",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/openai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/openai",
-          "publishedOn": "2025-10-06T18:48:03.000Z",
-          "wordCount": null,
-          "title": "Apps in ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/runclauderun",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/runclauderun",
-          "publishedOn": "2025-10-06T17:47:26.000Z",
-          "wordCount": null,
-          "title": "runCLAUDErun",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/palteca",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -303,16 +313,6 @@
           "publishedOn": "2025-10-06T17:34:57.000Z",
           "wordCount": null,
           "title": "Palteca",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/bullet-so-build-websites-from-notion",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/bullet-so-build-websites-from-notion",
-          "publishedOn": "2025-10-06T13:31:56.000Z",
-          "wordCount": null,
-          "title": "Bullet.so-AI website builder for Notion",
           "imageUrl": null
         },
         {
@@ -326,16 +326,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/hands-off",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/hands-off",
-          "publishedOn": "2025-10-06T10:11:24.000Z",
-          "wordCount": null,
-          "title": "Hands Off",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/the-brief-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -346,13 +336,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/extrovert",
+          "id": "https://www.producthunt.com/products/traycer-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/extrovert",
-          "publishedOn": "2025-10-05T22:35:29.000Z",
+          "link": "https://www.producthunt.com/products/traycer-ai",
+          "publishedOn": "2025-10-03T16:22:24.000Z",
           "wordCount": null,
-          "title": "Extrovert",
+          "title": "Traycer AI",
           "imageUrl": null
         },
         {
@@ -373,6 +363,26 @@
           "publishedOn": "2025-10-01T08:49:51.000Z",
           "wordCount": null,
           "title": "Rately",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/sigma-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/sigma-ai",
+          "publishedOn": "2025-10-01T06:59:35.000Z",
+          "wordCount": null,
+          "title": "SigmaMind AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/celaro",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/celaro",
+          "publishedOn": "2025-09-29T17:18:06.000Z",
+          "wordCount": null,
+          "title": "Celaro",
           "imageUrl": null
         },
         {
@@ -403,16 +413,6 @@
           "publishedOn": "2025-09-24T15:31:24.000Z",
           "wordCount": null,
           "title": "ProhostAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/qa-tech",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/qa-tech",
-          "publishedOn": "2025-09-24T09:10:55.000Z",
-          "wordCount": null,
-          "title": "QA.tech 1.0",
           "imageUrl": null
         },
         {
