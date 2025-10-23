@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/twigg",
@@ -163,6 +163,16 @@
           "publishedOn": "2025-10-20T23:15:11.000Z",
           "wordCount": null,
           "title": "RightNow CLI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/dappit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/dappit",
+          "publishedOn": "2025-10-20T20:35:51.000Z",
+          "wordCount": null,
+          "title": "Dappit",
           "imageUrl": null
         },
         {
@@ -373,16 +383,6 @@
           "publishedOn": "2025-10-15T09:58:51.000Z",
           "wordCount": null,
           "title": "Persuasive Patterns Card Deck (4th gen)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/composer-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/composer-2",
-          "publishedOn": "2025-10-14T23:00:25.000Z",
-          "wordCount": null,
-          "title": "Trade with AI",
           "imageUrl": null
         },
         {
