@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-23T06:23:08.957Z</id>
+    <id>urn:2025-10-23T07:15:33.703Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-23T06:23:08.957Z</updated>
+    <updated>2025-10-23T07:15:33.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Twigg]]></title>
+        <id>https://www.producthunt.com/products/twigg</id>
+        <link href="https://www.producthunt.com/products/twigg"/>
+        <updated>2025-10-22T22:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Context Sync]]></title>
+        <id>https://www.producthunt.com/products/context-sync-local-mcp-server</id>
+        <link href="https://www.producthunt.com/products/context-sync-local-mcp-server"/>
+        <updated>2025-10-22T17:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacktivate]]></title>
+        <id>https://www.producthunt.com/products/hacktivate</id>
+        <link href="https://www.producthunt.com/products/hacktivate"/>
+        <updated>2025-10-22T07:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FinKitty]]></title>
+        <id>https://www.producthunt.com/products/finkitty</id>
+        <link href="https://www.producthunt.com/products/finkitty"/>
+        <updated>2025-10-22T00:40:27.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julius Slack Agent]]></title>
+        <id>https://www.producthunt.com/products/julius-2</id>
+        <link href="https://www.producthunt.com/products/julius-2"/>
+        <updated>2025-10-21T21:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soul Couple Game]]></title>
+        <id>https://www.producthunt.com/products/soul-couple-game-fun-questions</id>
+        <link href="https://www.producthunt.com/products/soul-couple-game-fun-questions"/>
+        <updated>2025-10-21T19:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cheers GEO]]></title>
         <id>https://www.producthunt.com/products/cheers-6</id>
@@ -54,10 +126,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sparks AI]]></title>
-        <id>https://www.producthunt.com/products/sparks-ai</id>
-        <link href="https://www.producthunt.com/products/sparks-ai"/>
-        <updated>2025-10-21T06:49:32.000Z</updated>
+        <title type="html"><![CDATA[UI Bakery App Agent]]></title>
+        <id>https://www.producthunt.com/products/ui-bakery</id>
+        <link href="https://www.producthunt.com/products/ui-bakery"/>
+        <updated>2025-10-21T13:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composite]]></title>
+        <id>https://www.producthunt.com/products/composite-3</id>
+        <link href="https://www.producthunt.com/products/composite-3"/>
+        <updated>2025-10-21T12:16:37.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -114,6 +198,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Free Web Analytics by Crazy Egg]]></title>
+        <id>https://www.producthunt.com/products/crazy-egg</id>
+        <link href="https://www.producthunt.com/products/crazy-egg"/>
+        <updated>2025-10-20T19:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Attrove AI]]></title>
         <id>https://www.producthunt.com/products/attrove-ai</id>
         <link href="https://www.producthunt.com/products/attrove-ai"/>
@@ -126,10 +222,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code on the web]]></title>
-        <id>https://www.producthunt.com/products/anthropic-claude-3-5-sonnet</id>
-        <link href="https://www.producthunt.com/products/anthropic-claude-3-5-sonnet"/>
-        <updated>2025-10-20T18:58:02.000Z</updated>
+        <title type="html"><![CDATA[In-Depth Reviews]]></title>
+        <id>https://www.producthunt.com/products/producthunt</id>
+        <link href="https://www.producthunt.com/products/producthunt"/>
+        <updated>2025-10-20T18:20:13.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -142,6 +238,18 @@
         <id>https://www.producthunt.com/products/ekinox</id>
         <link href="https://www.producthunt.com/products/ekinox"/>
         <updated>2025-10-20T17:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosine VS Code Extension]]></title>
+        <id>https://www.producthunt.com/products/cosine</id>
+        <link href="https://www.producthunt.com/products/cosine"/>
+        <updated>2025-10-20T13:58:38.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -210,70 +318,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VibeOnly]]></title>
-        <id>https://www.producthunt.com/products/vibeonly</id>
-        <link href="https://www.producthunt.com/products/vibeonly"/>
-        <updated>2025-10-19T16:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EraseVideo]]></title>
         <id>https://www.producthunt.com/products/erasevideo</id>
         <link href="https://www.producthunt.com/products/erasevideo"/>
         <updated>2025-10-19T14:34:59.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pylon]]></title>
-        <id>https://www.producthunt.com/products/pylon-4</id>
-        <link href="https://www.producthunt.com/products/pylon-4"/>
-        <updated>2025-10-19T11:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compyle]]></title>
-        <id>https://www.producthunt.com/products/compyle-2</id>
-        <link href="https://www.producthunt.com/products/compyle-2"/>
-        <updated>2025-10-19T07:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private Resume Builder]]></title>
-        <id>https://www.producthunt.com/products/private-resume-builder-open-source</id>
-        <link href="https://www.producthunt.com/products/private-resume-builder-open-source"/>
-        <updated>2025-10-19T06:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyFast]]></title>
-        <id>https://www.producthunt.com/products/tinyfast</id>
-        <link href="https://www.producthunt.com/products/tinyfast"/>
-        <updated>2025-10-18T21:20:53.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -294,22 +342,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[App2.dev]]></title>
-        <id>https://www.producthunt.com/products/app2-dev</id>
-        <link href="https://www.producthunt.com/products/app2-dev"/>
-        <updated>2025-10-18T13:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aden AI]]></title>
-        <id>https://www.producthunt.com/products/ai-powered-form-that-fills-itself</id>
-        <link href="https://www.producthunt.com/products/ai-powered-form-that-fills-itself"/>
-        <updated>2025-10-17T20:13:47.000Z</updated>
+        <title type="html"><![CDATA[Xano 2.0]]></title>
+        <id>https://www.producthunt.com/products/xano</id>
+        <link href="https://www.producthunt.com/products/xano"/>
+        <updated>2025-10-17T21:37:33.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -390,18 +426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Logic, Inc.]]></title>
-        <id>https://www.producthunt.com/products/logic-effortless-operational-magic</id>
-        <link href="https://www.producthunt.com/products/logic-effortless-operational-magic"/>
-        <updated>2025-10-15T22:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[maestro SFX by beatoven.ai]]></title>
         <id>https://www.producthunt.com/products/beatoven-ai</id>
         <link href="https://www.producthunt.com/products/beatoven-ai"/>
@@ -438,30 +462,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simplora]]></title>
-        <id>https://www.producthunt.com/products/simplora</id>
-        <link href="https://www.producthunt.com/products/simplora"/>
-        <updated>2025-10-14T22:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZippCall]]></title>
-        <id>https://www.producthunt.com/products/zippcall</id>
-        <link href="https://www.producthunt.com/products/zippcall"/>
-        <updated>2025-10-14T20:21:15.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sonura Studio]]></title>
         <id>https://www.producthunt.com/products/sonura</id>
         <link href="https://www.producthunt.com/products/sonura"/>
@@ -474,10 +474,34 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replymer]]></title>
-        <id>https://www.producthunt.com/products/replymer</id>
-        <link href="https://www.producthunt.com/products/replymer"/>
-        <updated>2025-10-14T07:55:16.000Z</updated>
+        <title type="html"><![CDATA[Trigger.dev v4]]></title>
+        <id>https://www.producthunt.com/products/trigger-dev</id>
+        <link href="https://www.producthunt.com/products/trigger-dev"/>
+        <updated>2025-10-14T11:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered Markdown/Text Editor]]></title>
+        <id>https://www.producthunt.com/products/ai-powered-markdown-text-editor</id>
+        <link href="https://www.producthunt.com/products/ai-powered-markdown-text-editor"/>
+        <updated>2025-10-13T13:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plexe]]></title>
+        <id>https://www.producthunt.com/products/plexe</id>
+        <link href="https://www.producthunt.com/products/plexe"/>
+        <updated>2025-10-10T15:56:07.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -490,30 +514,6 @@
         <id>https://www.producthunt.com/products/serpex-dev</id>
         <link href="https://www.producthunt.com/products/serpex-dev"/>
         <updated>2025-10-07T14:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fish Audio S1]]></title>
-        <id>https://www.producthunt.com/products/fish-speech</id>
-        <link href="https://www.producthunt.com/products/fish-speech"/>
-        <updated>2025-10-06T23:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[diny]]></title>
-        <id>https://www.producthunt.com/products/diny</id>
-        <link href="https://www.producthunt.com/products/diny"/>
-        <updated>2025-10-05T18:16:08.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -538,6 +538,18 @@
         <id>https://www.producthunt.com/products/deta</id>
         <link href="https://www.producthunt.com/products/deta"/>
         <updated>2025-10-01T04:29:14.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Migma AI]]></title>
+        <id>https://www.producthunt.com/products/migma-ai</id>
+        <link href="https://www.producthunt.com/products/migma-ai"/>
+        <updated>2025-09-26T01:27:35.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
