@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/ai-cleaner-by-lilucat",
@@ -226,6 +226,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/claude-skills-hub",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/claude-skills-hub",
+          "publishedOn": "2025-10-21T05:01:38.000Z",
+          "wordCount": null,
+          "title": "Claude Skills Hub",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/crazy-egg",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -263,16 +273,6 @@
           "publishedOn": "2025-10-20T11:44:57.000Z",
           "wordCount": null,
           "title": "DevReadyKit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/elemind",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/elemind",
-          "publishedOn": "2025-10-20T09:36:18.000Z",
-          "wordCount": null,
-          "title": "Elemind",
           "imageUrl": null
         },
         {
@@ -376,6 +376,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/problemhunt",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/problemhunt",
+          "publishedOn": "2025-10-15T23:24:34.000Z",
+          "wordCount": null,
+          "title": "ProblemHunt",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/amigo-ai-going-deeper-in-transactions",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -463,26 +473,6 @@
           "publishedOn": "2025-10-10T15:56:07.000Z",
           "wordCount": null,
           "title": "Plexe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/serpex-dev",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/serpex-dev",
-          "publishedOn": "2025-10-07T14:38:13.000Z",
-          "wordCount": null,
-          "title": "Serpex.dev",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/deta",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/deta",
-          "publishedOn": "2025-10-01T04:29:14.000Z",
-          "wordCount": null,
-          "title": "Deta Surf (Beta)",
           "imageUrl": null
         }
       ]
