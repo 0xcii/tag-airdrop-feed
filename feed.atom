@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-27T22:13:45.993Z</id>
+    <id>urn:2025-10-27T23:13:16.999Z</id>
     <title>web3::cave</title>
-    <updated>2025-10-27T22:13:45.993Z</updated>
+    <updated>2025-10-27T23:13:16.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -282,18 +282,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FinKitty]]></title>
-        <id>https://www.producthunt.com/products/finkitty</id>
-        <link href="https://www.producthunt.com/products/finkitty"/>
-        <updated>2025-10-22T00:40:27.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grain]]></title>
         <id>https://www.producthunt.com/products/grain-5</id>
         <link href="https://www.producthunt.com/products/grain-5"/>
@@ -334,6 +322,18 @@
         <id>https://www.producthunt.com/products/crazy-egg</id>
         <link href="https://www.producthunt.com/products/crazy-egg"/>
         <updated>2025-10-20T19:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosine VS Code Extension]]></title>
+        <id>https://www.producthunt.com/products/cosine</id>
+        <link href="https://www.producthunt.com/products/cosine"/>
+        <updated>2025-10-20T13:58:38.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -526,18 +526,6 @@
         <id>https://www.producthunt.com/products/drynosaur</id>
         <link href="https://www.producthunt.com/products/drynosaur"/>
         <updated>2025-10-13T21:21:11.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FunBlocks AI Markdown Editor]]></title>
-        <id>https://www.producthunt.com/products/ai-powered-markdown-text-editor</id>
-        <link href="https://www.producthunt.com/products/ai-powered-markdown-text-editor"/>
-        <updated>2025-10-13T13:33:11.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
