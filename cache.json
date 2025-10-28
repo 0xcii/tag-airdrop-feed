@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/vibecode-app",
@@ -163,6 +163,16 @@
           "publishedOn": "2025-10-24T08:56:07.000Z",
           "wordCount": null,
           "title": "Friday",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/voicetypr",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/voicetypr",
+          "publishedOn": "2025-10-24T00:38:12.000Z",
+          "wordCount": null,
+          "title": "Voicetypr",
           "imageUrl": null
         },
         {
@@ -383,16 +393,6 @@
           "publishedOn": "2025-10-16T13:16:00.000Z",
           "wordCount": null,
           "title": "Dictly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/nextjs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/nextjs",
-          "publishedOn": "2025-10-16T11:38:43.000Z",
-          "wordCount": null,
-          "title": "Next.js 16",
           "imageUrl": null
         },
         {
