@@ -3,8 +3,18 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/products/pianolyze",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pianolyze",
+          "publishedOn": "2025-11-03T03:15:44.000Z",
+          "wordCount": null,
+          "title": "Pianolyze",
+          "imageUrl": null
+        },
         {
           "id": "https://www.producthunt.com/products/odyssey-5",
           "author": null,
@@ -13,6 +23,16 @@
           "publishedOn": "2025-11-03T03:08:45.000Z",
           "wordCount": null,
           "title": "Odyssey-2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/asimov-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/asimov-2",
+          "publishedOn": "2025-11-02T16:43:38.000Z",
+          "wordCount": null,
+          "title": "Asimov",
           "imageUrl": null
         },
         {
@@ -156,13 +176,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/copycat-6",
+          "id": "https://www.producthunt.com/products/openai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/copycat-6",
-          "publishedOn": "2025-10-29T20:40:30.000Z",
+          "link": "https://www.producthunt.com/products/openai",
+          "publishedOn": "2025-10-30T02:33:19.000Z",
           "wordCount": null,
-          "title": "CopyCat",
+          "title": "gpt-oss-safeguard",
           "imageUrl": null
         },
         {
@@ -173,26 +193,6 @@
           "publishedOn": "2025-10-29T20:32:55.000Z",
           "wordCount": null,
           "title": "WhatsDiff",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/gatling-ai-assistant-for-vs-code",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gatling-ai-assistant-for-vs-code",
-          "publishedOn": "2025-10-29T18:13:52.000Z",
-          "wordCount": null,
-          "title": "Gatling AI Assistant for VS Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/promptacore",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/promptacore",
-          "publishedOn": "2025-10-29T17:59:18.000Z",
-          "wordCount": null,
-          "title": "Promptacore",
           "imageUrl": null
         },
         {
@@ -213,16 +213,6 @@
           "publishedOn": "2025-10-29T15:20:35.000Z",
           "wordCount": null,
           "title": "Ultracite v6",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/base44",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/base44",
-          "publishedOn": "2025-10-29T14:00:10.000Z",
-          "wordCount": null,
-          "title": "Base44: The all-new builder",
           "imageUrl": null
         },
         {
@@ -273,6 +263,16 @@
           "publishedOn": "2025-10-29T08:29:32.000Z",
           "wordCount": null,
           "title": "BilberryDB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fabrica-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fabrica-3",
+          "publishedOn": "2025-10-29T06:44:16.000Z",
+          "wordCount": null,
+          "title": "Fabrica",
           "imageUrl": null
         },
         {
@@ -416,16 +416,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/gammacode",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gammacode",
-          "publishedOn": "2025-10-23T17:24:06.000Z",
-          "wordCount": null,
-          "title": "Gammacode",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/kepler-blueprint",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -466,16 +456,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/airtop",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/airtop",
-          "publishedOn": "2025-10-19T07:34:48.000Z",
-          "wordCount": null,
-          "title": "Airtop Agents",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/postiz",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -486,6 +466,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/pausa-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pausa-2",
+          "publishedOn": "2025-10-16T20:46:22.000Z",
+          "wordCount": null,
+          "title": "Pausa",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/screen-ruler",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -493,6 +483,16 @@
           "publishedOn": "2025-10-13T14:58:59.000Z",
           "wordCount": null,
           "title": "Screen Ruler",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/peakflo-ai-voice-agents",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/peakflo-ai-voice-agents",
+          "publishedOn": "2025-10-07T07:40:54.000Z",
+          "wordCount": null,
+          "title": "Peakflo AI Voice Agents",
           "imageUrl": null
         }
       ]
