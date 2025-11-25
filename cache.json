@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/haxiom",
@@ -22,7 +22,17 @@
           "link": "https://www.producthunt.com/products/sketch",
           "publishedOn": "2025-11-25T04:50:21.000Z",
           "wordCount": null,
-          "title": "Sketch Copenhagen (2025.3)",
+          "title": "Sketch Copenhagen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/loomoz",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/loomoz",
+          "publishedOn": "2025-11-25T01:52:46.000Z",
+          "wordCount": null,
+          "title": "Loomoz",
           "imageUrl": null
         },
         {
@@ -192,7 +202,7 @@
           "link": "https://www.producthunt.com/products/xplorer-api-client-done-right",
           "publishedOn": "2025-11-21T08:11:09.000Z",
           "wordCount": null,
-          "title": "Xplorer - API Client, Done Right",
+          "title": "Xplorer",
           "imageUrl": null
         },
         {
@@ -286,16 +296,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/hargun-s-macos",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/hargun-s-macos",
-          "publishedOn": "2025-11-18T18:04:11.000Z",
-          "wordCount": null,
-          "title": "Hargun's MacOS",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/hatable",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -346,13 +346,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/mouse-shaker",
+          "id": "https://www.producthunt.com/products/bookmarkjar",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mouse-shaker",
-          "publishedOn": "2025-11-16T23:51:09.000Z",
+          "link": "https://www.producthunt.com/products/bookmarkjar",
+          "publishedOn": "2025-11-16T18:47:51.000Z",
           "wordCount": null,
-          "title": "Mouse Shaker",
+          "title": "Bookmarkjar ®",
           "imageUrl": null
         },
         {
