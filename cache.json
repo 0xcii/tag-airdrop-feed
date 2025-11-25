@@ -3,7 +3,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/haxiom",
@@ -146,16 +146,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/better-upload",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/better-upload",
-          "publishedOn": "2025-11-21T20:53:28.000Z",
-          "wordCount": null,
-          "title": "Better Upload",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/onyx-free-screen-recorder",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -163,6 +153,16 @@
           "publishedOn": "2025-11-21T19:48:29.000Z",
           "wordCount": null,
           "title": "Onyx",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/gemini-1-5-pro",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gemini-1-5-pro",
+          "publishedOn": "2025-11-21T19:43:47.000Z",
+          "wordCount": null,
+          "title": "SynthID by Google DeepMind",
           "imageUrl": null
         },
         {
@@ -246,16 +246,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/side-space",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/side-space",
-          "publishedOn": "2025-11-20T11:45:25.000Z",
-          "wordCount": null,
-          "title": "Side Space 2.0",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/hushlink",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -323,6 +313,16 @@
           "publishedOn": "2025-11-17T18:48:23.000Z",
           "wordCount": null,
           "title": "nao",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/zivy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/zivy",
+          "publishedOn": "2025-11-17T17:41:30.000Z",
+          "wordCount": null,
+          "title": "Lila by Zivy",
           "imageUrl": null
         },
         {
