@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/cleva-io",
@@ -372,16 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/modelpilot",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/modelpilot",
-          "publishedOn": "2025-11-24T20:29:44.000Z",
-          "wordCount": null,
-          "title": "ModelPilot",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/hero-widget",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -389,6 +379,16 @@
           "publishedOn": "2025-11-24T12:36:16.000Z",
           "wordCount": null,
           "title": "Hero Widget",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/apppad-launchpad",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/apppad-launchpad",
+          "publishedOn": "2025-11-23T14:30:36.000Z",
+          "wordCount": null,
+          "title": "AppPad",
           "imageUrl": null
         },
         {
