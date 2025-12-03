@@ -12,6 +12,56 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/products/quickwidgets",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/quickwidgets",
+          "publishedOn": "2025-12-03T06:27:04.000Z",
+          "wordCount": null,
+          "title": "QuickWidgets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/hugging-face",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hugging-face",
+          "publishedOn": "2025-12-03T03:37:55.000Z",
+          "wordCount": null,
+          "title": "Transformers v5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/gleam-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gleam-4",
+          "publishedOn": "2025-12-03T01:17:58.000Z",
+          "wordCount": null,
+          "title": "Gleam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/mistral-7b",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/mistral-7b",
+          "publishedOn": "2025-12-02T22:51:20.000Z",
+          "wordCount": null,
+          "title": "Mistral 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nova-act-by-amazon",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nova-act-by-amazon",
+          "publishedOn": "2025-12-02T16:53:47.000Z",
+          "wordCount": null,
+          "title": "Nova Act by Amazon",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/cleva-io",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -19,6 +69,36 @@
           "publishedOn": "2025-12-02T02:55:35.000Z",
           "wordCount": null,
           "title": "Cleva.io",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/devlo",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/devlo",
+          "publishedOn": "2025-12-02T01:18:10.000Z",
+          "wordCount": null,
+          "title": "devlo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/piperead",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/piperead",
+          "publishedOn": "2025-12-01T20:54:48.000Z",
+          "wordCount": null,
+          "title": "pipeRead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fellow-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fellow-app",
+          "publishedOn": "2025-12-01T20:46:17.000Z",
+          "wordCount": null,
+          "title": "Fellow 5.0",
           "imageUrl": null
         },
         {
@@ -69,6 +149,26 @@
           "publishedOn": "2025-12-01T13:00:41.000Z",
           "wordCount": null,
           "title": "Hyvor Post",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ask-bar-ai-answers-on-every-page",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ask-bar-ai-answers-on-every-page",
+          "publishedOn": "2025-12-01T08:49:00.000Z",
+          "wordCount": null,
+          "title": "Ask Bar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/aha-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/aha-3",
+          "publishedOn": "2025-12-01T07:43:18.000Z",
+          "wordCount": null,
+          "title": "Aha 2.0",
           "imageUrl": null
         },
         {
@@ -182,16 +282,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/rightnow-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/rightnow-ai",
-          "publishedOn": "2025-11-29T22:36:51.000Z",
-          "wordCount": null,
-          "title": "RightNow CUDA Editor",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/plok-sh",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -202,6 +292,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/screenbreak-effort-based-app-blocker",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/screenbreak-effort-based-app-blocker",
+          "publishedOn": "2025-11-29T07:12:47.000Z",
+          "wordCount": null,
+          "title": "ScreenBreak",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/simcockpit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -209,46 +309,6 @@
           "publishedOn": "2025-11-28T13:33:01.000Z",
           "wordCount": null,
           "title": "SimCockpit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/tag-my-tab",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/tag-my-tab",
-          "publishedOn": "2025-11-28T12:08:40.000Z",
-          "wordCount": null,
-          "title": "Tag my Tab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ripplica",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ripplica",
-          "publishedOn": "2025-11-28T10:29:21.000Z",
-          "wordCount": null,
-          "title": "Ripplica",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/superintern",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/superintern",
-          "publishedOn": "2025-11-28T07:30:19.000Z",
-          "wordCount": null,
-          "title": "Always-on Meeting AI by SuperIntern",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/waylight",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/waylight",
-          "publishedOn": "2025-11-27T20:12:34.000Z",
-          "wordCount": null,
-          "title": "Waylight",
           "imageUrl": null
         },
         {
@@ -292,6 +352,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/gantttool",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gantttool",
+          "publishedOn": "2025-11-27T09:01:45.000Z",
+          "wordCount": null,
+          "title": "GanttTool",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/markdown-studio",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -312,36 +382,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/vibejar-mood-tracker-and-journal",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/vibejar-mood-tracker-and-journal",
-          "publishedOn": "2025-11-26T10:00:41.000Z",
-          "wordCount": null,
-          "title": "VibeJar-Mood Tracker and Journal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/unfold-6",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/unfold-6",
-          "publishedOn": "2025-11-26T09:15:05.000Z",
-          "wordCount": null,
-          "title": "Unfold",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/suprr",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/suprr",
-          "publishedOn": "2025-11-26T08:53:11.000Z",
-          "wordCount": null,
-          "title": "Suprr",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/clipse-add-in-for-outlook",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -352,73 +392,43 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cracked-ai",
+          "id": "https://www.producthunt.com/products/cumbuca",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cracked-ai",
-          "publishedOn": "2025-11-25T12:09:29.000Z",
+          "link": "https://www.producthunt.com/products/cumbuca",
+          "publishedOn": "2025-11-24T22:03:59.000Z",
           "wordCount": null,
-          "title": "Cracked.ai",
+          "title": "Cumbuca",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/modelpilot",
+          "id": "https://www.producthunt.com/products/moodify-8",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/modelpilot",
-          "publishedOn": "2025-11-24T20:29:44.000Z",
+          "link": "https://www.producthunt.com/products/moodify-8",
+          "publishedOn": "2025-11-20T10:33:52.000Z",
           "wordCount": null,
-          "title": "ModelPilot",
+          "title": "Moodify",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/hero-widget",
+          "id": "https://www.producthunt.com/products/truefoundry-ai-gateway",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/hero-widget",
-          "publishedOn": "2025-11-24T12:36:16.000Z",
+          "link": "https://www.producthunt.com/products/truefoundry-ai-gateway",
+          "publishedOn": "2025-11-19T16:09:03.000Z",
           "wordCount": null,
-          "title": "Hero Widget",
+          "title": "TrueFoundry AI Gateway",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/tsk-lol-cozy-task-manager",
+          "id": "https://www.producthunt.com/products/below-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/tsk-lol-cozy-task-manager",
-          "publishedOn": "2025-11-24T07:38:25.000Z",
+          "link": "https://www.producthunt.com/products/below-2",
+          "publishedOn": "2025-11-19T00:22:57.000Z",
           "wordCount": null,
-          "title": "tsk.lol",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/seefy",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/seefy",
-          "publishedOn": "2025-11-22T12:52:12.000Z",
-          "wordCount": null,
-          "title": "Seefy",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/double-tap",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/double-tap",
-          "publishedOn": "2025-11-19T02:35:43.000Z",
-          "wordCount": null,
-          "title": "Double Tap",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/my-clocks",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/my-clocks",
-          "publishedOn": "2025-11-19T02:19:55.000Z",
-          "wordCount": null,
-          "title": "My Clocks",
+          "title": "beLow",
           "imageUrl": null
         },
         {
