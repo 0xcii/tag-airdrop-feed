@@ -9,8 +9,118 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/products/creatorkit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/creatorkit",
+          "publishedOn": "2025-12-24T07:46:02.000Z",
+          "wordCount": null,
+          "title": "Santa Videos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lofi-desk-focus-relax-beats",
+          "publishedOn": "2025-12-24T06:52:12.000Z",
+          "wordCount": null,
+          "title": "Lofi Desk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/gitjin",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gitjin",
+          "publishedOn": "2025-12-24T03:59:39.000Z",
+          "wordCount": null,
+          "title": "GitJin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/google",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/google",
+          "publishedOn": "2025-12-24T03:27:55.000Z",
+          "wordCount": null,
+          "title": "A2UI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/walletwallet",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/walletwallet",
+          "publishedOn": "2025-12-23T21:31:48.000Z",
+          "wordCount": null,
+          "title": "WalletWallet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/jetbrains",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/jetbrains",
+          "publishedOn": "2025-12-23T16:19:48.000Z",
+          "wordCount": null,
+          "title": "Spring Boot CRUD Generator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/shipaddons",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/shipaddons",
+          "publishedOn": "2025-12-23T13:30:48.000Z",
+          "wordCount": null,
+          "title": "ShipAddons",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nano-banana-playground",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nano-banana-playground",
+          "publishedOn": "2025-12-23T12:47:16.000Z",
+          "wordCount": null,
+          "title": "Nano Banana Playground",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ooml-io",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ooml-io",
+          "publishedOn": "2025-12-23T12:35:41.000Z",
+          "wordCount": null,
+          "title": "ooml.io",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/voice-studio-companion",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/voice-studio-companion",
+          "publishedOn": "2025-12-23T10:25:50.000Z",
+          "wordCount": null,
+          "title": "Voice Studio Companion",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/launch-shots",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/launch-shots",
+          "publishedOn": "2025-12-23T08:36:55.000Z",
+          "wordCount": null,
+          "title": "Launch Shots",
+          "imageUrl": null
+        },
         {
           "id": "https://www.producthunt.com/products/filio",
           "author": null,
@@ -212,23 +322,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/meta",
+          "id": "https://www.producthunt.com/products/vanderwaals",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/meta",
-          "publishedOn": "2025-12-19T06:31:45.000Z",
+          "link": "https://www.producthunt.com/products/vanderwaals",
+          "publishedOn": "2025-12-19T06:50:57.000Z",
           "wordCount": null,
-          "title": "SAM Audio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/evidence",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/evidence",
-          "publishedOn": "2025-12-19T03:47:26.000Z",
-          "wordCount": null,
-          "title": "Evidence Embedded Analytics",
+          "title": "Vanderwaals: Personalized by AI",
           "imageUrl": null
         },
         {
@@ -252,76 +352,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/vurge-ai-data-extraction",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/vurge-ai-data-extraction",
-          "publishedOn": "2025-12-18T18:54:54.000Z",
-          "wordCount": null,
-          "title": "Vurge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/edurev-education-revolution",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/edurev-education-revolution",
-          "publishedOn": "2025-12-18T15:19:48.000Z",
-          "wordCount": null,
-          "title": "EduRev (Education Revolution)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/localex-app-localizer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/localex-app-localizer",
-          "publishedOn": "2025-12-18T14:24:47.000Z",
-          "wordCount": null,
-          "title": "LocaleX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/gitstory-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gitstory-2",
-          "publishedOn": "2025-12-18T09:50:07.000Z",
-          "wordCount": null,
-          "title": "GitStory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/voicenotes-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/voicenotes-2",
-          "publishedOn": "2025-12-18T09:13:28.000Z",
-          "wordCount": null,
-          "title": "VoiceNotes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/zone-share-mirror-you-screen",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/zone-share-mirror-you-screen",
-          "publishedOn": "2025-12-18T07:26:20.000Z",
-          "wordCount": null,
-          "title": "ZoneShare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/voice-mate-ai-powered",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/voice-mate-ai-powered",
-          "publishedOn": "2025-12-17T20:15:08.000Z",
-          "wordCount": null,
-          "title": "Voice Mate - AI powered Voicemail",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/getprofile-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -329,6 +359,16 @@
           "publishedOn": "2025-12-17T18:32:54.000Z",
           "wordCount": null,
           "title": "GetProfile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/typeless-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/typeless-2",
+          "publishedOn": "2025-12-17T14:12:16.000Z",
+          "wordCount": null,
+          "title": "Typeless for iOS",
           "imageUrl": null
         },
         {
@@ -382,16 +422,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/screenhance",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/screenhance",
-          "publishedOn": "2025-12-16T20:12:48.000Z",
-          "wordCount": null,
-          "title": "Screenhance",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/wave-browser-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -432,16 +462,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/loki-build-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/loki-build-2",
-          "publishedOn": "2025-12-16T13:00:17.000Z",
-          "wordCount": null,
-          "title": "Loki.Build",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/hq0",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -452,13 +472,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/sliq",
+          "id": "https://www.producthunt.com/products/githired-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/sliq",
-          "publishedOn": "2025-12-15T21:58:12.000Z",
+          "link": "https://www.producthunt.com/products/githired-2",
+          "publishedOn": "2025-12-02T07:52:24.000Z",
           "wordCount": null,
-          "title": "Sliq",
+          "title": "GitHired",
           "imageUrl": null
         },
         {
