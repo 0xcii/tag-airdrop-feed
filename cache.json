@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/burner-note",
@@ -292,6 +292,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/amarsia",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/amarsia",
+          "publishedOn": "2026-01-06T09:23:41.000Z",
+          "wordCount": null,
+          "title": "Conversation API",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/settle-it",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,16 +319,6 @@
           "publishedOn": "2026-01-05T20:58:30.000Z",
           "wordCount": null,
           "title": "AgentNotch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/dessix-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/dessix-2",
-          "publishedOn": "2026-01-05T15:28:43.000Z",
-          "wordCount": null,
-          "title": "Dessix",
           "imageUrl": null
         },
         {
