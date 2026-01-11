@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/meme-yes",
@@ -282,16 +282,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/too-many-buttons",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/too-many-buttons",
-          "publishedOn": "2026-01-07T06:41:51.000Z",
-          "wordCount": null,
-          "title": "Too Many Buttons",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/htmldrag",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,6 +299,16 @@
           "publishedOn": "2026-01-07T04:44:53.000Z",
           "wordCount": null,
           "title": "one elsewhere",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/lego-jurassic-world",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lego-jurassic-world",
+          "publishedOn": "2026-01-07T04:28:45.000Z",
+          "wordCount": null,
+          "title": "LEGO SMART Play",
           "imageUrl": null
         },
         {
@@ -339,16 +339,6 @@
           "publishedOn": "2026-01-06T13:41:12.000Z",
           "wordCount": null,
           "title": "VPN Peek",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/droppy-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/droppy-3",
-          "publishedOn": "2026-01-06T11:21:51.000Z",
-          "wordCount": null,
-          "title": "Droppy",
           "imageUrl": null
         },
         {
@@ -422,13 +412,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/thetabber",
+          "id": "https://www.producthunt.com/products/yolog-dev-desktop",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/thetabber",
-          "publishedOn": "2026-01-02T20:00:52.000Z",
+          "link": "https://www.producthunt.com/products/yolog-dev-desktop",
+          "publishedOn": "2026-01-02T15:17:58.000Z",
           "wordCount": null,
-          "title": "TheTabber",
+          "title": "yolog.dev Desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/graysky",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/graysky",
+          "publishedOn": "2026-01-02T02:09:05.000Z",
+          "wordCount": null,
+          "title": "Graysky 2.0",
           "imageUrl": null
         },
         {
