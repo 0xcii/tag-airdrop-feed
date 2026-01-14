@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/recent-dev",
@@ -272,16 +272,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/kuulto-the-terminal-reimagined",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/kuulto-the-terminal-reimagined",
-          "publishedOn": "2026-01-08T23:50:44.000Z",
-          "wordCount": null,
-          "title": "Kuulto",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/promptsy",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -292,13 +282,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/p402-io",
+          "id": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/p402-io",
-          "publishedOn": "2026-01-08T11:48:02.000Z",
+          "link": "https://www.producthunt.com/products/chirpz-for-literature-discovery",
+          "publishedOn": "2026-01-08T19:53:10.000Z",
           "wordCount": null,
-          "title": "P402.io",
+          "title": "Chirpz Agent",
           "imageUrl": null
         },
         {
@@ -312,13 +302,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/stillmail",
+          "id": "https://www.producthunt.com/products/montella",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stillmail",
-          "publishedOn": "2026-01-08T09:32:18.000Z",
+          "link": "https://www.producthunt.com/products/montella",
+          "publishedOn": "2026-01-07T22:05:23.000Z",
           "wordCount": null,
-          "title": "stillmail.",
+          "title": "Montella",
           "imageUrl": null
         },
         {
@@ -489,6 +479,16 @@
           "publishedOn": "2025-12-30T15:56:59.000Z",
           "wordCount": null,
           "title": "Dawiso AI Context Layer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/seorce",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/seorce",
+          "publishedOn": "2025-12-23T07:23:25.000Z",
+          "wordCount": null,
+          "title": "SEORCE",
           "imageUrl": null
         }
       ]
