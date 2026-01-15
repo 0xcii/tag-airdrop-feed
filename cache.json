@@ -12,6 +12,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/products/groovy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/groovy",
+          "publishedOn": "2026-01-15T03:56:39.000Z",
+          "wordCount": null,
+          "title": "GROOVY",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/github-space-shooter",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -19,6 +29,26 @@
           "publishedOn": "2026-01-15T01:15:02.000Z",
           "wordCount": null,
           "title": "GitHub Space Shooter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/notto-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/notto-2",
+          "publishedOn": "2026-01-15T00:57:12.000Z",
+          "wordCount": null,
+          "title": "Notto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/hal9",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hal9",
+          "publishedOn": "2026-01-14T22:07:15.000Z",
+          "wordCount": null,
+          "title": "Hal9",
           "imageUrl": null
         },
         {
@@ -42,13 +72,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/facebook-messenger",
+          "id": "https://www.producthunt.com/products/cal",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/facebook-messenger",
-          "publishedOn": "2026-01-14T15:29:12.000Z",
+          "link": "https://www.producthunt.com/products/cal",
+          "publishedOn": "2026-01-14T17:01:26.000Z",
           "wordCount": null,
-          "title": "LastQuake Alert Bot",
+          "title": "Cal.com Companion Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/manus",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/manus",
+          "publishedOn": "2026-01-14T16:19:17.000Z",
+          "wordCount": null,
+          "title": "Manus Meeting Minutes",
           "imageUrl": null
         },
         {
@@ -232,26 +272,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/hivinq",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/hivinq",
-          "publishedOn": "2026-01-13T04:36:13.000Z",
-          "wordCount": null,
-          "title": "Hivinq",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/typingmate-ai-shortcuts-keyboard",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/typingmate-ai-shortcuts-keyboard",
-          "publishedOn": "2026-01-13T03:01:19.000Z",
-          "wordCount": null,
-          "title": "TypingMate",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/bookmarkify-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -332,16 +352,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/bluejazzclub",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/bluejazzclub",
-          "publishedOn": "2026-01-12T13:57:56.000Z",
-          "wordCount": null,
-          "title": "BlueJazzClub",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/alpine",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -362,16 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/session-pilot",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/session-pilot",
-          "publishedOn": "2026-01-12T10:22:21.000Z",
-          "wordCount": null,
-          "title": "Session Pilot",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/webterm",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -379,16 +379,6 @@
           "publishedOn": "2026-01-12T08:49:21.000Z",
           "wordCount": null,
           "title": "WebTerm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/anonity-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/anonity-2",
-          "publishedOn": "2026-01-09T08:25:12.000Z",
-          "wordCount": null,
-          "title": "anonity",
           "imageUrl": null
         },
         {
@@ -472,16 +462,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/dawiso",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/dawiso",
-          "publishedOn": "2025-12-30T15:56:59.000Z",
-          "wordCount": null,
-          "title": "Dawiso AI Context Layer",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/ai-test-engineer-by-blinqio",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -489,6 +469,16 @@
           "publishedOn": "2025-12-29T10:48:43.000Z",
           "wordCount": null,
           "title": "AI Test Engineer by BlinqIO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ai-dication-by-snaply",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ai-dication-by-snaply",
+          "publishedOn": "2025-12-29T10:43:37.000Z",
+          "wordCount": null,
+          "title": "AI dication by Snaply",
           "imageUrl": null
         },
         {
@@ -509,6 +499,16 @@
           "publishedOn": "2025-12-24T21:42:20.000Z",
           "wordCount": null,
           "title": "Bloka",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/binary",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/binary",
+          "publishedOn": "2025-12-17T14:42:23.000Z",
+          "wordCount": null,
+          "title": "Binary",
           "imageUrl": null
         }
       ]
