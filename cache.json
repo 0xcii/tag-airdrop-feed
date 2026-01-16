@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/clodo",
@@ -292,6 +292,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/taphouse",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/taphouse",
+          "publishedOn": "2026-01-13T20:11:24.000Z",
+          "wordCount": null,
+          "title": "Taphouse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/one-dot-a-living-timeline-wallpaper",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -439,16 +449,6 @@
           "publishedOn": "2026-01-07T06:27:28.000Z",
           "wordCount": null,
           "title": "BlocPad - Project & Team Workspace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/langfinity",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/langfinity",
-          "publishedOn": "2025-12-31T16:17:45.000Z",
-          "wordCount": null,
-          "title": "Langfinity AI",
           "imageUrl": null
         },
         {
