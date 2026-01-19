@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/cloudchipr",
@@ -332,16 +332,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/lyra-music",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/lyra-music",
-          "publishedOn": "2026-01-13T11:02:58.000Z",
-          "wordCount": null,
-          "title": "Lyra Music",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/chessmaster-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,6 +419,16 @@
           "publishedOn": "2026-01-09T14:09:47.000Z",
           "wordCount": null,
           "title": "Purifai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/remio-ai-note-taker",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/remio-ai-note-taker",
+          "publishedOn": "2026-01-09T07:42:47.000Z",
+          "wordCount": null,
+          "title": "remio 2.0",
           "imageUrl": null
         },
         {
