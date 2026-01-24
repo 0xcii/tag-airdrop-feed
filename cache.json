@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/getthis",
@@ -292,16 +292,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/moldable",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/moldable",
-          "publishedOn": "2026-01-19T20:09:45.000Z",
-          "wordCount": null,
-          "title": "Moldable",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/edge-light-for-video-calls",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -339,16 +329,6 @@
           "publishedOn": "2026-01-19T10:36:43.000Z",
           "wordCount": null,
           "title": "Forvibe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/habitz-habit-tracker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/habitz-habit-tracker",
-          "publishedOn": "2026-01-19T10:19:11.000Z",
-          "wordCount": null,
-          "title": "Habitz",
           "imageUrl": null
         },
         {
@@ -422,6 +402,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/interactpitch-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/interactpitch-2",
+          "publishedOn": "2026-01-14T08:56:40.000Z",
+          "wordCount": null,
+          "title": "Interactpitch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/callum",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -449,6 +439,16 @@
           "publishedOn": "2026-01-09T17:29:57.000Z",
           "wordCount": null,
           "title": "Tonkotsu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/mcpjam-inspector",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/mcpjam-inspector",
+          "publishedOn": "2026-01-08T00:09:44.000Z",
+          "wordCount": null,
+          "title": "MCPJam Inspector",
           "imageUrl": null
         },
         {
