@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/allen-institute-of-artificial-intelligence",
@@ -19,6 +19,16 @@
           "publishedOn": "2026-02-04T06:39:14.000Z",
           "wordCount": null,
           "title": "SERA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/spacecake",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/spacecake",
+          "publishedOn": "2026-02-04T04:00:47.000Z",
+          "wordCount": null,
+          "title": "spacecake",
           "imageUrl": null
         },
         {
@@ -132,6 +142,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/pangolin-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pangolin-2",
+          "publishedOn": "2026-02-03T05:21:53.000Z",
+          "wordCount": null,
+          "title": "Pangolin",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/grid-overlay-pro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -202,16 +222,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/openai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/openai",
-          "publishedOn": "2026-02-02T18:29:41.000Z",
-          "wordCount": null,
-          "title": "Codex by OpenAI",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/clawsimple",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -219,16 +229,6 @@
           "publishedOn": "2026-02-02T18:17:02.000Z",
           "wordCount": null,
           "title": "ClawSimple",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/padelclippy",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/padelclippy",
-          "publishedOn": "2026-02-02T16:22:33.000Z",
-          "wordCount": null,
-          "title": "PadelClippy",
           "imageUrl": null
         },
         {
@@ -312,6 +312,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/hyperterse",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hyperterse",
+          "publishedOn": "2026-02-01T15:31:06.000Z",
+          "wordCount": null,
+          "title": "Hyperterse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/moisam",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -319,6 +329,16 @@
           "publishedOn": "2026-01-31T22:21:25.000Z",
           "wordCount": null,
           "title": "Moisam",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/heuris",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/heuris",
+          "publishedOn": "2026-01-30T15:34:56.000Z",
+          "wordCount": null,
+          "title": "Heuris",
           "imageUrl": null
         },
         {
@@ -349,16 +369,6 @@
           "publishedOn": "2026-01-29T16:14:23.000Z",
           "wordCount": null,
           "title": "Moltcraft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/blocpad",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/blocpad",
-          "publishedOn": "2026-01-29T10:27:26.000Z",
-          "wordCount": null,
-          "title": "Blocpad CLI-The missing layer for cursor",
           "imageUrl": null
         },
         {
@@ -419,16 +429,6 @@
           "publishedOn": "2026-01-26T17:10:33.000Z",
           "wordCount": null,
           "title": "Relay.app Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ray-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ray-2",
-          "publishedOn": "2026-01-23T09:38:44.000Z",
-          "wordCount": null,
-          "title": "Ray 3.0",
           "imageUrl": null
         },
         {
