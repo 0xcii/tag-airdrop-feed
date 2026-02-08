@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/snap-8",
@@ -112,6 +112,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/perplexity-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/perplexity-ai",
+          "publishedOn": "2026-02-06T04:40:03.000Z",
+          "wordCount": null,
+          "title": "Model Council in Perplexity",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/stayawake-dev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -122,13 +132,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/openai",
+          "id": "https://www.producthunt.com/products/my-drawer",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/openai",
-          "publishedOn": "2026-02-06T03:11:47.000Z",
+          "link": "https://www.producthunt.com/products/my-drawer",
+          "publishedOn": "2026-02-06T02:52:34.000Z",
           "wordCount": null,
-          "title": "GPT-5.3-Codex",
+          "title": "My Drawer",
           "imageUrl": null
         },
         {
@@ -189,16 +199,6 @@
           "publishedOn": "2026-02-05T17:40:50.000Z",
           "wordCount": null,
           "title": "ScreenSorts",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/s3nding",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/s3nding",
-          "publishedOn": "2026-02-05T17:39:06.000Z",
-          "wordCount": null,
-          "title": "S3nding",
           "imageUrl": null
         },
         {
@@ -272,6 +272,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/y-bombinator-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/y-bombinator-3",
+          "publishedOn": "2026-02-05T02:20:01.000Z",
+          "wordCount": null,
+          "title": "Y Bombinator",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/magic-lasso-adblock",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -279,16 +289,6 @@
           "publishedOn": "2026-02-04T23:00:41.000Z",
           "wordCount": null,
           "title": "Magic Lasso Adblock for Apple TV",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/betterbugs-io",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/betterbugs-io",
-          "publishedOn": "2026-02-04T15:13:11.000Z",
-          "wordCount": null,
-          "title": "BetterBugs MCP",
           "imageUrl": null
         },
         {
@@ -339,16 +339,6 @@
           "publishedOn": "2026-02-03T04:03:04.000Z",
           "wordCount": null,
           "title": "Obooko",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/commentblocks-visual-website-feedback",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/commentblocks-visual-website-feedback",
-          "publishedOn": "2026-02-02T20:47:39.000Z",
-          "wordCount": null,
-          "title": "Commentblocks",
           "imageUrl": null
         },
         {
@@ -419,6 +409,16 @@
           "publishedOn": "2026-01-28T20:51:57.000Z",
           "wordCount": null,
           "title": "stagecaptions.io",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/infoblog",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/infoblog",
+          "publishedOn": "2026-01-28T10:03:13.000Z",
+          "wordCount": null,
+          "title": "InfoBlog",
           "imageUrl": null
         },
         {
