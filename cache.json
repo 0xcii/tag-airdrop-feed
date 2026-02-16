@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/chowder-2",
@@ -232,6 +232,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/atomic-bot",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/atomic-bot",
+          "publishedOn": "2026-02-13T00:26:45.000Z",
+          "wordCount": null,
+          "title": "Atomic Bot",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/cosmic-light",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -379,16 +389,6 @@
           "publishedOn": "2026-02-10T19:21:48.000Z",
           "wordCount": null,
           "title": "TexTab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/walme-wallet",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/walme-wallet",
-          "publishedOn": "2026-02-10T18:34:03.000Z",
-          "wordCount": null,
-          "title": "Walme Wallet",
           "imageUrl": null
         },
         {
