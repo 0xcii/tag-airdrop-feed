@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/reflex-rooster",
@@ -302,6 +302,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/marketing-agents-squad",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/marketing-agents-squad",
+          "publishedOn": "2026-02-16T07:28:25.000Z",
+          "wordCount": null,
+          "title": "Marketing Agents Squad",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/vela-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,16 +319,6 @@
           "publishedOn": "2026-02-16T01:47:04.000Z",
           "wordCount": null,
           "title": "Vela",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/nvidia",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/nvidia",
-          "publishedOn": "2026-02-16T01:13:31.000Z",
-          "wordCount": null,
-          "title": "NVIDIA PersonaPlex",
           "imageUrl": null
         },
         {
@@ -389,6 +389,16 @@
           "publishedOn": "2026-02-13T20:25:36.000Z",
           "wordCount": null,
           "title": "Empirical Health for web",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/searchseal",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/searchseal",
+          "publishedOn": "2026-02-13T17:54:38.000Z",
+          "wordCount": null,
+          "title": "SearchSeal",
           "imageUrl": null
         },
         {
@@ -499,16 +509,6 @@
           "publishedOn": "2026-01-29T16:33:49.000Z",
           "wordCount": null,
           "title": "AI Hotkeys",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/base44",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/base44",
-          "publishedOn": "2026-01-29T14:41:00.000Z",
-          "wordCount": null,
-          "title": "Base44 Backend Platform",
           "imageUrl": null
         }
       ]
