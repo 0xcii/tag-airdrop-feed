@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/decks-for-good",
@@ -302,16 +302,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/agent-monitor-track-ai-traffic",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/agent-monitor-track-ai-traffic",
-          "publishedOn": "2026-02-16T18:40:53.000Z",
-          "wordCount": null,
-          "title": "Agent Monitor",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/calendarly-calendar-on-lock-screen",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -349,6 +339,16 @@
           "publishedOn": "2026-02-16T13:29:35.000Z",
           "wordCount": null,
           "title": "VidClaw",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/hostedclaws",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hostedclaws",
+          "publishedOn": "2026-02-16T10:47:57.000Z",
+          "wordCount": null,
+          "title": "HostedClaws",
           "imageUrl": null
         },
         {
@@ -452,13 +452,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/ai-tech-packs",
+          "id": "https://www.producthunt.com/products/boost-space",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ai-tech-packs",
-          "publishedOn": "2026-02-11T15:45:55.000Z",
+          "link": "https://www.producthunt.com/products/boost-space",
+          "publishedOn": "2026-02-11T09:45:53.000Z",
           "wordCount": null,
-          "title": "AI Tech Packs",
+          "title": "Boost.space v5",
           "imageUrl": null
         },
         {
