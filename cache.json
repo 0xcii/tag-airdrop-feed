@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/rork-app-for-ios",
@@ -312,6 +312,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/omnia-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/omnia-2",
+          "publishedOn": "2026-02-17T18:19:59.000Z",
+          "wordCount": null,
+          "title": "Omnia",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/openflowkit",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -459,16 +469,6 @@
           "publishedOn": "2026-02-11T21:01:30.000Z",
           "wordCount": null,
           "title": "UI Inspector",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/moda-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/moda-2",
-          "publishedOn": "2026-02-10T16:09:57.000Z",
-          "wordCount": null,
-          "title": "Moda",
           "imageUrl": null
         },
         {
