@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-24T11:36:46.002Z</id>
+    <id>urn:2026-02-24T12:56:27.556Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-24T11:36:46.002Z</updated>
+    <updated>2026-02-24T12:56:27.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -246,18 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenHunt]]></title>
-        <id>https://www.producthunt.com/products/openhunt</id>
-        <link href="https://www.producthunt.com/products/openhunt"/>
-        <updated>2026-02-23T01:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AnnotateAI]]></title>
         <id>https://www.producthunt.com/products/annotateai</id>
         <link href="https://www.producthunt.com/products/annotateai"/>
@@ -286,6 +274,18 @@
         <id>https://www.producthunt.com/products/seagull-subtitles-for-everything</id>
         <link href="https://www.producthunt.com/products/seagull-subtitles-for-everything"/>
         <updated>2026-02-22T18:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 4.2]]></title>
+        <id>https://www.producthunt.com/products/grok</id>
+        <link href="https://www.producthunt.com/products/grok"/>
+        <updated>2026-02-22T15:43:12.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
