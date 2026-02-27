@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/hacker-news-for-macos",
@@ -282,16 +282,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/ghostreply-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ghostreply-2",
-          "publishedOn": "2026-02-25T05:59:26.000Z",
-          "wordCount": null,
-          "title": "GhostReply",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/chiron",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,6 +299,16 @@
           "publishedOn": "2026-02-24T22:23:04.000Z",
           "wordCount": null,
           "title": "Mastra Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/google",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/google",
+          "publishedOn": "2026-02-24T19:24:55.000Z",
+          "wordCount": null,
+          "title": "Opal 2.0 by Google Labs",
           "imageUrl": null
         },
         {
@@ -332,13 +332,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/pinly-smart-location-reminders",
+          "id": "https://www.producthunt.com/products/blanc-note",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/pinly-smart-location-reminders",
-          "publishedOn": "2026-02-24T14:18:47.000Z",
+          "link": "https://www.producthunt.com/products/blanc-note",
+          "publishedOn": "2026-02-24T11:26:40.000Z",
           "wordCount": null,
-          "title": "Pinly",
+          "title": "Blanc Note",
           "imageUrl": null
         },
         {
