@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-27T15:33:43.243Z</id>
+    <id>urn:2026-02-27T16:35:43.386Z</id>
     <title>web3::cave</title>
-    <updated>2026-02-27T15:33:43.243Z</updated>
+    <updated>2026-02-27T16:35:43.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -342,18 +342,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scenescroll]]></title>
-        <id>https://www.producthunt.com/products/scenescroll</id>
-        <link href="https://www.producthunt.com/products/scenescroll"/>
-        <updated>2026-02-24T23:18:01.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mastra Code]]></title>
         <id>https://www.producthunt.com/products/mastra</id>
         <link href="https://www.producthunt.com/products/mastra"/>
@@ -378,10 +366,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blanc Note]]></title>
-        <id>https://www.producthunt.com/products/blanc-note</id>
-        <link href="https://www.producthunt.com/products/blanc-note"/>
-        <updated>2026-02-24T11:26:40.000Z</updated>
+        <title type="html"><![CDATA[Notion Custom Agents]]></title>
+        <id>https://www.producthunt.com/products/notion</id>
+        <link href="https://www.producthunt.com/products/notion"/>
+        <updated>2026-02-24T17:23:38.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synlets]]></title>
+        <id>https://www.producthunt.com/products/synlets</id>
+        <link href="https://www.producthunt.com/products/synlets"/>
+        <updated>2026-02-24T03:39:47.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
