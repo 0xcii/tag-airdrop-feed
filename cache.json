@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/nothinghere-one-key-press-clean-screen",
@@ -202,16 +202,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/hacker-news-for-macos",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/hacker-news-for-macos",
-          "publishedOn": "2026-02-27T01:30:07.000Z",
-          "wordCount": null,
-          "title": "Hacker News for macOS",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/rankfender",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -232,13 +222,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/flarehawk",
+          "id": "https://www.producthunt.com/products/nano-banana-2-11",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/flarehawk",
-          "publishedOn": "2026-02-26T19:59:34.000Z",
+          "link": "https://www.producthunt.com/products/nano-banana-2-11",
+          "publishedOn": "2026-02-26T16:17:22.000Z",
           "wordCount": null,
-          "title": "Flarehawk",
+          "title": "Nano Banana 2",
           "imageUrl": null
         },
         {
@@ -272,13 +262,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/minimax-agent",
+          "id": "https://www.producthunt.com/products/what-s-up-with-that",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/minimax-agent",
-          "publishedOn": "2026-02-25T15:23:03.000Z",
+          "link": "https://www.producthunt.com/products/what-s-up-with-that",
+          "publishedOn": "2026-02-26T01:35:06.000Z",
           "wordCount": null,
-          "title": "MaxClaw by MiniMax",
+          "title": "What's Up With That?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/showcasepro",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/showcasepro",
+          "publishedOn": "2026-02-25T17:16:48.000Z",
+          "wordCount": null,
+          "title": "ShowcasePro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/perplexity-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/perplexity-ai",
+          "publishedOn": "2026-02-25T16:49:41.000Z",
+          "wordCount": null,
+          "title": "Perplexity Computer",
           "imageUrl": null
         },
         {
@@ -319,16 +329,6 @@
           "publishedOn": "2026-02-25T06:13:20.000Z",
           "wordCount": null,
           "title": "Study OS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/mastra",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mastra",
-          "publishedOn": "2026-02-24T22:23:04.000Z",
-          "wordCount": null,
-          "title": "Mastra Code",
           "imageUrl": null
         },
         {
@@ -399,16 +399,6 @@
           "publishedOn": "2026-02-23T01:57:04.000Z",
           "wordCount": null,
           "title": "WEIR AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/helixdb",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/helixdb",
-          "publishedOn": "2026-02-21T15:31:24.000Z",
-          "wordCount": null,
-          "title": "HelixDB",
           "imageUrl": null
         },
         {
@@ -509,6 +499,16 @@
           "publishedOn": "2026-02-11T00:06:43.000Z",
           "wordCount": null,
           "title": "Mosaic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/superset-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/superset-5",
+          "publishedOn": "2026-02-10T18:25:56.000Z",
+          "wordCount": null,
+          "title": "Superset",
           "imageUrl": null
         }
       ]
