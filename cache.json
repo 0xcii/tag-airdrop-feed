@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/gitsync-lite-for-macos",
@@ -302,16 +302,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/alexandria-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/alexandria-3",
-          "publishedOn": "2026-03-03T03:28:16.000Z",
-          "wordCount": null,
-          "title": "Alexandria",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/qwen3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -362,13 +352,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/deep-personality",
+          "id": "https://www.producthunt.com/products/monodesk-workspace-for-creative-pros",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/deep-personality",
-          "publishedOn": "2026-03-03T00:18:14.000Z",
+          "link": "https://www.producthunt.com/products/monodesk-workspace-for-creative-pros",
+          "publishedOn": "2026-03-02T22:55:08.000Z",
           "wordCount": null,
-          "title": "Deep Personality",
+          "title": "MonoDesk",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/continue",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/continue",
+          "publishedOn": "2026-03-02T22:03:14.000Z",
+          "wordCount": null,
+          "title": "Continue (Mission Control)",
           "imageUrl": null
         },
         {
