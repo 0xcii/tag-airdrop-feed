@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-20T08:35:27.031Z</id>
+    <id>urn:2026-03-20T09:36:01.396Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-20T08:35:27.031Z</updated>
+    <updated>2026-03-20T09:36:01.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -234,18 +234,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scheduled]]></title>
-        <id>https://www.producthunt.com/products/scheduled-2</id>
-        <link href="https://www.producthunt.com/products/scheduled-2"/>
-        <updated>2026-03-19T02:29:37.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Billy.sh]]></title>
         <id>https://www.producthunt.com/products/billy-sh</id>
         <link href="https://www.producthunt.com/products/billy-sh"/>
@@ -262,6 +250,30 @@
         <id>https://www.producthunt.com/products/okan-claude-code-browser-notifications</id>
         <link href="https://www.producthunt.com/products/okan-claude-code-browser-notifications"/>
         <updated>2026-03-19T01:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Link AI]]></title>
+        <id>https://www.producthunt.com/products/link-ai</id>
+        <link href="https://www.producthunt.com/products/link-ai"/>
+        <updated>2026-03-19T00:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fundable API]]></title>
+        <id>https://www.producthunt.com/products/fundable-2</id>
+        <link href="https://www.producthunt.com/products/fundable-2"/>
+        <updated>2026-03-19T00:48:06.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -306,18 +318,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PixelClaw]]></title>
-        <id>https://www.producthunt.com/products/pixelclaw</id>
-        <link href="https://www.producthunt.com/products/pixelclaw"/>
-        <updated>2026-03-18T17:47:20.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[talat]]></title>
         <id>https://www.producthunt.com/products/talat</id>
         <link href="https://www.producthunt.com/products/talat"/>
@@ -342,10 +342,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Machine Payments Protocol]]></title>
-        <id>https://www.producthunt.com/products/stripe</id>
-        <link href="https://www.producthunt.com/products/stripe"/>
-        <updated>2026-03-18T16:18:31.000Z</updated>
+        <title type="html"><![CDATA[Budibase AI Agents]]></title>
+        <id>https://www.producthunt.com/products/budibase</id>
+        <link href="https://www.producthunt.com/products/budibase"/>
+        <updated>2026-03-18T14:58:30.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -402,18 +402,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smooth Capture]]></title>
-        <id>https://www.producthunt.com/products/smooth-capture</id>
-        <link href="https://www.producthunt.com/products/smooth-capture"/>
-        <updated>2026-03-18T10:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tracium.ai]]></title>
         <id>https://www.producthunt.com/products/tracium-ai</id>
         <link href="https://www.producthunt.com/products/tracium-ai"/>
@@ -450,10 +438,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MCPCore]]></title>
+        <id>https://www.producthunt.com/products/mcpcore</id>
+        <link href="https://www.producthunt.com/products/mcpcore"/>
+        <updated>2026-03-17T16:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AdsTurbo]]></title>
         <id>https://www.producthunt.com/products/adsturbo-2</id>
         <link href="https://www.producthunt.com/products/adsturbo-2"/>
         <updated>2026-03-17T07:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA NemoClaw]]></title>
+        <id>https://www.producthunt.com/products/nvidia</id>
+        <link href="https://www.producthunt.com/products/nvidia"/>
+        <updated>2026-03-17T00:59:51.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -574,18 +586,6 @@
         <id>https://www.producthunt.com/products/assembly-7</id>
         <link href="https://www.producthunt.com/products/assembly-7"/>
         <updated>2026-02-27T21:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comet for iOS]]></title>
-        <id>https://www.producthunt.com/products/perplexity-ai</id>
-        <link href="https://www.producthunt.com/products/perplexity-ai"/>
-        <updated>2026-02-19T19:30:26.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
