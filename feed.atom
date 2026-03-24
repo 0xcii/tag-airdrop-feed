@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T07:02:49.449Z</id>
+    <id>urn:2026-03-24T08:45:59.348Z</id>
     <title>web3::cave</title>
-    <updated>2026-03-24T07:02:49.449Z</updated>
+    <updated>2026-03-24T08:45:59.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[SaveXTweet]]></title>
-        <id>https://www.producthunt.com/products/savextweet</id>
-        <link href="https://www.producthunt.com/products/savextweet"/>
-        <updated>2026-03-24T06:01:23.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Library in ChatGPT]]></title>
         <id>https://www.producthunt.com/products/chatgpt</id>
@@ -102,7 +90,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ordo for Android]]></title>
+        <title type="html"><![CDATA[Ordo: Save, Organise & Rediscover.]]></title>
         <id>https://www.producthunt.com/products/ordo</id>
         <link href="https://www.producthunt.com/products/ordo"/>
         <updated>2026-03-23T19:38:04.000Z</updated>
@@ -162,6 +150,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DebugBase]]></title>
+        <id>https://www.producthunt.com/products/debugbase</id>
+        <link href="https://www.producthunt.com/products/debugbase"/>
+        <updated>2026-03-23T08:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fastlane]]></title>
         <id>https://www.producthunt.com/products/fastlane-3</id>
         <link href="https://www.producthunt.com/products/fastlane-3"/>
@@ -198,7 +198,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Replay production API failures locally]]></title>
+        <title type="html"><![CDATA[Flux]]></title>
         <id>https://www.producthunt.com/products/replay-production-api-failures-locally</id>
         <link href="https://www.producthunt.com/products/replay-production-api-failures-locally"/>
         <updated>2026-03-23T04:05:08.000Z</updated>
@@ -294,10 +294,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contral]]></title>
-        <id>https://www.producthunt.com/products/contral</id>
-        <link href="https://www.producthunt.com/products/contral"/>
-        <updated>2026-03-20T20:40:44.000Z</updated>
+        <title type="html"><![CDATA[Claude Cowork Projects]]></title>
+        <id>https://www.producthunt.com/products/claude-cowork-projects</id>
+        <link href="https://www.producthunt.com/products/claude-cowork-projects"/>
+        <updated>2026-03-20T16:23:41.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -310,6 +310,18 @@
         <id>https://www.producthunt.com/products/educato-app</id>
         <link href="https://www.producthunt.com/products/educato-app"/>
         <updated>2026-03-20T15:20:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor Glass]]></title>
+        <id>https://www.producthunt.com/products/glass-4</id>
+        <link href="https://www.producthunt.com/products/glass-4"/>
+        <updated>2026-03-20T14:14:15.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -342,19 +354,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caplo]]></title>
-        <id>https://www.producthunt.com/products/caplo</id>
-        <link href="https://www.producthunt.com/products/caplo"/>
-        <updated>2026-03-20T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drift: Claude code for robot simulations]]></title>
+        <title type="html"><![CDATA[Drift: Claude Code for robot simulations]]></title>
         <id>https://www.producthunt.com/products/drift-ai</id>
         <link href="https://www.producthunt.com/products/drift-ai"/>
         <updated>2026-03-20T05:17:26.000Z</updated>
@@ -438,18 +438,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[murmur]]></title>
-        <id>https://www.producthunt.com/products/murmur-7</id>
-        <link href="https://www.producthunt.com/products/murmur-7"/>
-        <updated>2026-03-17T05:03:11.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NextPhone]]></title>
         <id>https://www.producthunt.com/products/nextphone-ai-answering-service-2</id>
         <link href="https://www.producthunt.com/products/nextphone-ai-answering-service-2"/>
@@ -510,10 +498,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Design Agent by Lokuma]]></title>
-        <id>https://www.producthunt.com/products/lokuma-ai</id>
-        <link href="https://www.producthunt.com/products/lokuma-ai"/>
-        <updated>2026-03-09T10:53:28.000Z</updated>
+        <title type="html"><![CDATA[Mindspend]]></title>
+        <id>https://www.producthunt.com/products/mindspend</id>
+        <link href="https://www.producthunt.com/products/mindspend"/>
+        <updated>2026-03-07T17:40:08.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -574,6 +562,18 @@
         <id>https://www.producthunt.com/products/novi-notes</id>
         <link href="https://www.producthunt.com/products/novi-notes"/>
         <updated>2026-02-27T18:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractal]]></title>
+        <id>https://www.producthunt.com/products/fractal-2</id>
+        <link href="https://www.producthunt.com/products/fractal-2"/>
+        <updated>2026-02-27T01:57:01.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
