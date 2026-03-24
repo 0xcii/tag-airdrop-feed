@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/chatgpt",
@@ -282,6 +282,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/glass-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/glass-4",
+          "publishedOn": "2026-03-20T14:14:15.000Z",
+          "wordCount": null,
+          "title": "Cursor Glass",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/everest-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,16 +439,6 @@
           "publishedOn": "2026-03-11T07:09:56.000Z",
           "wordCount": null,
           "title": "Google Gemini in Chrome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/lokuma-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/lokuma-ai",
-          "publishedOn": "2026-03-09T10:53:28.000Z",
-          "wordCount": null,
-          "title": "Design Agent by Lokuma",
           "imageUrl": null
         },
         {
