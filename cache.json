@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/suno",
@@ -232,13 +232,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/breadcrumb-2",
+          "id": "https://www.producthunt.com/products/your-ai-colleague-is-online-meet-zeus",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/breadcrumb-2",
-          "publishedOn": "2026-03-25T22:44:16.000Z",
+          "link": "https://www.producthunt.com/products/your-ai-colleague-is-online-meet-zeus",
+          "publishedOn": "2026-03-26T01:59:45.000Z",
           "wordCount": null,
-          "title": "Breadcrumb",
+          "title": "Zeus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nebils",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nebils",
+          "publishedOn": "2026-03-25T22:03:42.000Z",
+          "wordCount": null,
+          "title": "Nebils",
           "imageUrl": null
         },
         {
@@ -252,6 +262,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/claude-mobile-work-tools",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/claude-mobile-work-tools",
+          "publishedOn": "2026-03-25T17:37:12.000Z",
+          "wordCount": null,
+          "title": "Claude Mobile: Work Tools",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/google-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -259,16 +279,6 @@
           "publishedOn": "2026-03-25T16:49:59.000Z",
           "wordCount": null,
           "title": "Lyria 3 Pro by Google Deepmind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/dunky-ai-pitch-analyzer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/dunky-ai-pitch-analyzer",
-          "publishedOn": "2026-03-25T16:49:00.000Z",
-          "wordCount": null,
-          "title": "Dunky AI",
           "imageUrl": null
         },
         {
@@ -362,16 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/trivia-by-typito-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/trivia-by-typito-ai",
-          "publishedOn": "2026-03-25T08:45:01.000Z",
-          "wordCount": null,
-          "title": "Trivia by Typito AI",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/youtube-transcript-tool-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -389,6 +389,16 @@
           "publishedOn": "2026-03-25T07:38:07.000Z",
           "wordCount": null,
           "title": "Eron",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/arm-agi-cpu",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/arm-agi-cpu",
+          "publishedOn": "2026-03-25T05:02:08.000Z",
+          "wordCount": null,
+          "title": "Arm AGI CPU",
           "imageUrl": null
         },
         {
@@ -442,6 +452,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/douzo",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/douzo",
+          "publishedOn": "2026-03-23T16:12:30.000Z",
+          "wordCount": null,
+          "title": "Douzo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/picklematch",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -479,16 +499,6 @@
           "publishedOn": "2026-03-19T19:39:21.000Z",
           "wordCount": null,
           "title": "Stakpak Autopilot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/triqai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/triqai",
-          "publishedOn": "2026-03-06T09:46:36.000Z",
-          "wordCount": null,
-          "title": "Triqai",
           "imageUrl": null
         }
       ]
