@@ -12,6 +12,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/products/influcio-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/influcio-2",
+          "publishedOn": "2026-04-04T10:57:03.000Z",
+          "wordCount": null,
+          "title": "Influcio",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/sleek-analytics",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -312,16 +322,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/openyak",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/openyak",
-          "publishedOn": "2026-04-01T19:23:53.000Z",
-          "wordCount": null,
-          "title": "OpenYak",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/duck-duck-duck-by-ideo",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -342,13 +342,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/wan-2-2",
+          "id": "https://www.producthunt.com/products/tonkotsu",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wan-2-2",
-          "publishedOn": "2026-04-01T14:13:56.000Z",
+          "link": "https://www.producthunt.com/products/tonkotsu",
+          "publishedOn": "2026-04-01T08:50:55.000Z",
           "wordCount": null,
-          "title": "Wan 2.7-Image",
+          "title": "Handle Extension",
           "imageUrl": null
         },
         {
@@ -359,26 +359,6 @@
           "publishedOn": "2026-04-01T06:08:18.000Z",
           "wordCount": null,
           "title": "Mngr",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/rocketlane",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/rocketlane",
-          "publishedOn": "2026-04-01T04:38:04.000Z",
-          "wordCount": null,
-          "title": "Nitro by Rocketlane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/roger-ai-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/roger-ai-2",
-          "publishedOn": "2026-03-31T15:46:41.000Z",
-          "wordCount": null,
-          "title": "Roger AI",
           "imageUrl": null
         },
         {
@@ -409,6 +389,26 @@
           "publishedOn": "2026-03-31T06:23:34.000Z",
           "wordCount": null,
           "title": "OpenGyver",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/cohere-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/cohere-2",
+          "publishedOn": "2026-03-31T03:59:06.000Z",
+          "wordCount": null,
+          "title": "Tiny Aya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ember-104",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ember-104",
+          "publishedOn": "2026-03-30T13:26:55.000Z",
+          "wordCount": null,
+          "title": "Ember",
           "imageUrl": null
         },
         {
@@ -452,23 +452,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/mode-ai-2",
+          "id": "https://www.producthunt.com/products/panorama",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mode-ai-2",
-          "publishedOn": "2026-03-27T09:31:22.000Z",
+          "link": "https://www.producthunt.com/products/panorama",
+          "publishedOn": "2026-03-27T14:50:35.000Z",
           "wordCount": null,
-          "title": "Mode AI",
+          "title": "Panorama",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/smallest-ai",
+          "id": "https://www.producthunt.com/products/catbar",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/smallest-ai",
-          "publishedOn": "2026-03-09T11:33:58.000Z",
+          "link": "https://www.producthunt.com/products/catbar",
+          "publishedOn": "2026-03-27T07:03:26.000Z",
           "wordCount": null,
-          "title": "Lightning V3",
+          "title": "CatBar",
           "imageUrl": null
         }
       ]
