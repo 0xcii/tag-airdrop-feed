@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T19:55:50.533Z</id>
+    <id>urn:2026-04-08T20:38:51.034Z</id>
     <title>web3::cave</title>
-    <updated>2026-04-08T19:55:50.533Z</updated>
+    <updated>2026-04-08T20:38:51.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -222,18 +222,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix Playground]]></title>
-        <id>https://www.producthunt.com/products/netflix</id>
-        <link href="https://www.producthunt.com/products/netflix"/>
-        <updated>2026-04-07T02:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google AI Edge Eloquent]]></title>
         <id>https://www.producthunt.com/products/google</id>
         <link href="https://www.producthunt.com/products/google"/>
@@ -286,6 +274,18 @@
         <id>https://www.producthunt.com/products/seolint</id>
         <link href="https://www.producthunt.com/products/seolint"/>
         <updated>2026-04-06T19:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Designer MCP]]></title>
+        <id>https://www.producthunt.com/products/aidesigner</id>
+        <link href="https://www.producthunt.com/products/aidesigner"/>
+        <updated>2026-04-06T18:51:09.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
