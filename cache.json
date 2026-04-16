@@ -12,23 +12,253 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
-          "id": "https://www.producthunt.com/products/reka-vision",
+          "id": "https://www.producthunt.com/products/foyer-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/reka-vision",
-          "publishedOn": "2026-04-15T02:56:05.000Z",
+          "link": "https://www.producthunt.com/products/foyer-3",
+          "publishedOn": "2026-04-16T06:59:06.000Z",
           "wordCount": null,
-          "title": "Reka Edge",
+          "title": "Foyer",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/miniai",
+          "id": "https://www.producthunt.com/products/openai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/miniai",
-          "publishedOn": "2026-04-15T00:44:36.000Z",
+          "link": "https://www.producthunt.com/products/openai",
+          "publishedOn": "2026-04-16T06:51:50.000Z",
           "wordCount": null,
-          "title": "MiniAi",
+          "title": "OpenAI Agents SDK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/taskshell",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/taskshell",
+          "publishedOn": "2026-04-16T06:48:10.000Z",
+          "wordCount": null,
+          "title": "TaskShell",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/agent-card",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/agent-card",
+          "publishedOn": "2026-04-16T05:42:07.000Z",
+          "wordCount": null,
+          "title": "Agent Card",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/3pl-hub",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/3pl-hub",
+          "publishedOn": "2026-04-16T02:55:46.000Z",
+          "wordCount": null,
+          "title": "3PL Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/macspoof",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/macspoof",
+          "publishedOn": "2026-04-16T00:15:19.000Z",
+          "wordCount": null,
+          "title": "MacSpoof",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/hiveterm",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hiveterm",
+          "publishedOn": "2026-04-15T23:28:07.000Z",
+          "wordCount": null,
+          "title": "HiveTerm",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/windsurf",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/windsurf",
+          "publishedOn": "2026-04-15T23:05:31.000Z",
+          "wordCount": null,
+          "title": "Windsurf 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/resend",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/resend",
+          "publishedOn": "2026-04-15T22:14:26.000Z",
+          "wordCount": null,
+          "title": "Resend CLI 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/pilot5-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pilot5-ai",
+          "publishedOn": "2026-04-15T21:30:14.000Z",
+          "wordCount": null,
+          "title": "Pilot5.ai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/google",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/google",
+          "publishedOn": "2026-04-15T20:06:05.000Z",
+          "wordCount": null,
+          "title": "Subagents in Gemini CLI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/funkey",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/funkey",
+          "publishedOn": "2026-04-15T18:33:27.000Z",
+          "wordCount": null,
+          "title": "FunKey",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/deduce",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/deduce",
+          "publishedOn": "2026-04-15T16:56:04.000Z",
+          "wordCount": null,
+          "title": "deduce",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/google-gemini-3-1-flash-tts",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/google-gemini-3-1-flash-tts",
+          "publishedOn": "2026-04-15T16:11:39.000Z",
+          "wordCount": null,
+          "title": "Google Gemini 3.1 Flash TTS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/bitcoin-safe-desktop-wallet-foss",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bitcoin-safe-desktop-wallet-foss",
+          "publishedOn": "2026-04-15T13:39:56.000Z",
+          "wordCount": null,
+          "title": "Bitcoin-Safe Desktop Wallet (FOSS)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/hackerearth",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/hackerearth",
+          "publishedOn": "2026-04-15T13:38:25.000Z",
+          "wordCount": null,
+          "title": "HackerEarth OnScreen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/innogath",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/innogath",
+          "publishedOn": "2026-04-15T10:56:38.000Z",
+          "wordCount": null,
+          "title": "Innogath",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/clawtab",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/clawtab",
+          "publishedOn": "2026-04-15T09:34:16.000Z",
+          "wordCount": null,
+          "title": "ClawTab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/splitt-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/splitt-3",
+          "publishedOn": "2026-04-15T09:23:22.000Z",
+          "wordCount": null,
+          "title": "Splitt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/lisa-core-your-ai-memory-library",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lisa-core-your-ai-memory-library",
+          "publishedOn": "2026-04-15T08:46:23.000Z",
+          "wordCount": null,
+          "title": "LISA Core",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/marble-by-world-labs",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/marble-by-world-labs",
+          "publishedOn": "2026-04-15T08:03:45.000Z",
+          "wordCount": null,
+          "title": "Spark 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/baremetrics",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/baremetrics",
+          "publishedOn": "2026-04-15T04:07:11.000Z",
+          "wordCount": null,
+          "title": "Baremetrics for HubSpot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/chinilla",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/chinilla",
+          "publishedOn": "2026-04-15T03:37:18.000Z",
+          "wordCount": null,
+          "title": "Chinilla",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/subspace-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/subspace-4",
+          "publishedOn": "2026-04-15T01:53:00.000Z",
+          "wordCount": null,
+          "title": "Subspace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fellow-app",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fellow-app",
+          "publishedOn": "2026-04-14T21:49:10.000Z",
+          "wordCount": null,
+          "title": "Fellow for iOS",
           "imageUrl": null
         },
         {
@@ -42,33 +272,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/the-google-app-for-desktop",
+          "id": "https://www.producthunt.com/products/claude-redesigned",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/the-google-app-for-desktop",
-          "publishedOn": "2026-04-14T19:49:08.000Z",
+          "link": "https://www.producthunt.com/products/claude-redesigned",
+          "publishedOn": "2026-04-14T19:22:22.000Z",
           "wordCount": null,
-          "title": "Google app for desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/lovable",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/lovable",
-          "publishedOn": "2026-04-14T19:26:11.000Z",
-          "wordCount": null,
-          "title": "Lovable Desktop App",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/astra-5",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/astra-5",
-          "publishedOn": "2026-04-14T19:25:24.000Z",
-          "wordCount": null,
-          "title": "Astra",
+          "title": "Claude Code Desktop App Redesigned",
           "imageUrl": null
         },
         {
@@ -82,23 +292,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/claude",
+          "id": "https://www.producthunt.com/products/google-chrome-skills",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/claude",
-          "publishedOn": "2026-04-14T16:45:51.000Z",
+          "link": "https://www.producthunt.com/products/google-chrome-skills",
+          "publishedOn": "2026-04-14T17:09:07.000Z",
           "wordCount": null,
-          "title": "Claude Code Routines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/google",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/google",
-          "publishedOn": "2026-04-14T16:05:08.000Z",
-          "wordCount": null,
-          "title": "Gemini Robotics ER 1.6",
+          "title": "Google Chrome Skills",
           "imageUrl": null
         },
         {
@@ -132,143 +332,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
+          "id": "https://www.producthunt.com/products/stagewise-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/clide-the-ai-native-mac-terminal",
-          "publishedOn": "2026-04-14T08:16:25.000Z",
+          "link": "https://www.producthunt.com/products/stagewise-2",
+          "publishedOn": "2026-04-14T07:57:22.000Z",
           "wordCount": null,
-          "title": "Clide",
+          "title": "stagewise",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cc-beeper",
+          "id": "https://www.producthunt.com/products/kampala-by-zatanna",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cc-beeper",
-          "publishedOn": "2026-04-14T07:51:26.000Z",
+          "link": "https://www.producthunt.com/products/kampala-by-zatanna",
+          "publishedOn": "2026-04-14T02:58:15.000Z",
           "wordCount": null,
-          "title": "CC-BEEPER",
+          "title": "Kampala by Zatanna",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/epsilla",
+          "id": "https://www.producthunt.com/products/workbench-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/epsilla",
-          "publishedOn": "2026-04-14T04:22:02.000Z",
+          "link": "https://www.producthunt.com/products/workbench-4",
+          "publishedOn": "2026-04-13T20:56:04.000Z",
           "wordCount": null,
-          "title": "ClawTrace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/open-agents-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/open-agents-2",
-          "publishedOn": "2026-04-14T04:18:25.000Z",
-          "wordCount": null,
-          "title": "Open Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/cenote",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cenote",
-          "publishedOn": "2026-04-14T00:14:16.000Z",
-          "wordCount": null,
-          "title": "Cenote",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/playbook-6",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/playbook-6",
-          "publishedOn": "2026-04-13T20:06:34.000Z",
-          "wordCount": null,
-          "title": "Playbook Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ai-website-redesign",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ai-website-redesign",
-          "publishedOn": "2026-04-13T19:10:38.000Z",
-          "wordCount": null,
-          "title": "Shuffle AI Redesign Extension",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/shutup-mcp",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/shutup-mcp",
-          "publishedOn": "2026-04-13T16:42:51.000Z",
-          "wordCount": null,
-          "title": "shutup-mcp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/google",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/google",
-          "publishedOn": "2026-04-13T15:53:10.000Z",
-          "wordCount": null,
-          "title": "Google's Nest Doorbell",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/opticlear-storage-cleaner",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/opticlear-storage-cleaner",
-          "publishedOn": "2026-04-13T13:23:13.000Z",
-          "wordCount": null,
-          "title": "OptiClear",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/augment-code",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/augment-code",
-          "publishedOn": "2026-04-13T12:54:49.000Z",
-          "wordCount": null,
-          "title": "Intent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/doz-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/doz-2",
-          "publishedOn": "2026-04-13T11:42:22.000Z",
-          "wordCount": null,
-          "title": "Doz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/pane-studio",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/pane-studio",
-          "publishedOn": "2026-04-13T07:38:07.000Z",
-          "wordCount": null,
-          "title": "Pane Studio (Beta)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/donely",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/donely",
-          "publishedOn": "2026-04-13T03:20:31.000Z",
-          "wordCount": null,
-          "title": "Donely",
+          "title": "Workbench",
           "imageUrl": null
         },
         {
@@ -292,53 +382,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/wafer",
+          "id": "https://www.producthunt.com/products/askiva-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wafer",
-          "publishedOn": "2026-04-12T19:34:43.000Z",
+          "link": "https://www.producthunt.com/products/askiva-ai",
+          "publishedOn": "2026-04-12T20:02:27.000Z",
           "wordCount": null,
-          "title": "Wafer Pass",
+          "title": "Askiva AI",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/as-notes-pkms-extension-for-vs-code",
+          "id": "https://www.producthunt.com/products/libertify-com",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/as-notes-pkms-extension-for-vs-code",
-          "publishedOn": "2026-04-12T17:29:07.000Z",
+          "link": "https://www.producthunt.com/products/libertify-com",
+          "publishedOn": "2026-04-12T19:58:03.000Z",
           "wordCount": null,
-          "title": "AS Notes",
+          "title": "Libertify.com",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cascode",
+          "id": "https://www.producthunt.com/products/x-pilot-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cascode",
-          "publishedOn": "2026-04-11T15:56:38.000Z",
+          "link": "https://www.producthunt.com/products/x-pilot-5",
+          "publishedOn": "2026-04-12T15:17:56.000Z",
           "wordCount": null,
-          "title": "Cascode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/framecube",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/framecube",
-          "publishedOn": "2026-04-11T06:29:21.000Z",
-          "wordCount": null,
-          "title": "FrameCube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/sql-gnome",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/sql-gnome",
-          "publishedOn": "2026-04-11T00:45:35.000Z",
-          "wordCount": null,
-          "title": "SQL Gnome",
+          "title": "X-Pilot",
           "imageUrl": null
         },
         {
@@ -352,93 +422,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/meercop-laptop-phone-anti-theft-pwa",
+          "id": "https://www.producthunt.com/products/avec",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/meercop-laptop-phone-anti-theft-pwa",
-          "publishedOn": "2026-04-10T15:23:42.000Z",
+          "link": "https://www.producthunt.com/products/avec",
+          "publishedOn": "2026-04-09T22:43:03.000Z",
           "wordCount": null,
-          "title": "MeerCOP",
+          "title": "Avec",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/anamap",
+          "id": "https://www.producthunt.com/products/incoclyse",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/anamap",
-          "publishedOn": "2026-04-10T06:11:15.000Z",
+          "link": "https://www.producthunt.com/products/incoclyse",
+          "publishedOn": "2026-04-09T10:18:37.000Z",
           "wordCount": null,
-          "title": "Anamap",
+          "title": "Incoclyse",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/renderr",
+          "id": "https://www.producthunt.com/products/flixier",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/renderr",
-          "publishedOn": "2026-04-10T01:06:10.000Z",
+          "link": "https://www.producthunt.com/products/flixier",
+          "publishedOn": "2026-04-07T12:35:00.000Z",
           "wordCount": null,
-          "title": "Renderr",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/marketrecon",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/marketrecon",
-          "publishedOn": "2026-04-09T19:17:37.000Z",
-          "wordCount": null,
-          "title": "MarketRecon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/collabute",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/collabute",
-          "publishedOn": "2026-04-09T15:13:51.000Z",
-          "wordCount": null,
-          "title": "Collabute",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/pixdone-todo-app-with-pixel-effects",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/pixdone-todo-app-with-pixel-effects",
-          "publishedOn": "2026-04-09T08:58:34.000Z",
-          "wordCount": null,
-          "title": "PixDone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/carousels-generator",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/carousels-generator",
-          "publishedOn": "2026-04-08T12:54:27.000Z",
-          "wordCount": null,
-          "title": "Carousels Generator",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/thefrontkit",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/thefrontkit",
-          "publishedOn": "2026-04-07T16:09:31.000Z",
-          "wordCount": null,
-          "title": "thefrontkit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/defter-notes-2-0",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/defter-notes-2-0",
-          "publishedOn": "2026-04-07T15:21:11.000Z",
-          "wordCount": null,
-          "title": "Defter Notes 2.0.",
+          "title": "Flixier Edit by Transcript",
           "imageUrl": null
         },
         {
@@ -462,13 +472,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/secuspark",
+          "id": "https://www.producthunt.com/products/codeplanet",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/secuspark",
-          "publishedOn": "2026-04-02T02:33:00.000Z",
+          "link": "https://www.producthunt.com/products/codeplanet",
+          "publishedOn": "2026-04-06T13:17:54.000Z",
           "wordCount": null,
-          "title": "SecuSpark",
+          "title": "CodePlanet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/clayhog",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/clayhog",
+          "publishedOn": "2026-04-04T10:35:16.000Z",
+          "wordCount": null,
+          "title": "ClayHog",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/withmantle",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/withmantle",
+          "publishedOn": "2026-04-02T16:21:43.000Z",
+          "wordCount": null,
+          "title": "Mantle SAFEs",
           "imageUrl": null
         },
         {
@@ -479,26 +509,6 @@
           "publishedOn": "2026-03-31T16:03:10.000Z",
           "wordCount": null,
           "title": "Mush",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/surfpad",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/surfpad",
-          "publishedOn": "2026-03-22T10:24:01.000Z",
-          "wordCount": null,
-          "title": "SurfPad",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/lexielearn",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/lexielearn",
-          "publishedOn": "2026-03-18T16:36:16.000Z",
-          "wordCount": null,
-          "title": "Lexie",
           "imageUrl": null
         }
       ]
