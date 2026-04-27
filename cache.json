@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/claude-connectors",
@@ -242,6 +242,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/the-autonomous-stack",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/the-autonomous-stack",
+          "publishedOn": "2026-04-23T05:09:02.000Z",
+          "wordCount": null,
+          "title": "The Autonomous Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/agent-context",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/agent-context",
+          "publishedOn": "2026-04-22T21:02:10.000Z",
+          "wordCount": null,
+          "title": "Agent Context",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/google",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -259,16 +279,6 @@
           "publishedOn": "2026-04-22T17:04:31.000Z",
           "wordCount": null,
           "title": "Free LLM API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/mimo-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mimo-3",
-          "publishedOn": "2026-04-22T16:51:37.000Z",
-          "wordCount": null,
-          "title": "MiMo-V2.5 & Pro",
           "imageUrl": null
         },
         {
@@ -349,16 +359,6 @@
           "publishedOn": "2026-04-21T10:16:14.000Z",
           "wordCount": null,
           "title": "FocuSee 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/figma-for-ai-agents",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/figma-for-ai-agents",
-          "publishedOn": "2026-04-21T08:31:47.000Z",
-          "wordCount": null,
-          "title": "Design.MD",
           "imageUrl": null
         },
         {
