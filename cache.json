@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/peekfocus",
@@ -342,6 +342,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/picsart",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/picsart",
+          "publishedOn": "2026-04-28T14:31:08.000Z",
+          "wordCount": null,
+          "title": "Picsart CLI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/screenveil",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,16 +439,6 @@
           "publishedOn": "2026-04-24T14:28:09.000Z",
           "wordCount": null,
           "title": "Zush: AI File Renamer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/karmabox-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/karmabox-2",
-          "publishedOn": "2026-04-23T13:23:14.000Z",
-          "wordCount": null,
-          "title": "KarmaBox",
           "imageUrl": null
         },
         {
