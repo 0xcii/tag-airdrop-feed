@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/peekfocus",
@@ -342,16 +342,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/picsart",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/picsart",
-          "publishedOn": "2026-04-28T14:31:08.000Z",
-          "wordCount": null,
-          "title": "Picsart CLI",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/screenveil",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -438,7 +428,7 @@
           "link": "https://www.producthunt.com/products/zush",
           "publishedOn": "2026-04-24T14:28:09.000Z",
           "wordCount": null,
-          "title": "Zush: AI File Renamer",
+          "title": "Zush",
           "imageUrl": null
         },
         {
@@ -459,6 +449,16 @@
           "publishedOn": "2026-04-21T16:35:18.000Z",
           "wordCount": null,
           "title": "Gemini Deep Research Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/codescene-codehealth-mcp-server",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/codescene-codehealth-mcp-server",
+          "publishedOn": "2026-04-20T14:08:53.000Z",
+          "wordCount": null,
+          "title": "CodeHealth MCP Server by CodeScene",
           "imageUrl": null
         },
         {
