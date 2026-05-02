@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-02T13:00:46.918Z</id>
+    <id>urn:2026-05-02T14:41:47.204Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-02T13:00:46.918Z</updated>
+    <updated>2026-05-02T14:41:47.204Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -150,18 +150,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Motorola Razr Fold]]></title>
-        <id>https://www.producthunt.com/products/motorola-g7</id>
-        <link href="https://www.producthunt.com/products/motorola-g7"/>
-        <updated>2026-04-30T05:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SuperMind]]></title>
         <id>https://www.producthunt.com/products/supermind-2</id>
         <link href="https://www.producthunt.com/products/supermind-2"/>
@@ -174,34 +162,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Docky]]></title>
+        <id>https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus</id>
+        <link href="https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus"/>
+        <updated>2026-04-30T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AstroGrid]]></title>
+        <id>https://www.producthunt.com/products/astrogrid</id>
+        <link href="https://www.producthunt.com/products/astrogrid"/>
+        <updated>2026-04-30T03:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basedash Dashboard Agent]]></title>
+        <id>https://www.producthunt.com/products/basedash</id>
+        <link href="https://www.producthunt.com/products/basedash"/>
+        <updated>2026-04-30T03:05:57.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[File Generation in Gemini]]></title>
         <id>https://www.producthunt.com/products/gemini-6</id>
         <link href="https://www.producthunt.com/products/gemini-6"/>
         <updated>2026-04-30T02:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miaw AI secretary]]></title>
-        <id>https://www.producthunt.com/products/miaw-ai-secretary</id>
-        <link href="https://www.producthunt.com/products/miaw-ai-secretary"/>
-        <updated>2026-04-30T02:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MailToDock]]></title>
-        <id>https://www.producthunt.com/products/mailtodock</id>
-        <link href="https://www.producthunt.com/products/mailtodock"/>
-        <updated>2026-04-30T02:07:21.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -282,6 +282,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Invite Only]]></title>
+        <id>https://www.producthunt.com/products/invite-only</id>
+        <link href="https://www.producthunt.com/products/invite-only"/>
+        <updated>2026-04-29T10:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Breaks]]></title>
         <id>https://www.producthunt.com/products/breaks</id>
         <link href="https://www.producthunt.com/products/breaks"/>
@@ -330,10 +342,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sync-in]]></title>
-        <id>https://www.producthunt.com/products/sync-in</id>
-        <link href="https://www.producthunt.com/products/sync-in"/>
-        <updated>2026-04-29T08:01:37.000Z</updated>
+        <title type="html"><![CDATA[Wonder]]></title>
+        <id>https://www.producthunt.com/products/wonder-public-alpha</id>
+        <link href="https://www.producthunt.com/products/wonder-public-alpha"/>
+        <updated>2026-04-29T06:48:52.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -354,10 +366,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tinfoil]]></title>
-        <id>https://www.producthunt.com/products/tinfoil-private-ai-chat</id>
-        <link href="https://www.producthunt.com/products/tinfoil-private-ai-chat"/>
-        <updated>2026-04-28T19:37:49.000Z</updated>
+        <title type="html"><![CDATA[Mintlify Editor]]></title>
+        <id>https://www.producthunt.com/products/mintlify</id>
+        <link href="https://www.producthunt.com/products/mintlify"/>
+        <updated>2026-04-28T23:01:20.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -366,10 +378,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElevenLabs Agent Templates]]></title>
-        <id>https://www.producthunt.com/products/elevenlabs-agent-templates</id>
-        <link href="https://www.producthunt.com/products/elevenlabs-agent-templates"/>
-        <updated>2026-04-28T15:04:29.000Z</updated>
+        <title type="html"><![CDATA[Tinfoil]]></title>
+        <id>https://www.producthunt.com/products/tinfoil-private-ai-chat</id>
+        <link href="https://www.producthunt.com/products/tinfoil-private-ai-chat"/>
+        <updated>2026-04-28T19:37:49.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -426,10 +438,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[doola MCP for US LLC Formation]]></title>
-        <id>https://www.producthunt.com/products/doola-mcp</id>
-        <link href="https://www.producthunt.com/products/doola-mcp"/>
-        <updated>2026-04-27T17:44:10.000Z</updated>
+        <title type="html"><![CDATA[Tabstack]]></title>
+        <id>https://www.producthunt.com/products/tabstack</id>
+        <link href="https://www.producthunt.com/products/tabstack"/>
+        <updated>2026-04-27T12:48:36.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -438,10 +450,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tabstack]]></title>
-        <id>https://www.producthunt.com/products/tabstack</id>
-        <link href="https://www.producthunt.com/products/tabstack"/>
-        <updated>2026-04-27T12:48:36.000Z</updated>
+        <title type="html"><![CDATA[Hera Launch]]></title>
+        <id>https://www.producthunt.com/products/hera-6</id>
+        <link href="https://www.producthunt.com/products/hera-6"/>
+        <updated>2026-04-27T09:33:59.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -502,18 +514,6 @@
         <id>https://www.producthunt.com/products/copilot-health</id>
         <link href="https://www.producthunt.com/products/copilot-health"/>
         <updated>2026-04-22T10:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DESIGN.md by Google Stitch]]></title>
-        <id>https://www.producthunt.com/products/design-md-by-google-stitch</id>
-        <link href="https://www.producthunt.com/products/design-md-by-google-stitch"/>
-        <updated>2026-04-22T10:29:26.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
