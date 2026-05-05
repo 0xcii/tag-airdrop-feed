@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/dina",
@@ -142,16 +142,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/efektiva",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/efektiva",
-          "publishedOn": "2026-04-30T21:43:17.000Z",
-          "wordCount": null,
-          "title": "Efektiva",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/oriane",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -192,6 +182,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/pickle-10",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pickle-10",
+          "publishedOn": "2026-04-30T21:30:34.000Z",
+          "wordCount": null,
+          "title": "Pickle",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/the-grid-7",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -209,16 +209,6 @@
           "publishedOn": "2026-04-30T21:30:30.000Z",
           "wordCount": null,
           "title": "Perf",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/vibranium-labs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/vibranium-labs",
-          "publishedOn": "2026-04-30T21:30:24.000Z",
-          "wordCount": null,
-          "title": "Vibranium Labs",
           "imageUrl": null
         },
         {
@@ -242,13 +232,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/stackbob",
+          "id": "https://www.producthunt.com/products/zyphe",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stackbob",
-          "publishedOn": "2026-04-30T21:29:56.000Z",
+          "link": "https://www.producthunt.com/products/zyphe",
+          "publishedOn": "2026-04-30T21:29:51.000Z",
           "wordCount": null,
-          "title": "StackBob.ai",
+          "title": "Zyphe",
           "imageUrl": null
         },
         {
@@ -262,26 +252,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/ordereat",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ordereat",
-          "publishedOn": "2026-04-30T21:29:46.000Z",
-          "wordCount": null,
-          "title": "OrderEAT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/viewmind-inc",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/viewmind-inc",
-          "publishedOn": "2026-04-30T21:29:39.000Z",
-          "wordCount": null,
-          "title": "ViewMind Inc.",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/zumma",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -292,13 +262,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/flex-finance-2",
+          "id": "https://www.producthunt.com/products/truck-parking-club",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/flex-finance-2",
-          "publishedOn": "2026-04-30T21:29:30.000Z",
+          "link": "https://www.producthunt.com/products/truck-parking-club",
+          "publishedOn": "2026-04-30T21:29:32.000Z",
           "wordCount": null,
-          "title": "Flex Finance",
+          "title": "Truck Parking Club",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/enrichly-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/enrichly-2",
+          "publishedOn": "2026-04-30T21:29:25.000Z",
+          "wordCount": null,
+          "title": "Enrichly",
           "imageUrl": null
         },
         {
@@ -332,13 +312,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/icardio-ai",
+          "id": "https://www.producthunt.com/products/kodezi",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/icardio-ai",
-          "publishedOn": "2026-04-30T21:29:10.000Z",
+          "link": "https://www.producthunt.com/products/kodezi",
+          "publishedOn": "2026-04-30T21:28:58.000Z",
           "wordCount": null,
-          "title": "iCardio.ai",
+          "title": "Kodezi",
           "imageUrl": null
         },
         {
@@ -349,6 +329,16 @@
           "publishedOn": "2026-04-30T21:28:46.000Z",
           "wordCount": null,
           "title": "Collimate Space",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/pardon-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pardon-ai",
+          "publishedOn": "2026-04-30T21:28:44.000Z",
+          "wordCount": null,
+          "title": "Pardon AI",
           "imageUrl": null
         },
         {
@@ -372,6 +362,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/crypto-corporate-cards-by-onesafe",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/crypto-corporate-cards-by-onesafe",
+          "publishedOn": "2026-04-30T21:28:24.000Z",
+          "wordCount": null,
+          "title": "OneSafe",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/lety-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -389,16 +389,6 @@
           "publishedOn": "2026-04-30T21:28:14.000Z",
           "wordCount": null,
           "title": "Hubble Technologies Inc.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/little-place-labs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/little-place-labs",
-          "publishedOn": "2026-04-30T21:28:12.000Z",
-          "wordCount": null,
-          "title": "Little Place Labs",
           "imageUrl": null
         },
         {
@@ -422,6 +412,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/mox-data",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/mox-data",
+          "publishedOn": "2026-04-30T21:27:56.000Z",
+          "wordCount": null,
+          "title": "Self AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/awear",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -429,6 +429,16 @@
           "publishedOn": "2026-04-30T21:27:51.000Z",
           "wordCount": null,
           "title": "AWEAR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nucleo-research-inc",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nucleo-research-inc",
+          "publishedOn": "2026-04-30T21:27:48.000Z",
+          "wordCount": null,
+          "title": "Nucleo",
           "imageUrl": null
         },
         {
@@ -452,13 +462,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/vyrill",
+          "id": "https://www.producthunt.com/products/waydev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/vyrill",
-          "publishedOn": "2026-04-30T21:27:36.000Z",
+          "link": "https://www.producthunt.com/products/waydev",
+          "publishedOn": "2026-04-30T21:27:38.000Z",
           "wordCount": null,
-          "title": "Vyrill Agentic Video Commerce Platform",
+          "title": "Waydev Agent",
           "imageUrl": null
         },
         {
@@ -479,16 +489,6 @@
           "publishedOn": "2026-04-27T17:13:36.000Z",
           "wordCount": null,
           "title": "Flowstep 1.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/quanto",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/quanto",
-          "publishedOn": "2026-04-23T20:15:05.000Z",
-          "wordCount": null,
-          "title": "Quanto",
           "imageUrl": null
         }
       ]
