@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/nocal",
@@ -72,6 +72,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/kuku",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/kuku",
+          "publishedOn": "2026-05-08T06:52:29.000Z",
+          "wordCount": null,
+          "title": "Kuku: open source",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/stetos-co",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -102,6 +112,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/minions",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/minions",
+          "publishedOn": "2026-05-08T02:58:13.000Z",
+          "wordCount": null,
+          "title": "Minions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/sutra-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -109,16 +129,6 @@
           "publishedOn": "2026-05-08T02:25:22.000Z",
           "wordCount": null,
           "title": "Sutra",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/radiq",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/radiq",
-          "publishedOn": "2026-05-08T00:14:54.000Z",
-          "wordCount": null,
-          "title": "Radiq",
           "imageUrl": null
         },
         {
@@ -162,13 +172,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cardamom-2",
+          "id": "https://www.producthunt.com/products/operations",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cardamom-2",
-          "publishedOn": "2026-05-07T21:28:11.000Z",
+          "link": "https://www.producthunt.com/products/operations",
+          "publishedOn": "2026-05-07T19:53:10.000Z",
           "wordCount": null,
-          "title": "Cardamom",
+          "title": "Operations",
           "imageUrl": null
         },
         {
@@ -232,16 +242,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch",
-          "publishedOn": "2026-05-07T14:48:58.000Z",
-          "wordCount": null,
-          "title": "GlowIsland",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/agentchat",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -252,23 +252,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/smart-faqs",
+          "id": "https://www.producthunt.com/products/compress-anything-upload-nothing",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/smart-faqs",
-          "publishedOn": "2026-05-07T11:38:10.000Z",
+          "link": "https://www.producthunt.com/products/compress-anything-upload-nothing",
+          "publishedOn": "2026-05-07T13:47:43.000Z",
           "wordCount": null,
-          "title": "Smart FAQs",
+          "title": "MediaOptim",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/kushoai",
+          "id": "https://www.producthunt.com/products/noteweave",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/kushoai",
-          "publishedOn": "2026-05-07T11:03:39.000Z",
+          "link": "https://www.producthunt.com/products/noteweave",
+          "publishedOn": "2026-05-07T12:58:41.000Z",
           "wordCount": null,
-          "title": "APIEval-20",
+          "title": "Noteweave",
           "imageUrl": null
         },
         {
@@ -302,16 +302,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/rnda",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/rnda",
-          "publishedOn": "2026-05-07T00:26:01.000Z",
-          "wordCount": null,
-          "title": "RNDA",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/vibe-engineer-by-iorchestra",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -339,6 +329,16 @@
           "publishedOn": "2026-05-06T15:06:59.000Z",
           "wordCount": null,
           "title": "Photobomb",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fluent-frame",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fluent-frame",
+          "publishedOn": "2026-05-06T14:22:45.000Z",
+          "wordCount": null,
+          "title": "Fluent Frame",
           "imageUrl": null
         },
         {
@@ -392,6 +392,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/finlingo",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/finlingo",
+          "publishedOn": "2026-05-05T22:46:48.000Z",
+          "wordCount": null,
+          "title": "Finlingo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/transition",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -409,26 +419,6 @@
           "publishedOn": "2026-05-05T17:07:40.000Z",
           "wordCount": null,
           "title": "MolmoAct 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/flare-9",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/flare-9",
-          "publishedOn": "2026-05-05T14:38:00.000Z",
-          "wordCount": null,
-          "title": "Flare",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/kipps-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/kipps-ai",
-          "publishedOn": "2026-05-05T06:00:27.000Z",
-          "wordCount": null,
-          "title": "Kipps.AI Inbox",
           "imageUrl": null
         },
         {
@@ -502,13 +492,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/socrati-learn-with-ai",
+          "id": "https://www.producthunt.com/products/rankspot",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/socrati-learn-with-ai",
-          "publishedOn": "2026-04-14T13:48:14.000Z",
+          "link": "https://www.producthunt.com/products/rankspot",
+          "publishedOn": "2026-04-20T18:52:54.000Z",
           "wordCount": null,
-          "title": "Socrati",
+          "title": "RankSpot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/githired-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/githired-2",
+          "publishedOn": "2026-04-19T19:16:05.000Z",
+          "wordCount": null,
+          "title": "GitHired",
           "imageUrl": null
         }
       ]
