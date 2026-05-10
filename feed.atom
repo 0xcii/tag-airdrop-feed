@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-10T11:46:29.719Z</id>
+    <id>urn:2026-05-10T13:08:25.303Z</id>
     <title>web3::cave</title>
-    <updated>2026-05-10T11:46:29.719Z</updated>
+    <updated>2026-05-10T13:08:25.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -102,6 +102,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kuku: open source]]></title>
+        <id>https://www.producthunt.com/products/kuku</id>
+        <link href="https://www.producthunt.com/products/kuku"/>
+        <updated>2026-05-08T06:52:29.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bitfield]]></title>
         <id>https://www.producthunt.com/products/bitfield</id>
         <link href="https://www.producthunt.com/products/bitfield"/>
@@ -130,18 +142,6 @@
         <id>https://www.producthunt.com/products/markup-chrome-extension-launch</id>
         <link href="https://www.producthunt.com/products/markup-chrome-extension-launch"/>
         <updated>2026-05-08T03:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minions]]></title>
-        <id>https://www.producthunt.com/products/minions</id>
-        <link href="https://www.producthunt.com/products/minions"/>
-        <updated>2026-05-08T02:58:13.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -198,34 +198,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Operations]]></title>
-        <id>https://www.producthunt.com/products/operations</id>
-        <link href="https://www.producthunt.com/products/operations"/>
-        <updated>2026-05-07T19:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Contral]]></title>
-        <id>https://www.producthunt.com/products/contral</id>
-        <link href="https://www.producthunt.com/products/contral"/>
-        <updated>2026-05-07T19:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fabraix]]></title>
-        <id>https://www.producthunt.com/products/nyx-4</id>
-        <link href="https://www.producthunt.com/products/nyx-4"/>
-        <updated>2026-05-07T18:21:51.000Z</updated>
+        <title type="html"><![CDATA[Donely Knowledge Layer]]></title>
+        <id>https://www.producthunt.com/products/donely</id>
+        <link href="https://www.producthunt.com/products/donely"/>
+        <updated>2026-05-07T21:17:08.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -282,10 +258,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GlowIsland]]></title>
+        <id>https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch</id>
+        <link href="https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch"/>
+        <updated>2026-05-07T14:48:58.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AgentChat]]></title>
         <id>https://www.producthunt.com/products/agentchat</id>
         <link href="https://www.producthunt.com/products/agentchat"/>
         <updated>2026-05-07T14:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MediaOptim]]></title>
+        <id>https://www.producthunt.com/products/compress-anything-upload-nothing</id>
+        <link href="https://www.producthunt.com/products/compress-anything-upload-nothing"/>
+        <updated>2026-05-07T13:47:43.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -334,18 +334,6 @@
         <id>https://www.producthunt.com/products/rnda</id>
         <link href="https://www.producthunt.com/products/rnda"/>
         <updated>2026-05-07T00:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOrchestra AI Hardware Engineers]]></title>
-        <id>https://www.producthunt.com/products/vibe-engineer-by-iorchestra</id>
-        <link href="https://www.producthunt.com/products/vibe-engineer-by-iorchestra"/>
-        <updated>2026-05-06T17:08:38.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -462,6 +450,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flare]]></title>
+        <id>https://www.producthunt.com/products/flare-9</id>
+        <link href="https://www.producthunt.com/products/flare-9"/>
+        <updated>2026-05-05T14:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[deepsec]]></title>
         <id>https://www.producthunt.com/products/vercel</id>
         <link href="https://www.producthunt.com/products/vercel"/>
@@ -534,18 +534,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ElevenCreative Flows]]></title>
-        <id>https://www.producthunt.com/products/elevencreative-flows</id>
-        <link href="https://www.producthunt.com/products/elevencreative-flows"/>
-        <updated>2026-05-01T10:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Keel]]></title>
         <id>https://www.producthunt.com/products/keel-3</id>
         <link href="https://www.producthunt.com/products/keel-3"/>
@@ -586,6 +574,18 @@
         <id>https://www.producthunt.com/products/rankspot</id>
         <link href="https://www.producthunt.com/products/rankspot"/>
         <updated>2026-04-20T18:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHired]]></title>
+        <id>https://www.producthunt.com/products/githired-2</id>
+        <link href="https://www.producthunt.com/products/githired-2"/>
+        <updated>2026-04-19T19:16:05.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
