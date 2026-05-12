@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/minicpm-4-0",
@@ -189,16 +189,6 @@
           "publishedOn": "2026-05-11T05:25:42.000Z",
           "wordCount": null,
           "title": "Hopper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/grok",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/grok",
-          "publishedOn": "2026-05-11T03:41:57.000Z",
-          "wordCount": null,
-          "title": "Grok Connectors",
           "imageUrl": null
         },
         {
@@ -412,6 +402,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/articuler-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/articuler-ai",
+          "publishedOn": "2026-05-04T17:32:03.000Z",
+          "wordCount": null,
+          "title": "articuler.ai",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/open-vibe",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -459,6 +459,16 @@
           "publishedOn": "2026-04-28T08:44:27.000Z",
           "wordCount": null,
           "title": "TrackTalent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/weavable",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/weavable",
+          "publishedOn": "2026-04-23T22:29:49.000Z",
+          "wordCount": null,
+          "title": "Weavable",
           "imageUrl": null
         },
         {
