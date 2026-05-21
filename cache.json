@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/insta-360",
@@ -232,16 +232,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/omnia-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/omnia-2",
-          "publishedOn": "2026-05-18T15:15:28.000Z",
-          "wordCount": null,
-          "title": "Insights by Omnia",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/type-switch-3-0-for-macos",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -329,6 +319,16 @@
           "publishedOn": "2026-05-16T17:43:18.000Z",
           "wordCount": null,
           "title": "CtrlOps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/vocabi",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/vocabi",
+          "publishedOn": "2026-05-16T16:03:32.000Z",
+          "wordCount": null,
+          "title": "Vocabi",
           "imageUrl": null
         },
         {
