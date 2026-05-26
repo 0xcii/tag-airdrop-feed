@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/ferrari-luce-2",
@@ -202,6 +202,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/dockflow",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/dockflow",
+          "publishedOn": "2026-05-23T20:10:35.000Z",
+          "wordCount": null,
+          "title": "DockFlow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/dynamicnotch",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -329,16 +339,6 @@
           "publishedOn": "2026-05-20T17:07:27.000Z",
           "wordCount": null,
           "title": "blokdots 3.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/stitch-by-google",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stitch-by-google",
-          "publishedOn": "2026-05-20T05:55:36.000Z",
-          "wordCount": null,
-          "title": "Stitch 3.0 by Google",
           "imageUrl": null
         },
         {
