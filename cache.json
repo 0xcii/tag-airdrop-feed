@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/circadiaos",
@@ -282,6 +282,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/notecove",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/notecove",
+          "publishedOn": "2026-05-24T14:51:21.000Z",
+          "wordCount": null,
+          "title": "NoteCove",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/bluedot-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -339,16 +349,6 @@
           "publishedOn": "2026-05-22T21:59:32.000Z",
           "wordCount": null,
           "title": "Parsewise API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ai-shadowing",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ai-shadowing",
-          "publishedOn": "2026-05-22T15:07:49.000Z",
-          "wordCount": null,
-          "title": "AI Shadowing",
           "imageUrl": null
         },
         {
