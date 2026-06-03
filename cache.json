@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/composer-3",
@@ -303,6 +303,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/glowpulse",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/glowpulse",
+          "publishedOn": "2026-05-31T11:48:31.000Z",
+          "wordCount": null,
+          "title": "GlowPulse",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/insforge-alpha",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -353,6 +363,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gigacatalyst-ai-builder-for-b2b-saas",
+          "publishedOn": "2026-05-30T05:35:55.000Z",
+          "wordCount": null,
+          "title": "Gigacatalyst",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/gusto-cofounder",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -393,13 +413,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/fundraisly",
+          "id": "https://www.producthunt.com/products/knock-6",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/fundraisly",
-          "publishedOn": "2026-05-28T12:39:22.000Z",
+          "link": "https://www.producthunt.com/products/knock-6",
+          "publishedOn": "2026-05-28T17:01:09.000Z",
           "wordCount": null,
-          "title": "Fundraisly",
+          "title": "Knock agent for Slack",
           "imageUrl": null
         },
         {
@@ -440,16 +460,6 @@
           "publishedOn": "2026-05-23T00:38:37.000Z",
           "wordCount": null,
           "title": "Vokal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/sortail",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/sortail",
-          "publishedOn": "2026-05-22T22:52:56.000Z",
-          "wordCount": null,
-          "title": "Sortail",
           "imageUrl": null
         },
         {
