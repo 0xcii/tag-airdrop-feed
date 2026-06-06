@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/localclicky",
@@ -323,13 +323,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/composer-3",
+          "id": "https://www.producthunt.com/products/dropstone-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/composer-3",
-          "publishedOn": "2026-06-03T06:41:12.000Z",
+          "link": "https://www.producthunt.com/products/dropstone-2",
+          "publishedOn": "2026-06-03T03:59:22.000Z",
           "wordCount": null,
-          "title": "Composer",
+          "title": "Dropstone 1.5",
           "imageUrl": null
         },
         {
@@ -350,6 +350,16 @@
           "publishedOn": "2026-06-02T03:16:42.000Z",
           "wordCount": null,
           "title": "Novus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/superlog",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/superlog",
+          "publishedOn": "2026-06-01T23:39:18.000Z",
+          "wordCount": null,
+          "title": "superlog",
           "imageUrl": null
         },
         {
@@ -423,26 +433,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/wallie-v2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wallie-v2",
-          "publishedOn": "2026-05-29T12:16:07.000Z",
-          "wordCount": null,
-          "title": "Wallie V2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/walkable-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/walkable-2",
-          "publishedOn": "2026-05-28T22:35:07.000Z",
-          "wordCount": null,
-          "title": "Walkable",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/kai-for-chrome",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -480,6 +470,16 @@
           "publishedOn": "2026-05-21T08:17:52.000Z",
           "wordCount": null,
           "title": "Veltrix AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/elentaria",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/elentaria",
+          "publishedOn": "2026-05-18T10:10:10.000Z",
+          "wordCount": null,
+          "title": "Elentaria",
           "imageUrl": null
         },
         {
