@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/free-job-postings-api",
@@ -203,16 +203,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/dotbge",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/dotbge",
-          "publishedOn": "2026-06-04T06:40:04.000Z",
-          "wordCount": null,
-          "title": "DotBGE",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/floatpic",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -270,16 +260,6 @@
           "publishedOn": "2026-06-03T20:47:05.000Z",
           "wordCount": null,
           "title": "ChatPilot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/smart-runner",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/smart-runner",
-          "publishedOn": "2026-06-03T19:38:03.000Z",
-          "wordCount": null,
-          "title": "Smart Runner",
           "imageUrl": null
         },
         {
@@ -373,6 +353,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/keen-code-a-cli-coding-agent",
+          "publishedOn": "2026-06-03T14:44:19.000Z",
+          "wordCount": null,
+          "title": "Keen Code",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/plugtalk",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -433,23 +423,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/deliveryman-ai",
+          "id": "https://www.producthunt.com/products/empromptu",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/deliveryman-ai",
-          "publishedOn": "2026-06-01T13:24:10.000Z",
+          "link": "https://www.producthunt.com/products/empromptu",
+          "publishedOn": "2026-06-01T17:12:04.000Z",
           "wordCount": null,
-          "title": "Deliveryman.ai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/astra-security",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/astra-security",
-          "publishedOn": "2026-06-01T08:52:42.000Z",
-          "wordCount": null,
-          "title": "Astra Autonomous Pentest",
+          "title": "Empromptu AI",
           "imageUrl": null
         },
         {
@@ -460,6 +440,16 @@
           "publishedOn": "2026-05-29T02:22:42.000Z",
           "wordCount": null,
           "title": "Fox Issue Tracker 4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/kai-for-chrome",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/kai-for-chrome",
+          "publishedOn": "2026-05-26T18:16:18.000Z",
+          "wordCount": null,
+          "title": "Kai for Chrome",
           "imageUrl": null
         },
         {
