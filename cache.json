@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/figma",
@@ -313,16 +313,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/rosply",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/rosply",
-          "publishedOn": "2026-06-22T17:19:16.000Z",
-          "wordCount": null,
-          "title": "Rosply",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/deckwise",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -353,13 +343,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/wildbirds",
+          "id": "https://www.producthunt.com/products/latitude-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wildbirds",
-          "publishedOn": "2026-06-22T14:36:48.000Z",
+          "link": "https://www.producthunt.com/products/latitude-4",
+          "publishedOn": "2026-06-22T06:37:23.000Z",
           "wordCount": null,
-          "title": "wildbirds",
+          "title": "Latitude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/neuralagent",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/neuralagent",
+          "publishedOn": "2026-06-21T22:47:17.000Z",
+          "wordCount": null,
+          "title": "NeuralAgent 3.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/conduit-12",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/conduit-12",
+          "publishedOn": "2026-06-20T17:14:04.000Z",
+          "wordCount": null,
+          "title": "Conduit",
           "imageUrl": null
         },
         {
@@ -413,16 +423,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/buddy-ai-note",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/buddy-ai-note",
-          "publishedOn": "2026-06-18T15:02:50.000Z",
-          "wordCount": null,
-          "title": "Buddy AI Note",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/propane",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -463,16 +463,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/prepros-7",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/prepros-7",
-          "publishedOn": "2026-06-16T02:38:06.000Z",
-          "wordCount": null,
-          "title": "prepros",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/sendtidings",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -480,6 +470,16 @@
           "publishedOn": "2026-06-15T10:18:01.000Z",
           "wordCount": null,
           "title": "SendTidings",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
+          "publishedOn": "2026-06-13T15:03:34.000Z",
+          "wordCount": null,
+          "title": "jebi",
           "imageUrl": null
         },
         {
