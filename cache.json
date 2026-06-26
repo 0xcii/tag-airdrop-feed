@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/figma",
@@ -263,6 +263,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/sipcode",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/sipcode",
+          "publishedOn": "2026-06-23T00:11:52.000Z",
+          "wordCount": null,
+          "title": "Sipcode",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/stripe",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -303,6 +313,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/rosply",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/rosply",
+          "publishedOn": "2026-06-22T17:19:16.000Z",
+          "wordCount": null,
+          "title": "Rosply",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/deckwise",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/deckwise",
+          "publishedOn": "2026-06-22T16:13:04.000Z",
+          "wordCount": null,
+          "title": "Deckwise",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/crewdle",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -333,26 +363,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/bluerails-discovery",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/bluerails-discovery",
-          "publishedOn": "2026-06-22T14:12:05.000Z",
-          "wordCount": null,
-          "title": "Bluerails Discovery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/neuralagent",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/neuralagent",
-          "publishedOn": "2026-06-21T22:47:17.000Z",
-          "wordCount": null,
-          "title": "NeuralAgent 3.0",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/thumbmagic-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -380,6 +390,16 @@
           "publishedOn": "2026-06-19T18:14:21.000Z",
           "wordCount": null,
           "title": "Buy by Agentcard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/bestdefense-io",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bestdefense-io",
+          "publishedOn": "2026-06-19T17:15:23.000Z",
+          "wordCount": null,
+          "title": "BestDefense.io",
           "imageUrl": null
         },
         {
@@ -423,16 +443,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/jotform",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/jotform",
-          "publishedOn": "2026-06-16T13:27:06.000Z",
-          "wordCount": null,
-          "title": "Jotform AI App Builder",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/browseract",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -470,16 +480,6 @@
           "publishedOn": "2026-06-15T10:18:01.000Z",
           "wordCount": null,
           "title": "SendTidings",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/jebi-the-terminal-that-thinks-with-you",
-          "publishedOn": "2026-06-13T15:03:34.000Z",
-          "wordCount": null,
-          "title": "jebi",
           "imageUrl": null
         },
         {
