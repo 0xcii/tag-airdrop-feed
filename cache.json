@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/dotient",
@@ -173,16 +173,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/quickmaker",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/quickmaker",
-          "publishedOn": "2026-06-24T21:20:55.000Z",
-          "wordCount": null,
-          "title": "QuickMaker",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/blop-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -233,6 +223,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/signspell",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/signspell",
+          "publishedOn": "2026-06-24T13:43:37.000Z",
+          "wordCount": null,
+          "title": "Signspell",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/meetpoint-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -273,16 +273,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/saycraft",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/saycraft",
-          "publishedOn": "2026-06-24T07:58:20.000Z",
-          "wordCount": null,
-          "title": "SayCraft",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/nada-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -290,6 +280,16 @@
           "publishedOn": "2026-06-24T07:54:20.000Z",
           "wordCount": null,
           "title": "Nada",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/polygraph",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/polygraph",
+          "publishedOn": "2026-06-24T07:52:07.000Z",
+          "wordCount": null,
+          "title": "Polygraph",
           "imageUrl": null
         },
         {
@@ -320,6 +320,16 @@
           "publishedOn": "2026-06-23T12:07:40.000Z",
           "wordCount": null,
           "title": "note.md",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/postproxy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/postproxy",
+          "publishedOn": "2026-06-23T08:32:19.000Z",
+          "wordCount": null,
+          "title": "Postproxy - Engagement API",
           "imageUrl": null
         },
         {
@@ -470,16 +480,6 @@
           "publishedOn": "2026-06-11T14:37:08.000Z",
           "wordCount": null,
           "title": "Oxlo.ai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/vtt-for-mac",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/vtt-for-mac",
-          "publishedOn": "2026-06-11T03:45:53.000Z",
-          "wordCount": null,
-          "title": "VTT for Mac",
           "imageUrl": null
         }
       ]
