@@ -9,8 +9,28 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/products/termi-protocol",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/termi-protocol",
+          "publishedOn": "2026-07-03T21:14:15.000Z",
+          "wordCount": null,
+          "title": "Termi Protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/checklistfox",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/checklistfox",
+          "publishedOn": "2026-07-03T20:40:09.000Z",
+          "wordCount": null,
+          "title": "ChecklistFox",
+          "imageUrl": null
+        },
         {
           "id": "https://www.producthunt.com/products/vox-5",
           "author": null,
@@ -19,16 +39,6 @@
           "publishedOn": "2026-07-03T00:08:51.000Z",
           "wordCount": null,
           "title": "Vox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/osloq",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/osloq",
-          "publishedOn": "2026-07-02T22:37:18.000Z",
-          "wordCount": null,
-          "title": "Osloq",
           "imageUrl": null
         },
         {
@@ -182,16 +192,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/saldor",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/saldor",
-          "publishedOn": "2026-07-01T05:35:38.000Z",
-          "wordCount": null,
-          "title": "Saldor",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/context-dev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -209,16 +209,6 @@
           "publishedOn": "2026-06-30T20:58:22.000Z",
           "wordCount": null,
           "title": "Solaris",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/gemini-omni-flash",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gemini-omni-flash",
-          "publishedOn": "2026-06-30T20:22:29.000Z",
-          "wordCount": null,
-          "title": "Gemini Omni Flash",
           "imageUrl": null
         },
         {
@@ -312,16 +302,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/mito-health",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mito-health",
-          "publishedOn": "2026-06-30T06:01:25.000Z",
-          "wordCount": null,
-          "title": "Get Transparent Pricing on Labs",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/livinity",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -362,6 +342,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/metal-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/metal-2",
+          "publishedOn": "2026-06-27T09:34:43.000Z",
+          "wordCount": null,
+          "title": "Metal",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/macro-workspace",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -369,16 +359,6 @@
           "publishedOn": "2026-06-26T19:41:09.000Z",
           "wordCount": null,
           "title": "Macro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/airtop",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/airtop",
-          "publishedOn": "2026-06-26T19:21:13.000Z",
-          "wordCount": null,
-          "title": "Mark by Airtop",
           "imageUrl": null
         },
         {
@@ -432,6 +412,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/vida-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/vida-5",
+          "publishedOn": "2026-06-17T20:02:52.000Z",
+          "wordCount": null,
+          "title": "Vida",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/dump-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -469,16 +459,6 @@
           "publishedOn": "2026-06-11T19:17:52.000Z",
           "wordCount": null,
           "title": "Folderly Lens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/oasis-ring",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/oasis-ring",
-          "publishedOn": "2026-06-11T04:21:03.000Z",
-          "wordCount": null,
-          "title": "OASIS 1 Ring",
           "imageUrl": null
         },
         {
