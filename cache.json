@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/vox-5",
@@ -242,6 +242,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/clusy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/clusy",
+          "publishedOn": "2026-06-30T17:37:01.000Z",
+          "wordCount": null,
+          "title": "Clusy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ciaro-pro",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ciaro-pro",
+          "publishedOn": "2026-06-30T14:36:16.000Z",
+          "wordCount": null,
+          "title": "Ciaro Pro",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/aruki-japanese-walking",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -322,16 +342,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/stigg",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stigg",
-          "publishedOn": "2026-06-29T19:47:16.000Z",
-          "wordCount": null,
-          "title": "Stigg 2.0",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/lighttwist",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -349,16 +359,6 @@
           "publishedOn": "2026-06-28T14:09:49.000Z",
           "wordCount": null,
           "title": "Sequence Agentic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/metal-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/metal-2",
-          "publishedOn": "2026-06-27T09:34:43.000Z",
-          "wordCount": null,
-          "title": "Metal",
           "imageUrl": null
         },
         {
