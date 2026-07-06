@@ -9,8 +9,58 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/products/meta",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/meta",
+          "publishedOn": "2026-07-06T03:52:49.000Z",
+          "wordCount": null,
+          "title": "Astryx",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/stanley-studio",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/stanley-studio",
+          "publishedOn": "2026-07-06T03:37:29.000Z",
+          "wordCount": null,
+          "title": "Stanley Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+          "publishedOn": "2026-07-05T13:39:06.000Z",
+          "wordCount": null,
+          "title": "CodeMote",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/nixmac",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/nixmac",
+          "publishedOn": "2026-07-05T13:33:34.000Z",
+          "wordCount": null,
+          "title": "Nixmac",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/mozaik-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/mozaik-4",
+          "publishedOn": "2026-07-05T12:31:38.000Z",
+          "wordCount": null,
+          "title": "Mozaik",
+          "imageUrl": null
+        },
         {
           "id": "https://www.producthunt.com/products/circlechat",
           "author": null,
@@ -19,6 +69,16 @@
           "publishedOn": "2026-07-04T16:05:42.000Z",
           "wordCount": null,
           "title": "CircleChat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/lumina-16",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lumina-16",
+          "publishedOn": "2026-07-04T09:22:08.000Z",
+          "wordCount": null,
+          "title": "Lumina",
           "imageUrl": null
         },
         {
@@ -62,6 +122,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/airkaren",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/airkaren",
+          "publishedOn": "2026-07-03T17:56:07.000Z",
+          "wordCount": null,
+          "title": "AirKaren",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/cadence-13",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/cadence-13",
+          "publishedOn": "2026-07-03T13:20:27.000Z",
+          "wordCount": null,
+          "title": "Cadence",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/edgee",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/edgee",
+          "publishedOn": "2026-07-03T04:38:17.000Z",
+          "wordCount": null,
+          "title": "Edgee Claude Code Compressor V2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/vox-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -69,6 +159,16 @@
           "publishedOn": "2026-07-03T00:08:51.000Z",
           "wordCount": null,
           "title": "Vox",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/typeahead",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/typeahead",
+          "publishedOn": "2026-07-02T21:39:18.000Z",
+          "wordCount": null,
+          "title": "Typeahead 2.0",
           "imageUrl": null
         },
         {
@@ -232,6 +332,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/anysearch",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/anysearch",
+          "publishedOn": "2026-07-01T08:58:38.000Z",
+          "wordCount": null,
+          "title": "AnySearch",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/context-dev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -252,16 +362,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/gemini-omni-flash",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gemini-omni-flash",
-          "publishedOn": "2026-06-30T20:22:29.000Z",
-          "wordCount": null,
-          "title": "Gemini Omni Flash",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/claude",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -272,36 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/claude-for-desktop",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/claude-for-desktop",
-          "publishedOn": "2026-06-30T18:19:10.000Z",
-          "wordCount": null,
-          "title": "Claude Science",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ciaro-pro",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ciaro-pro",
-          "publishedOn": "2026-06-30T14:36:16.000Z",
-          "wordCount": null,
-          "title": "Ciaro Pro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/aruki-japanese-walking",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/aruki-japanese-walking",
-          "publishedOn": "2026-06-30T14:20:58.000Z",
-          "wordCount": null,
-          "title": "Aruki",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/needle-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,46 +379,6 @@
           "publishedOn": "2026-06-30T13:17:55.000Z",
           "wordCount": null,
           "title": "Needle",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/wins-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wins-2",
-          "publishedOn": "2026-06-30T12:57:43.000Z",
-          "wordCount": null,
-          "title": "Wins 3.4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-          "publishedOn": "2026-06-30T07:58:01.000Z",
-          "wordCount": null,
-          "title": "Bamboo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/mito-health",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mito-health",
-          "publishedOn": "2026-06-30T06:01:25.000Z",
-          "wordCount": null,
-          "title": "Get Transparent Pricing on Labs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/livinity",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/livinity",
-          "publishedOn": "2026-06-30T04:36:55.000Z",
-          "wordCount": null,
-          "title": "Livinity",
           "imageUrl": null
         },
         {
@@ -372,23 +402,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/stigg",
+          "id": "https://www.producthunt.com/products/octolens-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stigg",
-          "publishedOn": "2026-06-29T19:47:16.000Z",
+          "link": "https://www.producthunt.com/products/octolens-ai",
+          "publishedOn": "2026-06-29T16:11:04.000Z",
           "wordCount": null,
-          "title": "Stigg 2.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/metal-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/metal-2",
-          "publishedOn": "2026-06-27T09:34:43.000Z",
-          "wordCount": null,
-          "title": "Metal",
+          "title": "Octolens",
           "imageUrl": null
         },
         {
@@ -402,13 +422,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/browser-notes",
+          "id": "https://www.producthunt.com/products/sunrise-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/browser-notes",
-          "publishedOn": "2026-06-25T09:22:31.000Z",
+          "link": "https://www.producthunt.com/products/sunrise-5",
+          "publishedOn": "2026-06-25T18:39:17.000Z",
           "wordCount": null,
-          "title": "Browser Notes",
+          "title": "Sunrise",
           "imageUrl": null
         },
         {
@@ -459,26 +479,6 @@
           "publishedOn": "2026-06-16T01:50:12.000Z",
           "wordCount": null,
           "title": "Fypro",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/folderly",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/folderly",
-          "publishedOn": "2026-06-11T19:17:52.000Z",
-          "wordCount": null,
-          "title": "Folderly Lens",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/humalike-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/humalike-2",
-          "publishedOn": "2026-06-10T10:50:16.000Z",
-          "wordCount": null,
-          "title": "Humalike",
           "imageUrl": null
         },
         {
