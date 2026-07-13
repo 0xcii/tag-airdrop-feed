@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-13T16:27:01.830Z</id>
+    <id>urn:2026-07-13T18:40:07.932Z</id>
     <title>web3::cave</title>
-    <updated>2026-07-13T16:27:01.830Z</updated>
+    <updated>2026-07-13T18:40:07.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -234,18 +234,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-Live]]></title>
-        <id>https://www.producthunt.com/products/openai</id>
-        <link href="https://www.producthunt.com/products/openai"/>
-        <updated>2026-07-09T03:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sim]]></title>
         <id>https://www.producthunt.com/products/sim-studio</id>
         <link href="https://www.producthunt.com/products/sim-studio"/>
@@ -298,6 +286,18 @@
         <id>https://www.producthunt.com/products/monogram-ai</id>
         <link href="https://www.producthunt.com/products/monogram-ai"/>
         <updated>2026-07-08T17:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just Ask by SEORCE]]></title>
+        <id>https://www.producthunt.com/products/seorce</id>
+        <link href="https://www.producthunt.com/products/seorce"/>
+        <updated>2026-07-08T09:13:36.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -550,6 +550,18 @@
         <id>https://www.producthunt.com/products/effects-sdk</id>
         <link href="https://www.producthunt.com/products/effects-sdk"/>
         <updated>2026-06-23T06:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timbal AI]]></title>
+        <id>https://www.producthunt.com/products/timbal-ai</id>
+        <link href="https://www.producthunt.com/products/timbal-ai"/>
+        <updated>2026-06-22T09:20:29.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
