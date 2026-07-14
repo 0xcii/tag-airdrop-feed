@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/portero",
@@ -272,6 +272,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/openai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/openai",
+          "publishedOn": "2026-07-09T17:08:01.000Z",
+          "wordCount": null,
+          "title": "GPT-5.6",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/marked-ql",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -279,16 +289,6 @@
           "publishedOn": "2026-07-09T12:39:18.000Z",
           "wordCount": null,
           "title": "Marked QL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-          "publishedOn": "2026-07-09T06:50:16.000Z",
-          "wordCount": null,
-          "title": "ChatCut",
           "imageUrl": null
         },
         {
