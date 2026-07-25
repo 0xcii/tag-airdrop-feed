@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
@@ -99,6 +99,16 @@
           "publishedOn": "2026-07-23T20:34:12.000Z",
           "wordCount": null,
           "title": "Velane",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fathom-6",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fathom-6",
+          "publishedOn": "2026-07-23T09:49:48.000Z",
+          "wordCount": null,
+          "title": "Fathom",
           "imageUrl": null
         },
         {
@@ -219,16 +229,6 @@
           "publishedOn": "2026-07-22T23:50:08.000Z",
           "wordCount": null,
           "title": "Freesolo Flash",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/wispro",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wispro",
-          "publishedOn": "2026-07-22T23:33:01.000Z",
-          "wordCount": null,
-          "title": "Wispro",
           "imageUrl": null
         },
         {
@@ -402,16 +402,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/moxie-docs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/moxie-docs",
-          "publishedOn": "2026-07-19T20:49:02.000Z",
-          "wordCount": null,
-          "title": "Moxie Docs: Knowledgebases",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/speech-to-markdown",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -509,6 +499,16 @@
           "publishedOn": "2026-07-10T11:11:18.000Z",
           "wordCount": null,
           "title": "MinkNote",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/notte",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/notte",
+          "publishedOn": "2026-07-06T15:38:29.000Z",
+          "wordCount": null,
+          "title": "Quaso",
           "imageUrl": null
         }
       ]
