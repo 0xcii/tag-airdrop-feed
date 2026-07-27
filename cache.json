@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/heyzoku",
@@ -272,6 +272,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/heard-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/heard-2",
+          "publishedOn": "2026-07-24T15:26:43.000Z",
+          "wordCount": null,
+          "title": "Heard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/socap",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -282,13 +292,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/ade-agentic-development-environment",
+          "id": "https://www.producthunt.com/products/speechius",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ade-agentic-development-environment",
-          "publishedOn": "2026-07-24T08:28:41.000Z",
+          "link": "https://www.producthunt.com/products/speechius",
+          "publishedOn": "2026-07-24T08:33:41.000Z",
           "wordCount": null,
-          "title": "ADE",
+          "title": "Speechius",
           "imageUrl": null
         },
         {
@@ -362,16 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/islet-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/islet-2",
-          "publishedOn": "2026-07-22T00:40:22.000Z",
-          "wordCount": null,
-          "title": "Islet",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/illume-labs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -399,16 +399,6 @@
           "publishedOn": "2026-07-20T09:10:29.000Z",
           "wordCount": null,
           "title": "yatta!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/shellmate-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/shellmate-2",
-          "publishedOn": "2026-07-20T07:15:54.000Z",
-          "wordCount": null,
-          "title": "ShellMate",
           "imageUrl": null
         },
         {
@@ -462,6 +452,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "publishedOn": "2026-07-17T02:02:11.000Z",
+          "wordCount": null,
+          "title": "Second Brain for Mac and Windows",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/databox",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -488,7 +488,7 @@
           "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
           "publishedOn": "2026-07-13T17:21:13.000Z",
           "wordCount": null,
-          "title": "Robynn AI - Self Improving Websites",
+          "title": "Robynn AI",
           "imageUrl": null
         },
         {
