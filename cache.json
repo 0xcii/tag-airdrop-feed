@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/heyzoku",
@@ -202,6 +202,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+          "publishedOn": "2026-07-25T02:41:56.000Z",
+          "wordCount": null,
+          "title": "Banquish — Make the web your workspace",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/seller-by-facebook",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -292,16 +302,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/ade-agentic-development-environment",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ade-agentic-development-environment",
-          "publishedOn": "2026-07-24T08:28:41.000Z",
-          "wordCount": null,
-          "title": "ADE",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/estera",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,6 +309,16 @@
           "publishedOn": "2026-07-24T07:56:30.000Z",
           "wordCount": null,
           "title": "Estera",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/velane",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/velane",
+          "publishedOn": "2026-07-23T20:34:12.000Z",
+          "wordCount": null,
+          "title": "Velane",
           "imageUrl": null
         },
         {
@@ -362,16 +372,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/islet-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/islet-2",
-          "publishedOn": "2026-07-22T00:40:22.000Z",
-          "wordCount": null,
-          "title": "Islet",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/illume-labs",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -402,16 +402,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/shellmate-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/shellmate-2",
-          "publishedOn": "2026-07-20T07:15:54.000Z",
-          "wordCount": null,
-          "title": "ShellMate",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/browser-fx-chrome-audio-effects-midi",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -432,13 +422,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/capsomnia",
+          "id": "https://www.producthunt.com/products/speech-to-markdown",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/capsomnia",
-          "publishedOn": "2026-07-19T04:29:11.000Z",
+          "link": "https://www.producthunt.com/products/speech-to-markdown",
+          "publishedOn": "2026-07-19T14:30:46.000Z",
           "wordCount": null,
-          "title": "Capsomnia",
+          "title": "Speech To Markdown",
           "imageUrl": null
         },
         {
@@ -459,6 +449,16 @@
           "publishedOn": "2026-07-17T06:01:35.000Z",
           "wordCount": null,
           "title": ">=PlayingFild",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "publishedOn": "2026-07-17T02:02:11.000Z",
+          "wordCount": null,
+          "title": "Second Brain for Mac and Windows",
           "imageUrl": null
         },
         {
