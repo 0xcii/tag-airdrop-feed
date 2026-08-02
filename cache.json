@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/termexo",
@@ -222,26 +222,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/sorinai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/sorinai",
-          "publishedOn": "2026-07-30T05:29:16.000Z",
-          "wordCount": null,
-          "title": "Sorinai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/virre",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/virre",
-          "publishedOn": "2026-07-30T02:58:26.000Z",
-          "wordCount": null,
-          "title": "Virre",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/syncstaq",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -299,6 +279,16 @@
           "publishedOn": "2026-07-29T19:22:45.000Z",
           "wordCount": null,
           "title": "docktor",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/cursor-crane",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/cursor-crane",
+          "publishedOn": "2026-07-29T19:12:18.000Z",
+          "wordCount": null,
+          "title": "Cursor Crane",
           "imageUrl": null
         },
         {
@@ -369,6 +359,16 @@
           "publishedOn": "2026-07-28T13:03:23.000Z",
           "wordCount": null,
           "title": "Claude Code usage tracking by LangWatch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ski",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ski",
+          "publishedOn": "2026-07-28T10:29:37.000Z",
+          "wordCount": null,
+          "title": "SKI",
           "imageUrl": null
         },
         {
@@ -462,13 +462,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
+          "id": "https://www.producthunt.com/products/craftstory",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
-          "publishedOn": "2026-07-12T06:18:17.000Z",
+          "link": "https://www.producthunt.com/products/craftstory",
+          "publishedOn": "2026-07-08T09:28:11.000Z",
           "wordCount": null,
-          "title": "tablo",
+          "title": "CraftStory",
           "imageUrl": null
         }
       ]
