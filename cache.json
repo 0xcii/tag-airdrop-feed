@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/termexo",
@@ -282,16 +282,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cursor-crane",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cursor-crane",
-          "publishedOn": "2026-07-29T19:12:18.000Z",
-          "wordCount": null,
-          "title": "Cursor Crane",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/tracellm",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -462,13 +452,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/craftstory",
+          "id": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/craftstory",
-          "publishedOn": "2026-07-08T09:28:11.000Z",
+          "link": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
+          "publishedOn": "2026-07-12T06:18:17.000Z",
           "wordCount": null,
-          "title": "CraftStory",
+          "title": "tablo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
+          "publishedOn": "2026-07-08T22:09:29.000Z",
+          "wordCount": null,
+          "title": "Expert Chase for iOS & Android",
           "imageUrl": null
         }
       ]
