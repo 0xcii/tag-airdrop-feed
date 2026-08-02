@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/termexo",
@@ -252,16 +252,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/premation",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/premation",
-          "publishedOn": "2026-07-30T02:08:08.000Z",
-          "wordCount": null,
-          "title": "Premation",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/yap-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -282,6 +272,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/docktor",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/docktor",
+          "publishedOn": "2026-07-29T19:22:45.000Z",
+          "wordCount": null,
+          "title": "docktor",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/cursor-crane",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -289,16 +289,6 @@
           "publishedOn": "2026-07-29T19:12:18.000Z",
           "wordCount": null,
           "title": "Cursor Crane",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/focus-room",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/focus-room",
-          "publishedOn": "2026-07-29T17:02:29.000Z",
-          "wordCount": null,
-          "title": "Focus Room",
           "imageUrl": null
         },
         {
@@ -319,6 +309,16 @@
           "publishedOn": "2026-07-29T13:52:23.000Z",
           "wordCount": null,
           "title": "PRNotch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/phantom-voice",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/phantom-voice",
+          "publishedOn": "2026-07-29T09:55:36.000Z",
+          "wordCount": null,
+          "title": "Phantom Voice",
           "imageUrl": null
         },
         {
@@ -352,13 +352,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/caimera-2",
+          "id": "https://www.producthunt.com/products/langwatch",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/caimera-2",
-          "publishedOn": "2026-07-28T07:17:55.000Z",
+          "link": "https://www.producthunt.com/products/langwatch",
+          "publishedOn": "2026-07-28T13:03:23.000Z",
           "wordCount": null,
-          "title": "Caimera",
+          "title": "Claude Code usage tracking by LangWatch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ski",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ski",
+          "publishedOn": "2026-07-28T10:29:37.000Z",
+          "wordCount": null,
+          "title": "SKI",
           "imageUrl": null
         },
         {
@@ -452,6 +462,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
+          "publishedOn": "2026-07-12T06:18:17.000Z",
+          "wordCount": null,
+          "title": "tablo",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -459,16 +479,6 @@
           "publishedOn": "2026-07-08T22:09:29.000Z",
           "wordCount": null,
           "title": "Expert Chase for iOS & Android",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/craftstory",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/craftstory",
-          "publishedOn": "2026-07-08T09:28:11.000Z",
-          "wordCount": null,
-          "title": "CraftStory",
           "imageUrl": null
         }
       ]
