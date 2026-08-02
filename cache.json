@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/termexo",
@@ -48,7 +48,7 @@
           "link": "https://www.producthunt.com/products/lumichats-offline",
           "publishedOn": "2026-08-01T14:10:42.000Z",
           "wordCount": null,
-          "title": "Lumichats(Free)",
+          "title": "Lumichats",
           "imageUrl": null
         },
         {
@@ -222,6 +222,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/sorinai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/sorinai",
+          "publishedOn": "2026-07-30T05:29:16.000Z",
+          "wordCount": null,
+          "title": "Sorinai",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/virre",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -252,6 +262,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/premation",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/premation",
+          "publishedOn": "2026-07-30T02:08:08.000Z",
+          "wordCount": null,
+          "title": "Premation",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/yap-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -279,16 +299,6 @@
           "publishedOn": "2026-07-29T19:22:45.000Z",
           "wordCount": null,
           "title": "docktor",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/cursor-crane",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cursor-crane",
-          "publishedOn": "2026-07-29T19:12:18.000Z",
-          "wordCount": null,
-          "title": "Cursor Crane",
           "imageUrl": null
         },
         {
@@ -359,16 +369,6 @@
           "publishedOn": "2026-07-28T13:03:23.000Z",
           "wordCount": null,
           "title": "Claude Code usage tracking by LangWatch",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ski",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ski",
-          "publishedOn": "2026-07-28T10:29:37.000Z",
-          "wordCount": null,
-          "title": "SKI",
           "imageUrl": null
         },
         {
@@ -469,16 +469,6 @@
           "publishedOn": "2026-07-12T06:18:17.000Z",
           "wordCount": null,
           "title": "tablo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/expert-chase-deleted-1107920",
-          "publishedOn": "2026-07-08T22:09:29.000Z",
-          "wordCount": null,
-          "title": "Expert Chase for iOS & Android",
           "imageUrl": null
         }
       ]
