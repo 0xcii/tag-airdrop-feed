@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/cloudflare",
@@ -302,6 +302,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/backengine-mcp",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/backengine-mcp",
+          "publishedOn": "2026-08-04T21:56:41.000Z",
+          "wordCount": null,
+          "title": "BackEngine MCP",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/x-money-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -322,13 +332,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/wisprflow",
+          "id": "https://www.producthunt.com/products/kiro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wisprflow",
-          "publishedOn": "2026-08-04T15:22:48.000Z",
+          "link": "https://www.producthunt.com/products/kiro",
+          "publishedOn": "2026-08-04T18:07:24.000Z",
           "wordCount": null,
-          "title": "Wispr Flow Notetaker",
+          "title": "Kiro Crew",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/cloudflare",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/cloudflare",
+          "publishedOn": "2026-08-04T15:40:39.000Z",
+          "wordCount": null,
+          "title": "Cloudflare Wallets",
           "imageUrl": null
         },
         {
@@ -369,26 +389,6 @@
           "publishedOn": "2026-08-02T10:43:52.000Z",
           "wordCount": null,
           "title": "ShootClip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/adant-ai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/adant-ai",
-          "publishedOn": "2026-08-01T05:39:48.000Z",
-          "wordCount": null,
-          "title": "AdAnt AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/aegisora",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/aegisora",
-          "publishedOn": "2026-08-01T04:06:08.000Z",
-          "wordCount": null,
-          "title": "Aegisora",
           "imageUrl": null
         },
         {
