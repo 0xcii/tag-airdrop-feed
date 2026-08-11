@@ -23,6 +23,46 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/products/gitar",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gitar",
+          "publishedOn": "2026-08-11T06:33:12.000Z",
+          "wordCount": null,
+          "title": "Gitar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/spotify",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/spotify",
+          "publishedOn": "2026-08-11T04:39:44.000Z",
+          "wordCount": null,
+          "title": "Xirp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/lexi-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lexi-5",
+          "publishedOn": "2026-08-10T18:11:41.000Z",
+          "wordCount": null,
+          "title": "Lexi",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/gotcha-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/gotcha-5",
+          "publishedOn": "2026-08-10T04:49:03.000Z",
+          "wordCount": null,
+          "title": "Gotcha",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/prime-intellect",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -143,6 +183,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/bb",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bb",
+          "publishedOn": "2026-08-07T22:53:06.000Z",
+          "wordCount": null,
+          "title": "bb",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/conduit-12",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -163,83 +213,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cloudflare",
+          "id": "https://www.producthunt.com/products/tines",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cloudflare",
-          "publishedOn": "2026-08-07T04:59:49.000Z",
+          "link": "https://www.producthunt.com/products/tines",
+          "publishedOn": "2026-08-07T16:30:03.000Z",
           "wordCount": null,
-          "title": "Kitesurf",
+          "title": "Tines 3B",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/agentone-desktop",
+          "id": "https://www.producthunt.com/products/continuum-2027",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/agentone-desktop",
-          "publishedOn": "2026-08-07T03:57:52.000Z",
+          "link": "https://www.producthunt.com/products/continuum-2027",
+          "publishedOn": "2026-08-06T12:38:18.000Z",
           "wordCount": null,
-          "title": "AgentOne Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/blueberry-6",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/blueberry-6",
-          "publishedOn": "2026-08-06T22:25:45.000Z",
-          "wordCount": null,
-          "title": "Blueberry",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/bap-studio",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/bap-studio",
-          "publishedOn": "2026-08-06T20:55:58.000Z",
-          "wordCount": null,
-          "title": "BAP Studio",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/datablur",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/datablur",
-          "publishedOn": "2026-08-06T13:27:35.000Z",
-          "wordCount": null,
-          "title": "DataBlur",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/prompt-bridge-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/prompt-bridge-2",
-          "publishedOn": "2026-08-06T11:38:18.000Z",
-          "wordCount": null,
-          "title": "Prompt Bridge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/soloop",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/soloop",
-          "publishedOn": "2026-08-06T10:36:29.000Z",
-          "wordCount": null,
-          "title": "Soloop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code",
-          "publishedOn": "2026-08-06T08:08:47.000Z",
-          "wordCount": null,
-          "title": "Crew",
+          "title": "Continuum",
           "imageUrl": null
         },
         {
@@ -250,6 +240,16 @@
           "publishedOn": "2026-08-06T07:21:22.000Z",
           "wordCount": null,
           "title": "Vidaya",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/bullet-6",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bullet-6",
+          "publishedOn": "2026-08-06T06:56:29.000Z",
+          "wordCount": null,
+          "title": "Bullet",
           "imageUrl": null
         },
         {
@@ -273,16 +273,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/whop-cli",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/whop-cli",
-          "publishedOn": "2026-08-06T01:40:05.000Z",
-          "wordCount": null,
-          "title": "Whop CLI",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/extract-by-firecrawl",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -290,26 +280,6 @@
           "publishedOn": "2026-08-05T22:49:34.000Z",
           "wordCount": null,
           "title": "The new Firecrawl MCP",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/andromeld",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/andromeld",
-          "publishedOn": "2026-08-05T13:06:47.000Z",
-          "wordCount": null,
-          "title": "AndroMeld",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/stepshot-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stepshot-2",
-          "publishedOn": "2026-08-05T08:17:49.000Z",
-          "wordCount": null,
-          "title": "StepShot",
           "imageUrl": null
         },
         {
@@ -323,16 +293,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/troopr",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/troopr",
-          "publishedOn": "2026-08-04T09:13:42.000Z",
-          "wordCount": null,
-          "title": "Troopr AI Scrum Master",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/radiushq",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -340,6 +300,16 @@
           "publishedOn": "2026-08-04T09:11:22.000Z",
           "wordCount": null,
           "title": "radiusHQ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
+          "publishedOn": "2026-08-04T03:20:26.000Z",
+          "wordCount": null,
+          "title": "Vizard Agent",
           "imageUrl": null
         },
         {
@@ -373,13 +343,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/shootclip",
+          "id": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/shootclip",
-          "publishedOn": "2026-08-02T10:43:52.000Z",
+          "link": "https://www.producthunt.com/products/octomind-plug-n-play-ai-agents",
+          "publishedOn": "2026-08-02T05:14:53.000Z",
           "wordCount": null,
-          "title": "ShootClip",
+          "title": "Octomind Cloud + Hub",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/agent-manager",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/agent-manager",
+          "publishedOn": "2026-08-01T14:19:18.000Z",
+          "wordCount": null,
+          "title": "agent-manager",
           "imageUrl": null
         },
         {
@@ -403,6 +383,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/cerenovus",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/cerenovus",
+          "publishedOn": "2026-07-30T15:31:48.000Z",
+          "wordCount": null,
+          "title": "Cerenovus",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/solouno",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -420,6 +410,16 @@
           "publishedOn": "2026-07-29T14:22:05.000Z",
           "wordCount": null,
           "title": "Portfolio Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/equitybee",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/equitybee",
+          "publishedOn": "2026-07-28T14:51:58.000Z",
+          "wordCount": null,
+          "title": "Equitybee Benchmark",
           "imageUrl": null
         },
         {
@@ -453,6 +453,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/kubit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/kubit",
+          "publishedOn": "2026-07-24T20:14:10.000Z",
+          "wordCount": null,
+          "title": "Product Analytics for Agents and Users",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/paritok",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -473,13 +483,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/coldtea",
+          "id": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/coldtea",
-          "publishedOn": "2026-07-17T08:59:06.000Z",
+          "link": "https://www.producthunt.com/products/amp-by-canyontechs-ai",
+          "publishedOn": "2026-07-17T16:04:44.000Z",
           "wordCount": null,
-          "title": "Coldtea.ai",
+          "title": "AMP by CanyonTechs AI",
           "imageUrl": null
         },
         {
