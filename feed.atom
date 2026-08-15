@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-15T06:29:24.630Z</id>
+    <id>urn:2026-08-15T07:25:24.920Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-15T06:29:24.630Z</updated>
+    <updated>2026-08-15T07:25:24.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GLM-5.3]]></title>
+        <id>https://www.producthunt.com/products/z-ai</id>
+        <link href="https://www.producthunt.com/products/z-ai"/>
+        <updated>2026-08-14T06:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Basedash Tasks]]></title>
         <id>https://www.producthunt.com/products/basedash</id>
@@ -34,6 +46,18 @@
         <id>https://www.producthunt.com/products/chordviz</id>
         <link href="https://www.producthunt.com/products/chordviz"/>
         <updated>2026-08-14T01:28:45.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chronock]]></title>
+        <id>https://www.producthunt.com/products/chronock</id>
+        <link href="https://www.producthunt.com/products/chronock"/>
+        <updated>2026-08-13T23:57:28.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -82,6 +106,18 @@
         <id>https://www.producthunt.com/products/freebuff-2</id>
         <link href="https://www.producthunt.com/products/freebuff-2"/>
         <updated>2026-08-13T17:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talvo]]></title>
+        <id>https://www.producthunt.com/products/talvo-2</id>
+        <link href="https://www.producthunt.com/products/talvo-2"/>
+        <updated>2026-08-13T15:04:29.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -150,34 +186,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Human Behavior]]></title>
-        <id>https://www.producthunt.com/products/human-behavior</id>
-        <link href="https://www.producthunt.com/products/human-behavior"/>
-        <updated>2026-08-13T06:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[isolate.video]]></title>
         <id>https://www.producthunt.com/products/isolate-video</id>
         <link href="https://www.producthunt.com/products/isolate-video"/>
         <updated>2026-08-13T06:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FluidDocs CLI]]></title>
-        <id>https://www.producthunt.com/products/fluiddocs-html-deck-builder</id>
-        <link href="https://www.producthunt.com/products/fluiddocs-html-deck-builder"/>
-        <updated>2026-08-13T05:48:59.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -234,34 +246,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kivicube]]></title>
-        <id>https://www.producthunt.com/products/kivicube</id>
-        <link href="https://www.producthunt.com/products/kivicube"/>
-        <updated>2026-08-12T23:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Phinq]]></title>
         <id>https://www.producthunt.com/products/phinq</id>
         <link href="https://www.producthunt.com/products/phinq"/>
         <updated>2026-08-12T23:43:54.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skilldocs]]></title>
-        <id>https://www.producthunt.com/products/skilldocs</id>
-        <link href="https://www.producthunt.com/products/skilldocs"/>
-        <updated>2026-08-12T21:07:34.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -306,10 +294,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AIO.GEO Protocol]]></title>
-        <id>https://www.producthunt.com/products/aio-geo-protocol</id>
-        <link href="https://www.producthunt.com/products/aio-geo-protocol"/>
-        <updated>2026-08-12T17:21:27.000Z</updated>
+        <title type="html"><![CDATA[nenspace]]></title>
+        <id>https://www.producthunt.com/products/nenspace</id>
+        <link href="https://www.producthunt.com/products/nenspace"/>
+        <updated>2026-08-12T15:22:53.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -330,30 +318,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dishylink]]></title>
-        <id>https://www.producthunt.com/products/dishylink</id>
-        <link href="https://www.producthunt.com/products/dishylink"/>
-        <updated>2026-08-12T10:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chiplab]]></title>
-        <id>https://www.producthunt.com/products/chiplab</id>
-        <link href="https://www.producthunt.com/products/chiplab"/>
-        <updated>2026-08-12T08:37:19.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kitbitz]]></title>
         <id>https://www.producthunt.com/products/kitbitz</id>
         <link href="https://www.producthunt.com/products/kitbitz"/>
@@ -366,10 +330,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cohesor]]></title>
-        <id>https://www.producthunt.com/products/cohesor</id>
-        <link href="https://www.producthunt.com/products/cohesor"/>
-        <updated>2026-08-12T01:47:03.000Z</updated>
+        <title type="html"><![CDATA[Caveman]]></title>
+        <id>https://www.producthunt.com/products/caveman</id>
+        <link href="https://www.producthunt.com/products/caveman"/>
+        <updated>2026-08-11T23:39:36.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -378,10 +342,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caveman]]></title>
-        <id>https://www.producthunt.com/products/caveman</id>
-        <link href="https://www.producthunt.com/products/caveman"/>
-        <updated>2026-08-11T23:39:36.000Z</updated>
+        <title type="html"><![CDATA[Inferock Bench]]></title>
+        <id>https://www.producthunt.com/products/inferock-bench</id>
+        <link href="https://www.producthunt.com/products/inferock-bench"/>
+        <updated>2026-08-11T21:37:44.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -418,30 +382,6 @@
         <id>https://www.producthunt.com/products/oasis-6</id>
         <link href="https://www.producthunt.com/products/oasis-6"/>
         <updated>2026-08-11T17:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nearfield]]></title>
-        <id>https://www.producthunt.com/products/nearfield</id>
-        <link href="https://www.producthunt.com/products/nearfield"/>
-        <updated>2026-08-11T14:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeBurn]]></title>
-        <id>https://www.producthunt.com/products/codeburn</id>
-        <link href="https://www.producthunt.com/products/codeburn"/>
-        <updated>2026-08-11T14:05:35.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -495,10 +435,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Attyn]]></title>
+        <id>https://www.producthunt.com/products/attyn</id>
+        <link href="https://www.producthunt.com/products/attyn"/>
+        <updated>2026-08-09T23:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clamshell]]></title>
+        <id>https://www.producthunt.com/products/clamshell</id>
+        <link href="https://www.producthunt.com/products/clamshell"/>
+        <updated>2026-08-09T14:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Patience]]></title>
         <id>https://www.producthunt.com/products/patience-2</id>
         <link href="https://www.producthunt.com/products/patience-2"/>
         <updated>2026-08-08T20:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zetik]]></title>
+        <id>https://www.producthunt.com/products/zetik</id>
+        <link href="https://www.producthunt.com/products/zetik"/>
+        <updated>2026-08-08T01:41:10.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -519,10 +495,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FileRouter]]></title>
+        <id>https://www.producthunt.com/products/filerouter</id>
+        <link href="https://www.producthunt.com/products/filerouter"/>
+        <updated>2026-08-07T06:40:11.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SalesCloser.ai]]></title>
+        <id>https://www.producthunt.com/products/salescloser-ai</id>
+        <link href="https://www.producthunt.com/products/salescloser-ai"/>
+        <updated>2026-08-06T17:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coarena by Coasty]]></title>
         <id>https://www.producthunt.com/products/coarena-by-coasty</id>
         <link href="https://www.producthunt.com/products/coarena-by-coasty"/>
         <updated>2026-08-05T19:20:58.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joy]]></title>
+        <id>https://www.producthunt.com/products/joy-celebrate-your-wins</id>
+        <link href="https://www.producthunt.com/products/joy-celebrate-your-wins"/>
+        <updated>2026-08-05T16:55:49.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -547,18 +559,6 @@
         <id>https://www.producthunt.com/products/nuphos</id>
         <link href="https://www.producthunt.com/products/nuphos"/>
         <updated>2026-08-04T09:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ito]]></title>
-        <id>https://www.producthunt.com/products/ito-ai-code-review-that-runs-code</id>
-        <link href="https://www.producthunt.com/products/ito-ai-code-review-that-runs-code"/>
-        <updated>2026-07-23T17:38:37.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
