@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/tinyfish-2",
@@ -183,6 +183,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/freebuff-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/freebuff-2",
+          "publishedOn": "2026-08-13T17:04:37.000Z",
+          "wordCount": null,
+          "title": "Freebuff",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/talvo-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -200,16 +210,6 @@
           "publishedOn": "2026-08-13T14:59:15.000Z",
           "wordCount": null,
           "title": "oxpecker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/ns1",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/ns1",
-          "publishedOn": "2026-08-13T14:43:54.000Z",
-          "wordCount": null,
-          "title": "NS1",
           "imageUrl": null
         },
         {
