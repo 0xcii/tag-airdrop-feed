@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T02:24:31.874Z</id>
+    <id>urn:2026-08-24T03:50:03.131Z</id>
     <title>web3::cave</title>
-    <updated>2026-08-24T02:24:31.874Z</updated>
+    <updated>2026-08-24T03:50:03.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -246,34 +246,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ProtoNote]]></title>
-        <id>https://www.producthunt.com/products/protonote</id>
-        <link href="https://www.producthunt.com/products/protonote"/>
-        <updated>2026-08-20T06:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The New Calendly]]></title>
         <id>https://www.producthunt.com/products/calendly</id>
         <link href="https://www.producthunt.com/products/calendly"/>
         <updated>2026-08-20T05:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lifelong]]></title>
-        <id>https://www.producthunt.com/products/lifelong-the-family-health-company</id>
-        <link href="https://www.producthunt.com/products/lifelong-the-family-health-company"/>
-        <updated>2026-08-20T03:03:33.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -354,10 +330,34 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Glasp for Firefox]]></title>
+        <id>https://www.producthunt.com/products/glasp-for-firefox</id>
+        <link href="https://www.producthunt.com/products/glasp-for-firefox"/>
+        <updated>2026-08-19T14:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OneCLI]]></title>
         <id>https://www.producthunt.com/products/onecli</id>
         <link href="https://www.producthunt.com/products/onecli"/>
         <updated>2026-08-19T07:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Berd]]></title>
+        <id>https://www.producthunt.com/products/berd</id>
+        <link href="https://www.producthunt.com/products/berd"/>
+        <updated>2026-08-18T23:41:53.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
