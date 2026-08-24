@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/openlogi",
@@ -233,6 +233,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lifelong-the-family-health-company",
+          "publishedOn": "2026-08-20T03:03:33.000Z",
+          "wordCount": null,
+          "title": "Lifelong",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/yatko",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -290,16 +300,6 @@
           "publishedOn": "2026-08-19T21:07:11.000Z",
           "wordCount": null,
           "title": "Aloud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/glasp-for-firefox",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/glasp-for-firefox",
-          "publishedOn": "2026-08-19T14:08:25.000Z",
-          "wordCount": null,
-          "title": "Glasp for Firefox",
           "imageUrl": null
         },
         {
