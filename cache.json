@@ -20,7 +20,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/keymap",
@@ -423,6 +423,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/aximote",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/aximote",
+          "publishedOn": "2026-08-08T07:06:40.000Z",
+          "wordCount": null,
+          "title": "Aximote",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/akta-pro",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -450,16 +460,6 @@
           "publishedOn": "2026-07-29T09:47:46.000Z",
           "wordCount": null,
           "title": "Hacktron Automations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/local-music-organizer-for-mac",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/local-music-organizer-for-mac",
-          "publishedOn": "2026-07-29T07:22:30.000Z",
-          "wordCount": null,
-          "title": "Local Music Organizer for Mac",
           "imageUrl": null
         }
       ]
