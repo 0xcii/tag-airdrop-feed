@@ -20,8 +20,28 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
+        {
+          "id": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/tether-a-ball-for-boring-meetings",
+          "publishedOn": "2026-08-31T06:37:13.000Z",
+          "wordCount": null,
+          "title": "Tether",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/teenage-engineering",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/teenage-engineering",
+          "publishedOn": "2026-08-31T04:41:46.000Z",
+          "wordCount": null,
+          "title": "EP–2350 FX–MIC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
           "author": null,
@@ -40,6 +60,16 @@
           "publishedOn": "2026-08-29T20:17:05.000Z",
           "wordCount": null,
           "title": "oMLX",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/orato-speech-coach",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/orato-speech-coach",
+          "publishedOn": "2026-08-29T17:02:44.000Z",
+          "wordCount": null,
+          "title": "Orato",
           "imageUrl": null
         },
         {
@@ -63,6 +93,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/frameos-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/frameos-3",
+          "publishedOn": "2026-08-28T21:12:29.000Z",
+          "wordCount": null,
+          "title": "FrameOS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/god-s-eye-view",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -70,6 +110,16 @@
           "publishedOn": "2026-08-28T19:49:22.000Z",
           "wordCount": null,
           "title": "God’s Eye View",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/particle-5",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/particle-5",
+          "publishedOn": "2026-08-28T19:06:22.000Z",
+          "wordCount": null,
+          "title": "Radar by Particle",
           "imageUrl": null
         },
         {
@@ -90,6 +140,16 @@
           "publishedOn": "2026-08-28T16:57:52.000Z",
           "wordCount": null,
           "title": "Hy4 preview",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/brandmylaptop",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/brandmylaptop",
+          "publishedOn": "2026-08-28T16:24:44.000Z",
+          "wordCount": null,
+          "title": "BrandMyLaptop",
           "imageUrl": null
         },
         {
@@ -133,26 +193,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/opentag",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/opentag",
-          "publishedOn": "2026-08-27T21:52:16.000Z",
-          "wordCount": null,
-          "title": "OpenTag",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
-          "publishedOn": "2026-08-27T20:52:18.000Z",
-          "wordCount": null,
-          "title": "Gemini Omni 1.1 Flash",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/almanac-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -173,36 +213,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/fide-island",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/fide-island",
-          "publishedOn": "2026-08-27T13:53:00.000Z",
-          "wordCount": null,
-          "title": "Fide Island",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/hugging-face",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/hugging-face",
-          "publishedOn": "2026-08-27T13:40:20.000Z",
-          "wordCount": null,
-          "title": "Microduck",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/spline",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/spline",
-          "publishedOn": "2026-08-27T08:06:07.000Z",
-          "wordCount": null,
-          "title": "Spline V2",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/topview-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -213,33 +223,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
+          "id": "https://www.producthunt.com/products/ask-my-wardrobe",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/aureacam-learn-photo-composition",
-          "publishedOn": "2026-08-27T03:21:05.000Z",
+          "link": "https://www.producthunt.com/products/ask-my-wardrobe",
+          "publishedOn": "2026-08-26T16:37:00.000Z",
           "wordCount": null,
-          "title": "AureaCam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/screenpipe",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/screenpipe",
-          "publishedOn": "2026-08-27T03:15:53.000Z",
-          "wordCount": null,
-          "title": "screenpipe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/extract-by-firecrawl",
-          "publishedOn": "2026-08-26T17:33:36.000Z",
-          "wordCount": null,
-          "title": "Firecrawl Developer Index",
+          "title": "Ask My Wardrobe",
           "imageUrl": null
         },
         {
@@ -270,16 +260,6 @@
           "publishedOn": "2026-08-26T01:00:21.000Z",
           "wordCount": null,
           "title": "RawToHEIC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/google-labs",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/google-labs",
-          "publishedOn": "2026-08-25T18:45:36.000Z",
-          "wordCount": null,
-          "title": "Play with Putty",
           "imageUrl": null
         },
         {
@@ -320,6 +300,26 @@
           "publishedOn": "2026-08-25T09:34:23.000Z",
           "wordCount": null,
           "title": "seendiff",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/webterm",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/webterm",
+          "publishedOn": "2026-08-25T05:41:16.000Z",
+          "wordCount": null,
+          "title": "WebTerm Learn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/ctrl-micro",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/ctrl-micro",
+          "publishedOn": "2026-08-24T21:54:57.000Z",
+          "wordCount": null,
+          "title": "CTRL Micro",
           "imageUrl": null
         },
         {
@@ -393,16 +393,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/pageindexai",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/pageindexai",
-          "publishedOn": "2026-08-21T10:03:58.000Z",
-          "wordCount": null,
-          "title": "PageIndex",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -410,6 +400,16 @@
           "publishedOn": "2026-08-19T16:49:36.000Z",
           "wordCount": null,
           "title": "Sayscroll",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/brandjet-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/brandjet-ai",
+          "publishedOn": "2026-08-18T14:52:07.000Z",
+          "wordCount": null,
+          "title": "BrandJet",
           "imageUrl": null
         },
         {
@@ -423,13 +423,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/caddi-3",
+          "id": "https://www.producthunt.com/products/revolte",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/caddi-3",
-          "publishedOn": "2026-08-17T16:16:01.000Z",
+          "link": "https://www.producthunt.com/products/revolte",
+          "publishedOn": "2026-08-17T23:17:20.000Z",
           "wordCount": null,
-          "title": "Caddi",
+          "title": "Interactive Sessions",
           "imageUrl": null
         },
         {
@@ -453,6 +453,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/fotor",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fotor",
+          "publishedOn": "2026-08-17T12:24:54.000Z",
+          "wordCount": null,
+          "title": "Video Agent by Fotor",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/murfy",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -463,13 +473,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/glisio",
+          "id": "https://www.producthunt.com/products/stackscope-dev",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/glisio",
-          "publishedOn": "2026-08-09T17:17:49.000Z",
+          "link": "https://www.producthunt.com/products/stackscope-dev",
+          "publishedOn": "2026-08-08T20:28:31.000Z",
           "wordCount": null,
-          "title": "Glisio",
+          "title": "StackScope",
           "imageUrl": null
         },
         {
@@ -480,16 +490,6 @@
           "publishedOn": "2026-08-07T15:11:44.000Z",
           "wordCount": null,
           "title": "SuperIntern",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/aramb",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/aramb",
-          "publishedOn": "2026-08-04T10:19:31.000Z",
-          "wordCount": null,
-          "title": "Aramb",
           "imageUrl": null
         },
         {
