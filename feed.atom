@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T12:34:23.489Z</id>
+    <id>urn:2026-09-08T17:01:49.997Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-08T12:34:23.489Z</updated>
+    <updated>2026-09-08T17:01:49.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -210,6 +210,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ponytail]]></title>
+        <id>https://www.producthunt.com/products/ponytail</id>
+        <link href="https://www.producthunt.com/products/ponytail"/>
+        <updated>2026-09-04T14:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scriptly]]></title>
         <id>https://www.producthunt.com/products/sciptly</id>
         <link href="https://www.producthunt.com/products/sciptly"/>
@@ -382,18 +394,6 @@
         <id>https://www.producthunt.com/products/kombai</id>
         <link href="https://www.producthunt.com/products/kombai"/>
         <updated>2026-09-01T06:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CommuteBar]]></title>
-        <id>https://www.producthunt.com/products/commutebar</id>
-        <link href="https://www.producthunt.com/products/commutebar"/>
-        <updated>2026-09-01T03:02:18.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
