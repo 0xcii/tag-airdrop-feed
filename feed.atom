@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-08T17:01:49.997Z</id>
+    <id>urn:2026-09-08T20:37:17.314Z</id>
     <title>web3::cave</title>
-    <updated>2026-09-08T17:01:49.997Z</updated>
+    <updated>2026-09-08T20:37:17.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -402,6 +402,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CommuteBar]]></title>
+        <id>https://www.producthunt.com/products/commutebar</id>
+        <link href="https://www.producthunt.com/products/commutebar"/>
+        <updated>2026-09-01T03:02:18.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenMarket]]></title>
         <id>https://www.producthunt.com/products/openmarket</id>
         <link href="https://www.producthunt.com/products/openmarket"/>
@@ -474,18 +486,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostBox]]></title>
-        <id>https://www.producthunt.com/products/postbox</id>
-        <link href="https://www.producthunt.com/products/postbox"/>
-        <updated>2026-08-27T23:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Routines by Databox]]></title>
         <id>https://www.producthunt.com/products/databox</id>
         <link href="https://www.producthunt.com/products/databox"/>
@@ -531,15 +531,6 @@
             Link]]></summary>
         <author>
             <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perp DEX Airdrop Farming in 2026: Where I Think the Edge Still Is]]></title>
-        <id>https://medium.com/p/5fe318fcfd40</id>
-        <link href="https://medium.com/alpha/perp-dex-airdrop-farming-in-2026-where-i-think-the-edge-still-is-5fe318fcfd40?source=rss-722c3df56b66------2"/>
-        <updated>2026-08-10T08:36:56.000Z</updated>
-        <author>
-            <name>Aramz</name>
         </author>
     </entry>
 </feed>
