@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/portfolio-frame",
@@ -252,16 +252,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/resurf-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/resurf-2",
-          "publishedOn": "2026-09-11T21:36:08.000Z",
-          "wordCount": null,
-          "title": "Resurf",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/oats-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -332,16 +322,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/cognition-s-swe-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/cognition-s-swe-2",
-          "publishedOn": "2026-09-10T22:19:56.000Z",
-          "wordCount": null,
-          "title": "Cognition's SWE-2",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/kilocode",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -349,6 +329,16 @@
           "publishedOn": "2026-09-10T12:14:30.000Z",
           "wordCount": null,
           "title": "Kilo Code for iOS and Android",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/visiby",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/visiby",
+          "publishedOn": "2026-09-10T05:45:55.000Z",
+          "wordCount": null,
+          "title": "Visiby",
           "imageUrl": null
         },
         {
@@ -399,6 +389,16 @@
           "publishedOn": "2026-09-06T15:10:35.000Z",
           "wordCount": null,
           "title": "TryCase",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/clipwise-notion-web-clipper",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/clipwise-notion-web-clipper",
+          "publishedOn": "2026-09-06T10:13:16.000Z",
+          "wordCount": null,
+          "title": "Clipwise",
           "imageUrl": null
         },
         {
