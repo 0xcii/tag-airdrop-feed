@@ -12,6 +12,16 @@
       "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
+          "id": "https://www.producthunt.com/products/zeroclick",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/zeroclick",
+          "publishedOn": "2026-09-16T00:01:56.000Z",
+          "wordCount": null,
+          "title": "ZeroClick",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/flat-social",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -282,26 +292,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/appdesigns",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/appdesigns",
-          "publishedOn": "2026-09-14T00:19:15.000Z",
-          "wordCount": null,
-          "title": "appdesigns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/appzapper",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/appzapper",
-          "publishedOn": "2026-09-14T00:16:57.000Z",
-          "wordCount": null,
-          "title": "AppZapper 3000",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/narrative-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -309,6 +299,16 @@
           "publishedOn": "2026-09-13T23:37:48.000Z",
           "wordCount": null,
           "title": "Narrative",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/marqly",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/marqly",
+          "publishedOn": "2026-09-13T08:34:52.000Z",
+          "wordCount": null,
+          "title": "Marqly 6.0",
           "imageUrl": null
         },
         {
@@ -329,16 +329,6 @@
           "publishedOn": "2026-09-12T16:13:43.000Z",
           "wordCount": null,
           "title": "PortAura",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/deplo-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/deplo-2",
-          "publishedOn": "2026-09-11T22:44:38.000Z",
-          "wordCount": null,
-          "title": "Deplo",
           "imageUrl": null
         },
         {
@@ -432,6 +422,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/elva",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/elva",
+          "publishedOn": "2026-09-07T13:45:06.000Z",
+          "wordCount": null,
+          "title": "Elva",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/siift",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -472,13 +472,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/llmagnet",
+          "id": "https://www.producthunt.com/products/nimbleway",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/llmagnet",
-          "publishedOn": "2026-08-20T10:31:40.000Z",
+          "link": "https://www.producthunt.com/products/nimbleway",
+          "publishedOn": "2026-08-25T13:18:00.000Z",
           "wordCount": null,
-          "title": "LLMagnet",
+          "title": "Web Search Agents by Nimble",
           "imageUrl": null
         }
       ]
