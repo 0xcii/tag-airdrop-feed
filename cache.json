@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/google",
@@ -212,23 +212,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/basedash",
+          "id": "https://www.producthunt.com/products/steam-machine",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/basedash",
-          "publishedOn": "2026-09-18T16:18:15.000Z",
+          "link": "https://www.producthunt.com/products/steam-machine",
+          "publishedOn": "2026-09-18T13:28:57.000Z",
           "wordCount": null,
-          "title": "Basedash Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/punch-4",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/punch-4",
-          "publishedOn": "2026-09-18T13:56:07.000Z",
-          "wordCount": null,
-          "title": "Punch",
+          "title": "Steam Frame",
           "imageUrl": null
         },
         {
@@ -312,16 +302,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/utcp",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/utcp",
-          "publishedOn": "2026-09-16T14:18:43.000Z",
-          "wordCount": null,
-          "title": "Ruby UTCP",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/decode-by-entropik",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -362,6 +342,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/lull-3",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/lull-3",
+          "publishedOn": "2026-09-15T05:14:46.000Z",
+          "wordCount": null,
+          "title": "Lull",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/scrapboard-cloud-4",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -389,6 +379,16 @@
           "publishedOn": "2026-09-14T07:08:16.000Z",
           "wordCount": null,
           "title": "Lumiko",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/doneit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/doneit",
+          "publishedOn": "2026-09-14T05:59:28.000Z",
+          "wordCount": null,
+          "title": "Doneit 3.2",
           "imageUrl": null
         },
         {
