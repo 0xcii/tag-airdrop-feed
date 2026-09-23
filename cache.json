@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/xem",
@@ -192,16 +192,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/omnidicom",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/omnidicom",
-          "publishedOn": "2026-09-21T03:53:39.000Z",
-          "wordCount": null,
-          "title": "OmniDICOM",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/jev-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -212,23 +202,53 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/niubigeo",
+          "id": "https://www.producthunt.com/products/slop-grader",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/niubigeo",
-          "publishedOn": "2026-09-21T02:04:19.000Z",
+          "link": "https://www.producthunt.com/products/slop-grader",
+          "publishedOn": "2026-09-20T17:10:58.000Z",
           "wordCount": null,
-          "title": "NiubiGEO",
+          "title": "slop-grader",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/plume-11",
+          "id": "https://www.producthunt.com/products/secaiq-watch",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/plume-11",
-          "publishedOn": "2026-09-20T16:07:49.000Z",
+          "link": "https://www.producthunt.com/products/secaiq-watch",
+          "publishedOn": "2026-09-20T09:44:03.000Z",
           "wordCount": null,
-          "title": "Plume",
+          "title": "SecAIQ Watch",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/appgrowthkit",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/appgrowthkit",
+          "publishedOn": "2026-09-20T09:25:25.000Z",
+          "wordCount": null,
+          "title": "AppGrowthKit",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/flicka",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/flicka",
+          "publishedOn": "2026-09-20T08:57:52.000Z",
+          "wordCount": null,
+          "title": "Flicka",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/google-labs",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/google-labs",
+          "publishedOn": "2026-09-20T04:37:16.000Z",
+          "wordCount": null,
+          "title": "CC",
           "imageUrl": null
         },
         {
@@ -302,23 +322,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/gradio",
+          "id": "https://www.producthunt.com/products/lead-sparker",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/gradio",
-          "publishedOn": "2026-09-18T17:16:18.000Z",
+          "link": "https://www.producthunt.com/products/lead-sparker",
+          "publishedOn": "2026-09-18T05:26:36.000Z",
           "wordCount": null,
-          "title": "Gradio Workflow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/postsider",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/postsider",
-          "publishedOn": "2026-09-17T18:18:36.000Z",
-          "wordCount": null,
-          "title": "PostSider",
+          "title": "Lead Sparker",
           "imageUrl": null
         },
         {
@@ -329,16 +339,6 @@
           "publishedOn": "2026-09-17T17:01:37.000Z",
           "wordCount": null,
           "title": "Prowler Cloud",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/simha-digital",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/simha-digital",
-          "publishedOn": "2026-09-17T08:56:00.000Z",
-          "wordCount": null,
-          "title": "Simha Digital",
           "imageUrl": null
         },
         {
@@ -379,6 +379,26 @@
           "publishedOn": "2026-09-15T23:34:46.000Z",
           "wordCount": null,
           "title": "ReallyFree",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/osmotic-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/osmotic-2",
+          "publishedOn": "2026-09-15T23:08:23.000Z",
+          "wordCount": null,
+          "title": "Osmotic",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/arcjet",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/arcjet",
+          "publishedOn": "2026-09-15T09:31:32.000Z",
+          "wordCount": null,
+          "title": "Arcjet",
           "imageUrl": null
         },
         {
@@ -432,16 +452,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/tristan-benozer",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/tristan-benozer",
-          "publishedOn": "2026-09-09T20:08:21.000Z",
-          "wordCount": null,
-          "title": "Hyrax AI",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/clueprint",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -479,16 +489,6 @@
           "publishedOn": "2026-08-30T11:29:45.000Z",
           "wordCount": null,
           "title": "FeedsBar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/supacut",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/supacut",
-          "publishedOn": "2026-08-26T12:44:01.000Z",
-          "wordCount": null,
-          "title": "Supacut",
           "imageUrl": null
         }
       ]
