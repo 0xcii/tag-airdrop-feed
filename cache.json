@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/makermap",
@@ -62,6 +62,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/wand-6",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/wand-6",
+          "publishedOn": "2026-09-25T02:17:21.000Z",
+          "wordCount": null,
+          "title": "Wand",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/jango",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -72,43 +82,33 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/stimly",
+          "id": "https://www.producthunt.com/products/socialgpt",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/stimly",
-          "publishedOn": "2026-09-24T23:40:41.000Z",
+          "link": "https://www.producthunt.com/products/socialgpt",
+          "publishedOn": "2026-09-25T00:50:36.000Z",
           "wordCount": null,
-          "title": "Stimly",
+          "title": "SocialGPT",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/forkest",
+          "id": "https://www.producthunt.com/products/once-ui-for-figma",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/forkest",
-          "publishedOn": "2026-09-24T21:18:23.000Z",
+          "link": "https://www.producthunt.com/products/once-ui-for-figma",
+          "publishedOn": "2026-09-24T23:05:08.000Z",
           "wordCount": null,
-          "title": "Forkest",
+          "title": "Once UI 2.0",
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/decktly",
+          "id": "https://www.producthunt.com/products/basedash",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/decktly",
-          "publishedOn": "2026-09-24T18:54:08.000Z",
+          "link": "https://www.producthunt.com/products/basedash",
+          "publishedOn": "2026-09-24T22:20:29.000Z",
           "wordCount": null,
-          "title": "Decktly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/flybox-2",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/flybox-2",
-          "publishedOn": "2026-09-24T18:32:19.000Z",
-          "wordCount": null,
-          "title": "FLYBOX",
+          "title": "Basedash MCP write",
           "imageUrl": null
         },
         {
@@ -172,26 +172,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/markly-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/markly-3",
-          "publishedOn": "2026-09-24T10:20:29.000Z",
-          "wordCount": null,
-          "title": "Markly",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/layernote",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/layernote",
-          "publishedOn": "2026-09-24T10:00:44.000Z",
-          "wordCount": null,
-          "title": "layernote",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/github-statistics-velocity-radar",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -212,16 +192,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/jevforagents",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/jevforagents",
-          "publishedOn": "2026-09-24T08:16:05.000Z",
-          "wordCount": null,
-          "title": "JevForAgents",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/hireotto",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -232,13 +202,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/wapisender",
+          "id": "https://www.producthunt.com/products/meta-vr-glasses",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/wapisender",
-          "publishedOn": "2026-09-23T22:21:41.000Z",
+          "link": "https://www.producthunt.com/products/meta-vr-glasses",
+          "publishedOn": "2026-09-24T03:53:44.000Z",
           "wordCount": null,
-          "title": "WapiSender",
+          "title": "Meta VR Glasses",
           "imageUrl": null
         },
         {
@@ -259,6 +229,16 @@
           "publishedOn": "2026-09-23T14:53:06.000Z",
           "wordCount": null,
           "title": "Aks.ai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/pixverse-r2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/pixverse-r2",
+          "publishedOn": "2026-09-23T09:26:05.000Z",
+          "wordCount": null,
+          "title": "PixVerse R2",
           "imageUrl": null
         },
         {
@@ -322,6 +302,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/kairn-2",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/kairn-2",
+          "publishedOn": "2026-09-22T04:06:05.000Z",
+          "wordCount": null,
+          "title": "Kairn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/shroompen",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/shroompen",
+          "publishedOn": "2026-09-22T02:41:06.000Z",
+          "wordCount": null,
+          "title": "ShroomPen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/webdecoy",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/webdecoy",
+          "publishedOn": "2026-09-21T23:53:56.000Z",
+          "wordCount": null,
+          "title": "WebDecoy for Vercel",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/polyglot-5",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -342,6 +352,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/designeer",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/designeer",
+          "publishedOn": "2026-09-21T18:06:08.000Z",
+          "wordCount": null,
+          "title": "Designeer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/pair2fa",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -349,6 +369,16 @@
           "publishedOn": "2026-09-21T16:44:17.000Z",
           "wordCount": null,
           "title": "Pair2FA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/fit-receipt",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/fit-receipt",
+          "publishedOn": "2026-09-21T15:39:21.000Z",
+          "wordCount": null,
+          "title": "Fit Receipt",
           "imageUrl": null
         },
         {
@@ -362,23 +392,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/split-9",
+          "id": "https://www.producthunt.com/products/frctl",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/split-9",
-          "publishedOn": "2026-09-20T15:59:37.000Z",
+          "link": "https://www.producthunt.com/products/frctl",
+          "publishedOn": "2026-09-21T05:27:25.000Z",
           "wordCount": null,
-          "title": "Split",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/14-gentle-mornings-by-small-wins",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/14-gentle-mornings-by-small-wins",
-          "publishedOn": "2026-09-19T10:35:58.000Z",
-          "wordCount": null,
-          "title": "14 gentle mornings by Small WIns",
+          "title": "FRCTL",
           "imageUrl": null
         },
         {
@@ -402,6 +422,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/howseen-ai",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/howseen-ai",
+          "publishedOn": "2026-09-18T15:29:54.000Z",
+          "wordCount": null,
+          "title": "Howseen AI",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/sound",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -409,16 +439,6 @@
           "publishedOn": "2026-09-18T11:40:22.000Z",
           "wordCount": null,
           "title": "SOUND",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/world-signal",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/world-signal",
-          "publishedOn": "2026-09-18T09:35:44.000Z",
-          "wordCount": null,
-          "title": "World Signal",
           "imageUrl": null
         },
         {
@@ -432,13 +452,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/fivemetrics",
+          "id": "https://www.producthunt.com/products/promptic-3",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/fivemetrics",
-          "publishedOn": "2026-09-17T08:35:17.000Z",
+          "link": "https://www.producthunt.com/products/promptic-3",
+          "publishedOn": "2026-09-17T12:06:48.000Z",
           "wordCount": null,
-          "title": "Fivemetrics",
+          "title": "Promptic",
           "imageUrl": null
         },
         {
@@ -449,26 +469,6 @@
           "publishedOn": "2026-09-15T01:33:31.000Z",
           "wordCount": null,
           "title": "Evvery",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/dictoterix",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/dictoterix",
-          "publishedOn": "2026-09-10T20:08:47.000Z",
-          "wordCount": null,
-          "title": "Dictoterix",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/midipad",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/midipad",
-          "publishedOn": "2026-09-08T11:45:08.000Z",
-          "wordCount": null,
-          "title": "MIDIpad",
           "imageUrl": null
         },
         {
