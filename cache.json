@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "https://www.producthunt.com",
+      "siteUrl": "http://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/basedash",
@@ -182,16 +182,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/tetriz-engg-intelligence-connectors",
-          "publishedOn": "2026-10-22T06:09:23.000Z",
-          "wordCount": null,
-          "title": "Tetriz Engg Intelligence + Connectors",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/penta-cd-player-changer",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -212,6 +202,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/bits-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/bits-4",
+          "publishedOn": "2026-10-21T20:59:15.000Z",
+          "wordCount": null,
+          "title": "Bits",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/byter",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -229,6 +229,16 @@
           "publishedOn": "2026-10-21T16:40:31.000Z",
           "wordCount": null,
           "title": "Polylane for Cloudflare",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/elevenlabs-realtime-translation",
+          "publishedOn": "2026-10-21T14:36:07.000Z",
+          "wordCount": null,
+          "title": "ElevenLabs Realtime Translation",
           "imageUrl": null
         },
         {
@@ -279,16 +289,6 @@
           "publishedOn": "2026-10-20T16:09:31.000Z",
           "wordCount": null,
           "title": "Mistral Voxtral 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/deepcell",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/deepcell",
-          "publishedOn": "2026-10-20T14:39:01.000Z",
-          "wordCount": null,
-          "title": "DeepCell",
           "imageUrl": null
         },
         {
@@ -412,16 +412,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/fastlane-3",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/fastlane-3",
-          "publishedOn": "2026-10-15T04:55:03.000Z",
-          "wordCount": null,
-          "title": "Fastlane 2.0",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/linkintel",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -462,13 +452,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/playad",
+          "id": "https://www.producthunt.com/products/concierge-by-juniors-ai",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/playad",
-          "publishedOn": "2026-10-12T10:56:22.000Z",
+          "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+          "publishedOn": "2026-10-11T10:21:34.000Z",
           "wordCount": null,
-          "title": "Playad",
+          "title": "Concierge by Juniors AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/cutbay",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/cutbay",
+          "publishedOn": "2026-10-10T03:52:57.000Z",
+          "wordCount": null,
+          "title": "CutBay",
           "imageUrl": null
         },
         {
