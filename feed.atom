@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-25T10:35:37.864Z</id>
+    <id>urn:2026-10-25T14:44:30.394Z</id>
     <title>web3::cave</title>
-    <updated>2026-10-25T10:35:37.864Z</updated>
+    <updated>2026-10-25T14:44:30.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -246,18 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloblings]]></title>
-        <id>https://www.producthunt.com/products/bloblings</id>
-        <link href="https://www.producthunt.com/products/bloblings"/>
-        <updated>2026-10-22T09:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Truffle]]></title>
         <id>https://www.producthunt.com/products/truffle-music-tag-editor</id>
         <link href="https://www.producthunt.com/products/truffle-music-tag-editor"/>
@@ -286,6 +274,18 @@
         <id>https://www.producthunt.com/products/byter</id>
         <link href="https://www.producthunt.com/products/byter"/>
         <updated>2026-10-21T16:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Polylane for Cloudflare]]></title>
+        <id>https://www.producthunt.com/products/polylane</id>
+        <link href="https://www.producthunt.com/products/polylane"/>
+        <updated>2026-10-21T16:40:31.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
