@@ -9,7 +9,7 @@
     {
       "title": "Product Hunt — The best new products, every day",
       "feedUrl": "https://www.producthunt.com/feed",
-      "siteUrl": "http://www.producthunt.com",
+      "siteUrl": "https://www.producthunt.com",
       "articles": [
         {
           "id": "https://www.producthunt.com/products/letterpress-1",
@@ -72,6 +72,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.producthunt.com/products/refern",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/refern",
+          "publishedOn": "2026-11-05T22:29:18.000Z",
+          "wordCount": null,
+          "title": "refern.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.producthunt.com/products/audiocentral",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -112,13 +122,23 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/buildferry",
+          "id": "https://www.producthunt.com/products/shipnoted",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/buildferry",
-          "publishedOn": "2026-11-05T17:46:58.000Z",
+          "link": "https://www.producthunt.com/products/shipnoted",
+          "publishedOn": "2026-11-05T18:10:18.000Z",
           "wordCount": null,
-          "title": "BuildFerry",
+          "title": "Shipnoted",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.producthunt.com/products/kivo-4",
+          "author": null,
+          "description": "Discussion\n            |\n            Link",
+          "link": "https://www.producthunt.com/products/kivo-4",
+          "publishedOn": "2026-11-05T17:51:26.000Z",
+          "wordCount": null,
+          "title": "Kivo",
           "imageUrl": null
         },
         {
@@ -172,16 +192,6 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/earth-stats",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/earth-stats",
-          "publishedOn": "2026-11-05T13:18:56.000Z",
-          "wordCount": null,
-          "title": "Earth Stats",
-          "imageUrl": null
-        },
-        {
           "id": "https://www.producthunt.com/products/moatly-2",
           "author": null,
           "description": "Discussion\n            |\n            Link",
@@ -232,13 +242,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/mmory",
+          "id": "https://www.producthunt.com/products/pressure",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/mmory",
-          "publishedOn": "2026-11-05T03:06:22.000Z",
+          "link": "https://www.producthunt.com/products/pressure",
+          "publishedOn": "2026-11-05T01:29:32.000Z",
           "wordCount": null,
-          "title": "Mmory",
+          "title": "Pressure",
           "imageUrl": null
         },
         {
@@ -269,16 +279,6 @@
           "publishedOn": "2026-11-04T13:49:01.000Z",
           "wordCount": null,
           "title": "Datastripes Data Stories",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.producthunt.com/products/pauta",
-          "author": null,
-          "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/pauta",
-          "publishedOn": "2026-11-04T12:35:32.000Z",
-          "wordCount": null,
-          "title": "Pauta",
           "imageUrl": null
         },
         {
@@ -322,13 +322,13 @@
           "imageUrl": null
         },
         {
-          "id": "https://www.producthunt.com/products/vakilat",
+          "id": "https://www.producthunt.com/products/any-video-to-text",
           "author": null,
           "description": "Discussion\n            |\n            Link",
-          "link": "https://www.producthunt.com/products/vakilat",
-          "publishedOn": "2026-11-03T19:34:46.000Z",
+          "link": "https://www.producthunt.com/products/any-video-to-text",
+          "publishedOn": "2026-11-03T19:34:34.000Z",
           "wordCount": null,
-          "title": "Vakilat",
+          "title": "Any Video to Text",
           "imageUrl": null
         },
         {
