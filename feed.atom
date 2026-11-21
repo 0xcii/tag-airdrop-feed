@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-20T23:36:52.052Z</id>
+    <id>urn:2026-11-21T05:22:51.722Z</id>
     <title>web3::cave</title>
-    <updated>2026-11-20T23:36:52.052Z</updated>
+    <updated>2026-11-21T05:22:51.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -126,6 +126,18 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DMARC Pulse]]></title>
+        <id>https://www.producthunt.com/products/dmarc-pulse</id>
+        <link href="https://www.producthunt.com/products/dmarc-pulse"/>
+        <updated>2026-11-19T20:55:44.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nova by Vybe]]></title>
         <id>https://www.producthunt.com/products/vybe-4</id>
         <link href="https://www.producthunt.com/products/vybe-4"/>
@@ -142,18 +154,6 @@
         <id>https://www.producthunt.com/products/undoguard</id>
         <link href="https://www.producthunt.com/products/undoguard"/>
         <updated>2026-11-19T19:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Discussion
-            |
-            Link]]></summary>
-        <author>
-            <name>Product Hunt — The best new products, every day</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conversaflex]]></title>
-        <id>https://www.producthunt.com/products/conversaflex</id>
-        <link href="https://www.producthunt.com/products/conversaflex"/>
-        <updated>2026-11-19T18:59:59.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
@@ -450,10 +450,22 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Call]]></title>
-        <id>https://www.producthunt.com/products/ai-call</id>
-        <link href="https://www.producthunt.com/products/ai-call"/>
-        <updated>2026-11-15T13:11:38.000Z</updated>
+        <title type="html"><![CDATA[Tripmojo]]></title>
+        <id>https://www.producthunt.com/products/tripmojo</id>
+        <link href="https://www.producthunt.com/products/tripmojo"/>
+        <updated>2026-11-16T05:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Discussion
+            |
+            Link]]></summary>
+        <author>
+            <name>Product Hunt — The best new products, every day</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megumi Planner]]></title>
+        <id>https://www.producthunt.com/products/megumi-planner</id>
+        <link href="https://www.producthunt.com/products/megumi-planner"/>
+        <updated>2026-11-15T15:37:48.000Z</updated>
         <summary type="html"><![CDATA[Discussion
             |
             Link]]></summary>
